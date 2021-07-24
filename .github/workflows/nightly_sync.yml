@@ -29,5 +29,5 @@ jobs:
           git config user.name "GitHub Actions Bot"
           git config user.email "<>"
           git add .
-          git commit -m "Update all pool metadata"
+          git commit -m "Update all pool metadata" --allow-empty
           git push origin
