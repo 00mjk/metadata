@@ -31,3 +31,18 @@ jobs:
           git add .
           git commit -m "Update extended metadata" || true
           git push origin
+
+  notify_failure:
+    name: Notify Chat of Failure
+    needs: sync
+    if: failure()
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send notification to Chat
+        run: |
+          curl --header "Content-Type: application/json" \
+          --request POST \
+          --data "{\"text\": \"<users/all>: Build failure! $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID \"}" \
+          $CHAT_WEBHOOK_URL
+        env:
+          CHAT_WEBHOOK_URL: ${{ secrets.ALERT_CHAT_WEBHOOK_URL }}
