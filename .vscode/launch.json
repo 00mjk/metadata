@@ -1,0 +1,30 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "Download Metadata",
+			"cwd": "scripts",
+			"request": "launch",
+			"type": "dart",
+			"program": "scripts/bin/download_metadata.dart"
+		},
+		{
+			"name": "Download Extended Metadata Only",
+			"cwd": "scripts",
+			"request": "launch",
+			"type": "dart",
+			"program": "scripts/bin/download_metadata.dart",
+			"args": [
+				"--metadata-only"
+			],
+			"codeLens": {
+				"for": [
+					"run-file",
+					"debug-file"
+				],
+				"path": "scripts/bin/download_metadata.dart",
+				"title": "${debugType} (extended-only)"
+			}
+		}
+	]
+}

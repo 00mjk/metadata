@@ -1,9 +1,12 @@
+import 'dart:convert' hide jsonEncode;
 import 'dart:io';
 
 import 'package:metadata_scripts/blockfrost.dart' as bf;
 import 'package:metadata_scripts/utils.dart';
 
-Future<void> main() async {
+Future<void> main(List<String> args) async {
+  final extendedMetadataOnly = args.contains('--metadata-only');
+
   Directory('../data/metadata').createSync(recursive: true);
   Directory('../data/extended').createSync(recursive: true);
 
@@ -18,8 +21,14 @@ Future<void> main() async {
       final metadataFile = File('../data/metadata/$poolId.json');
       final extendedFile = File('../data/extended/$poolId.json');
 
-      final metadata = await _getMetadata(poolId);
-      metadataFile.writeAsStringSync(jsonEncode(metadata));
+      late Map<String, Object?> metadata;
+      if (extendedMetadataOnly) {
+        metadata =
+            jsonDecode(metadataFile.readAsStringSync()) as Map<String, Object?>;
+      } else {
+        metadata = await _getMetadata(poolId);
+        metadataFile.writeAsStringSync(jsonEncode(metadata));
+      }
 
       final extendedUrl = metadata['extended'] as String?;
       if (extendedUrl != null) {
