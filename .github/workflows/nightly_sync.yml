@@ -1,0 +1,34 @@
+name: Nightly Sync
+
+on:
+  push:
+  # schedule:
+  #    - cron: '0 5 * * *'
+
+jobs:
+
+  sync:
+    name: Sync Metadata
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - uses: DanTup/gh-actions/setup-dart@v1.1.0
+
+      - working-directory: scripts
+        run: pub get
+
+      - working-directory: scripts
+        run: dart bin/download_metadata.dart
+        env:
+          BLOCKFROST_API_KEY: ${{ secrets.BLOCKFROST_API_KEY }}
+
+      - working-directory: data
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "<>"
+          git add .
+          git commit -m "Update all pool metadata"
+          git push origin
