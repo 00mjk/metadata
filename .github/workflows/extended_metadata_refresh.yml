@@ -29,5 +29,5 @@ jobs:
           git config user.name "GitHub Actions Bot"
           git config user.email "<>"
           git add .
-          git commit -m "Update extended metadata" --allow-empty
+          git commit -m "Update extended metadata" || true
           git push origin
