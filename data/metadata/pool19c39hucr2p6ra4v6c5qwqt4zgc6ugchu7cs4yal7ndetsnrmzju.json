@@ -1,0 +1,6 @@
+{
+	"name": "Fail Pool",
+	"description": "The pool that won't back down from failure",
+	"ticker": "FAIL",
+	"homepage": "https://failfection.com"
+}

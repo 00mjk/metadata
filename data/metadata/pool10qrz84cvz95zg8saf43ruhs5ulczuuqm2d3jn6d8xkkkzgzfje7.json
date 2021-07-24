@@ -1,0 +1,7 @@
+{
+	"name": "Adappt Online",
+	"description": "Adappt Online pool supports Cardano and the concept of DApps. On-premise servers with 24/7 monitoring.",
+	"ticker": "ADAPT",
+	"homepage": "https://adappt.online",
+	"extended": "https://adappt.online/extended_poolmeta.json"
+}

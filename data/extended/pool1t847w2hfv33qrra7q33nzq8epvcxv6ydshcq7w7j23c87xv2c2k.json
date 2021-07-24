@@ -1,0 +1,31 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://cardapool.com/images/capo1s.png",
+		"url_png_logo": "https://cardapool.com/images/capo1sfull.png",
+		"location": "Barcelona, Spain",
+		"social": {
+			"twitter_handle": "cardapool",
+			"telegram_handle": "capopool",
+			"youtube_handle": "",
+			"discord_handle": "wQS5uFrbua",
+			"github_handle": "cardapool"
+		},
+		"company": {
+			"name": ""
+		},
+		"about": {
+			"me": "Single Pool Operator",
+			"server": "24/7/365 availability."
+		},
+		"rss": ""
+	},
+	"telegram-admin-handle": [
+		"Xusito"
+	],
+	"my-pool-ids": [
+		"59ebe72ae96462018fbe04633100f90b3066688d85f00f3bd254707f"
+	],
+	"when-satured-then-recommend": [
+		"Small pools please"
+	]
+}

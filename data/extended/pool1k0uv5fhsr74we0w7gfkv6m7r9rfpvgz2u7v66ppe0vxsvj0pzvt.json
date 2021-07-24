@@ -1,0 +1,62 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://git.io/Jn7I2",
+	"info": {
+		"url_png_icon_64x64": "https://git.io/Jn7mN",
+		"url_png_logo": "https://git.io/Jn7Yo",
+		"location": "Virginia, United States",
+		"social": {
+			"twitter_handle": "earthonomy",
+			"telegram_handle": "earthonomy",
+			"facebook_handle": "earthonomyapp",
+			"youtube_handle": "UCah-VRJtw2bJzZ9P9lIMQew",
+			"twitch_handle": "earthonomy",
+			"discord_handle": "earthonomy",
+			"github_handle": "earthonomy"
+		},
+		"company": {
+			"name": "Earthonomy",
+			"addr": "",
+			"city": "Sterling",
+			"state": "Virginia",
+			"country": "United States",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"sustainability": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "b3f8ca26f01faaecbdde426ccd6fc328d216204ae799ad04397b0d06",
+		"1": ""
+	},
+	"when-satured-then-recommend": {
+		"0": "",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "relay 1",
+				"type": "relay",
+				"key": "example_get_own_on_adapools.org/connect"
+			},
+			"1": {
+				"name": "relay 2",
+				"type": "relay",
+				"key": "example_get_own_on_adapools.org/connect"
+			},
+			"2": {
+				"name": "block producing node",
+				"type": "bp",
+				"key": "example_get_own_on_adapools.org/connect"
+			}
+		}
+	}
+}

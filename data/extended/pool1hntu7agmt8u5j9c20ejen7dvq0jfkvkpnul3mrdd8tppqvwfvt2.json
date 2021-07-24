@@ -1,0 +1,45 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://bloompool.io/bloom-logo-small.png",
+		"url_png_logo": "https://bloompool.io/bloom-logo.png",
+		"location": "Columbus, Ohio",
+		"social": {
+			"twitter_handle": "bigpeyYT",
+			"telegram_handle": "bigpey",
+			"facebook_handle": "BloomPool.io",
+			"youtube_handle": "bigpey",
+			"twitch_handle": "",
+			"discord_handle": "R8hy3YC",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Bloom",
+			"city": "Columbus",
+			"state": "Ohio",
+			"country": "United States"
+		},
+		"staking_tutorial": {
+			"yoroi": "https://youtu.be/-r1E07P9NR4",
+			"daedalus": "https://youtu.be/0qlVNKUc-74",
+			"ledger": "https://youtu.be/fsTzwhOiEIY",
+			"trezor": ""
+		},
+		"about": {
+			"me": "bigpey",
+			"server": "Bloom is a mix of bare-metal and cloud servers to provide low latency and that we mint every block.",
+			"mission": "To bring adoption and provide value through creating content and helping the community directly through our discord.",
+			"company": "Bloom Pool LLC"
+		}
+	},
+	"my-pool-ids": {
+		"0": "53215c471b7ac752e3ddf8f2c4c1e6ed111857bfaa675d5e31ce8bce",
+		"1": "bcd7cf751b59f949170a7e6599f9ac03e49b32c19f3f1d8dad3ac210"
+	},
+	"when-satured-then-recommend": {
+		"0": "bcd7cf751b59f949170a7e6599f9ac03e49b32c19f3f1d8dad3ac210",
+		"1": "e151c6e13d6e6ffe8ed7a99ab40d31164592f8fb1ceeb1b24db49d2f"
+	},
+	"telegram-admin-handle": {
+		"0": "bigpey"
+	}
+}

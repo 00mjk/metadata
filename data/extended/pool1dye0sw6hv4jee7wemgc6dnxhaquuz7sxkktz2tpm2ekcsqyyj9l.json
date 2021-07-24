@@ -1,0 +1,19 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://mtrxpools.com/dist/images/mtrxpools-logo-64x64.png",
+		"url_png_logo": "https://mtrxpools.com/dist/images/mtrxpools-logo-380-380.png",
+		"location": "Frankfurt, Germany",
+		"social": {
+			"twitter_handle": "mtrxpools_com",
+			"facebook_handle": "mtrxpools.community",
+			"instagram_handle": "mtrxpools.community",
+			"youtube_handle": "channel/UCWrei4zKtWQZ0jvzavWadQA",
+			"telegram_handle": "mtrxpools"
+		},
+		"about": {
+			"me": "Your future is at stake. We will do the staking.",
+			"server": "Instances in Frankfurt, Germany",
+			"company": "Matrix Pools is a learning and knowledge-sharing community built around crypto-currencies."
+		}
+	}
+}

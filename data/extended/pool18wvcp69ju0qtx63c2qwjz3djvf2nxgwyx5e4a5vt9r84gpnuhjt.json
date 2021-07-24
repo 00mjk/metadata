@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.orion-pool.com/orion_64x64.png",
+		"url_png_logo": "https://www.orion-pool.com/orion.png",
+		"location": "The Netherlands, Europe",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "@Tom_ORION",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": ""
+		},
+		"rss": "http(s) url to valid RSS feed"
+	},
+	"telegram-admin-handle": [
+		"@Tom_ORION"
+	],
+	"my-pool-ids": [
+		"3b9980e8b2e3c0b36a38501d2145b262553321c435335ed18b28cf54"
+	],
+	"when-satured-then-recommend": [
+		"3b9980e8b2e3c0b36a38501d2145b262553321c435335ed18b28cf54"
+	]
+}

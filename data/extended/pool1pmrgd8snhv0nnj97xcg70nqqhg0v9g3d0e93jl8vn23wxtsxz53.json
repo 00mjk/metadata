@@ -1,0 +1,43 @@
+{
+	"itn": {
+		"owner": "ed25519_pk10pjp43cfmujfxzvsrz33unk0ryrwec8vrlh4azh4t60wtrrpp8lqj8amjj",
+		"witness": "ed25519_sig1g2my5g2ulhgdd0cjxj4mszgtsmv50k0wfxzdxm0e32j38gtcenem2jz78va4r36kg4gpw0me065ews9f4tm55rwlgpf6z0eqrllgvzq4sd4g3"
+	},
+	"info": {
+		"url_png_icon_64x64": "https://www.stakecool.io/pools/stakecool-icon60.png",
+		"url_png_logo": "https://www.stakecool.io/pools/stakecool-logo.png",
+		"location": "",
+		"social": {
+			"twitter_handle": "cool_stake",
+			"telegram_handle": "stakecool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Federico & Kevin, a friendship born during ITN and developed in Mainnet",
+			"server": "3 bare metal HA servers, 8 relays located in EU-NA-APAC, 1Gbps",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "0ec6869e13bb1f39c8be3611e7cc00ba1ec2a22d7e4b197cec9aa2e3"
+	},
+	"when-satured-then-recommend": {
+		"0": "d918835729aaab9d4dca82c60079a6c643d65141f909730ecfeb3aef"
+	},
+	"telegram-admin-handle": {
+		"0": "feqifei"
+	}
+}

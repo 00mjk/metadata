@@ -1,0 +1,28 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/sportadapool/sportadapool.github.io/master/images/favicon.jpg",
+		"url_png_logo": "https://raw.githubusercontent.com/sportadapool/sportadapool.github.io/master/images/favicon.jpg",
+		"location": "Australia",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"about": {
+			"me": "Hi I am Antonio, an Electronics engineer and a Soccer coach from Australia. I manage the SPORT ADA pool. The pool is professionally run by my partner who is an IT Engineer. I got into Cardano in late 2017. It’s a privilege to witness how the project has progressed and achieve decentralisation.",
+			"server": ""
+		},
+		"rss": "http(s) url to valid RSS feed"
+	},
+	"my-pool-ids": {
+		"0": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	}
+}

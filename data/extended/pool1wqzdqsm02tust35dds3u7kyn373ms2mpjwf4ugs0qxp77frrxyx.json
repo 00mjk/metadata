@@ -1,0 +1,18 @@
+{
+	"info": {
+		"url_png_icon_64x64": "http://www.billionairepool.com/img/LogoIcon.png",
+		"url_png_logo": "http://www.billionairepool.com/img/LogoDark.png",
+		"location": "Lugano, Switzerland",
+		"social": {
+			"twitter_handle": "BillionairePool",
+			"discord_handle": "https://discord.gg/2pfReTe9VK"
+		},
+		"about": {
+			"me": "Billionaire Pool is aiming for the improvement and growth of the Cardano network for the rise of ADA coin.",
+			"server": "Reliable servers with 99.999% uptime, 1Gbps link, low latency, multi-layer security, geo-dispersed nodes and 24/7 support. Based on datacenters powered by 100% green energy."
+		}
+	},
+	"my-pool-ids": {
+		"0": "7004d0436f52f905c68d6c23cf58938fa3b82b6193935e220f0183ef"
+	}
+}

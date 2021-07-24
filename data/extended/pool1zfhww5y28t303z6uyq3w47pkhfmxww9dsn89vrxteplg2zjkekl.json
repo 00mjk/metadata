@@ -1,0 +1,41 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/moomanchoo/CARE/main/CARE-64x64-icon.png",
+		"url_png_logo": "",
+		"location": "",
+		"social": {
+			"twitter_handle": "CryptoJeromeFR",
+			"telegram_handle": "CryptoJerome",
+			"facebook_handle": "",
+			"youtube_handle": "Crypto Jerome",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "126ee7508a3ae2f88b5c2022eaf836ba766738ad84ce560ccbc87e85",
+		"1": ""
+	},
+	"when-satured-then-recommend": {
+		"0": "",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": "CryptoJerome"
+	}
+}

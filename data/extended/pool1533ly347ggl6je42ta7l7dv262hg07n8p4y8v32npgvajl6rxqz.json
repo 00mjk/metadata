@@ -1,0 +1,37 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://i.ibb.co/BCfCJDF/monty.png",
+		"url_png_logo": "https://i.ibb.co/BCfCJDF/monty.png",
+		"location”:”United States”,”social": {
+			"twitter_handle": "",
+			"telegram_handle”:”@JR7373”,”facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name”:”TheHolyGrail”,”addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "IT enthusiast in the pursuit of happiness and equality for all.",
+			"server”:”Hosted on 2 bare metal servers.4 cores-8 threads-16GB Ballistix memory-SSDs-fiber connectivity.”,”company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "a463f246be423fa966aa5f7dff358ad2ae87fa670d487645530a19d9"
+	},
+	"when-satured-then-recommend": {
+		"0": "71a659c3e71b0ddd0cf9a67bdb3f7fd656934c4a995801ee0ea4c482",
+		"1": "2b86af0e2d02fde9b5e06785870bb271d3f891ecd14d40a75180a7ce"
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	}
+}

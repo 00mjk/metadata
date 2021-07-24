@@ -1,0 +1,7 @@
+{
+	"name": "QUANT POOL",
+	"description": "Quant staking on the Cardano network",
+	"ticker": "QUANT",
+	"homepage": "https://quantpool.io",
+	"extended": "https://quantpool.io/quantpool.extended.json"
+}

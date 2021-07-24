@@ -1,0 +1,7 @@
+{
+	"name": "XOR NAND",
+	"description": "XOR NAND ADA Stake Pool",
+	"ticker": "XORN",
+	"homepage": "https://www.xor-nand.io/",
+	"extended": "https://api.xor-nand.io/xorn_extended.json"
+}

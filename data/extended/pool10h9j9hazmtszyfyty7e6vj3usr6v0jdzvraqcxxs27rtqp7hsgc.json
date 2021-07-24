@@ -1,0 +1,26 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://rushpools.com/starman-64.png",
+		"url_png_logo": "https://rushpools.com/2112back-300x225.png",
+		"location": "Toronto, Canada",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": ""
+		},
+		"company": {
+			"name": "Rush Staking",
+			"city": "Toronto",
+			"country": "Canada"
+		},
+		"about": {
+			"me": "This is the home for the RUSH Cardano stake pools. Join us in the cameraeye at https://rushpools.com/cameraeye where we talk about all things Rush and Cardano.",
+			"server": "We are long time Linux experts and run all the RUSH stake pools on the latest hardware. We do not run on any shared cloud resources. We use redundant SSD's on multi-core Xeon processors with daily backups. Our approach has always been to control all layers of our stack so we can have confidence it's done right and to our high expectations."
+		}
+	},
+	"my-pool-ids": {
+		"0": "7dcb22dfa2dae022248b27b3a64a3c80f4c7c9a260fa0c18d05786b0"
+	},
+	"when-satured-then-recommend": {
+		"0": "eaa778d97077ff7725fe4cbb70b514d840407a45a3c244ac05f6a83d"
+	}
+}

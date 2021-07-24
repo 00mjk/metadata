@@ -1,0 +1,14 @@
+{
+	"itn": {
+		"owner": "ed25519_pk1fyr3kw8t8gga6h2lf0ey7x6la0y2g8yghs3txfcl8q2an0tfwhcqe2724d",
+		"witness": "ed25519_sig18n5mkk8n4nvrqdxn0mvqwlfs25xjt7dsfd2l8aanmwycys2fuvvau7tn8v6hjp6wr5r4pln2h4qlkckwteg2g76qkc7laazalneaqrq2pgntz"
+	},
+	"info": {
+		"url_png_logo": "https://i.imgur.com/DNfUabM.png",
+		"url_png_icon_64x64": "https://i.imgur.com/DNfUabM.png",
+		"social": {
+			"twitter_handle": "ProfSmith9000",
+			"telegram_handle": "JesseSmith"
+		}
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"info": {
+		"location": "New Jersey, United States",
+		"social": {
+			"twitter_handle": "@railcloud"
+		},
+		"about": {
+			"me": "Single Stake Pool Operator",
+			"server": "Secured and Hosted on Bare Metal",
+			"company": "Railcloud Software LLC"
+		}
+	},
+	"my-pool-ids": {
+		"0": "aa76aebe72efe7f3a282bc7217fb9bd4c9cf9c1736ca1271ab66310a"
+	},
+	"telegram-admin-handle": {
+		"0": "@railcloud"
+	}
+}

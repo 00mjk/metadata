@@ -1,0 +1,43 @@
+{
+	"itn": {
+		"owner": "ed25519_pk1q3q0vgzwhwx8ypksthnl5fnggf3hsh8zezjcqsvzzxuurcrjtj8qcagkp3",
+		"witness": "ed25519_sig1j00kzspuk3a0fs7t53l3axl803ajzp084zw8ehafwd34jq0j6u5ywshngfcnlyfwlq8tmzsm4vxp50lwm8jl9j63x46knxg0enc0zqcd7dtqq"
+	},
+	"info": {
+		"url_png_icon_64x64": "https://7ru3.com/metadata/true.png",
+		"url_png_logo": "https://7ru3.com/metadata/true_logo.png",
+		"location": "Germany, Europe",
+		"social": {
+			"twitter_handle": "true_pool",
+			"telegram_handle": "true_staking",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "Munich",
+			"country": "Germany",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Decentralisation matters. You can do this too! - å°æ¹åæ¨©ãå¤§äºãããªãã«ãã§ãããã¨ãããã¾ããOur team consists of the official Cardano Ambassador and experienced IT Professionals. A part of our pool rewards are used to provide Tor relays. We currently run a Tor Relay server in Frankfurt (Germany) and another is currently being established in NÃ¼rnberg (Germany). Our long-term goal is to provide Tor Relays in Asia. Please support this project and delegate your ADA to the pool TRUE in the Cardano Shelley Mainnet!",
+			"server": "Dedicate Server(s) 32 CPU/64GB RAM/1TB SSD - Our servers are powered 100% by green electricity, from hydropower.",
+			"company": "Our server is located in a Tier 3 data center in Munich, Germany, and we have access to dedicated hardware, not just cloud resources. Direct connection to POPs INXS and DeCIX Muc1, and multiple redundant backbones. We rely exclusively on branded products from Intel, Dell EMC, Brocade, Citrix and many other well-known brands."
+		},
+		"rss": ""
+	},
+	"telegram-admin-handle": {
+		"0": "lodl_de"
+	},
+	"my-pool-ids": {
+		"0": "6d9ce533e4874ff84f89a0f1d2f8a26c0838898ba16fcf66aa790c9e"
+	},
+	"when-satured-then-recommend": {
+		"0": "6d9ce533e4874ff84f89a0f1d2f8a26c0838898ba16fcf66aa790c9e"
+	}
+}

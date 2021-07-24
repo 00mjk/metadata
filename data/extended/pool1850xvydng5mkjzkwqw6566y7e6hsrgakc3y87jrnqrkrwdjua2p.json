@@ -1,0 +1,32 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://github.com/bitapool/pool/blob/0530d292e7bcbc9b5c347039a14131f39f628b7e/neon_lime_icon_64.png?raw=true",
+		"url_png_logo": "https://github.com/bitapool/pool/blob/0530d292e7bcbc9b5c347039a14131f39f628b7e/neon_lime_logo.png?raw=true",
+		"location": "",
+		"social": {
+			"twitter_handle": "bitapool",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Bita",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Developer by day, stake pool operator 24/7 :D",
+			"server": "Cloud based on Azure, currently 16gb, 4 core block producer, and 3 relays of 8gb, 2 cores",
+			"company": "Bita"
+		}
+	},
+	"my-pool-ids": {
+		"0": "3d1e6611b34537690ace03b54d689eceaf01a3b6c4487f487300ec37"
+	}
+}

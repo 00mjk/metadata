@@ -1,0 +1,56 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/adacoinz/stakepool/main/images/coinz-logo-64x64.png",
+		"url_png_logo": "https://raw.githubusercontent.com/adacoinz/stakepool/main/images/coinz-logo-208x208.png",
+		"location": "N. Virginia, United States",
+		"social": {
+			"twitter_handle": "adacoinz",
+			"telegram_handle": "adacoinz",
+			"facebook_handle": "adacoinzstaking",
+			"youtube_handle": "uBz3ZPM5lgd41sDaUCLmkw",
+			"twitch_handle": "",
+			"discord_handle": "wVv746p8Vd",
+			"github_handle": "adacoinz"
+		},
+		"company": {
+			"name": "ADA COINZ",
+			"addr": "",
+			"city": "Los Angeles",
+			"country": "California",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "I am an IT professional with 20 years experience. Cardano is hope and a blessing.",
+			"server": "Stake pools are on AWS in multiple zones for high availability and resiliance.",
+			"company": "ADA stake pool, helping the decentralization of the blockchain and giving back to community by educating and helping stakes grow ₳₳₳."
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "91991d9238f3f270a46fc237acc3abcdf2456ff163c1639951d75d15"
+	},
+	"when-satured-then-recommend": {},
+	"telegram-admin-handle": {
+		"0": "adacoinz"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "relay 1",
+				"type": "relay",
+				"key": "relay01.adacoinz.com/connect"
+			},
+			"1": {
+				"name": "relay 2",
+				"type": "relay",
+				"key": "relay02.adacoinz.com/connect"
+			},
+			"2": {
+				"name": "block producer",
+				"type": "bp",
+				"key": "core01.adacoinz.com/connect"
+			}
+		}
+	}
+}

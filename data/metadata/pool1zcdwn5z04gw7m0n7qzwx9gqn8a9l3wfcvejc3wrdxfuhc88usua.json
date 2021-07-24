@@ -1,0 +1,7 @@
+{
+	"name": "Maasai.io Cardano Stake Pool",
+	"description": "maasai.io is an independent, sustainable and charitable African Cardano Stake Pool",
+	"ticker": "MASAI",
+	"homepage": "https://maasai.io",
+	"extended": "https://masai-pool.s3.af-south-1.amazonaws.com/extended-metadata.json"
+}

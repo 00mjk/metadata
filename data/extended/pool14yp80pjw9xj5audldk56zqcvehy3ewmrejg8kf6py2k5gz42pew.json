@@ -1,0 +1,46 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://amperepool.com/amplogo_small.png",
+		"url_png_logo": "https://amperepool.com/amplogo.png",
+		"location": "Luxembourg",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "ampereadapool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Ampere Pool  is a unique way for everyone to stake their ADA and be part of increasing the access to electricity in the world. Only part of the rewards of the pool operator/owner will be given to such charity missions. Some electricity projects on website.",
+			"server": "The servers are maintained by an Master of computer science operator with 100% performance and On-going support"
+		}
+	},
+	"my-pool-ids": {
+		"0": "a90277864e29a54ef1bf6da9a1030ccdc91cbb63cc907b274122ad44"
+	},
+	"when-satured-then-recommend": {
+		"0": ""
+	},
+	"telegram-admin-handle": {
+		"0": "ampereadapool"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "",
+				"type": "",
+				"key": ""
+			}
+		}
+	}
+}

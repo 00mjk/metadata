@@ -1,0 +1,15 @@
+{
+	"info": {
+		"location": "Virgina",
+		"social": {
+			"twitter_handle": "qubitpool"
+		},
+		"about": {
+			"me": "A Technology guy with a pasion for finance",
+			"server": "AWS Hosted: Producer Node - 4 vCPU, 16GB Memory; Relay 1 - 4 vCPU, 12GB Memory; Relay 2 - 4 vCPU, 12GB Memory"
+		}
+	},
+	"my-pool-ids": {
+		"0": "08dd84d27f00aa9ee6caf195d81256a3d217dd345857cd8be60f18b0"
+	}
+}

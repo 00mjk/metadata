@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://storage.googleapis.com/ghana-pool/ghana-64x64.png",
+		"url_png_logo": "https://storage.googleapis.com/ghana-pool/ghana.png",
+		"location": "Country, Continent",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": ""
+		},
+		"rss": "http(s) url to valid RSS feed"
+	},
+	"telegram-admin-handle": [
+		""
+	],
+	"my-pool-ids": [
+		"5cabdbc4c7ff95b2dd95c6e775f18cc7bba77300a10fec5c68f8fa5c"
+	],
+	"when-satured-then-recommend": [
+		"5cabdbc4c7ff95b2dd95c6e775f18cc7bba77300a10fec5c68f8fa5c"
+	]
+}

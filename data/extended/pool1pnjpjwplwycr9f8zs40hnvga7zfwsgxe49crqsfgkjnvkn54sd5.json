@@ -1,0 +1,19 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/dzanino/ADAm1/master/LOGO_ADAm_64.png",
+		"url_png_logo": "https://raw.githubusercontent.com/dzanino/ADAm1/master/ADAm_50.png",
+		"location": "Slovak republic, Germany, Asia",
+		"social": {
+			"twitter_handle": "ADAm1_pool",
+			"telegram_handle": "https://t.me/dzanino"
+		},
+		"about": {
+			"me": "...",
+			"server": "Professionally administered Servers WorldwiLd :) ",
+			"company": "Two Two Brothers on the 1st floor"
+		}
+	},
+	"telegram-admin-handle": {
+		"0": "@dzanino"
+	}
+}

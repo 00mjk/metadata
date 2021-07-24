@@ -1,0 +1,48 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://lugpool.files.wordpress.com/2020/11/64hat.png",
+		"url_png_logo": "https://lugpool.files.wordpress.com/2020/11/logoa.png",
+		"location": "La Habana, Cuba",
+		"social": {
+			"twitter_handle": "LugPool",
+			"telegram_handle": "lugpool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Pool Hispano comprometido con Cardano por un futuro mejor, por las finanzas descentralizadas",
+			"server": "Se usan servidores VPS",
+			"company": "LUG Pools - Un operador independiente"
+		},
+		"rss": "https://lugpool.wordpress.com/rss"
+	},
+	"my-pool-ids": [
+		"d32d813142d2f64987dc0bef23864d8f642beaea38698fd79cfd6f68"
+	],
+	"when-satured-then-recommend": [
+		"bb224ee756ce73c513d9e43323560e6ab644db83fb57eff613503953"
+	],
+	"telegram-admin-handle": [
+		"lugpoolhispano"
+	],
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "",
+				"type": "",
+				"key": ""
+			}
+		}
+	}
+}

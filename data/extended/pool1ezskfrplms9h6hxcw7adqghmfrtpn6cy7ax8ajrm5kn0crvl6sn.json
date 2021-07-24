@@ -1,0 +1,23 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://github.com/sirluke79/ipib/raw/main/IconITA.png",
+		"url_png_logo": "https://github.com/sirluke79/ipib/raw/main/LogoITA.png",
+		"location": "Italy",
+		"social": {
+			"twitter_handle": "@IpibP",
+			"telegram_handle": "IPIB_Pool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"contact": {
+			"support": "info@italianspib.it"
+		},
+		"about": {
+			"me": "",
+			"server": "VPS hosted in a TIER4 datacenter in Italy, 82Gbps bandwidth, powered by 100% green energy"
+		}
+	}
+}

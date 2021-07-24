@@ -1,0 +1,7 @@
+{
+	"name": "SpidarPool",
+	"description": "Delegating to this pool helps run Tor nodes",
+	"ticker": "SPIDR",
+	"homepage": "https://cardano.weebl.me",
+	"extended": "https://x230.weebl.me/public/extra.json"
+}

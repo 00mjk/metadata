@@ -1,0 +1,7 @@
+{
+	"name": "NFTY",
+	"description": "NFTY stake pool is a Cardano stake pool that produces original Cardano related artwork, merchandise and NFTs in addition to providing ADA rewards to delegators.",
+	"ticker": "NFTY",
+	"homepage": "https://www.nftynfty.com/",
+	"extended": "https://storage.googleapis.com/nfty-pool/nfty.extended.json"
+}

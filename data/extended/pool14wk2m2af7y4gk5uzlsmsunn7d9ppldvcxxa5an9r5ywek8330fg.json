@@ -1,0 +1,23 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://smaug.pool.pm/icon.png",
+		"url_png_logo": "https://smaug.pool.pm/smaug.png",
+		"location": "Paris, France",
+		"social": {
+			"twitter_handle": "SmaugPool",
+			"telegram_handle": "SmaugPool",
+			"github_handle": "SmaugPool",
+			"youtube_handle": "channel/UC9ZapTnuEs1lNFF4CiZGVfA"
+		},
+		"about": {
+			"me": "SMâ³UG operator spent most of the last two decades developing, integrating and operating embedded and high-availablity Linux systems in the industry.",
+			"server": "SMâ³UG is operated from France and hosted in Germany to improve blocks propagation delays. The pool uses a scalable cloud infrastructure in 2 geographically dispersed data centers with block producer fail-over."
+		}
+	},
+	"my-pool-ids": {
+		"0": "abacadaba9f12a8b5382fc370e4e7e69421fb59831bb4ecca3a11d9b"
+	},
+	"telegram-admin-handle": {
+		"0": "SmaugPool"
+	}
+}

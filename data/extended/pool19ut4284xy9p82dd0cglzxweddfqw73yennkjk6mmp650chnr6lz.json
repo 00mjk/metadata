@@ -1,0 +1,23 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://static.wixstatic.com/media/e1bc21_fc440488821e4b3a8ab7e7bd9da3a4ec~mv2.png",
+		"url_png_logo": "https://static.wixstatic.com/media/e1bc21_4b24689fbd604c5fa64f8135a36ecaa3~mv2.png",
+		"location": "Universe",
+		"social": {
+			"twitter_handle": "elementalpool",
+			"facebook_handle": "elemental.pool",
+			"youtube_handle": "channel/UCoQI55AN6qigNDPrVsyGlIw"
+		},
+		"about": {
+			"me": "Buscamos ser reconocidos como operadores de excelencia, asegurando disponibilidad, funcionamiento y un alto nivel de recompensa. En Elemental Pool creemos en Cardano, porque compartimos los mismos valores y porque queremos traer cambios positivos al mundo.",
+			"server": "Cloud servers across multiple locations 🌎 to ensure 100% realiability, prometheus and grafana monitor servers 24/7 🚨",
+			"company": "https://www.elemental-staking.com/"
+		}
+	},
+	"my-pool-ids": {
+		"0": "2f17551ea621427535afc23e233b2d6a40ef44999ced2b6b7b0ea8fc"
+	},
+	"when-satured-then-recommend": {
+		"0": "2f17551ea621427535afc23e233b2d6a40ef44999ced2b6b7b0ea8fc"
+	}
+}

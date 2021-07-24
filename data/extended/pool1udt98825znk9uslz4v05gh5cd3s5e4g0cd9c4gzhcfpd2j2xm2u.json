@@ -1,0 +1,45 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.cardano.com.gr/logo64x64.png",
+		"url_png_logo": "https://www.cardano.com.gr/logo/logo.png",
+		"location": "Greece, Thessaloniki",
+		"social": {
+			"twitter_handle": "ZorbaPool",
+			"telegram_handle": "thomaspb"
+		},
+		"about": {
+			"me": "I am programmer and system administrator for at least 25 years",
+			"server": "I use cloud server with 4 Cores and 16Gb RAM for the producer and 2 cores with 8Gb RAM for the Relays"
+		}
+	},
+	"my-pool-ids": {
+		"0": "e356539d5414ec5e43e2ab1f445e986c614cd50fc34b8aa057c242d5"
+	},
+	"telegram-admin-handle": {
+		"0": "thomaspb"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "Relay 1 - Greece",
+				"type": "relay",
+				"key": "05251c267af0e9b5b1f7056aed85df95"
+			},
+			"1": {
+				"name": "Relay 3 - Germany",
+				"type": "relay",
+				"key": "0017f0836258e52004bcba5381221a17"
+			},
+			"2": {
+				"name": "Relay 3 - Finland",
+				"type": "relay",
+				"key": "1a57553cfbd01963136e34b72d72d434"
+			},
+			"3": {
+				"name": "Producer - Greece",
+				"type": "bp",
+				"key": "f9d3e8ebb89fdbe93dd7981a995c9fa1"
+			}
+		}
+	}
+}

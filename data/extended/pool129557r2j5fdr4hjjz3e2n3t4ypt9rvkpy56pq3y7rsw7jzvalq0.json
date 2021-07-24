@@ -1,0 +1,35 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://ada4science.com/img/logo64.png",
+		"url_png_logo": "https://ada4science.com/img/logo.png",
+		"location": "Zurich, Switzerland",
+		"social": {
+			"twitter_handle": "Ada4Science",
+			"telegram_handle": "ada4science",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "...",
+			"server": "Producer and relay located in Switzerland",
+			"company": "..."
+		}
+	},
+	"my-pool-ids": {
+		"0": "51694f0d52a25a3ade521472a9c575205651b2c1253410449e1c1de9"
+	},
+	"when-satured-then-recommend": {
+		"0": "00333b89543da962cc92e7ffa45848f42a98f7276780670728ce5256"
+	}
+}

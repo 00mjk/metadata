@@ -1,0 +1,7 @@
+{
+	"name": "ATDT Pool",
+	"description": "24x7 uptime, low fees, cool sysop.",
+	"ticker": "ATDT",
+	"homepage": "http://pool.atdt.io",
+	"extended": "http://pool.atdt.io/ops/extendedMetaData.json"
+}

@@ -1,0 +1,47 @@
+{
+	"itn": {
+		"owner": "ed25519_pk1les2slj0w0pxxx4jy83jmshqz54rpqvruyguq0qmdl9mr55g073slt4vlc",
+		"witness": "ed25519_sig1fc3mevtyp9n8v5pqh8n5pvgeglx9nrdg8a5qsy6mu4caqvqd8erj7e6p6jx7vgfzw35klwj9uukm40tvc3nj6s7lqenvpqpwtk8hzrgv5x89p"
+	},
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/GoatStake/poolmetadata/master/logo.png",
+		"url_png_logo": "https://raw.githubusercontent.com/GoatStake/poolmetadata/master/logo2.png",
+		"social": {
+			"twitter_handle": "GoatStake",
+			"telegram_handle": "GoatStakeGroup",
+			"facebook_handle": "GoatStake",
+			"discord_handle": "24GzMYgwwU"
+		},
+		"about": {
+			"me": "Goat Stake is a highly performant, resilient and secure stake pool for the Cardano network that has been up and running since the Cardano testnet in 2019.",
+			"server": "6 Million+ Total Pledge | 99.95% Uptime | Dedicated Hardware | Automatic Backups | Multi-layer Security | DDoS Mitigation | 24/7 Monitoring | Server Redundancy"
+		}
+	},
+	"my-pool-ids": {
+		"0": "7f6c103302f96390d478a170fe80938b76fccd8a23490e3b6ddebcf7",
+		"1": "fc7c663438fd4b61c5d0c064128467a550fd4e721fe6d5f237f5b416",
+		"2": "39890eb30a6f442663c6e8097d2cbad0bfd72381b34444e1e48057ed",
+		"3": "db172ffa295369edb048b0a5b802f1d7ed5579b71e78334635b7c0e7",
+		"4": "9d15bc119ffeaee3eaa6581a00124e968b48f41c049fcac951f1debc",
+		"5": "1b39e57d6a93c4f04922f82f8c318ce159ebcb9abcdabb75091318c9"
+	},
+	"when-satured-then-recommend": {
+		"0": "7f6c103302f96390d478a170fe80938b76fccd8a23490e3b6ddebcf7",
+		"1": "fc7c663438fd4b61c5d0c064128467a550fd4e721fe6d5f237f5b416",
+		"2": "39890eb30a6f442663c6e8097d2cbad0bfd72381b34444e1e48057ed",
+		"3": "db172ffa295369edb048b0a5b802f1d7ed5579b71e78334635b7c0e7",
+		"4": "9d15bc119ffeaee3eaa6581a00124e968b48f41c049fcac951f1debc",
+		"5": "1b39e57d6a93c4f04922f82f8c318ce159ebcb9abcdabb75091318c9"
+	},
+	"telegram-admin-handle": {
+		"0": "Kyle_Goat"
+	},
+	"ownership": {
+		"0": "12fb990dd8a4f6423584b2c7dfd30f77",
+		"1": "38d18e7624588a1c80579d6dacc5b1ac",
+		"2": "707f78add043e68c444e075ed7d8eeb3",
+		"3": "eede98253709e41ac346413da296e556",
+		"4": "c41ef69afb388cb89d1e37a20442fdad",
+		"5": "aa03875176ac3b0f7689f07927d5f6ee"
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://fairpool.eu/icon-64x64.png",
+		"url_png_logo": "https://fairpool.eu/icon-512x512.png",
+		"location": "",
+		"social": {
+			"twitter_handle": "@fair_pool",
+			"telegram_handle": "fair_pool01",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": ""
+		},
+		"about": {
+			"me": "Welcome to FAIR Pool #01 Cardano Staking Pool. Staking since the first shelley epoch. This is a cardano staking pool based in europe with focus on strengthening and decentralizing the cardano network. We offer highly available, secure staking based on automated and scalable nodes driven by a modern server environment. We deeply believe in decentralization and giving back the power to each individual. The margin is set to 0.5% and we offer the lowest possible fixed fee of 340 ADA and this will never change for the lifetime of this pool."
+		}
+	},
+	"telegram-admin-handle": {
+		"0": "FAIR_Pool"
+	}
+}

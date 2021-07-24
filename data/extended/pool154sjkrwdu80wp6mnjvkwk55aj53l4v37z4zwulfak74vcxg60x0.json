@@ -1,0 +1,32 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://anzpool.com/logos/anz_pool_icon_v0.png",
+		"url_png_logo": "https://anzpool.com/logos/anz_pool_logo_white_blue_v0.png",
+		"location": "Auckland, New Zealand",
+		"social": {
+			"twitter_handle": "anzpool",
+			"telegram_handle": "anzpool",
+			"facebook_handle": "anzpool",
+			"discord_handle": "Rivindu#1809"
+		},
+		"company": {
+			"city": "Auckland",
+			"country": "New Zealand"
+		},
+		"about": {
+			"me": "Pool Operator: I am an Engineer/Data Scientist based in New Zealand. I have a bachelor of engineering degree from the University of Auckland and currently working on my PhD. Outside that, I've also started and built software for multiple startups and been involved in the Entreprenurship space. Been passionate about cardano since buying my first ADA in 2017.",
+			"server": "Multiple cloud services and bare-metal backup. 4 relays around the world, one main block producing node in Sydney, Australia and a backup block producer/relay in Auckland, New Zealand. See anzpool.com"
+		}
+	},
+	"my-pool-ids": {
+		"0": "a5612b0dcde1dee0eb73932ceb529d9523fab23e1544ee7d3db7aacc"
+	},
+	"when-satured-then-recommend": {
+		"0": "d5b90a198d2411b5c82fbdfee5f94b86de49a8589bfa7720b9de358f",
+		"1": "60397646d7d1ad6fe2ddccfe7efc9cba61f6d3d94d29e8f41de73240",
+		"2": "fcbfb4a3c18f890de7a51f68603b18e654f8b432abdda17c53a0d586"
+	},
+	"telegram-admin-handle": {
+		"0": "Rivindu"
+	}
+}

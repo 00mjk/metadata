@@ -1,0 +1,7 @@
+{
+	"name": "Noops Pool",
+	"ticker": "NOOPS",
+	"description": "Welcome to Noops Pool, we donate 25% of our operator margin to charity and 350$ shared between 4 delegators each month",
+	"homepage": "https://noopspool.com",
+	"extended": "https://noopspool.com/meta-extended.json"
+}

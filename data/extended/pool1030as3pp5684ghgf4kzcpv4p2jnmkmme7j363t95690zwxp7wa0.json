@@ -1,0 +1,48 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://888pool.io/images/icon.png",
+		"url_png_logo": "https://888pool.io/images/logo.png",
+		"location": "Bolzano | South Tyrol | Italy",
+		"social": {
+			"twitter_handle": "888pool_io",
+			"telegram_handle": "group_888pool",
+			"facebook_handle": "888pool.io",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "JoEl Tech",
+			"addr": "",
+			"city": "Bolzano | South Tyrol | Italy",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Behind the label 888Pool we stand, two brothers from South Tyrol in Northern Italy. Young, versatile interested, burning for technology and all its facets. We already have several years of experience in server administration. In addition, we have been intensively educating ourselves in crypto (market and technology) since 2015. We finally invested in Cardano at the end of 2017. In fall 2020 we have decided to use our technically distinctive know-how to open our own Pool. We believe in the future potential of Cryptocurrencies and are convinced that the crypto market and Cardano in particular will flourish. We can identify with this and are part of the innovation with our Pool. For further questions just contact us, we also speak German and Italian.",
+			"server": "Our goal is to offer you a good stable hardware with the lowest possible Pool conditions. Currently our equipment consists of 1 Block Producer and 4 Relay Nodes. Our server structure runs both locally and in the cloud, combining the best of two worlds (two dedicated servers are hosted in Germany and three servers are run locally at our headquarters in Italy). All Nodes have an excellent internet connection with at least 100MB up/down, 16GB RAM and NVMe SSDs. We guarantee that our Nodes have an uptime of 99.9%, so that we do not miss any Block.",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "7c5fd84421a68f545d09ad8580b2a154a7bb6f79f4a3a8acb4d15e27"
+	},
+	"when-satured-then-recommend": {
+		"0": ""
+	},
+	"telegram-admin-handle": {
+		"0": "joeltech_888pool"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "",
+				"type": "",
+				"key": ""
+			}
+		}
+	}
+}

@@ -1,0 +1,32 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://vrijstaat.net/vrijstaatIcon40kb.png",
+		"url_png_logo": "https://vrijstaat.net/vrijstaatIcon.png",
+		"location": "Zeeland, Netherlands",
+		"social": {
+			"twitter_handle": "Cardano_Staking",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"about": {
+			"me": "Father and Son run this stakepool non-profit and we will keep the margin at 0% and the cost at â³340",
+			"server": "Block Producer on custom RAID Server, 2 Relays on 2 different Raspberry Pi4 8GB hosted at different Freestate homes in the Netherlands."
+		}
+	},
+	"my-pool-ids": {
+		"0": "ab60e74d183c8aae66c557a58cb55f4e3d8a87b5840a8190b3e1477b"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "PI Relay 1 NL",
+				"type": "relay",
+				"key": "relay1.vrijstaat.net:5000"
+			}
+		}
+	}
+}

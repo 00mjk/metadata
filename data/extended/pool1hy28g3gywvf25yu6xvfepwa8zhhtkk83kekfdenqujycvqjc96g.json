@@ -1,0 +1,38 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://lh3.googleusercontent.com/7alEGOZNusbM5UfnHXkCgPxcU3oHhucKsa-wUDfddTK4QyTk_N9JCfQA1hwtE2e-kOMXlw=s64",
+		"location": "Dublin, Ireland",
+		"social": {
+			"twitter_handle": "Ada_blu_",
+			"youtube_handle": "",
+			"discord_handle": "#1017"
+		},
+		"about": {
+			"me": "A Single Pool Operator - A Vision, A Reality, The Future",
+			"server": "Cloud based server on AWS consisting of 1 Block Producer and 2 Relay Nodes"
+		},
+		"my-pool-ids": {
+			"0": "b9147445047312aa139a331390bba715eebb58f1b66c96e660e48986",
+			"1": ""
+		},
+		"adapools_ext": {
+			"prometheus": {
+				"0": {
+					"name": "",
+					"type": "",
+					"key": ""
+				},
+				"1": {
+					"name": "",
+					"type": "",
+					"key": ""
+				},
+				"2": {
+					"name": "",
+					"type": "",
+					"key": ""
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/xstar-pool/metadata/main/xstar-64x64.png",
+		"url_png_logo": "https://raw.githubusercontent.com/xstar-pool/metadata/main/xstar-64x64.png",
+		"location": "Alanya, Turkey",
+		"social": {
+			"twitter_handle": "infinitypooI",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"telegram-admin-handle": [
+		""
+	],
+	"my-pool-ids": [
+		"b4f0bba1b4481c76fae113cee9ec2d05df939e1458d1f2f83dfde089"
+	],
+	"when-satured-then-recommend": [
+		"b4f0bba1b4481c76fae113cee9ec2d05df939e1458d1f2f83dfde089"
+	]
+}

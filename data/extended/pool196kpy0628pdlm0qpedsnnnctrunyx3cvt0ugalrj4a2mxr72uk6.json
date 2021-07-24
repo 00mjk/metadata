@@ -1,0 +1,43 @@
+{
+	"itn": {
+		"owner": "ed25519_pk1glyel6wvkknhth4fwfgpwruvvv3hd7k87cte7h4jp855j2qkrfes84mzxt",
+		"witness": "ed25519_sig1whu0nqlgklz6d4m8ukgz5zyutpcwtf6g794x5f7hra6axyq9te2mhzt7vct8rwh8zeda7qau6hls76dtew80eumahda0vr27uswg5rq29t9sp"
+	},
+	"info": {
+		"url_png_icon_64x64": "https://stakesandstone.com/sstone_small.png",
+		"url_png_logo": "https://stakesandstone.com/sstone_large.png",
+		"location": "Germany, Europe",
+		"social": {
+			"twitter_handle": "stakesandstone",
+			"telegram_handle": "sas1main",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Sophisticated staking-as-a-service provider made in Germany.",
+			"server": "",
+			"company": " Our pool SAS1 has been among the top 50 validators since the family&friends testnet round. Only 2 % pool fee, 10% of our staking income will be reinvested (5% to financing projects building on Cardano and 5% to environmental & sustainability related donations)."
+		},
+		"rss": ""
+	},
+	"telegram-admin-handle": [
+		"sas1main"
+	],
+	"my-pool-ids": [
+		"2eac123f4a385bfdbc01cb6139cf0b1f2643470c5bf88efc72af55b3"
+	],
+	"when-satured-then-recommend": [
+		""
+	]
+}

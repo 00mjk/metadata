@@ -1,0 +1,33 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://norbpool.club/favicon.png",
+		"url_png_logo": "https://norbpool.club/logo.png",
+		"location": "Georgia, United States",
+		"social": {
+			"twitter_handle": "NorbPool",
+			"telegram_handle": "NorbPool",
+			"facebook_handle": "",
+			"youtube_handle": "channel/UClmmn900OmURaLDMpd7uBOg",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Single Pool Operator from Atlanta, Georgia, USA.",
+			"server": "Servers are hosted on multiple providers and are geographically distributed to help decentralization.",
+			"company": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "71b00c23502112d4c634e325f28c9ade2a4ba4ec251677d306ae6b7b",
+		"1": ""
+	}
+}

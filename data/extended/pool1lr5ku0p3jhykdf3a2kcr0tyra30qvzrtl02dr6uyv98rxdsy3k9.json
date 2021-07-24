@@ -1,0 +1,45 @@
+{
+	"itn": {
+		"owner": "ed25519_pk1yavsvvn74lkrcf978cjraveklrf0kewnjl0nlucgvmtukhqvgzwqjygmaa",
+		"witness": "ed25519_sig1whd53ua6zlwdzee7av669wg44rvdkwxexzrhkysajgpcnks34k3lqeq56nfuzrw9wa3gxar4gk2pr4479ns5lmsvr6rtr5vkthawxrqe9gsjk"
+	},
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/AWCrypt/STAKE-001/master/AdaPoolsIcon64x64.png",
+		"url_png_logo": "https://raw.githubusercontent.com/AWCrypt/STAKE-001/raw/master/AdaPoolsLogo.png",
+		"location": "Milton Keynes, England",
+		"social": {
+			"twitter_handle": "PlanetStake",
+			"telegram_handle": "Planet_Stake",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Cardano enthusiast and Mechanical Design Engineer ð",
+			"server": "Operating on bare metal servers and also deploying cloud servers to keep uptime to a maximum",
+			"company": "PlanetStake has been powering the Cardano ecosystem since 2019"
+		},
+		"rss": ""
+	},
+	"my-pool-ids": [
+		"0019cb5ac91c786a809f4d87622a29d2c7f57f4697f8c8e8457f4de4",
+		"f8e96e3c3195c966a63d55b037ac83ec5e06086bfbd4d1eb84614e33"
+	],
+	"when-satured-then-recommend": [
+		"e29b14719f694767d0faf92f654cf66585bcefd8139bf5a33b7ed181",
+		"31af0509d4376a8a55b40e952aea7f009c13cadf0338c57512ff42e9"
+	],
+	"telegram-admin-handle": [
+		""
+	]
+}

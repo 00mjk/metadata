@@ -1,0 +1,15 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://loyaltypool.com/icon.png",
+		"url_png_logo": "https://loyaltypool.com/logo.png",
+		"location": "Madrid, Spain",
+		"social": {
+			"twitter_handle": "PoolLoyalty"
+		},
+		"company": {},
+		"about": {}
+	},
+	"my-pool-ids": {
+		"0": "5677fab89e35cbc000bf68d7c8f8c0c8641e8a97c80f090e296b5b2f"
+	}
+}

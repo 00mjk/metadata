@@ -1,0 +1,7 @@
+{
+	"name": "Neon Pool",
+	"description": "Neon Pool is a Cardano Stake Pool run on Amazon AWS. Fees are kept low and all profits after expense costs are donated to charity.",
+	"ticker": "NEON",
+	"homepage": "https://neonpool.io",
+	"extended": "https://neonpool.io/extended.json"
+}

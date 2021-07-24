@@ -1,0 +1,7 @@
+{
+	"name": "StablePool",
+	"description": "The stable staking pool",
+	"ticker": "STBL",
+	"homepage": "http://stablepool.de",
+	"extended": "http://stablepool.de/stableextended.json"
+}

@@ -1,0 +1,45 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://img1.wsimg.com/isteam/ip/d3044e9b-ce48-45c6-89e5-82bbb7031bde/AR_icon_64x64-PNG.png",
+		"url_png_logo": "https://img1.wsimg.com/isteam/ip/d3044e9b-ce48-45c6-89e5-82bbb7031bde/favicon/bfb03864-655a-40f5-903a-de9826ec28af.png",
+		"location": "San-Fransisco, California",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "Ararepool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "ADA Rare",
+			"addr": "",
+			"city": "Los-Angeles",
+			"country": "California",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "...",
+			"server": "Secured Server - STABILITY",
+			"company": "..."
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "f65731aa68706607718d140426c75cd7ac2c40703c31c325fdd46f91"
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "block producer home",
+				"type": "bp",
+				"key": "55f6ead48089a770048632c4df47008d"
+			}
+		}
+	}
+}

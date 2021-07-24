@@ -1,0 +1,34 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://unitedstakesofcardano.io/Logo_icon_64_64.png",
+		"url_png_logo": "https://unitedstakesofcardano.io/usoc_regular_size.png",
+		"location": "Washington D.C., USA",
+		"social": {
+			"twitter_handle": "United_Stakes",
+			"telegram_handle": "United_Stakes",
+			"youtube_handle": "yourcardanoupdate"
+		},
+		"company": {
+			"name": "United Stakes of Cardano",
+			"city": "Washington D.C.",
+			"country": "United States of America"
+		},
+		"about": {
+			"me": "Run by three professionals with the common goal to help the development and adoption of Cardano.",
+			"server": "A robust server outfitted with the latest components; 8 Core Intel Xeon CPU, 32 GB RAM, and NVMe SSD Storage.",
+			"company": "United Stakes of Cardano"
+		},
+		"rss": "https://anchor.fm/s/306978e8/podcast/rss"
+	},
+	"my-pool-ids": [
+		"3dc5218de6bf5a29ad6203d9da31b7128c414872e53b8f09767764d4"
+	],
+	"when-satured-then-recommend": [
+		"7e3a1ed8f2085923debacc6866aefaba941edd638ff0886061ebf521",
+		"c63dab6d780a74cbae2a27696c9723f55b3092b2bd001256df03827f"
+	],
+	"telegram-admin-handle": [
+		"isaacdavid1"
+	]
+}

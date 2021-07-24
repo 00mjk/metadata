@@ -1,0 +1,23 @@
+{
+	"serial": 8675,
+	"pool": {
+		"id": "46dc12d35b1a674be21e187d3ec3be305db31eb6b5b1f21aa733b97a",
+		"country": "US",
+		"status": "active",
+		"contact": {
+			"primary": "email",
+			"email": "oceanblue@mr-bandwidth.com",
+			"twitter": "@hologram_stan"
+		},
+		"media_assets": {
+			"icon_png_64x64": "https://imgur.com/sF6QHh0",
+			"logo_png": "https://imgur.com/a/9vjo9s9",
+			"color_fg": "#000000",
+			"color_bg": "#105fa9"
+		},
+		"itn": {
+			"owner": "ed25519_pk1...",
+			"witness": "ed25519_sig1..."
+		}
+	}
+}

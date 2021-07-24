@@ -1,0 +1,31 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://cardanocanucks.com/wp-content/uploads/2020/08/cc_logo_64x64.png",
+		"url_png_logo": "https://cardanocanucks.com/wp-content/uploads/2020/08/cc_logo_900x900_w.png",
+		"location": "Toronto, Canada",
+		"social": {
+			"twitter_handle": "CanadaCardano",
+			"telegram_handle": "CANUKStakePool",
+			"facebook_handle": "cardano.canuck"
+		},
+		"company": {
+			"name": "Cardano Canucks",
+			"addr": "",
+			"city": "Toronto",
+			"country": "ON"
+		},
+		"about": {
+			"me": "We are a partnership of two folks living in Toronto. Mike, brings his experience as a technical lead at multiple data and analytics organizations. He designs and builds cloud-based data warehouses, largely intended to  analyze big data. Vivek brings to bear more than a decade of experience in data and analytics, as well as marketing strategy and execution. With strong industry experience and a passion for cryptocurrency, we can confidently move forward with this venture and responsibly manage this Canadian Cardano stake pool.",
+			"server": "Our infrastructure is hosted on AWS in the Canada Central region. Detailed information about our architecture and security is provided on our website. Our pools are CANUK, CNUK2 and CNUK3",
+			"company": "We are a Canadian Cardano stake pool. Our goal is to create a great staking experience focused on a strong, vibrant community"
+		}
+	},
+	"my-pool-ids": [
+		"pool1fh4sh2telea0tfdy39h0drx6uq566yt9gf24edpz7335sclx39z",
+		"pool1jzext4easy3qp2zzly9aqx7fl9p6wyasmjfkywxxsmq2jcx2pwt",
+		"pool19fc2vzdf2pk42uu2848przz05ududrlmwktgsv2sd8mk69vuech"
+	],
+	"telegram-admin-handle": [
+		"codeflymike"
+	]
+}

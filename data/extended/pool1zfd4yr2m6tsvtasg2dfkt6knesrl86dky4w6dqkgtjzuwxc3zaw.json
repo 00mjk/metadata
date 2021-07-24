@@ -1,0 +1,13 @@
+{
+	"adapools": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/ibeestakin/pool/main/Ibee64x64.png",
+		"url_png_logo": "https://raw.githubusercontent.com/ibeestakin/pool/main/logo2.png",
+		"social": {
+			"twitter_handle": "Beestaking",
+			"telegram_handle": "iBeestaking"
+		},
+		"about": {
+			"me": "iBeestaking is supported by certified DevOps Engineers who are experts in Cardano. We run iBeestaking with to an aim to not only promote the positive changes that Cardano can bring, but to help save the future of our Bee population which is vital to both our ecosystem and economy."
+		}
+	}
+}

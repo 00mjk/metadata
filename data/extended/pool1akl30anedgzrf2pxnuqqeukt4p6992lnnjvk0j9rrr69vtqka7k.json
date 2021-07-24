@@ -1,0 +1,37 @@
+{
+	"info": {
+		"location": "Iceland - Backup locations in multiple regions",
+		"social": {
+			"twitter_handle": "adamidgard",
+			"telegram_handle": "midgardpool"
+		},
+		"company": {
+			"name": "Kjartan Sverrsisson"
+		},
+		"about": {
+			"me": "CEO and software developer, 20 years experience in IT and server operations",
+			"server": "Dual core VM's, 16Gb memory, multiple datacenter regions"
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "edbf17f6796a0434a8269f000cf2cba87452abf39c9967c8a318f456"
+	},
+	"telegram-admin-handle": {
+		"0": "kjartans"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "Relay 1 - EU",
+				"type": "relay",
+				"key": "0265cdaa2c0e0c127c5a52e400917e28"
+			},
+			"1": {
+				"name": "Producer",
+				"type": "bp",
+				"key": "0265cdaa2c0e0c127c5a52e400917e28"
+			}
+		}
+	}
+}

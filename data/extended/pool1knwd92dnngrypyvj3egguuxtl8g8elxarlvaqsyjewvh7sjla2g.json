@@ -1,0 +1,27 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://cardano.garden/cardano-garden-64-64.png",
+		"url_png_logo": "https://cardano.garden/cardano-garden.png",
+		"location": "Ashburn, Virginia, USA",
+		"about": {
+			"me": "Canadian Owned and Operated Cardano Pool. All our servers are located in North America which improves decentralisation of the Cardano network and reduces the risk of network outages.",
+			"server": "Operating System live patches, virtual machine live migration and auto start are just a few things we use to make sure our servers always stay up and running smoothly.",
+			"company": "Cardano Garden"
+		},
+		"social": {
+			"twitter_handle": "CardanoGarden",
+			"telegram_handle": "cardanogarden",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		}
+	},
+	"my-pool-ids": [
+		"b4dcd2a9b39a064091928e508e70cbf9d07cfcdd1fd9d04092cb997f"
+	],
+	"when-satured-then-recommend": [
+		"b4dcd2a9b39a064091928e508e70cbf9d07cfcdd1fd9d04092cb997f"
+	]
+}

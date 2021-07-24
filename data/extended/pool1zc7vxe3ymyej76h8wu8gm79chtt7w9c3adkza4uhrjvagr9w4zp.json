@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.kaizencrypto.com/krishna.pool.logo.png",
+		"url_png_logo": "https://www.kaizencrypto.com/krishna.pool.logo.png",
+		"location": "United States, North America",
+		"social": {
+			"twitter_handle": "KaizenCrypto",
+			"telegram_handle": "KaizenCrypto_KAIZN",
+			"facebook_handle": "",
+			"youtube_handle": "Kaizen Crypto",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Cardano Stakepool Operator and Content Creator",
+			"server": "High Performance Bare Metal Server and Dedicated Offsite Backup",
+			"company": "Kaizen Crypto LLC"
+		},
+		"rss": ""
+	},
+	"telegram-admin-handle": [
+		"KaizenCrypto_KAIZN"
+	],
+	"my-pool-ids": [
+		"163cc36624d9332f6ae7770e8df8b8bad7e71711eb6c2ed7971c99d4"
+	],
+	"when-satured-then-recommend": [
+		"ca4d7a55367b654e7159ae78f3dbe6fd0908c3a1bb236ce231b3a266"
+	]
+}

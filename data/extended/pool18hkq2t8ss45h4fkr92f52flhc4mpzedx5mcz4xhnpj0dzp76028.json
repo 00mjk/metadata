@@ -1,0 +1,35 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://cardanopool.xyz/cardanopool.xyz-icon.png",
+		"url_png_logo": "https://cardanopool.xyz/cardanopool.xyz-logo-224x192.png",
+		"location": "Frankfurt, Germany",
+		"social": {
+			"twitter_handle": "CardanoPoolXYZ",
+			"telegram_handle": "cardano_pool_chat",
+			"facebook_handle": "",
+			"youtube_handle": "CardanoPool",
+			"twitch_handle": "",
+			"discord_handle": ""
+		},
+		"company": {
+			"name": "CardanoPool.XYZ",
+			"addr": "",
+			"city": "Frankfurt",
+			"country": "Germany",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "CardanoPool.XYZ is a super-low fee, privacy-based, GDPR-compliant pool; backed by crypto and computer/tech industry veterans. We operate a global network of nodes, internationally-distributed and geo-located, that is low-latency, well-connected, highly-available, reliable, & secure.  A professional pool for professional results. This is a business, not a hobby.  Stake your ADA only with the best.  Team XYZ is working for you 24x7x365! Talk to us @ https://t.me/cardano_pool_chat. A global staking pool for a global village. Proud advisory and sponsoring member of West Africa Decentralized Alliance (WADA) #DiversityInCrypto #DiversityInDelegation #DiversityInLanguages",
+			"server": "Our main server is hosted in Germany at one of the largest data centers in the world for unparalleled performance. We run our own private relay network (unlike most other pools that share) with our own dedicated servers in the Africa, Asia, Europe, USA and soon South America regions. No matter where you are in the world, CardanoPool.XYZ is there for you as well.",
+			"company": ""
+		}
+	},
+	"my-pool-ids": [
+		"3dec052cf085697aa6c32a934527f7c5761165a6a6f02a9af30c9ed1"
+	],
+	"when-satured-then-recommend": [],
+	"telegram-admin-handle": [
+		"hashratez"
+	]
+}

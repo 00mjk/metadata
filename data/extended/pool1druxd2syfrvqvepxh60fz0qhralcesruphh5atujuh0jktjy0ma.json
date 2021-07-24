@@ -1,0 +1,40 @@
+{
+	"itn": {
+		"owner": "ed25519_pk1p2saptuv8gqh0un5ng0ysfg3cmzvya7nzn6kj9ds95vkqnjhcausaj3hvf",
+		"witness": "ed25519_sig1quxc90m9zyytm8va0hfzewrvatsxglx283dzc9qmuyprd83uz3ulpxgg7d278zdgn48mhtvxvl20m2x2t6d44p8fd7txpgydrp6wurcl7k8dr"
+	},
+	"info": {
+		"url_png_icon_64x64": "https://blackstarpool.com/bssp/me64.png",
+		"url_png_logo": "https://blackstarpool.com/bssp/logo.png",
+		"location": "Bayoon, New Jersey",
+		"social": {
+			"twitter_handle": "blackstarpool1",
+			"telegram_handle": "BlackStarPool_BSSP",
+			"facebook_handle": "ShambaBlackStar",
+			"youtube_handle": "ijk1rkRVuXhuLwHmJ9prfQ",
+			"discord_handle": "Shamba147#5587",
+			"github_handle": "",
+			"SPO": "20db5350c0f46e9d42c7e05adb64ff16",
+			"SPO2": "b49e6804b6994d965098be3d6c48cbfa",
+			"SPO3": "223cc3326a261457c2148e3dd6079c83"
+		},
+		"about": {
+			"me": "Names Rich and I am the Owner and Operator of the Black Start Pool Line whith the following Ticker Symbols BSSP, BSSP2 and BSSP3 Please Delegate and be part of our future in Social Change and Economic Education",
+			"server": "We are Running Indepenant Bare-Metal Servers for each of our pools in the Event of hardware faults ",
+			"company": "Gas House Entertainment LLC Soon to own Black Star Pool LLC"
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "68f866aa0448d8066426be9e913c171f7f8cc07c0def4eaf92e5df2b",
+		"1": "41b59eb92c9df16cb37f15d222ca3c148aa929c8739fb6b549e51b51",
+		"2": "62430f8b85aa72bc3e555a6ca1c9d52c3cc71cd00fb3a79a27c0ce32"
+	},
+	"when-satured-then-recommend": {
+		"0": "62430f8b85aa72bc3e555a6ca1c9d52c3cc71cd00fb3a79a27c0ce32",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": "BlackStarPool_BSSP"
+	}
+}

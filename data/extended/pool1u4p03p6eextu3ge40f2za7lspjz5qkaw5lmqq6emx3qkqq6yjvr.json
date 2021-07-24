@@ -1,0 +1,14 @@
+{
+	"info": {
+		"url_png_icon_64x64": "http://lucky777.io/images/777iconGold.png",
+		"url_png_logo": "http://lucky777.io/images/777yellow.png",
+		"location": "California, US",
+		"social": {
+			"telegram_handle": "Lucky777Pool"
+		},
+		"about": {
+			"server": "Cloud Validator, supported by a combination of cloud & Raspberry Pies.",
+			"company": "Lucky777 Pool"
+		}
+	}
+}

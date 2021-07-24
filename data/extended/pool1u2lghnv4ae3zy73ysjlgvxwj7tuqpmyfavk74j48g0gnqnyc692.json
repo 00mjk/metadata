@@ -1,0 +1,60 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://cardano-aden.com/aden_icon.png",
+		"url_png_logo": "https://cardano-aden.com/aden_logo.png",
+		"location": "",
+		"social": {
+			"twitter_handle": "cardano_aden",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Our pool is run by a team of engineers with over 20 years of experience in developing and operating mission-critical infrastructure systems. We will utilize our experience to manage the pool safely and securely, and provide services that can be returned to the delegator. ããã·ã§ã³ã¯ãªãã£ã«ã«ãªå¬å±ã¤ã³ãã©ã·ã¹ãã ã®éçºã»éç¨ã20å¹´ä»¥ä¸çµé¨ããã¨ã³ã¸ãã¢ãçãããã¼ã ã§ãã¼ã«ãéå¶ãã¦ãã¾ããå¹ã£ããã¦ãã¦ãæ´»ããå®å¿ã§å®å¨ãªãã¼ã«éå¶ãå¿ãããå§ä»»èæ§ã«éåã§ãããµã¼ãã¹ãæä¾ãã¦ããã¾ãã",
+			"server": "Multi-Region in Northern Virginia and Mumbai on AWS. 16GiB RAM, 8vCPU ,256GB SSD, 10Gbps network",
+			"company": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "",
+		"1": ""
+	},
+	"when-satured-then-recommend": {
+		"0": "",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "",
+				"type": "",
+				"key": ""
+			},
+			"1": {
+				"name": "",
+				"type": "",
+				"key": ""
+			},
+			"2": {
+				"name": "",
+				"type": "",
+				"key": ""
+			}
+		}
+	}
+}

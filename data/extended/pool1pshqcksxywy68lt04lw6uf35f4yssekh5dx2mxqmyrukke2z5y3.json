@@ -1,0 +1,23 @@
+{
+	"itn": {
+		"owner": "ed25519_pk1evvdqz82q9yucp9ptaglh94uqc8rkt3v0vqwenwzj08s7uu8lg0s4vqr59",
+		"witness": "ed25519_sig1vyc3h5zgxll7eazq0ufxcn8ynnh3usp9lgdpnytvxapg2x48az5ngy5k3kharnjxmt5jagg25sjryd2gyqrsne4vq07v5u9jwppyqpgy0cqhv"
+	},
+	"adapools": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/SViksha/A/master/ACL64x64A.png",
+		"url_png_logo": "https://raw.githubusercontent.com/SViksha/A/master/ACL400X400A.png",
+		"location": "WorldWide",
+		"social": {
+			"twitter_handle": "CardanoLand",
+			"telegram_handle": "CardanoLand",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": ""
+		},
+		"about": {
+			"me": "Your Trust is our Motivation - ₳ CardanoLand Stake Pool.",
+			"server": "We maintain redandancy by running our servers at worldwide locations which are distrubuted across the server providers.If that is not enough we have backup baremetal server running at our location.  "
+		}
+	}
+}

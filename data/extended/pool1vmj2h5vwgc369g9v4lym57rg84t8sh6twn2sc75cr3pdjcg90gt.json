@@ -1,0 +1,32 @@
+{
+	"itn": {
+		"owner": "ed25519_pk1try56ckjjluchfjuku6gn67czg9x84y8y7zvyn6gyfc8n8aw4ygq4vu275",
+		"witness": "ed25519_sig1c06hw7s79rrthj8jg33j7ujc48s3lj0a8la33gseg30lz9ej9926k5rsgky8hav9hqqewmvuqxfg9pywhqwklsrezyn2gxs4mv3twzcwq8a5k"
+	},
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/stakelovelace/pub/main/Stakelovelace64.png",
+		"url_png_logo": "https://raw.githubusercontent.com/stakelovelace/pub/main/Stakelovelace-Ico.png",
+		"location": "Europe and Australia",
+		"social": {
+			"twitter_handle": "ADA_stake_pool",
+			"telegram_handle": "stakelovelace_io",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "stakelovelace"
+		},
+		"about": {
+			"me": "Two IT professionals, deciding to join forces after both had a solid 6 month performance on Cardano Incentivised Testnet network with their own pools. Aiming to provide a transparent and reliable staking experience.",
+			"server": "Dedicated servers across multiple providers for realiability, with ability to easily scale up and featuring 24/7 monitoring and alert configurations.",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "66e4abd18e4623a2a0acafc9ba78683d56785f4b74d50c7a981c42d9"
+	},
+	"telegram-admin-handle": {
+		"0": "RedOracle"
+	}
+}

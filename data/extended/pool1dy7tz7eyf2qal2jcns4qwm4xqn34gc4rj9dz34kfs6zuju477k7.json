@@ -1,0 +1,24 @@
+{
+	"itn": {
+		"owner": "ed25519_pk1yrys3un0yw3na8k9zwk9pu6qey2ggmcq3xd6x5cm8kvcdeh0wt5s2rx0q8",
+		"witness": "ed25519_sig1tnxjz3065xm02372hrvw8ps83prg6xx4hal6nmxpm5240q4w7gvz908j05qnsa9sppywyfdtsdkwc8uymyk2dndq5x9zhxdcpm78vzcmy7vje"
+	},
+	"adapools": {
+		"url_png_icon_64x64": "https://capitalstakepool.info/logo/Logo64px.png",
+		"url_png_logo": "https://capitalstakepool.info/logo/Logo.png",
+		"location": "Rome, Italy",
+		"telegram-admin-handle": {
+			"0": "AC8998",
+			"claim-pool": "64b260e404ebf9587d5c813c219b7557"
+		},
+		"social": {
+			"twitter_handle": "csp_antonio",
+			"telegram_handle": "cspinfo",
+			"github_handle": "A-Caccese"
+		},
+		"about": {
+			"me": "Forged in ITN with over 4800 blocks made, I continue to follow my philosphy. Only one pool, until saturation is reached. I have decided to leave room for other pools. I think that a resilient ecosystem needs to diversify operators as much as poosible. This is not the case if we (pool operators) choose to fill the space with our pools. Also, I donât love marketing that much, I think the facts can speak for themselves. A pool must be judged on the facts. If you have decided to support CSP, you are helping to keep alive an operator respectful of others and involved in the study of smart contracts in Plutus and in Cardano technology. Itâs my desire to work with Cardano smart contracts as soon as possible.Thanks for the attention. To greater things!",
+			"server": "Intel Core i7-8700 Hexa-Core3 dedicated server with 64 GB ram DDR4 ecc + 3 VPS. Nvme storage. 10 Gb/s private network connection and 1 Gb/s internet connection."
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://dundapool.io/dundalogo-64.png",
+		"url_png_logo": "https://dundapool.io/images/dundalogolg.png",
+		"location": "Queensland, Australia",
+		"about": {
+			"me": "Dunda Pool",
+			"server": "ODROID H2+",
+			"company": "Dunda Pool LLC"
+		}
+	}
+}

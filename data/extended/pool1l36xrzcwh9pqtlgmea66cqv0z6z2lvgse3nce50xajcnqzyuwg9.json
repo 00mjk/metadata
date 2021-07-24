@@ -1,0 +1,40 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://cardano.dfii.co/images/dfii-logo-64-64.png",
+		"url_png_logo": "https://cardano.dfii.co/images/dfii-logo.png",
+		"location": "UK, Europe",
+		"social": {
+			"twitter_handle": "DfiiNetwork",
+			"telegram_handle": "",
+			"facebook_handle": "DFiiNetwork",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "DFii",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": ""
+		},
+		"rss": "",
+		"adapools": "327f1289c56acc762fe873a2565d14d2"
+	},
+	"telegram-admin-handle": [
+		""
+	],
+	"my-pool-ids": [
+		"fc74618b0eb94205fd1bcf75ac018f1684afb110cc678cd1e6ecb130"
+	],
+	"when-satured-then-recommend": [
+		"fc74618b0eb94205fd1bcf75ac018f1684afb110cc678cd1e6ecb130"
+	]
+}

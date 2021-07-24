@@ -1,0 +1,33 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.nexen.cloud/resources/cardano-icon-blue.png",
+		"url_png_logo": "https://www.nexen.cloud/resources/cardano-logo-blue.png",
+		"location": "Pretoria, South Africa",
+		"social": {
+			"twitter_handle": "NeXeN_",
+			"telegram_handle": "NeXeN_ADA",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "NeXeN Cloud",
+			"addr": "",
+			"city": "Pretoria",
+			"country": "South Africa",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Single pool operater. I have Cloud experience but new to running a pool. Our first active Epoch: 271",
+			"server": "Cloud servers hosted in Finland on Hetzner - 2 vCPU, 8GB and 40GB SSD. Hetzner Online uses energy from renewable sources to power the servers in its data centers.",
+			"company": "Individual"
+		},
+		"my-pool-ids": {
+			"0": "b6fbcb2bcbaff08708fc5201f6b33c1fab03cc525aab7eb62fa71185",
+			"1": ""
+		}
+	}
+}

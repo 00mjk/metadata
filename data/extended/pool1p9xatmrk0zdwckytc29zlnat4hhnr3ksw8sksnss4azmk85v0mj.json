@@ -1,0 +1,33 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://github.com/radicall-co-nz/poolmetadata.jason/blob/main/HOSKS-CLIPS64x64.png?raw=true",
+		"url_png_logo": "https://github.com/radicall-co-nz/poolmetadata.jason/blob/main/HOSKS-CLIPS64x64.png?raw=true",
+		"location": "Auckland, New Zealand",
+		"social": {
+			"twitter_handle": "HOSKsClips",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "channel/UCRaSGi1xC3hIMMjpWCDtabg",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Radicall Limited",
+			"addr": "5 Orbit Drive",
+			"city": "Auckland",
+			"country": "New Zealand",
+			"company_id": "1651581",
+			"vat_id": "91-488-132"
+		},
+		"about": {
+			"me": "",
+			"server": "Bare Metal Hosted at my Office in Auckland 100MB up/down, renewables energy.",
+			"company": "Radicall Limited"
+		},
+		"my-pool-ids": {
+			"0": "094dd5ec76789aec588bc28a2fcfabadef31c6d071e1684e10af45bb",
+			"1": ""
+		}
+	}
+}

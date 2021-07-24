@@ -1,0 +1,41 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/lead-pool/l/master/64.png",
+		"url_png_logo": "https://raw.githubusercontent.com/lead-pool/l/master/i.png",
+		"location": "",
+		"social": {
+			"twitter_handle": "LEADStakePool",
+			"telegram_handle": "LEAD_Stake_Pool",
+			"facebook_handle": "",
+			"youtube_handle": "channel/UCPJbuQeX6PSrY9GEQTTJ3Kg",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Manager at Accenture with 9 years experience in financial services with a particular focus on programming tax engines. Computing with Industry graduate from the University of Leeds (UK) – Final year project on distributed systems. Currently studying for a Graduate Diploma of Applied Tax Law. Current location – Sydney, Australia",
+			"server": "Combination of bare metal, dedicated hosted servers and VPS. 1 Block producer (with automated failover) along with 3 Relay Nodes. Main nodes run on AMD Ryzen 5 3600 Hexa-Core with Simultaneous Multithreading, 64GB DDR RAM, 2 x 512 GB NVMe SSD, 1 Gbit/s-Port Connection and 1 Gbit/s bandwidth",
+			"company": "Secure, Reliable Trusted. LEAD believes that stake pool operators should help and communicate with current and potential delegators as much as possible. LEAD are committed to making this a long term project meaning you do not need to constantly check up on your delegation. LEAD believes in decentralisation and is committed to running a single pool along with also being part of the Cardano Bare Metal Alliance. LEADs rewards will currently remain within the pool to increase pledge amount meaning a higher total stake overall. LEAD also runs on Cardano Testnet and helps test the latest releases whilst also testing all operations before deploying to our Mainnet nodes"
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "ec6cdcad62633e065be5d96eecea28464144a1827adc0cba98d29a23",
+		"1": ""
+	},
+	"when-satured-then-recommend": {
+		"0": "",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	}
+}

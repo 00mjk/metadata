@@ -1,0 +1,58 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.metromermaids.com/img/poollogoico.png",
+		"url_png_logo": "https://www.metromermaids.com/img/poollogo.png",
+		"location": "Detroit, Michigan",
+		"social": {
+			"twitter_handle": "_MermADA",
+			"telegram_handle": "MermADA",
+			"facebook_handle": "Mermada-101476705341103",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Metro Mermaids",
+			"addr": "Fresh Water",
+			"city": "Warren",
+			"country": "MI",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "2ce9bfc4e0a732d21ec8739cbfc3b10957b4e3297fd320d556f48ada"
+	},
+	"when-satured-then-recommend": {
+		"0": "2ce9bfc4e0a732d21ec8739cbfc3b10957b4e3297fd320d556f48ada"
+	},
+	"telegram-admin-handle": {
+		"0": "MermADA"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "relay 1 eu",
+				"type": "relay",
+				"key": "example_get_own_on_adapools.org/connect"
+			},
+			"1": {
+				"name": "relay 2 usa",
+				"type": "relay",
+				"key": "example_get_own_on_adapools.org/connect"
+			},
+			"2": {
+				"name": "block producer home",
+				"type": "bp",
+				"key": "example_get_own_on_adapools.org/connect"
+			}
+		}
+	}
+}

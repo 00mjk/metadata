@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://bavarianstakepool.de/logo-64x64.png",
+		"url_png_logo": "https://bavarianstakepool.de/logo_300x300.png",
+		"location": "Munich",
+		"social": {
+			"twitter_handle": "BavarianStakeP1",
+			"telegram_handle": "BavarianStakePool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "BavarianStakePool",
+			"addr": "",
+			"city": "",
+			"country": "Germany",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "IT Passioned, 44Years Old, Love Beer and Brezels",
+			"server": "Stakepool BYADA uses 4 Virtual Private Servers in 2 different datacenters to achieve high performance, located in Munich and ST.Louis",
+			"company": "BavarianStakePool is here to provide and Secure the Cardano Network with your help. Delegate your ADA, grab a Beer , eat some Bretzels and lean back and enjoy your rewards."
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "da7659a5e9c29d69e0b5698996cc916197b6556fa7460f604434368f"
+	},
+	"when-satured-then-recommend": {
+		"0": ""
+	},
+	"telegram-admin-handle": {
+		"0": "BavarianStakePool"
+	}
+}

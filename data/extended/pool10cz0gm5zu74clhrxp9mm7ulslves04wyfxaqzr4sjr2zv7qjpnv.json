@@ -1,0 +1,25 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://magical.money/img/mm_icon_64x64.png",
+		"url_png_logo": "https://magical.money/img/mm_logo.png",
+		"ada_pools_verification": "ff5aaf330c2a35999912508461bd2a5a",
+		"location": "London, England",
+		"social": {
+			"twitter_handle": "mag_stakepool",
+			"telegram_handle": "magical_money"
+		},
+		"about": {
+			"server": "Magical Money runs on multiple secure highly available dedicated cloud instances in Germany and Finland."
+		}
+	},
+	"my-pool-ids": {
+		"0": "7e04f46e82e7ab8fdc660977bf73f0fb3307d5c449ba010eb090d426"
+	},
+	"when-satured-then-recommend": {
+		"0": "969b78926481d5e944e5f680f04611c16e1120d57da58056be55f5bf",
+		"1": "00333b89543da962cc92e7ffa45848f42a98f7276780670728ce5256"
+	},
+	"telegram-admin-handle": {
+		"0": "aan_io"
+	}
+}

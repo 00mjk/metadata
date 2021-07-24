@@ -1,0 +1,21 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://cardanohub.net/cardanohub_net_64x64.png",
+		"url_png_logo": "https://cardanohub.net/cardanohub_net_logo-min.png",
+		"location": "Germany | USA",
+		"social": {
+			"twitter_handle": "cardanohub_net",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": ""
+		},
+		"about": {
+			"me": "cardanohub.net stake pool - cardanohub.net is the place where the cardano community comes to meet, discuss, learn, stake and have fun! The pool ticker is CHUB"
+		}
+	},
+	"my-pool-ids": {
+		"0": "82d9c37bb38d82a0d293ebc3ece70acfbfad20180f31e270b8351555"
+	}
+}

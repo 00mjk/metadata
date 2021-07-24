@@ -1,0 +1,25 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/yegamble/cicada-pool/master/cicada-favicon.png",
+		"url_png_logo": "https://raw.githubusercontent.com/yegamble/cicada-pool/master/cicada-icon.png",
+		"location": "Auckland, New Zealand",
+		"social": {
+			"twitter_handle": "cicadapool",
+			"facebook_handle": "cicadapool",
+			"github_handle": "yegamble"
+		},
+		"company": {
+			"name": "TERAIOTA Limited",
+			"city": "Auckland",
+			"country": "New Zealand",
+			"company_id": "7743236",
+			"vat_id": "9429047700833"
+		}
+	},
+	"my-pool-ids": [
+		"2426bf52129fd2f8243250dfcffdbeb7df273d3cdac3a7136ecf3d9a"
+	],
+	"telegram-admin-handle": [
+		"yegamble"
+	]
+}

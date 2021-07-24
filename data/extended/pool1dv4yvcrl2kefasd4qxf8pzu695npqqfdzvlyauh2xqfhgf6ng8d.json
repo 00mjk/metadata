@@ -1,0 +1,41 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://i.ibb.co/tzWpLhP/Adapools-logo-with-border.png",
+		"url_png_logo": "https://i.ibb.co/1Zkg59d/shotcut-creaky-ion-text-logo.png",
+		"location": "England, United Kingdom",
+		"social": {
+			"twitter_handle": "creakyion",
+			"telegram_handle": "/creakyion",
+			"facebook_handle": "creakyion",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Welcome to Creaky Ion. We are a community of innovators, social-scientists, design thinkers, critical thinkers, entrepreneurs and problem-solvers. We are driven by creativity and imagination, and we take a pragmatic approach when seeking to explore ‘what if’ or ‘what could be’.",
+			"server": "",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": [
+		"6b2a46607f55b29ec1b50192708b9a2d2610012d133e4ef2ea301374",
+		""
+	],
+	"when-satured-then-recommend": [
+		"",
+		""
+	],
+	"telegram-admin-handle": [
+		""
+	]
+}

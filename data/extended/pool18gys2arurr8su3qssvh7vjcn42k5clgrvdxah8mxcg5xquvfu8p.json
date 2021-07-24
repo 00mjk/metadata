@@ -1,0 +1,38 @@
+{
+	"info": {
+		"location": "The Netherlands, Amsterdam, Cairo, Egypt, Veliko Tarnovo, Bulgaria, Istanbul, Turkey, Reykjavik, Iceland and Thessaloniki, Greece",
+		"url_png_icon_64x64": "https://1fmly.net/1fmly/1fmly-logo-small.png",
+		"url_png_logo": "https://1fmly.net/1fmly/1fmly-logo.png",
+		"social": {
+			"twitter_handle": "Stake1FMLY",
+			"telegram_handle": "stake1FMLY"
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "We are Jochum & Martijn, running a Single pool. Mission based by donating 20% of operator rewards to local charity and supporting the Cardano network by having VPS relays in poor network covered countries.",
+			"server": "Combination of Intel NUC, Gigabyte BRIX, (AMD) Raspberry Pi's and cloud based relays, distributed in poor network covered countries. Reliable setup, contingency covered, multiple layers of security, excellent monitoring.",
+			"company": ""
+		},
+		"adapools_ext": {
+			"prometheus": {
+				"0": {
+					"name": "relays.1fmly.net",
+					"type": "relay",
+					"key": "c3e4d93d33bf698113ab09d0c99f5f02"
+				},
+				"1": {
+					"name": "relayt.1fmly.net",
+					"type": "relay",
+					"key": "6381bd03ac22ade5706d5d397688ec59"
+				}
+			}
+		}
+	}
+}

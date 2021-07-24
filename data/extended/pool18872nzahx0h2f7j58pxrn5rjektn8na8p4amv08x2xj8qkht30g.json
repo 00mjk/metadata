@@ -1,0 +1,29 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/clk-stack/cm/master/mnky.jpg",
+		"url_png_logo": "https://raw.githubusercontent.com/clk-stack/cm/master/mnky.jpg",
+		"location": "United States",
+		"social": {
+			"twitter_handle": "MNKYstakepool",
+			"telegram_handle": "CK_MNKY",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": ""
+		},
+		"about": {
+			"me": "Operating a high quality Cardano ADA Staking Pool since July 2020",
+			"server": "1 Block Producer, 2 Distributed Relay Nodes, 1 Standby (Backup) Block Producer"
+		}
+	},
+	"my-pool-ids": {
+		"0": "39fca98bb733eea4fa54384c39d072cd9733cfa70d7bb63ce651a470"
+	},
+	"when-satured-then-recommend": {
+		"0": "39fca98bb733eea4fa54384c39d072cd9733cfa70d7bb63ce651a470"
+	},
+	"telegram-admin-handle": {
+		"0": "CK_MNKY"
+	},
+	"verification": ""
+}

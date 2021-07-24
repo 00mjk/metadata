@@ -1,0 +1,20 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://piestake.com/images/logos/piestake-black-icon-64.png",
+		"url_png_logo": "https://piestake.com/images/logos/piestake-black-icon.png",
+		"location": "California, USA",
+		"social": {
+			"twitter_handle": "piestake",
+			"telegram_handle": "piestake"
+		},
+		"company": {
+			"name": "Pie Stake"
+		},
+		"about": {
+			"me": "We are an independent single pool operator. We are committed to growing this pool while keeping it secure and reliable. We are excited to join the Cardano eco-system and grow together with the community."
+		}
+	},
+	"my-pool-ids": {
+		"0": "3949021b324378f6d3915471d902afce34e87700893ac8f3fe4b4d0d"
+	}
+}

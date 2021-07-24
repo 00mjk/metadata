@@ -1,0 +1,12 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://cardanoswiss.ch/images/cropped-favicon-64x64.png",
+		"url_png_logo": "https://cardanoswiss.ch/images/favicon.png",
+		"location": "Geneva, Switzerland",
+		"about": {
+			"me": "Hi, we are Swiss ADA Bank. We have been with Cardano Project since 2018 and was running this pool already on the ITN testnet. We believe that Cardano will have a huge impact on the blockchain industry.",
+			"server": "We use state of the art data centers to keep the pools and relays running 24/7 with a focus on security and monitoring to prevent any downtime.",
+			"company": "Swiss ADA Bank"
+		}
+	}
+}

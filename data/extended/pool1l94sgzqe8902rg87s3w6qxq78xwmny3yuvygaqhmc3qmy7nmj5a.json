@@ -1,0 +1,60 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://ravenpool.net/ravenpool_icon_64x64.png",
+		"url_png_logo": "https://ravenpool.net/ravenpool_logo.png",
+		"location": "Texas, USA",
+		"social": {
+			"twitter_handle": "ravenpoolnet",
+			"telegram_handle": "ravenpool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "network analyst turned linux admin. i love messing around with tech, self-taught programmer. i dream of self-autonomy for all.",
+			"server": "2 virtual private servers hosted out of Texas, USA. 24GB RAM, 360GB SSD, 6vCPU, 12TB transfer",
+			"company": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "f96b040819395ea1a0fe845da0181e399db99224e3088e82fbc441b2",
+		"1": ""
+	},
+	"when-satured-then-recommend": {
+		"0": "",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "",
+				"type": "",
+				"key": ""
+			},
+			"1": {
+				"name": "",
+				"type": "",
+				"key": ""
+			},
+			"2": {
+				"name": "",
+				"type": "",
+				"key": ""
+			}
+		}
+	}
+}

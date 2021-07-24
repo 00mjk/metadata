@@ -1,0 +1,7 @@
+{
+	"name": "StakingKakis",
+	"description": "A Cardano Pool, For Buddies Stake. Run by 2 SG Engineers.",
+	"ticker": "KAKIS",
+	"homepage": "https://ada.stakingkakis.com",
+	"extended": "https://metadata.stakingkakis.com/kakis_extended.json"
+}

@@ -1,0 +1,7 @@
+{
+	"name": "BlockSensus Cardano Stake Pool",
+	"description": "Our aim is to contribute to the blockchain industry by promoting and providing reliable and secure stacking",
+	"ticker": "BSCSP",
+	"homepage": "https://blocksensus.io",
+	"extended": "https://raw.githubusercontent.com/blocksensus/cardano-stakepool/main/extended.json"
+}

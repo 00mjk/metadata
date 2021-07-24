@@ -1,0 +1,7 @@
+{
+	"name": "Ada Pulse",
+	"description": "Join Ada Pulse to keep Cardano pulse alive. Committed to 24/7 uptime, low latency, and low fees.",
+	"ticker": "PULSE",
+	"homepage": "https://adapulse.org/",
+	"extended": "https://adapulse.org/pulse-extended.json"
+}

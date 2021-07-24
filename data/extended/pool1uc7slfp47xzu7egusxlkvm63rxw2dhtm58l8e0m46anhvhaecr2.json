@@ -1,0 +1,33 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://kelownastaking.ca/klwna-64-64.png",
+		"url_png_logo": "https://www.kelownastaking.ca/klwna-200-150.png",
+		"location": "Kelowna, BC, Canada",
+		"social": {
+			"twitter_handle": "KelownaStaking",
+			"telegram_handle": "KelownaStaking"
+		},
+		"company": {
+			"name": "Kelowna Staking",
+			"city": "Kelowna",
+			"country": "Canada"
+		},
+		"about": {
+			"me": "I moved to Kelowna in 2014 for a Network Administration Specialist course and since then work as Technical Support for a VoIP Telecommunications Company. I work with Linux on a daily basis and assist in the management of company servers. I first joined the crypto space in 2016 and found Cardano in late 2019. The Kelowna Staking Pool has been supporting the Cardano network since August 2020 and producing blocks since epoch 225! I am proud to be a member the Canadian Cardano Stake Pool Association (CCSPA) since its inception in September 2020!",
+			"server": "Virtualized Linux container hosted on a high availability infruastructure. Each node can be migrated from one physical server to another in the cluster, if one of the physical servers containing a running node fails, the effected node will be brought back online automatically via another server."
+		}
+	},
+	"my-pool-ids": {
+		"0": "e63d0fa435f185cf651c81bf666f51199ca6dd7ba1fe7cbf75d76776"
+	},
+	"when-satured-then-recommend": {
+		"0": "a2ccd8e93f5a518d4400790cb081673e79ed41e4bf1132f740f26a28",
+		"1": "593dfbc66c5b8dfc040851a2f4d87191490d4c2312c65dd4418f7b23",
+		"2": "e9ef42e5fe6e45c46565d601cf66e9006d84bfb7fa8ace69afd0ad5e",
+		"3": "4deb0ba979fe7af5a5a4896ef68cdae029ad116542555cb422f46348",
+		"4": "90b265d73d812200a842f90bd01bc9f943a713b0dc936238c686c0a9",
+		"5": "2a70a609a9506d55738a3d4e11884fa71bc68ffb759688315069f76d",
+		"6": "f8b811d63ef2ac9e19eff41ab7a99f37b82da701f8ddb34d6d12cdb7",
+		"7": "f4762ca1dce3c32c0d7a7e6d9f8a54bf40338e99ae5f3ad0172c9a2f"
+	}
+}

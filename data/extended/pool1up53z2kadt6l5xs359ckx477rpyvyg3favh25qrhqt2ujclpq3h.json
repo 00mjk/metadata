@@ -1,0 +1,14 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.dyne.org/wp-content/uploads/2011/10/cafudda.jpg",
+		"url_png_logo": "https://www.dyne.org/wp-content/uploads/2011/10/cafudda.jpg",
+		"social": {
+			"twitter_handle": "DyneOrg",
+			"youtube_handle": "DyneOrg",
+			"github_handle": "dyne"
+		},
+		"about": {
+			"me": "Dyne (https://dyne.org/software-products).org is a non-profit free software foundry (https://dyne.org/software-products) with almost 20 years of expertise in developing applications used worldwide. Code is our literature: we build software (https://dyne.org/software-products) to communicate, interact and inspire. We let art, science and technology meet open source. (https://www.dyne.org/donate) We welcome donations and cooperation proposals for projects that benefit human society and respect the natural environment."
+		}
+	}
+}

@@ -1,0 +1,35 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://skullys.io/wp-content/uploads/2021/04/SKULLYS-LOGO-64X64.png",
+		"url_png_logo": "https://skullys.io/wp-content/uploads/2021/04/SKULLYS-LOGO-200x200-1.png",
+		"location": "Wyoming USA & Ho Chi Minh City, Vietnam",
+		"social": {
+			"twitter_handle": "cryptoskullys",
+			"telegram_handle": "",
+			"facebook_handle": "cryptoskullys",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"gitlab_handle": "SKULLYSPOOL"
+		},
+		"company": {
+			"name": "Santo Blockchain Labs Corp, 1309 Coffeen Avenue STE 2902, Sheridan, Wyoming",
+			"country": "USA",
+			"company_id": "",
+			"vat_id": "86-2642129"
+		},
+		"about": {
+			"me": "From the depths of the Ocean inside Davy Jones’ Locker we have come to pillage booty. You can collect us, earn ADA and sell us for more ADA Coins on our very own Port of Call Nassau’s Marketplace.",
+			"server": "BLOCK-PRODUCER-LIVENET-4-vCPUs-8GB/160GB-Disk,\n RELAY-NODE1-LIVENET-2-vCPUs-16GB/50GB-Disk,\n RELAY-NODE2-LIVENET-2-vCPUs-16GB/50GB-Disk, Hosted by Digital Ocean."
+		},
+		"my-pool-ids": {
+			"0": "87b28f81c2f9ea643023a842b27f0805ed21d4d63b7448d94a0ff918"
+		},
+		"when-satured-then-recommend": {
+			"0": "87b28f81c2f9ea643023a842b27f0805ed21d4d63b7448d94a0ff918"
+		},
+		"telegram-admin-handle": {
+			"0": "https://t.me/joinchat/Ri8E5UfBSNrmWwgc"
+		}
+	}
+}

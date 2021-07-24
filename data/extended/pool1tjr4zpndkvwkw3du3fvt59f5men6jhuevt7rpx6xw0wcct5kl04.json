@@ -1,0 +1,61 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/sitaki/metadata/main/images/icon_64x64.png",
+		"url_png_logo": "https://raw.githubusercontent.com/sitaki/metadata/main/images/cs-t1_smaller.png",
+		"location": "Tokyo, Japan",
+		"social": {
+			"twitter_handle": "@sugar417K",
+			"telegram_handle": "joinchat/VLB74HVvEXu0B655",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "https://discord.gg/sXD5WGJMFh",
+			"github_handle": "sugar-tokyo"
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "10+ of working in IT infrastructure industry with mission-critical customers such like major banks, telecommunication, etc. 13年以上、ITインフラの業界で、国内テレコミュニケーション、銀行などのミッションクリティカルな要件を求められるお客様に従事してきました。培ったノウハウはステーク・プール運用にも活かせるものと思っております。",
+			"server": "3 x instances on AWS: 4 x vCPU, 16 GiB RAM",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "5c8751066db31d6745bc8a58ba1534de67a95f9962fc309b4673dd8c",
+		"1": "pool1tjr4zpndkvwkw3du3fvt59f5men6jhuevt7rpx6xw0wcct5kl04"
+	},
+	"when-satured-then-recommend": {
+		"0": "",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "",
+				"type": "",
+				"key": ""
+			},
+			"1": {
+				"name": "",
+				"type": "",
+				"key": ""
+			},
+			"2": {
+				"name": "",
+				"type": "",
+				"key": ""
+			}
+		}
+	}
+}

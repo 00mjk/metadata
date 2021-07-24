@@ -1,0 +1,20 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://git.io/Jnc6T",
+		"url_png_logo": "https://git.io/Jnc6s",
+		"location": "Rome, Italy",
+		"social": {
+			"telegram_handle": "windchaser365",
+			"github_handle": "windchaser365"
+		},
+		"about": {
+			"server": "Hosted in Rome on an Intel i7-9700K machine with 32 GB RAM and an energy-efficient power unit."
+		}
+	},
+	"my-pool-ids": {
+		"0": "d4af25ea7f256145de12c3c99b6ae508dcbb02e0d352956ed2205d9e"
+	},
+	"telegram-admin-handle": {
+		"0": "windchaser365"
+	}
+}

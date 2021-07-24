@@ -1,0 +1,32 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://cdn.cardanode.com.au/wp-content/uploads/2021/05/26222632/cardanode-logo-64x64-1.png",
+		"url_png_logo": "https://cdn.cardanode.com.au/wp-content/uploads/2021/05/26222635/cardanode-logo-250x250-1.png",
+		"location": "Gold Coast, Australia",
+		"social": {
+			"twitter_handle": "cardanodeau",
+			"telegram_handle": "cardanode",
+			"youtube_handle": "channel/UCj-_2e7L2UgHaJLrGEOJRzA",
+			"facebook_handle": "LearnCardano",
+			"discord_handle": "aAcjtaVv9V"
+		},
+		"company": {
+			"name": "PP Ventures Proprietary Ltd",
+			"addr": "PO Box 160",
+			"city": "Surfers Paradise",
+			"country": "Australia",
+			"company_id": "46 166 043 492"
+		},
+		"about": {
+			"me": "Multi owner stake pool aimed at educating and onboarding users into the world of Cardano. Everyone from developers to mum and dad investors. We're passionate about building solutions for clients and playing day and night with Cardano. Contact us on Twitter @cardaNodeAU or on our Facebook Group. Watch and learn from our YouTube channel and listen to our weekly Podcast, Learn Cardano Podcast on Apple podcasts, Spotify or anywhere you listen to podcasts.",
+			"server": "Multi cloud and bare metal set up with Raspberry Pi and backup servers behind, firewalls with all the bells and whistles.",
+			"company": "PP Ventures"
+		}
+	},
+	"my-pool-ids": {
+		"0": "6658713e2cbfa4e347691a0435953f5acbe9f03d330e94caa3a0cfb4"
+	},
+	"telegram-admin-handle": {
+		"0": "astroboysoup"
+	}
+}

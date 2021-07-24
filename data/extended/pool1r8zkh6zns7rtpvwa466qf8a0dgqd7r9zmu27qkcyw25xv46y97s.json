@@ -1,0 +1,25 @@
+{
+	"extended": "https://stakeforfuture.org/azul_extendet.json",
+	"info": {
+		"url_png_icon_64x64": "https://stakeforfuture.org/LogoSmall_64x64.png",
+		"url_png_logo": "https://stakeforfuture.org/LogoBig.png",
+		"location": "DÃ¼sseldorf, Germany",
+		"social": {
+			"twitter_handle": "@stake_for",
+			"instagramm_handle": "@stakeforfuture",
+			"telegram_handle": "Tim_Bridge",
+			"facebook_handle": "stakeforfuture",
+			"github_handle": "JOxBERGER"
+		},
+		"company": {
+			"name": "STAKE FOR FUTURE"
+		},
+		"about": {
+			"me": "STAKE FOR FUTURE was founded by three friends from Germany who shares the passion for the mountains: Jochen, Tim & Marc.",
+			"server": "Dedicaded Servers hosted in a professional german server farm running on 100% Renewable energy."
+		}
+	},
+	"my-pool-ids": {
+		"0": "pool1r8zkh6zns7rtpvwa466qf8a0dgqd7r9zmu27qkcyw25xv46y97s"
+	}
+}

@@ -1,0 +1,48 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://belga-pool.be/logo_icon_64x64.png",
+		"url_png_logo": "https://belga-pool.be/logo.png",
+		"location": "Brussels, Belgium",
+		"social": {
+			"twitter_handle": "BelgaPool",
+			"telegram_handle": "Belga_Pool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "way2many"
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "BELGA is operated by two crypto enthusiasts since 2013. We have extended knowledge of some major cryptocurriences (bitcoin, ethereum, ...) and Cardano is the project which match our ideology. To help the project in being decentralized and in the same time to help the less fortunate we decided to launch the Belga Pool were 15% of pool owner rewards, so not your rewards, will be donated to a non-profit organization (check our website for more info). By staking with us you will earn more ADA passively and help those in need. What more to ask?!",
+			"server": "The servers are hosted on powerfull, stable and flexible cloud instances with daily snapshots. On top of that, all servers are firewalled, DDOS protected and our block producing node communicates only with our relays (as it should be). All servers are monitored and updated after we test the updates on a test server to ensure maximum stability and uptime.",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "afd458ac6ca85bbf719e0a7930461d711893edef07d3cedf33c4784e"
+	},
+	"when-satured-then-recommend": {
+		"0": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "",
+				"type": "",
+				"key": ""
+			}
+		}
+	}
+}

@@ -1,0 +1,36 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://lttrstakingpool.org/LTTR.png",
+		"url_png_logo": "https://lttrstakingpool.org/LTTR1.png",
+		"location": "Frankfurt | Germany",
+		"social": {
+			"twitter_handle": "LStakingpool",
+			"telegram_handle": "LTTRStakingpool",
+			"facebook_handle": "",
+			"youtube_handle": "channel/UCvul57kbjV9U7OzueUpaH_Q",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "LTTR Stakingpool",
+			"addr": "",
+			"city": "Frankfurt | Germany",
+			"country": "IT",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "We have developed a Cardano Pool to stake your ADAs and together get profit of the block chain. Trust US and if you have any questions, Join us on Telegram or Twitter. Assistance in Spanish and English",
+			"server": "",
+			"company": ""
+		},
+		"my-pool-ids": {
+			"0": "pool1693h5jn424n7kazynt4h9r6fe8u8wtsp7us2me60msq5kpv390n",
+			"1": ""
+		},
+		"telegram-admin-handle": {
+			"0": "Pockucho"
+		}
+	}
+}

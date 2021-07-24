@@ -1,0 +1,38 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://pxlz.org/favicon.png",
+		"url_png_logo": "https://pxlz.org/favicon.png",
+		"location": "Romania",
+		"social": {
+			"twitter_handle": "pxlzNFT",
+			"telegram_handle": "DEADPXLZ",
+			"facebook_handle": "",
+			"youtube_handle": "UC3IiKn01hqk2eT7EXABu3yA",
+			"twitch_handle": "",
+			"discord_handle": "616331729908662272",
+			"github_handle": "DEADPXLZ"
+		},
+		"company": {
+			"name": "PXLZ inc.",
+			"addr": "",
+			"city": "Bucharest",
+			"country": "Romania",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "DEADPXLZ is a one-of-a-kind CNFT project on Cardano meant to disrupt the way you interact with & hold your NFTs.",
+			"server": "Home-grown, green & stable",
+			"company": "PXLZ inc."
+		}
+	},
+	"my-pool-ids": {
+		"0": "ccf9fa7bd7cc72f851effb0e229f7ab163ae670250c38b18dbdd8f8f"
+	},
+	"when-satured-then-recommend": {
+		"0": "ccf9fa7bd7cc72f851effb0e229f7ab163ae670250c38b18dbdd8f8f"
+	},
+	"telegram-admin-handle": {
+		"0": "PXLZ_AF"
+	}
+}

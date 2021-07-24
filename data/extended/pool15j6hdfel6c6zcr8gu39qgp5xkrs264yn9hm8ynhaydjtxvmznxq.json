@@ -1,0 +1,36 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://www.skepsispool.com/images/thinker-icon.png",
+		"url_png_logo": "https://www.skepsispool.com/images/thinker-logo.png",
+		"location": "Seattle, WA, USA",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "cardano_skepsis",
+			"telegram_admin_handle": "christoPalas",
+			"telegram-admin-handle": "christoPalas",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "a4b576a73fd6342c0ce8e44a040686b0e0ad54932df6724efd2364b3"
+	}
+}

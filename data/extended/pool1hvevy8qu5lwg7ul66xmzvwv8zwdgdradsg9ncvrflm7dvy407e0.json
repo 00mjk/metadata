@@ -1,0 +1,26 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://hamster-stake-pool.de/img/hamster-stake-pool-64.png",
+		"url_png_logo": "https://hamster-stake-pool.de/img/hamster-stake-pool.png",
+		"location": "Schweinfurt, Germany",
+		"social": {
+			"twitter_handle": "HAMDAStakePool",
+			"telegram_handle": "HamsterStakePool"
+		},
+		"company": {
+			"name": "Magister Technicus GmbH",
+			"addr": "Frankenstrasse 1",
+			"city": "97422 Schweinfurt",
+			"country": "Germany",
+			"vat_id": "DE262918794"
+		},
+		"about": {
+			"me": "Wir lieben die Herausforderung, einen 365/24/7-Internetdienst einzurichten, zu warten und bereitzustellen. Daher ist das Cardano-Projekt perfekt fÃ¼r uns und wir sind stolz darauf ein Teil der Cardano community zu sein!",
+			"server": "Aktuell hat unser Pool pro Node eine 4 Core AMD EPYC CPU mit 8 GB Ram und 120GB SSD Festplatte.",
+			"company": "Seit 2008 entwickeln wir individuelle Software im Open Source Breich und betreiben diese, in selbstadministrierten Kubernetes Clustern."
+		}
+	},
+	"my-pool-ids": {
+		"0": "pool1hvevy8qu5lwg7ul66xmzvwv8zwdgdradsg9ncvrflm7dvy407e0"
+	}
+}

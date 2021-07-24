@@ -1,0 +1,74 @@
+{
+	"itn": {
+		"owner": "ed25519_pk1wr6y2wrfxd3xtjj5cffvf0j0t8mhw8gj5n3fnuwmczqvqwpzq96s0nrwtd",
+		"witness": "ed25519_sig1uynskgx0rduktegg6j9lejghqg07qxpaqs3pew73rzse6l3724ay9wq8pn0vcl37lfw433aepyw53t3h86p7r98q97zjhxvcj758srg5p2yfk"
+	},
+	"info": {
+		"url_png_icon_64x64": "http://anqahub.com/wp-content/uploads/2020/08/anqa-chain-logo-retina.png",
+		"url_png_logo": "http://anqahub.com/wp-content/uploads/2020/08/anqa-chain-logo-retina.png",
+		"location": "Lagos, Nigeria",
+		"social": {
+			"twitter_handle": "ankachain",
+			"telegram_handle": "ankachain",
+			"facebook_handle": "",
+			"youtube_handle": "channel/UCGM-UaJgtkWKhcujusZ0cyg",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "lawale4me",
+			"adapools_claim_pool": "37b86948d72feee86a8a1fbc77819e39"
+		},
+		"company": {
+			"name": "ANKACHAIN SOLUTIONS",
+			"addr": "IKOSI KETU",
+			"city": "LAGOS",
+			"country": "NIGERIA",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "ANQA is a Nigerian operated stakepool with the mission to  educate and create blockchain driven applications",
+			"server": "Servers are currently hosted on Four vps in Nigeria, Finland, United Kindgom and Netherlands,  Plus a bare metal relay at home ",
+			"company": "ANKACHAIN SOLUTIONS"
+		},
+		"rss": "http(s) url to valid RSS feed"
+	},
+	"my-pool-ids": {
+		"0": "6749c8ed350238d3673f2389491a46e8a9a260837c5630d775078aaa"
+	},
+	"when-satured-then-recommend": {
+		"0": "",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": "lawale4me"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "Finland relay",
+				"type": "relay",
+				"key": "4080beacbd3a4416b7692018e27e8797"
+			},
+			"1": {
+				"name": "Dronten relay ",
+				"type": "relay",
+				"key": "0d3c23a3bed4338422bcbafa71f0159d"
+			},
+			"2": {
+				"name": "LAGOS - Nigeria Relay",
+				"type": "relay",
+				"key": "18c3785df518b67f3f01f0a1f03a7e8c"
+			},
+			"3": {
+				"name": "OTHER Relay",
+				"type": "bp",
+				"key": ""
+			},
+			"4": {
+				"name": "Home Relay(Solar Powered)",
+				"type": "relay",
+				"key": "d6cc9d9275be3d400fbadb7076a4df9f"
+			}
+		}
+	}
+}

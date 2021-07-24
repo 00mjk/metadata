@@ -1,0 +1,26 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://faithpool.io/files/faith-cardano-icon.png",
+		"url_png_logo": "https://faithpool.io/files/faith-cardano-logo.png",
+		"location": "Washington, USA",
+		"social": {
+			"twitter_handle": "CardanoFAITH",
+			"github_handle": "CardanoFAITH"
+		},
+		"company": {
+			"name": "FAITH Pool",
+			"country": "USA"
+		},
+		"about": {
+			"me": "Join us as we support Christianity, give a voice to the faithful, fund projects that promote charity, freedom, human dignity, and the sanctity of life.",
+			"server": "Cloud hosted, secure and reliale to maximize your rewards.",
+			"company": "FAITH Pool"
+		}
+	},
+	"my-pool-ids": {
+		"0": "383696c7f29a9a49c1da49ed35bebbd6097cea5b58a95da5c7df27ee"
+	},
+	"when-satured-then-recommend": {
+		"0": "d69b6b16c6a135c4157365ded9b0d772d44c7628a05b49741d3ae25c"
+	}
+}

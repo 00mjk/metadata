@@ -1,0 +1,37 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://api.pooldata.live/static/images/pooldata_icon_64.png",
+		"url_png_logo": "https://api.pooldata.live/static/images/pooldata_banner_long.png",
+		"location": "London, England",
+		"social": {
+			"twitter_handle": "ADAPoolData",
+			"telegram_handle": "adatastake",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "ada-pooldata"
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "We are a team of italian IT professionals located in UK and Switzerland.",
+			"server": "Dedicated set of servers (2 relays, 1 blockproducer, 1 failover node) for the pool. For the Pooldata API we also run another set of Cardano nodes with DBSYNC and Web Apps on OVH Private Cloud",
+			"company": "PoolData.Live is a public stakepool offering an open API datasource for Grafana allowing stake pool operators and Cardano enthusiasts to easily monitor different operational metrics of the pool and not just their own nodes. You can find how to install / use the API for Grafana at https://api.pooldata.live"
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "eb6e1949ef2e1f2cdb9b041d2a4b86d4d837798ab3ddfe53cc4cafe4"
+	},
+	"when-satured-then-recommend": {},
+	"telegram-admin-handle": {
+		"0": "ADATA_Mik"
+	}
+}

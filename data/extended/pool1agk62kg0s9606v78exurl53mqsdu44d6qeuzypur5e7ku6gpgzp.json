@@ -1,0 +1,70 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.sophias-pool.com/wp-content/uploads/2020/11/iconPsd-e1606493206752.png",
+		"url_png_logo": "https://www.sophias-pool.com/wp-content/uploads/2020/11/logoPsd-e1606492799782.png",
+		"location": "Colebrook, Connecticut",
+		"social": {
+			"twitter_handle": "cardano_sense",
+			"telegram_handle": "sophiCardanoStakePool",
+			"facebook_handle": "",
+			"youtube_handle": "channel/UC5_qgztXQrsL7eaNJflEmDA",
+			"twitch_handle": "",
+			"discord_handle": "7wKNEGVVcE",
+			"github_handle": "",
+			"codingame": [
+				{
+					"handle": "2e02cdd617e4914ca8d644750d62242b6996804"
+				}
+			]
+		},
+		"company": {
+			"name": "SoPHi",
+			"addr": "",
+			"city": "Colebrook, CT",
+			"country": "United States",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "My name is Anthony and I am running this stake pool with the intention of leaving it for my daughter, Sophi. As she gets older, I hope Cardano also grows to be the source of economic relief for under-developed countries that is has set out to be and then I can tell her that she should be proud to be a part of this process... A part that helped secured the Cardano network and made it possible",
+			"server": "A few Amazon Instances with 2 cores, upgradable 100gb SSD Hard Drive, and 8 gigs ram with 8 gig swap. Guaranteed 99.9% up time and the ability to connect to my system from anywhere in the World.",
+			"company": "As this pool grows we may add one more pool but I personally do not think growing to any larger than that supports what we are trying to do here with decentralization. We would rather have a full pool that we can take of and loyal delegators... Welcome to SoPHi Stake pool!"
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "ea2da5590f8174fd33c7c9b83fd23b041bcad5ba0678220783a67d6e",
+		"1": ""
+	},
+	"when-satured-then-recommend": {
+		"0": "",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": "StackBlock"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "relay 1 USA",
+				"type": "relay",
+				"key": "69b35d610a1230c0c9355b0e51e56494"
+			},
+			"1": {
+				"name": "relay 2 USA",
+				"type": "relay",
+				"key": "19d5f7127810361eb4a46fd4ef585655"
+			},
+			"2": {
+				"name": "relay 3 USA",
+				"type": "relay",
+				"key": "aa8ac8eda785fade51929e11c5941ff2"
+			},
+			"3": {
+				"name": "block producer",
+				"type": "bp",
+				"key": "a2b4d9c9616e3291d8699cb347a39f3f"
+			}
+		}
+	}
+}

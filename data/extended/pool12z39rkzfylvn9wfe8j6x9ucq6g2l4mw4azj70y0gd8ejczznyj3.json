@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://bravostakepool.nl/bravologo.png",
+		"url_png_logo": "https://bravostakepool.nl/bravologobig.png",
+		"location": "Zwolle, The Netherlands",
+		"social": {
+			"twitter_handle": "BRAVOstakepool",
+			"telegram_handle": "bravopool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "BRAVO stake pool",
+			"addr": "",
+			"city": "Zwolle",
+			"country": "The Netherlands",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Cardano Enthusiasts making Cardano the best cryptocurrency of the world",
+			"server": "Several VPS servers on one of the best internet backbones of Europe.",
+			"company": "BRAVO stake pool"
+		},
+		"my-pool-ids": {
+			"0": "50a251d84927d932b9393cb462f300d215faedd5e8a5e791e869f32c",
+			"1": "0a5ad3b4f3f48cf34ed5e659134750c9fd8f57ced7d4da1bc9ecef47"
+		},
+		"when-satured-then-recommend": {
+			"0": "0a5ad3b4f3f48cf34ed5e659134750c9fd8f57ced7d4da1bc9ecef47"
+		},
+		"telegram-admin-handle": {
+			"0": "bravopool"
+		}
+	}
+}

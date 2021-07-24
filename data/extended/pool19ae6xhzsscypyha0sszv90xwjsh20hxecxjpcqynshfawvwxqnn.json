@@ -1,0 +1,12 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://genepool-one.github.io/genepool64by64.png",
+		"social": {
+			"telegram_handle": "genepool_one"
+		}
+	},
+	"itn": {
+		"owner": "ed25519_pk18rpdz56zf5uq4p6u7ak98gwpd2nzgrxedjz9nlevf8ujgmuf26nquhgv80",
+		"witness": "ed25519_sig15qjaaw87udm758z0swh7z4jnwt5sycgm57x2qlkqukfud263awxglpv2w4ecyn9yjkjxulnem4wcpxlry3ttlhxlcr035zpj2trqvpg88n6j4"
+	}
+}

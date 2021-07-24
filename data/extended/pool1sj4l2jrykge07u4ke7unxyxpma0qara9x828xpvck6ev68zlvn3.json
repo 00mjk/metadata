@@ -1,0 +1,61 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://lemon-stake-pool.com/lemon64_64.jpg",
+		"url_png_logo": "https://lemon-stake-pool.com/lemon_big.jpg",
+		"location": "Japan",
+		"social": {
+			"twitter_handle": "LemonStakePool",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Lemon Stake Pool was built in Japan. You can increase ADA by staking. ã¬ã¢ã³ã¹ãã¼ã¯ãã¼ã«ã¯ãã«ã«ããã®ã¹ãã¼ã¯ãã¼ã«ã§ããã¨ã¤ããå§ä»»ãããã¨ã§ãå®å¨ã«å¢ãããã¨ãã§ãã¾ããããªãã®ã¹ãã¼ã­ã³ã°ã©ã¤ãããµãã¼ããããã¾ãã",
+			"server": "Lemon Stake Pool is built on the cloud. ã¬ã¢ã³ã¹ãã¼ã¯ãã¼ã«ã¯ã¯ã©ã¦ãä¸ã§æ§ç¯ããã¦ãã¾ãã",
+			"company": ""
+		},
+		"rss": "http(s) url to valid RSS feed"
+	},
+	"my-pool-ids": {
+		"0": "84abf54864b232ff72b6cfb93310c1df5e0e8fa531d4730598b6b2cd",
+		"1": ""
+	},
+	"when-satured-then-recommend": {
+		"0": "84abf54864b232ff72b6cfb93310c1df5e0e8fa531d4730598b6b2cd",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "relay 1 jp",
+				"type": "relay",
+				"key": ""
+			},
+			"1": {
+				"name": "",
+				"type": "relay",
+				"key": ""
+			},
+			"2": {
+				"name": "",
+				"type": "bp",
+				"key": ""
+			}
+		}
+	}
+}

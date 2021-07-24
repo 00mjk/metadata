@@ -1,0 +1,20 @@
+{
+	"itn": {
+		"owner": "ed25519_pk1fe2s8336x8yk5feqpvw5g9qu0k932z8ccr6gr63czrj4th67864qenlhsw",
+		"witness": "ed25519_sig1sm4uxcve2ume4yw2hmh6qra4mjv33nsru307ldl6l20tgmp069ml0wmsws5kpatsndz5sh4sal2t4apxz5m94x67x7haqtqrhjpl7qghjeemt"
+	},
+	"info": {
+		"url_png_icon_64x64": "https://stakeforcake.com/favicon_64x64.jpg",
+		"url_png_logo": "https://stakeforcake.com/favicon.jpg",
+		"location": "Sint-Truiden, Belgium",
+		"social": {
+			"twitter_handle": "stake_for_cake",
+			"telegram_handle": "cake_stakepool",
+			"facebook_handle": "stakeforcake"
+		},
+		"about": {
+			"me": "HIGH Performance Cardano Pool",
+			"server": "4x 8GB RELAYS with 12GB BLOCK PRODUCER @ 1GBIT CONNECTION"
+		}
+	}
+}

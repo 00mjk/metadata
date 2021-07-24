@@ -1,0 +1,19 @@
+{
+	"itn": {
+		"owner": "ed25519_pk19guqtst0effwtt827p6m569vttcr90jr36erdvccw3jlvhzvf6cqzs540r",
+		"witness": "ed25519_sig14ezzjuxccf0v83n7gght8u6s9kdmn7ea96gsvfqkedygdgdlpnksvyrrql9d2g0zt9zdvn9dvsfx0k7w8mzchcwr2kv72rcw6qvevqcc43mv7"
+	},
+	"adapools": {
+		"url_png_icon_64x64": "http://meta.cheapstaking.com/cheap/logo64x64.png",
+		"url_png_logo": "http://meta.cheapstaking.com/cheap/banner.png",
+		"location": "New Zealand Based Operator, US Based Cloud Infrastructure",
+		"social": {
+			"twitter_handle": "cheapstaking",
+			"telegram_handle": "cheapstakepool"
+		},
+		"about": {
+			"me": "Cheapstaking is run by Certifed DevOps Engineers based in New Zealand - we live and breath everything Azure and Cardano! By staking with CHEAP you are staking with enterprise grade architecture and infrastructure thats ALWAYS online to generate rewards!",
+			"server": "x6 VM WorkerNode Azure Kubernetes Cluster, 4 in East US 2 in West US with Zone Availability."
+		}
+	}
+}

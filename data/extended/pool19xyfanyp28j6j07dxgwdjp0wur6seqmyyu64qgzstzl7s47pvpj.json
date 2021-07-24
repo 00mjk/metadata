@@ -1,0 +1,21 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://github.com/t0m3kf/v/raw/main/pngkey-valknut-png-64_64.png",
+		"location": "Hamina, Finland",
+		"social": {
+			"twitter_handle": "valhallapool",
+			"telegram_handle": "valhallapool"
+		},
+		"about": {
+			"me": "Cardano pool protected by Viking Gods",
+			"server": "Google Cloud VMs with 2 VCPU, 8GB RAM, 3Gbit/s"
+		}
+	},
+	"my-pool-ids": {
+		"0": "29889ecc8151e5a93fcd321cd905eee0f50c8364273550205058bfe8"
+	},
+	"_when-satured-then-recommend": {
+		"0": "aa8b94010cd3c7199be1d619079c184a59e6f1ad930926bc2bd38579",
+		"1": "f66a36de855d53b9d5110bd46640f48dbab1c848c9e2f5c36d8c12dc"
+	}
+}

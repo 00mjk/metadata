@@ -1,0 +1,43 @@
+{
+	"itn": {
+		"owner": "ed25519_pk1je7gjkgrfqasfug6zdnphwzdwxap465at3afm36pzkw679pwuagqev7ce3",
+		"witness": "ed25519_sig1fu2dfaymakzjpgj9sla2l27len7lkvwfv3mgrtnnkznn2je9dcuu57eks8kmnxtw75ahj0992phcqp3jzgxhj58jf02jj5ehh0kkjpsq78ruz"
+	},
+	"info": {
+		"url_png_icon_64x64": "",
+		"url_png_logo": "",
+		"location": "Cergy, France",
+		"social": {
+			"twitter_handle": "Rufya3",
+			"telegram_handle": "RaSpool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "Paris",
+			"country": "France",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Full-time IT Admin (AS400/Linux) running a stakepool since ITN.",
+			"server": "One Intel-i5 NUC 16GB + Two Raspberry Pi 8GB sitting at different locations, powered with FTTH broadband",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "fb2ef0b6933e23890ae8ca4a4d3137f61991aab76b33a2426e0f6aa2"
+	},
+	"when-satured-then-recommend": {
+		"0": ""
+	},
+	"telegram-admin-handle": {
+		"0": "RaSpool"
+	}
+}

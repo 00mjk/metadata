@@ -1,0 +1,41 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://data.spirestaking.com/ADA/logo_sm.png",
+		"url_png_logo": "https://data.spirestaking.com/ADA/logo.png",
+		"location": "United States",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "SpireStakingOps",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Spire Staking",
+			"addr": "",
+			"city": "Austin, Texas",
+			"country": "United States",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Spire Staking's team of IT veterans have decades of experience in enterprise IT operations, infrastructure, managed services and security.  Our team has architected, operated and supported infrastructure for organizations ranging up to Fortune 500.",
+			"server": "Our Cardano infrastructure has been designed for maximum availability.  Geographical redundancy has been established to ensure that critical systems and infrastructure remain online 24x7x365.  Servers are proactively monitored and backed up daily.",
+			"company": "Professionally Operated Pools Supporting Cardano Decentralization and Success"
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "d7513627b3d50819c1c84687bfd15f02f00cd11c37d7935a67540089",
+		"1": "248a66f38e131b6c3b6ade0a639622068f537824edeb2e9c5b107e86"
+	},
+	"when-satured-then-recommend": {
+		"0": "d7513627b3d50819c1c84687bfd15f02f00cd11c37d7935a67540089",
+		"1": "248a66f38e131b6c3b6ade0a639622068f537824edeb2e9c5b107e86"
+	},
+	"telegram-admin-handle": {
+		"0": "SpireStaking"
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"name": "AdaStat Pool",
+	"description": "This pool allows us to sustain and improve AdaStat.net Cardano Explorer",
+	"ticker": "STAT",
+	"homepage": "https://adastat.net/",
+	"extended": "https://adastat.net/stat.extended-metadata.json"
+}

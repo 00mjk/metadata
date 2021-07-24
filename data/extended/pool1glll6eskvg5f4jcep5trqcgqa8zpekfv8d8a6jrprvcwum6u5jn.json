@@ -1,0 +1,33 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://swisscardanostaking.ch/url_png_icon_64x64.png",
+		"url_png_logo": "https://swisscardanostaking.ch/url_png_logo.png",
+		"location": "St.Gallen, Switzerland",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Monozeros Ltd.",
+			"addr": "Ringstrasse, 12",
+			"city": "9200 Gossau",
+			"country": "Switzerland",
+			"company_id": "",
+			"vat_id": "CH-320.4.081.054-9"
+		},
+		"about": {
+			"me": "Swiss Cardano Staking",
+			"server": "Swiss Public Quality Staking",
+			"company": "Monozeros Ltd."
+		}
+	},
+	"my-pool-ids": {
+		"0": "47fffd661662289acb190d16306100e9c41cd92c3b4fdd48611b30ee"
+	}
+}

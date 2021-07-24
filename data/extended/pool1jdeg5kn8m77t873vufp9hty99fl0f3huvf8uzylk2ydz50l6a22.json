@@ -1,0 +1,32 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.teamretro.com.au/retroicon.png",
+		"url_png_logo": "",
+		"location": "Brisbane, Australia",
+		"social": {
+			"twitter_handle": "retrostakepool",
+			"telegram_handle": "retrostakepool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "retropool"
+		},
+		"company": {
+			"name": "Team Retro",
+			"addr": "",
+			"city": "Brisbane",
+			"country": "Australia",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Proudly and professionally run by Beau & Em of TeamRetro.com.au. Blockchain enthusiasts from Brisbane, Australia with an extensive background in IT and Marketing, and of course huge lovers of Cardano.",
+			"server": "",
+			"company": "Our pool margin is competitively set to 2% not only to cover running costs but to support two charities who are very close to our hearts. 50% of these profits will be donated to Cure Cancer AU and the Sony Foundation. By supporting and donating to both of these charities, we as a pool will be helping raise funds for life-saving cancer research as well as funding emergency accommodation for regional youth cancer patients who must travel to the city for life saving treatment."
+		},
+		"my-pool-ids": {
+			"0": "93728a5a67dfbcb3fa2ce2425bac852a7ef4c6fc624fc113f6511a2a"
+		}
+	}
+}

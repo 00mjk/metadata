@@ -1,0 +1,7 @@
+{
+	"name": "WISE-POOL",
+	"description": "Cardano stake pool, supporting decentralization, charity and contributing to the amazing project!",
+	"ticker": "WISE",
+	"homepage": "https://wise-pool.eu",
+	"extended": "https://wise-pool.eu/adapools_meta.json"
+}

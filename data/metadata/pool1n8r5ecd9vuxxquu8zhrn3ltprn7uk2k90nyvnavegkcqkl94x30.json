@@ -1,0 +1,7 @@
+{
+	"name": "Vega",
+	"description": "Vega, a High-availability Server for our ADA Staking Pool",
+	"ticker": "VEGA",
+	"homepage": "https://vegapool.tech",
+	"extended": "https://3dwork.io/extended.json"
+}

@@ -1,0 +1,28 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://adapop.org/adapop64.png",
+		"url_png_logo": "https://adapop.org/adapop-big.png",
+		"location": "Everywhere",
+		"social": {
+			"twitter_handle": "adapop_pool",
+			"telegram_handle": "nullus2020",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "adapop"
+		},
+		"about": {
+			"me": "Nullus",
+			"server": "Veteran Unix Admin & Developer",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "699c814b5a0f3bf2d35b9b0adcfed9fa0fe891881a9ad3c15e2edf73"
+	},
+	"when-satured-then-recommend": {
+		"0": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
+	}
+}

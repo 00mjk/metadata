@@ -1,0 +1,59 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://adahq.com/00-static/heart.png",
+		"url_png_logo": "https://adahq.com/00-static/adahq-logo-black.png",
+		"location": "Worldwide",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "hasterhorb",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "syssnQ9uav",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "...",
+			"addr": "...",
+			"city": "...",
+			"country": "...",
+			"company_id": "...",
+			"vat_id": "..."
+		},
+		"about": {
+			"me": "...",
+			"server": "...",
+			"company": "..."
+		},
+		"rss": "http(s) url to valid RSS feed"
+	},
+	"my-pool-ids": {
+		"0": "f038585f5ca460b6049602214895301db3e31d32ae68a5ff1ee0ae1f"
+	},
+	"when-satured-then-recommend": {
+		"0": "f038585f5ca460b6049602214895301db3e31d32ae68a5ff1ee0ae1f"
+	},
+	"telegram-admin-handle": {
+		"0": "hasterhorb"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "relay 1 eu",
+				"type": "relay",
+				"key": "example_get_own_on_adapools.org/connect"
+			},
+			"1": {
+				"name": "relay 2 usa",
+				"type": "relay",
+				"key": "example_get_own_on_adapools.org/connect"
+			},
+			"2": {
+				"name": "block producer home",
+				"type": "bp",
+				"key": "example_get_own_on_adapools.org/connect"
+			}
+		}
+	}
+}

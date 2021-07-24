@@ -1,0 +1,31 @@
+{
+	"info": {
+		"url_png_icon_64x64": "http://vivrekado.info/ICON.PNG",
+		"url_png_logo": "http://vivrekado.info/LOGO.png",
+		"location": "Frankfurt, Germany",
+		"social": {
+			"twitter_handle": "vivrekado"
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "We at Vivrekado are committed to participation and the further development of the Cardano network. We want to represent a connection between our current and future projects and the Cardano Network with Vivrekado. Our -card of life-, i.e. the success of our projects, is thus related to the development of the Cardano Network. The more successful the network develops, the more successful our projects will develop.",
+			"server": "",
+			"company": "..."
+		}
+	},
+	"my-pool-ids": {
+		"0": "8a56a8108060daf31cb7c121660a2d26c02d1bac06aba32904f17e0d",
+		"1": ""
+	},
+	"when-satured-then-recommend": {
+		"0": "",
+		"1": ""
+	}
+}

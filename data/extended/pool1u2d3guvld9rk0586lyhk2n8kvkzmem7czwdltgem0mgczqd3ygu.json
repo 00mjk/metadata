@@ -1,0 +1,46 @@
+{
+	"itn": {
+		"owner": "ed25519_pk12hzp5k6xnlvzhu42hr9hkp22y04zxeq0v0fzgftplf7lgc5xxpxqhtqj64",
+		"witness": "ed25519_sig1rr9cyd09ascnvsur0ydgjxawfqfhx6mf27s0s9xsml4fmvl3qexfz70s9my3dpm0d6jxhuw37eknyshm23jhytnfl0vzwmw62j6p2qc5vf2e4"
+	},
+	"info": {
+		"url_png_icon_64x64": "http(s) url to pool icon",
+		"url_png_logo": "http(s) url to pool logo",
+		"location": "Italy, Europe",
+		"social": {
+			"twitter_handle": "insaladaPool",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": ""
+		},
+		"rss": "http(s) url to valid RSS feed",
+		"adapools": {
+			"pool_claim": "0a1ec020891237f903d3b46439ffd504"
+		}
+	},
+	"telegram-admin-handle": [
+		""
+	],
+	"my-pool-ids": [
+		"e29b14719f694767d0faf92f654cf66585bcefd8139bf5a33b7ed181"
+	],
+	"when-satured-then-recommend": [
+		"e29b14719f694767d0faf92f654cf66585bcefd8139bf5a33b7ed181"
+	]
+}

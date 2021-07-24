@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "http://62.171.147.209:8080/icons/cheff_logo.png",
+		"url_png_logo": "http://62.171.147.209:8080/cheff_logo.png",
+		"location": "Lisbon Portugal, Europe",
+		"social": {
+			"twitter_handle": "@CheffWallets",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Cheff Wallets",
+			"addr": "Rua Latino Coelho 87",
+			"city": "Lisbon",
+			"country": "Portugal",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Jose Barros",
+			"server": "",
+			"company": "Cheff Wallets"
+		},
+		"rss": ""
+	},
+	"telegram-admin-handle": [
+		""
+	],
+	"my-pool-ids": [
+		"d425fd2cf93347999106b8fbb463cc87af26791d8d31d957193204db"
+	],
+	"when-satured-then-recommend": [
+		"d425fd2cf93347999106b8fbb463cc87af26791d8d31d957193204db"
+	]
+}

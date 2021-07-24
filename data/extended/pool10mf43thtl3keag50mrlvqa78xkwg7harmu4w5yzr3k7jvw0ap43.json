@@ -1,0 +1,40 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://bladarunner.com/favicon-96x96.png",
+		"url_png_logo": "https://bladarunner.com/apple-icon-60x60.png",
+		"location": "Funchal, Portugal",
+		"social": {
+			"twitter_handle": "JorgePascoal18",
+			"telegram_handle": "bladarunner",
+			"facebook_handle": "bladarunner",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "https://discord.gg/UUWFuU",
+			"github_handle": "bladarunner"
+		},
+		"company": {
+			"name": "Jorge Pascoal",
+			"addr": "",
+			"city": "Funchal",
+			"country": "Portugal",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Digital Entrepreneur & Pioneer",
+			"server": "We have 10 servers deployed. 2 for cores and 4 of them as our relays. The rest are redundant standbys in the event of failure.",
+			"company": "We have been in the IT industry for about 20 years"
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "7ed358aeebfc6d9ea28fd8fec077c7359c8f5fa3df2aea10438dbd26"
+	},
+	"when-satured-then-recommend": {
+		"0": "121f02efc111b66b0d0db96dac2707e80067069175e1e9cccaf57673",
+		"1": "7de8b2a5f0a1272025d651aa019ddba38daf73061e824006a929bdcc"
+	},
+	"telegram-admin-handle": {
+		"0": "hotlimbo"
+	}
+}

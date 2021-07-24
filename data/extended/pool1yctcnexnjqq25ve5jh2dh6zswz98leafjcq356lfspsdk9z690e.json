@@ -1,0 +1,38 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://hellpool.com/metadata/64x64_mal_in_a_block.png",
+		"url_png_logo": "https://hellpool.com/metadata/256x256_mal_in_a_block.png",
+		"location": "London",
+		"social": {
+			"twitter_handle": "CardanoMaladex",
+			"telegram_handle": "ravanave",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "glewellin#0825",
+			"github_handle": "Maladex"
+		},
+		"company": {
+			"name": "Daemon Capital LLP",
+			"addr": "",
+			"city": "Edinburgh",
+			"country": "UK",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Maladex - 100% research driven Cardano DEX. Moving DeFi world into the future and beyond.",
+			"server": "The only servers run directly from hell. Relays on different continents and 24/7 ops team.",
+			"company": "Daemon Capital LLP"
+		}
+	},
+	"my-pool-ids": {
+		"0": "261789e4d39000aa333495d4dbe850708a7fe7a996011a6be98060db"
+	},
+	"when-satured-then-recommend": {
+		"0": "6c518b4861bb88b1395ceb116342cecbcfb8736282655f9a61c4c368"
+	},
+	"telegram-admin-handle": {
+		"0": "ravanave"
+	}
+}

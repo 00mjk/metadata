@@ -1,0 +1,7 @@
+{
+	"name": "WINPool",
+	"description": "WINPool aims to provide an industry leading staking experience to its delegates with 24/7 uptime, low latency, and highest return on your stake.",
+	"ticker": "WPool",
+	"homepage": "http://www.adawinpool.com",
+	"extended": "https://adawinpool.s3.ca-central-1.amazonaws.com/extended-metadata.json"
+}

@@ -1,0 +1,7 @@
+{
+	"name": "Ada's Purse",
+	"ticker": "PURSE",
+	"description": "PURSE is a monitored, resilient and safe Cardano stake pool. We vouch for the Single-Owner-Single-Pool viewpoint to promote a truly decentralized Cardano ecosystem.",
+	"homepage": "https://adapurse.com",
+	"extended": "https://adapurse.com/purse-extended.json"
+}

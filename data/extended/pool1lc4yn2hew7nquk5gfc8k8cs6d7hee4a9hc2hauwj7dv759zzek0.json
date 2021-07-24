@@ -1,0 +1,15 @@
+{
+	"name": "SHAPLEY",
+	"ticker": "SHPLY",
+	"description": "Shapley Pool has been providing reliable and high performance Cardano (ADA) staking services. We specialize in providing professional staking services suited to the needs of the investors.",
+	"homepage": "http://exponentiation.co/",
+	"nonce": "1609535964",
+	"extended": "http://exponentiation.co/metadata/extended.json",
+	"info": {
+		"url_png_icon_64x64": "http://exponentiation.co/metadata/logo.png",
+		"url_png_logo": "http://exponentiation.co/metadata/logo.png",
+		"social": {
+			"twitter_handle": "PoolShapley"
+		}
+	}
+}

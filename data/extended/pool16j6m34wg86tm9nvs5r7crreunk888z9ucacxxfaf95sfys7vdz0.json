@@ -1,0 +1,36 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://the.ohoh7.club/data/ohoh7_64x64.png",
+		"url_png_logo": "https://the.ohoh7.club/data/ohoh7_logo-v3.png",
+		"location": "earth",
+		"social": {
+			"twitter_handle": "Ohoh7C",
+			"telegram_handle": "OHOH7_CSP",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "We are proud members of the Cardano community, Linux professionals and strong believers in decentralization.",
+			"server": "We are running a DDOS-protected, High-Availability Server Cluster hosted in ISO 27001 certified data-centers spread over different locations and countries.",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"telegram-admin-handle": {
+		"0": "OHOH7_CSP"
+	},
+	"my-pool-ids": {
+		"0": "d4b5b8d5c83e97b2cd90a0fd818f3c9d8e7388bcc7706327a92d2092"
+	}
+}

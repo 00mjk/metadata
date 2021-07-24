@@ -1,0 +1,60 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://cardanomint.com/wp-content/uploads/2021/06/logo-CardanoMint-new-up-contrast-with-las-vegas-smallest-64-64.jpg",
+		"url_png_logo": "https://cardanomint.com/wp-content/uploads/2021/06/logo-CardanoMint-new-up-contrast-with-las-vegas-smallest.jpg",
+		"location": "Las Vegas, Nevada",
+		"social": {
+			"twitter_handle": "CardanoMint",
+			"telegram_handle": "MaximumMint James [AMINT]",
+			"facebook_handle": "",
+			"youtube_handle": "channel/UCjvxZzHHsN3tHQKEueFUyuQ",
+			"twitch_handle": "",
+			"discord_handle": "gCpVrHXw",
+			"github_handle": "MaximumMint_AMINT"
+		},
+		"company": {
+			"name": "Cardanomint.com",
+			"addr": "",
+			"city": "Las Vegas",
+			"country": "Nevada",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "My ultimate purpose and goal is to help educate others about finances and the digital currency revolution, particularly Cardano. The Social movement to managing your own money, identity and vote is here. The fundamental stance with in this movement is for all of us to take responsibility for our finances. To stop allowing banks and large corporations leveraging our money and information for financial gain, without our benefit. To promote and stand by the concept of a decentralized system, where effort yields rewards. The Era of large corporations and 1% wealth distribution is soon coming to an end. Everyday workers are losing the ability to grow their wealth and create a secure retirement. I believe Cardano and its decentralized network, can help others grow wealth faster and more securely. Because of this movement and what it offers me and everyone else, Ive decided to support this new and exciting system full time. Follow me while we learn about the new digital crypto economy and how it can benefit us compared to our existing system. We know change will be inevitable at this point. I have started a YouTube channel and plan to make videos containing current news with crypto evaluations and basic financial component, as well as general education about crypto and what’s going on in the Cardano network. So please support this cause by delegating to MaximumMint [ticker AMINT]. Together let us learn about this ever growing and evolving world financial system of Cardano. Sincerely James Rupe SPO MaximumMint [ticker AMINT]",
+			"server": "",
+			"company": "Cardanomint.com"
+		}
+	},
+	"my-pool-ids": {
+		"0": "ba67e271c925f7b066a00f4c9cbb9f27b13cef1ab02cca4c245c8acc",
+		"1": ""
+	},
+	"when-satured-then-recommend": {
+		"0": "",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "",
+				"type": "",
+				"key": ""
+			},
+			"1": {
+				"name": "",
+				"type": "",
+				"key": ""
+			},
+			"2": {
+				"name": "",
+				"type": "",
+				"key": ""
+			}
+		}
+	}
+}

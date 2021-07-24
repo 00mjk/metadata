@@ -1,0 +1,44 @@
+{
+	"itn": {
+		"owner": "ed25519_pk1u62x92tz5hk67sep7y6ufmunx6rc06sattkytejlfu9r3vqkgm2q9zg7ul",
+		"witness": "ed25519_sig12n44ghqpmagnvucrjwwg5e72qfpw7yhnl7uyyntldt7prpmcm6ndngrkk56y3qy6h032u932udwunv4mlhc7ywpx6dpdnjy986nlypsvs4hps"
+	},
+	"info": {
+		"url_png_icon_64x64": "https://stakepool.at/apple-icon-60x60.png",
+		"url_png_logo": "https://stakepool.at/ms-icon-150x150.png",
+		"location": "Austria, Europe",
+		"social": {
+			"twitter_handle": "ATADA_Stakepool",
+			"telegram_handle": "atada_stakepool_austria",
+			"facebook_handle": "ATADA.StakePool.Austria",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "gitmachtl"
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "ATADA is a Stakepool-Operator-Supporter Pool and located in the beautiful DACH Area Austria/Germany/Switzerland. Please come and join us by delegating to ATADA! :-)",
+			"server": "Dedicate Server(s), Dual Xeon Platform, 1Gbit backbone, 10Gbit upgrade possible, ...",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"telegram-admin-handle": {
+		"0": "atada_stakepool"
+	},
+	"my-pool-ids": {
+		"0": "00000036d515e12e18cd3c88c74f09a67984c2c279a5296aa96efe89",
+		"1": "2ba96bc27be2bdde3ec11b9f696cf21fad39e49097be9b0193e6b572"
+	},
+	"when-satured-then-recommend": {
+		"0": "2ba96bc27be2bdde3ec11b9f696cf21fad39e49097be9b0193e6b572"
+	}
+}

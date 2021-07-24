@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://git.io/JYQUG",
+		"url_png_logo": "https://git.io/JYQeK",
+		"location": "Munich, Germany",
+		"social": {
+			"twitter_handle": "mma_stake_pool",
+			"telegram_handle": "mma_stake_pool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"about": {
+			"me": "Student at TUM Munich in electrical engineering. Starting a PhD in blockchain technologies in 2021",
+			"server": "Microsoft Azure servers, high reliability",
+			"mission": "Supporting MMA and BJJ gyms, part of Mission Driven Pools alliance"
+		},
+		"my-pool-ids": {
+			"0": "f1ae552b032c2d87a416f4067eaf4636b3fe5e80230a1f63aa33f6bc"
+		},
+		"when-satured-then-recommend": {
+			"0": "ca599df54182962bb2c1420ad2cbdc10e3df7c4c2afac18e810e7035"
+		},
+		"telegram-admin-handle": {
+			"0": "mma_stake_pool"
+		},
+		"adapools_ext": {
+			"prometheus": {
+				"0": {
+					"name": "relay 1 NA east",
+					"type": "relay",
+					"key": "example_get_own_on_adapools.org/connect"
+				}
+			}
+		}
+	}
+}

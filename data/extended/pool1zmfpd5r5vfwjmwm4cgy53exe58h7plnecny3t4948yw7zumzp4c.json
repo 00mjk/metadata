@@ -1,0 +1,39 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://alps.kalu.solutions/assets/images/alps_icon.png",
+		"url_png_logo": "",
+		"location": "Ybbs, Austria",
+		"social": {
+			"twitter_handle": "AlpsStakePool",
+			"telegram_handle": "alps_stake_pool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "lukas-kamleitner"
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "16d216d074625d2dbb75c20948e4d9a1efe0fe79c4c915d4b5391de1"
+	},
+	"when-satured-then-recommend": {},
+	"telegram-admin-handle": {
+		"0": "lukas_kamleitner"
+	},
+	"adapools_ext": {}
+}

@@ -1,0 +1,24 @@
+{
+	"info": {
+		"url_png_icon_64x64": "http://stablepool.de/logo.png",
+		"url_png_logo": "http://stablepool.de/stablepool.png",
+		"location": "Muenster, Germany",
+		"social": {
+			"twitter_handle": "pool_stable"
+		},
+		"company": {
+			"name": "StablePool"
+		},
+		"about": {
+			"me": "Quantum physicist who loves the Cardano blockchain.",
+			"server": "Hosted with a major german server hoster 100MB up/down, always online. Margin 0.05, always."
+		}
+	},
+	"my-pool-ids": {
+		"0": "7472e0960f7e59253dff9ddd0245b69a8898b51e103dd0c95aea9ac6"
+	},
+	"when-satured-then-recommend": {
+		"0": "71a659c3e71b0ddd0cf9a67bdb3f7fd656934c4a995801ee0ea4c482",
+		"1": "2b86af0e2d02fde9b5e06785870bb271d3f891ecd14d40a75180a7ce"
+	}
+}

@@ -1,0 +1,23 @@
+{
+	"itn": {
+		"owner": "ed25519_pk108j68dfdpy56q59uwmegxgh5cvp77c0e6j2lzs7ujadszarmv3wqtppxnp",
+		"witness": "ed25519_sig1y965sqummvyv9ls0u46shtxlg3cvap9hd2cy8pdvhag33vdcstftschnaz623c28lvqk3r987hljl5cycrtz8222vj7al7n4wdyh5qs08y4ng"
+	},
+	"adapools": {
+		"url_png_icon_64x64": "https://flowrpool.com/Cardano-Stake-Pool-FLOWR.png",
+		"url_png_logo": "https://flowrpool.com/Best-Cardano-Stake-Pool.png",
+		"location": "The Netherlands, Germany",
+		"social": {
+			"twitter_handle": "FlowrPool",
+			"telegram_handle": "flowrpool",
+			"facebook_handle": "flowrpool",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": ""
+		},
+		"about": {
+			"me": "FLOWR have chosen to go for 3 dedicated servers in different data centers. The block producer node and associated relays have been placed in Europe (The Netherlands and Germany).",
+			"server": "3 bare metal servers, AMD Ryzen Zen2 12 Cores, 64GB ECC RAM, 1 Gbit/s, NVMe SSD 1024 GB"
+		}
+	}
+}

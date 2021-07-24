@@ -1,0 +1,35 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://storage.googleapis.com/pkada-pool/pkada-64x64.png",
+		"url_png_logo": "https://storage.googleapis.com/pkada-pool/pkada.png",
+		"location": "",
+		"social": {
+			"twitter_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Ali, PKADA Pakistan Stake Pool Operator. Entrepreneur with multiple business, including car finance and leasing company, restaurants and various other small business. My aim is to use Ada staking rewards to support the people of Pakistan to help them generate passive income and use the operations rewards to assist  various charity projects I am involved in.",
+			"server": "",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "01068ca3277b664a7141bf52c9d78a7561d4cf4c82532b9aa0d963d2"
+	},
+	"when-satured-then-recommend": {
+		"0": "01068ca3277b664a7141bf52c9d78a7561d4cf4c82532b9aa0d963d2"
+	},
+	"telegram-admin-handle": {
+		"0": "StakePool247"
+	}
+}

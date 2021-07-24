@@ -1,0 +1,7 @@
+{
+	"name": "SBC-Mining",
+	"description": "SBC-Mining - Everything about cryptocurrency / cryptomining on single board computers. All income will be used to test and host further projects for you. ",
+	"ticker": "SBC",
+	"homepage": "https://sbc-pool.tk",
+	"extended": "https://raw.githubusercontent.com/sbc-mining/ada-pool/main/extendedPoolMetaData.json"
+}

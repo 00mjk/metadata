@@ -1,0 +1,25 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://adamantium.online/images/sun.png",
+		"url_png_logo": "https://adamantium.online/images/sun.jpg",
+		"location": "New Hampshire, USA",
+		"social": {
+			"twitter_handle": "OTG_WCat",
+			"telegram_handle": "WCatz",
+			"discord_handle": "WCat#6737",
+			"github_handle": "wcatz"
+		},
+		"about": {
+			"me": "https://ada-pi.gitbook.io/raspi-spo/intermediate-guide/pi-pool-tutorial",
+			"server": "Mac M1 Mini native Linux! Raspberry Pi Relays, DIY Tesla powerwall, Starlink(coming soon), Off The Grid Solar Pool lest than 20 watts",
+			"company": "🌟 Star Forge ⚡"
+		},
+		"my-pool-ids": {
+			"0": "c825168836c5bf850dec38567eb4771c2e03eea28658ff291df768ae"
+		},
+		"when-satured-then-recommend": {
+			"0": "1fd1a22c53e08de6bae42053ce40d5c0f7e0b52b33eb728867505a36",
+			"1": "2a748e3885f6f73320ad16a8331247b81fe01b8d39f57eec9caa5091"
+		}
+	}
+}

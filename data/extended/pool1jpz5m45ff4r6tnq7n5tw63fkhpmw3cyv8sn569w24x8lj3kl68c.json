@@ -1,0 +1,18 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.adapolis.io/ext/icon/icon.png",
+		"url_png_logo": "https://www.adapolis.io/ext/logo/logo.png",
+		"location": "ZÃ¼rich, Switzerland",
+		"social": {
+			"twitter_handle": "Adapolis2",
+			"telegram_handle": "Adapolis_Stakepools"
+		},
+		"my-pool-ids": {
+			"0": "90454dd6894d47a5cc1e9d16ed4536b876e8e08c3c274d15caa98ff9"
+		},
+		"when-satured-then-recommend": {
+			"0": "90454dd6894d47a5cc1e9d16ed4536b876e8e08c3c274d15caa98ff9",
+			"1": "cd95ba0b846830803230a6ff7a51633a03ed1386cd6f2ac3c659bb22"
+		}
+	}
+}

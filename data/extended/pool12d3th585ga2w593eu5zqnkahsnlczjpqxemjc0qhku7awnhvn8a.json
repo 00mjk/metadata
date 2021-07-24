@@ -1,0 +1,58 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/H3ART-POOL/H3ART/main/H3ART%20Pool.png",
+		"url_png_logo": "https://raw.githubusercontent.com/H3ART-POOL/H3ART/main/H3ART%20Pool.png",
+		"location": "Selangor, Malaysia",
+		"social": {
+			"twitter_handle": "h3artpool",
+			"telegram_handle": "",
+			"facebook_handle": "h3artpool",
+			"youtube_handle": "channel/UCT6X6OZTAU7__czehf-3bVA",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "we strive to ensure you will have the best performance when you stake in our pool. Our ticker pool, H3ART consists of 3 hearts. It is a family of hearts of a father, mother and a kid.",
+			"server": "Hosted on VPS (1 BP with 2 Relays!",
+			"company": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "5362bbd0f44754ea1639e50409dbb784ff81482036772c3c17b73dd7"
+	},
+	"when-satured-then-recommend": {
+		"0": "",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "",
+				"type": "",
+				"key": ""
+			},
+			"1": {
+				"name": "",
+				"type": "",
+				"key": ""
+			},
+			"2": {
+				"name": "",
+				"type": "",
+				"key": ""
+			}
+		}
+	}
+}

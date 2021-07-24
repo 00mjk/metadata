@@ -1,0 +1,21 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://unostakepool.com/img/icon_64x64.png",
+		"social": {
+			"twitter_handle": "UnoStakePool",
+			"telegram_handle": "UnoStakePool"
+		},
+		"about": {
+			"server": "Fully redundant multi-site bare-metal HP Enterprise server infrastructure"
+		}
+	},
+	"my-pool-ids": {
+		"0": "60ce4c69b0afae24a006e1562335c2ce8c75272b03430f319bc37acd",
+		"1": "7c9bed86fb7ef639a58422c508ad23dcb6bb33bf498f307fcbee5fa6",
+		"2": "fc2d8488ef021561a83af7b56f973b94cfcfd8100433ee6fd0b0aa45"
+	},
+	"telegram-admin-handle": {
+		"0": "UnoStakePoolOperator"
+	},
+	"rss": "https://unostakepool.com/feed/"
+}

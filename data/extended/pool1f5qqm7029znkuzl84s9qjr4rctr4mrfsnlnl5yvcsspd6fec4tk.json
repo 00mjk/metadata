@@ -1,0 +1,60 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://neostakepool.nl/wp-content/uploads/2021/05/neo-stakepool-64x64-1.png",
+		"url_png_logo": "https://neostakepool.nl/wp-content/uploads/2021/05/neo-stakepool-64x64-1.png",
+		"location": "Amsterdam, Netherlands",
+		"social": {
+			"twitter_handle": "neo_stakepool",
+			"telegram_handle": "joinchat/9opMgfSJoBw0Yzg0",
+			"facebook_handle": "NEO-stakepool-111409704506892",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "2 private servers running on solar power.",
+			"company": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "4d000df9ea28a76e0be7ac0a090ea3c2c75d8d309fe7fa11988402dd",
+		"1": ""
+	},
+	"when-satured-then-recommend": {
+		"0": "",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "",
+				"type": "",
+				"key": "29e528f798f93be5b4d37c674397ccfe"
+			},
+			"1": {
+				"name": "",
+				"type": "",
+				"key": ""
+			},
+			"2": {
+				"name": "",
+				"type": "",
+				"key": ""
+			}
+		}
+	}
+}

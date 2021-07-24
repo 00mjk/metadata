@@ -1,0 +1,7 @@
+{
+	"name": "Cloud STAR Azure",
+	"description": "Reliable, trusted ADA pool running on Azure eastus2. Pool operated by team of Cloud STARs; >20 years experience, AWS, Azure, Linux certified.",
+	"ticker": "CSTAR",
+	"homepage": "https://adacloudpool.z20.web.core.windows.net/",
+	"extended": "https://adacloudpool.z20.web.core.windows.net/extendedPoolMetaData.json"
+}

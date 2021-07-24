@@ -1,0 +1,28 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://edgepools.org/assets/img/apple-touch-icon.png",
+		"url_png_logo": "https://edgepools.org/assets/img/logos/EdgePools-LogoSmall.png",
+		"location": "London, England",
+		"social": {
+			"twitter_handle": "edgepools",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Edge Pools",
+			"country": "England"
+		},
+		"about": {
+			"me": "Edge Pools",
+			"server": "We use an award winning service provider to host our node servers",
+			"company": "An independent technical team of Cardano enthusiasts maintaining a staking node in a sustainable way"
+		}
+	},
+	"my-pool-ids": {
+		"0": "383ee9f587c77c5683eea207359749784d9af5cd2306d099b9397f3f"
+	}
+}

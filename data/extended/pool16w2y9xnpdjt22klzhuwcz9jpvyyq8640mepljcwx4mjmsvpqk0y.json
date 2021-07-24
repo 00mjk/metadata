@@ -1,0 +1,55 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://selldone.com/images/logo/logo-64.png",
+		"url_png_logo": "https://selldone.com/images/logo/logo-512.png",
+		"location": "Selldone, Copenhagen Denmark",
+		"social": {
+			"twitter_handle": "SelldoneInc",
+			"telegram_handle": "@Mahdi_gh_CC",
+			"facebook_handle": "selldone",
+			"youtube_handle": "UCs0lXQ4Cm2n7u0gPL3TKM9Q",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "selldone"
+		},
+		"company": {
+			"name": "Selldone",
+			"addr": "Copenhagen Denmark",
+			"city": "Copenhagen",
+			"country": "Denmark",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "The main power is in the hands of small companies that are creating value worldwide. The multi-thousand-dollar costs of designing, building, programming, buying plugins, and expert advice for online businesses must go down in history.",
+			"server": "1 BP (main), 1 backup BP + 2 relays distributed around the world.",
+			"company": " Selldone, as an eCommerce platform, operates like an angel for the growth of businesses. Whether you have a small brick and mortar store or a large company, you need to showcase your product on the internet. Lower operating costs and greater flexibility.Selldone used to build online stores. We are providing an always-improving e-commerce management toolchain that gains new features every weak, like integrating store administration and visual programming interface to create custom automation processes or AI integration. "
+		},
+		"rss": "https://selldone.com/rss"
+	},
+	"my-pool-ids": {
+		"0": "d394429a616c96a55be2bf1d811641610803eaafde43f961c6aee5b8"
+	},
+	"telegram-admin-handle": {
+		"0": "@Mahdi_gh_CC"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "BP",
+				"type": "BP",
+				"key": "f81d5535a1cc6d52d06b3d514a0cd51c"
+			},
+			"1": {
+				"name": "Relay 1 - EU",
+				"type": "relay",
+				"key": "731f331637632e94e74acd30cdc85f4b"
+			},
+			"2": {
+				"name": "Relay 2 - ASIA",
+				"type": "relay",
+				"key": "724f49431b3bd70d705febc561a18b96"
+			}
+		}
+	}
+}

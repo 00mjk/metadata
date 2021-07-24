@@ -1,0 +1,17 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://cardanomex.com/icon64.png",
+		"url_png_logo": "https://cardanomex.com/logo.png",
+		"location": "Monterrey, Mexico",
+		"social": {
+			"twitter_handle": "CardanoMEX"
+		},
+		"about": {
+			"me": "We are a Cardano Stake Pool from Mexico.",
+			"company": "We donate 10% of our pool rewards to environmental organizations of the country."
+		}
+	},
+	"my-pool-ids": {
+		"0": "1df219217b1487843371e0d145f8ef6d6aca2e999b5a963c30a32446"
+	}
+}

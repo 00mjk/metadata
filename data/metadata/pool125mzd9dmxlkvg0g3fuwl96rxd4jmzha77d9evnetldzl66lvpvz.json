@@ -1,0 +1,7 @@
+{
+	"name": "Stake Pool Argentina",
+	"description": "Stake pool managed by Argentine SysAdmins",
+	"ticker": "ARG",
+	"homepage": "https://cardano-arg.online/",
+	"extended": "https://cardano-arg-pool.s3.amazonaws.com/pool_Metadata_extended.json"
+}

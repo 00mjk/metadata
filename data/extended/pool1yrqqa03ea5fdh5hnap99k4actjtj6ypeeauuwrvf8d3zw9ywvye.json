@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.cardanodo.com/cardanodo_icon.png",
+		"url_png_logo": "https://www.cardanodo.com/cardanodo_logo.png",
+		"location": "Canada, NorthAmerica",
+		"social": {
+			"twitter_handle": "NodoPool",
+			"telegram_handle": "cardanodo",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"telegram-admin-handle": [
+		""
+	],
+	"my-pool-ids": [
+		"20c00ebe39ed12dbd2f3e84a5b57b85c972d1039cf79c70d893b6227"
+	],
+	"when-satured-then-recommend": [
+		"20c00ebe39ed12dbd2f3e84a5b57b85c972d1039cf79c70d893b6227"
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://primestakepool.github.io/poolmeta/psp.png",
+		"url_png_logo": "https://primestakepool.github.io/poolmeta/psplogo.png",
+		"location": "India",
+		"about": {
+			"me": "We graduated from premier engineering institute in India. We believe in giving back to the society for the welfare of the lesser privileged. We believe Cardano will change the existing financial system and would make world a better place to live in with equal opportunities.",
+			"server": "Our infrastructure is based on cloud, protected with firewalls and additional layers of security.The data centers we are using are protected 24/7 and we plan to run several relay nodes to further secure our stakepool. We monitor our servers 24/7 to prevent any downtime."
+		},
+		"social": {
+			"twitter_handle": "primestakepool",
+			"telegram_handle": "primestakepool",
+			"facebook_handle": "primestakepool",
+			"youtube_handle": "channel/UC13tZeUFHFgOTSZahriPl5Q"
+		}
+	},
+	"my-pool-ids": {
+		"0": "729bc73ff6f7cd20a412470cc585e29dfa049fea230584b7caf9d3cb"
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://valencepool.info/images/logo_64x64.png",
+		"url_png_logo": "https://valencepool.info/images/logo.png",
+		"location": "San Francisco, United States",
+		"social": {
+			"twitter_handle": "ValencePool",
+			"telegram_handle": "eccentricbarad_valencepool"
+		},
+		"about": {
+			"me": "Valence is a professionally run node fostering the power and reliability of the Google Cloud Platform. We utilize Google Platform in order to delivered the same committment to sustainability as Cardano does.",
+			"server": "1 block producer (main), 2 relays distributed around the world."
+		}
+	},
+	"my-pool-ids": {
+		"0": "45db53a3789c6d03a447741cd526fbed788380077efc880521ba9dd9"
+	},
+	"telegram-admin-handle": {
+		"0": "eccentricbarad_valencepool"
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://luna-pool.com/images/luna-pool.png",
+		"url_png_logo": "https://luna-pool.com/images/luna-pool.png",
+		"location": "Ljubljana, Slovenia",
+		"social": {
+			"twitter_handle": "AdaSlovenija",
+			"telegram_handle": "LUNAstakepool"
+		},
+		"about": {
+			"me": "Thank you for choosing LUNA Stake Pool! LUNA is run by a small dedicated team of experienced IT professionals from Slovenia."
+		}
+	},
+	"my-pool-ids": {
+		"0": "b25395824b7e80cb54a5a2c51cc405bc707c3405ce5a311c0389273c"
+	},
+	"itn": {
+		"owner": "ed25519_pk1au6rm2fc9a99wsuvn55kr6t7m4rxntf3xgvkyulh9uwruatdr7xskddrje",
+		"witness": "ed25519_sig169sws63cgvk9tnevkhj2kwfg7tuc8tvf8tgyh30z0szjjqgx6fupspt4qh3e9saufj60x5n8u2uceke67zs0vp4xmnyddhe9dmg0wzcj74uw5"
+	}
+}

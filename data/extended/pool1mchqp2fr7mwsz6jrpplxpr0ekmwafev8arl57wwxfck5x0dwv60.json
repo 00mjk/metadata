@@ -1,0 +1,60 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://status.hwlegnano.it/cardano/HWL-Cardano64x64.png",
+		"url_png_logo": "https://status.hwlegnano.it/cardano/HWL-Cardano.png",
+		"location": "Milan, Italy",
+		"social": {
+			"twitter_handle": "HardwareLegnano",
+			"telegram_handle": "ItalyADAPool",
+			"facebook_handle": "hardware.legnano",
+			"youtube_handle": "channel/UCktutdsi74XvRDGwDn01iJQ",
+			"twitch_handle": "dark34566",
+			"discord_handle": "",
+			"github_handle": "hardware-legnano"
+		},
+		"company": {
+			"name": "Hardware Legnano",
+			"addr": "",
+			"city": "Legnano",
+			"country": "Italy",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Hardware Legnano has a long story behind. We believe Cardano will be the currency of the future and so, we've decided to run a Stake Pool here in Italy",
+			"server": "Block Producer is housed at our HQ, three relays are located in a cloud provider at three different sites (EU,US,ASIA)",
+			"company": "Hardware Legnano"
+		}
+	},
+	"my-pool-ids": {
+		"0": "de2e00a923f6dd016a43087e608df9b6ddd4e587e8ff4f39c64e2d43"
+	},
+	"telegram-admin-handle": {
+		"0": "Dark345",
+		"1": "LaGrandeOnda"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "con-cardano-relay01.hwlegnano.it",
+				"type": "relay",
+				"key": "e65a8c9a3516946dad2a33c2bc179280"
+			},
+			"1": {
+				"name": "con-cardano-relay02.hwlegnano.it",
+				"type": "relay",
+				"key": "4d42731740db1bde98033faf19b1e092"
+			},
+			"2": {
+				"name": "con-cardano-relay03.hwlegnano.it",
+				"type": "relay",
+				"key": "b4b03b7f38c906a02051c31253cf36ed"
+			},
+			"3": {
+				"name": "Block Producer",
+				"type": "bp",
+				"key": "9f5320cb20978650d399a6208cd3d29d"
+			}
+		}
+	}
+}

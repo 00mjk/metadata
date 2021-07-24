@@ -1,0 +1,17 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://aionpool.pl/aion_icon.png",
+		"url_png_logo": "https://aionpool.pl/aion_logo.png",
+		"location": "Pyrzyce, Poland",
+		"social": {
+			"twitter_handle": "PoolAion",
+			"telegram_handle": "cardano_aion_pool"
+		}
+	},
+	"my-pool-ids": {
+		"0": "a7b2a175b2e439acc125decd1f4d3a8e42a4744dcfe74dddf527c386"
+	},
+	"telegram-admin-handle": {
+		"0": "Kurielu"
+	}
+}

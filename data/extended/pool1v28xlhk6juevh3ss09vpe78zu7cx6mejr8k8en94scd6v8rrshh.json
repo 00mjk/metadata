@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.aircraftpilot.com.au/json/icon.png",
+		"url_png_logo": "https://www.aircraftpilot.com.au/json/logo.png",
+		"location": "Hong Kong, Hong Kong SAR",
+		"social": {
+			"twitter_handle": "BlackBoxPool",
+			"telegram_handle": "BlackBoxPool",
+			"facebook_handle": "blackboxpool",
+			"youtube_handle": "channel/UC4TAHNSI6nQ51BudlrMvF_g",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Black Box",
+			"addr": "Sai Ying Pun",
+			"city": "Hong Kong",
+			"country": "Hong Kong SAR",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "Black Box utilises state of the art data centres to ensure the stake pool operates around the clock with a focus on security and monitoring to prevent downtime.",
+			"company": "The mission of Black Box is to contribute to a better future globally by doing our small part. We plan on achieving this by being a long-term stake pool with a high level of reliability and availability."
+		},
+		"rss": ""
+	},
+	"telegram-admin-handle": [
+		""
+	],
+	"my-pool-ids": [
+		"628e6fdeda9732cbc61079581cf8e2e7b06d6f3219ec7cccb5861ba6"
+	],
+	"when-satured-then-recommend": [
+		"628e6fdeda9732cbc61079581cf8e2e7b06d6f3219ec7cccb5861ba6"
+	]
+}

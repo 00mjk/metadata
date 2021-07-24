@@ -1,0 +1,8 @@
+{
+	"name": "PLOT Stake pool",
+	"description": "PLOT is a 0% margin, mission-driven stake pool dedicated to close the technology gap in underrepresented minorities. We also contribute to the Cardano family by creating free tools to analyze Cardano data. Visit https://www.plotcardano.com for more info.",
+	"ticker": "PLOT",
+	"homepage": "https://www.plotcardano.com",
+	"extended": "https://www.plotcardano.com/extended.json",
+	"adaPools": "3498e5a62354f0f550d25237b4a5a188"
+}

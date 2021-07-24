@@ -1,0 +1,14 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://pools-united.github.io/pools/CPU/assets/cpu_64.png",
+		"url_png_logo": "https://pools-united.github.io/pools/CPU/assets/cpu_logo_black.png",
+		"location": "Amsterdam, Netherlands",
+		"social": {
+			"twitter_handle": "cpoolsunited",
+			"telegram_handle": "cpoolsunited"
+		},
+		"about": {
+			"server": "1 block producer and 3 relays, deployed on hetzner and digital ocean"
+		}
+	}
+}

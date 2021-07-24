@@ -1,0 +1,33 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://github.com/TrumpFanPool/Trump/blob/main/Hair200x200.png?raw=true",
+		"url_png_logo": "https://github.com/TrumpFanPool/Trump/blob/main/Hair200x200.png?raw=true",
+		"location": "",
+		"social": {
+			"twitter_handle": "TrumpFanCardano",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "channel/UCCzQFsz3zU-rBCVXvf7-Ojg",
+			"twitch_handle": "",
+			"discord_handle": "[Trump] Fan Cardano Stake Pool#6806",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Someone tired of the manipulation and authoritarianism coming from the left",
+			"server": "",
+			"company": ""
+		},
+		"my-pool-ids": {
+			"0": "bebfeddd60032c8052e46587218dcd6f3e6f0b1ad9be3864508049bc",
+			"1": ""
+		}
+	}
+}

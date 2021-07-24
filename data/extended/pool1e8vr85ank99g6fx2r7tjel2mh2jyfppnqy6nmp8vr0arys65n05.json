@@ -1,0 +1,10 @@
+{
+	"itn": {
+		"owner": "ed25519_pk1kmfcks4hvlmdxxwlz4rhdkwq667teg6zvj6c45pjv3paaw0g5tyqc9exya",
+		"witness": "ed25519_sig15qdd99wel9ulr8ppyw8xhq9nx2r6pml0ealf5mmjkmz0gqfeetd8rktdd4ys4fe8hq0h24n7prz49wpf9ge9xm24r9ef0dlxagwm6qqv8mtca"
+	},
+	"info": {
+		"url_png_icon_64x64": "https://reliablestaking.github.io/RelyIcon.png",
+		"url_png_logo": "https://reliablestaking.github.io/RelyLogo.png"
+	}
+}

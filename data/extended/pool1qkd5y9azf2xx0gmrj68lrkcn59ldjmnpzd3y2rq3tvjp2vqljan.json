@@ -1,0 +1,35 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://adamoon.net/assets/img/amoonicon-64x64.png",
+		"url_png_logo": "https://adamoon.net/assets/img/logo-small.png",
+		"location": "California | USA",
+		"social": {
+			"twitter_handle": "adamoonpool",
+			"telegram_handle": "adamoonpool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "ADA Moon Pool",
+			"addr": "",
+			"city": "Costa Mesa | San Francisco",
+			"country": "USA",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "We are a team of (two) IT professionals with over 15 years of experience, Single pool operators, from Costa Mesa | Bay Area, California, USA. Truly amazed by the vision and mission of Cardano, to change the world. We are happy to be a part of and are working towards helping grow Cardano community.",
+			"server": "Cloud hosted secure servers with Block Producer disconnected from internet, connected via a bastion host, 2 Relays, an airgapped machine for hybrid (online/offline) transaction signing capability and integration with Hardware wallet.",
+			"company": "ADA Moon Pool"
+		},
+		"my-pool-ids": {
+			"0": "059b4217a24a8c67a363968ff1db13a17ed96e611362450c115b2415"
+		},
+		"telegram-admin-handle": {
+			"0": "joinchat/HqixS7-gOzo4ZDcx"
+		}
+	}
+}

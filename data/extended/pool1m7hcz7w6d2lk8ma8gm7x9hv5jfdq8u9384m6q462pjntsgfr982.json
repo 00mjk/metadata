@@ -1,0 +1,16 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://kingtut-stakepool.com/ada/icons/icon.png",
+		"url_png_logo": "https://kingtut-stakepool.com/ada/icons/logo.png",
+		"social": {
+			"twitter_handle": "ktutstakepool"
+		},
+		"about": {
+			"server": "Using a mix between cloud based servers & cold metal servers we provide the maximum possible up time .",
+			"company": "https://kingtut-stakepool.com/ada"
+		}
+	},
+	"my-pool-ids": {
+		"0": "dfaf8179da6abf63efa746fc62dd94925a03f0b13d77a0574a0ca6b8"
+	}
+}

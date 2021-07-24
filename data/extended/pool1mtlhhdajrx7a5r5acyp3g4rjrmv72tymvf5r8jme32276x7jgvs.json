@@ -1,0 +1,46 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://blogfiles.pstatic.net/MjAyMTA1MThfMTY1/MDAxNjIxMzM4MzcyOTEz.l5Uk4o1YHAzd4AzDnufWffmCfyRLz3VDZCC-OjJsL3kg.8CpTEIMwyBakQ1o7H7HOIDppFodvaqFg2_wo8YJP82Ig.PNG.stakingpoolforus/FORUS_logo.png",
+		"url_png_logo": "https://blogfiles.pstatic.net/MjAyMTA1MThfMTY1/MDAxNjIxMzM4MzcyOTEz.l5Uk4o1YHAzd4AzDnufWffmCfyRLz3VDZCC-OjJsL3kg.8CpTEIMwyBakQ1o7H7HOIDppFodvaqFg2_wo8YJP82Ig.PNG.stakingpoolforus/FORUS_logo.png",
+		"location": "South Korea",
+		"social": {
+			"twitter_handle": "Sabastina_K",
+			"telegram_handle": "techeat",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "We are in South Korea, I hope all holders will get economic freedom in near future",
+			"server": "Maintain staking pool 24/7, Margin 0%, Please support us by delegating to our pool"
+		}
+	},
+	"my-pool-ids": {
+		"0": "daff7bb7b219bdda0e9dc1031454721ed9e52c9b626833cb798a95ed"
+	},
+	"when-satured-then-recommend": {
+		"0": ""
+	},
+	"telegram-admin-handle": {
+		"0": "techeat"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "",
+				"type": "",
+				"key": ""
+			}
+		}
+	}
+}

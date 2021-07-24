@@ -1,0 +1,17 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.lvlup-stakepool.com/images/lvlup_icon.png",
+		"url_png_logo": "https://www.lvlup-stakepool.com/images/lvlup-logo.png",
+		"location": "Montreal, Quebec, Canada",
+		"social": {
+			"facebook_handle": "LvLUpStakepool",
+			"telegram_handle": "Luckyslam"
+		},
+		"about": {
+			"server": "AWS and Bare metal - Ubuntu Server 20.04 LTS"
+		}
+	},
+	"when-satured-then-recommend": {
+		"0": "c2b8bff5160dd75149f2cae0955698550e8cf0d390025b26a9508a3e"
+	}
+}

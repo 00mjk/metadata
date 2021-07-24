@@ -1,0 +1,33 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.patienceovertime.com/pati-64x64.png",
+		"url_png_logo": "https://www.patienceovertime.com/pati-logo-small.png",
+		"location": "USA",
+		"social": {
+			"twitter_handle": "PoolPatience",
+			"telegram_handle": "PATI_Cardano",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"about": {
+			"me": "My name is Jordan and I am a programmer and technology enthusiast. I am the primary operator for PATIâ³ Cardano stake pool. We first registered in October 2020. We are committed to the long term goals of the project and extremely grateful to all of the people who did pioneering work before us in the Cardano ITN. Much of our operation would not be possible without the hard work of others. I have partnered with a number of trusted friends and technology enthusiasts to bootstrap our pool. Our current goals are securing a high pledge to maintain decentralization, developing educational content to enhance community understanding and exploring opportunities to create interesting new projects built on top of the Cardano network. Feel free to DM me on telegram or twitter if you have questions. I also frequently hang out in EDEN pool's telegram channel so you can find me there too.",
+			"server": "Our operation is cloud based, currently in AWS. We presently maintain 1 core node with backup and 3 relays across the USA, Europe, and South Korea."
+		}
+	},
+	"my-pool-ids": {
+		"0": "42aebb6bd342c6ea6c5a9851c8af88de3804a38ff9b67dab4df1bc57"
+	},
+	"when-satured-then-recommend": {
+		"0": "0001a003afb844ce6d9409fc49e049db654a78dc77f1151cb6cd548f",
+		"1": "abacadaba9f12a8b5382fc370e4e7e69421fb59831bb4ecca3a11d9b",
+		"2": "7c6b4a731eec6bef00e16ec4c990e7a817f61597dab1033006563ad7",
+		"3": "c1cadab46b74defa9f79b59b617fe2a50bdbce6b367e472b6109a7bc",
+		"4": "f8b811d63ef2ac9e19eff41ab7a99f37b82da701f8ddb34d6d12cdb7"
+	},
+	"telegram-admin-handle": {
+		"0": "PATI_Cardano"
+	}
+}

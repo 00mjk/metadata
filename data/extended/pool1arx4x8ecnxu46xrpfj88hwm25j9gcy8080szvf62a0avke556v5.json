@@ -1,0 +1,15 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://stakepool-germany.de/poolmeta/SPG01Icon.png",
+		"url_png_logo": "https://stakepool-germany.de/poolmeta/SPG01Logo.png",
+		"location": "Munich, Frankfurt",
+		"social": {
+			"twitter_handle": "ADA_Stakepool",
+			"facebook_handle": "CardanoStakepoolGermanySPG01"
+		},
+		"rss": "https://stakepool-germany.de/feed/"
+	},
+	"my-pool-ids": {
+		"0": "e8cd531f3899b95d18614c8e7bbb6aa48a8c10ef3be026274aebfacb"
+	}
+}

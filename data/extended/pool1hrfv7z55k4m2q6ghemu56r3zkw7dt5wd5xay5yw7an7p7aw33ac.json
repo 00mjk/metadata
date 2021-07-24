@@ -1,0 +1,28 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://cardano.dantup.com/logo.250.png",
+		"url_png_icon": "https://cardano.dantup.com/logo.1000.png",
+		"location": "England",
+		"social": {
+			"twitter_handle": "CoderStakePool",
+			"telegram_handle": "DanTup",
+			"github_handle": "DanTup"
+		}
+	},
+	"my-pool-ids": {
+		"0": "b8d2cf0a94b576a06917cef94d0e22b3bcd5d1cda1ba4a11deecfc1f"
+	},
+	"votes": {
+		"https://spovotes.com/votes/change-min-fixed-fee-to-variable/": {
+			"vote": "Yes",
+			"comment": "Let small pools compete!"
+		},
+		"https://spovotes.com/votes/reduce-min-fee/": {
+			"vote": "Yes",
+			"comment": "The current cost is far too high!"
+		},
+		"https://spovotes.com/votes/remove-min-fee/": {
+			"vote": "Yes"
+		}
+	}
+}

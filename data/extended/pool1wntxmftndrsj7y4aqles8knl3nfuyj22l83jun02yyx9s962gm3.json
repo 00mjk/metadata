@@ -1,0 +1,33 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/Couder82/coudrebros/main/CB_Icon.png",
+		"url_png_logo": "https://raw.githubusercontent.com/Couder82/coudrebros/main/CB_Icon.png",
+		"location": "Prague, Czech Republic",
+		"social": {
+			"twitter_handle": "BrosCoudre",
+			"telegram_handle": "CoudreBros",
+			"facebook_handle": "coudrebros",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Coudrebros",
+			"addr": "",
+			"city": "Prague",
+			"country": "CZ",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Cardano single pool operated by two brothers.",
+			"server": "6 core CPU, 16 GB RAM, 1 TB SSD, 100 Mbit Ethernet, Ubuntu based OS, UPS backup",
+			"company": ""
+		},
+		"my-pool-ids": {
+			"0": "pool1wntxmftndrsj7y4aqles8knl3nfuyj22l83jun02yyx9s962gm3",
+			"1": "74d66da57368e12f12bd07f303da7f8cd3c2494af9e32e4dea210c58"
+		}
+	}
+}

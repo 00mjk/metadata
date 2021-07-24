@@ -1,0 +1,17 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.rblxpool.com/images/icon_x64.png",
+		"url_png_logo": "https://www.rblxpool.com/images/icon_x64.png",
+		"location": "United States",
+		"social": {
+			"discord_handle": "https://discord.gg/8xavVvDMEr"
+		},
+		"about": {
+			"me": "This pool is run by three developers who have a passion for Cardano and a passion for game development.",
+			"server": "Three fully dedicated VPS servers, each with a minimum of 4 CPU cores, 8GB of RAM, and SSD storage"
+		}
+	},
+	"my-pool-ids": {
+		"0": "2d7ddd270a9d91cecb3c58af77267cdb5e14c05fcdb1bfa2b3f5fc4f"
+	}
+}

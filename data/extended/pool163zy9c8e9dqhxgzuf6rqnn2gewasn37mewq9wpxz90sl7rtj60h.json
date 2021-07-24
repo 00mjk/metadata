@@ -1,0 +1,22 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://moaipool.com/assets/moai-64px.png",
+		"url_png_logo": "",
+		"location": "United States",
+		"social": {
+			"twitter_handle": "moaipool",
+			"github_handle": "moaipool"
+		},
+		"about": {
+			"me": "Lovers of Linux and all things crypto.",
+			"server": "A reliable & green Cardano staking pool operating on 100% renewable energy. We plant trees too! 🌱🌴 Proud single pool operator.",
+			"company": "MOAI Group"
+		}
+	},
+	"my-pool-ids": {
+		"0": "d44442e0f92b4173205c4e8609cd48cbbb09c7dbcb805704c22be1ff"
+	},
+	"when-satured-then-recommend": {
+		"0": "16d216d074625d2dbb75c20948e4d9a1efe0fe79c4c915d4b5391de1"
+	}
+}

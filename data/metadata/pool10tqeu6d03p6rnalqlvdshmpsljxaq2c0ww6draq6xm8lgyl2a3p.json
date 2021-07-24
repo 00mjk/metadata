@@ -1,0 +1,7 @@
+{
+	"name": "Cardaspians",
+	"description": "Cardaspians is an application service provider for the Cardano eco system, providing reliable network and application services",
+	"ticker": "CASP",
+	"homepage": "https://cardaspians.io",
+	"extended": "https://cardaspians.io/casp.extended-metadata.json"
+}

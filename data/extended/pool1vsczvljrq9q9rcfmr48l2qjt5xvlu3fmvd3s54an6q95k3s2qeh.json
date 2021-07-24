@@ -1,0 +1,33 @@
+{
+	"info": {
+		"url_png_icon_64x64": "",
+		"url_png_logo": "",
+		"location": "Ruhrpott, Germany",
+		"social": {
+			"email": "rick@rickandmorty.me",
+			"twitter_handle": "RMPoolDE1",
+			"telegram_handle": "RuM_Pool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "Essen",
+			"country": "DE",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Single pool operater. Try to bring the Cardano World to Ruhrpott",
+			"server": "V-Server 4CPU, 8GB RAM",
+			"company": ""
+		},
+		"my-pool-ids": {
+			"0": "6430267e43014051e13b1d4ff5024ba199fe453b63630a57b3d00b4b"
+		}
+	}
+}

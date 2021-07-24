@@ -1,0 +1,33 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/dockrieger86/doc/main/icon.png",
+		"url_png_logo": "https://raw.githubusercontent.com/dockrieger86/doc/main/logo.png",
+		"location": "Alberta, Canada",
+		"social": {
+			"twitter_handle": "DocStakePool",
+			"telegram_handle": "docstakepool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": ""
+		},
+		"my-pool-ids": {
+			"0": "9084ebeb011e610e695068a74fa883dac5eda55faca77107b5f40064",
+			"1": ""
+		}
+	}
+}

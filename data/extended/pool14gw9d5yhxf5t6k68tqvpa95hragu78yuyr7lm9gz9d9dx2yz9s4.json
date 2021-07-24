@@ -1,0 +1,51 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://euadapool.com/wp-content/uploads/2021/02/euadapool-png-64x64-1.png",
+		"url_png_logo": "https://euadapool.com/wp-content/uploads/2021/02/cropped-ada-pool-linkedin.png",
+		"location": "Amsterdam, Netherlands",
+		"social": {
+			"twitter_handle": "EuropeanADApool",
+			"telegram_handle": "euadapool",
+			"github_handle": "fkupper",
+			"linkedin_handle": "european-ada-pool"
+		},
+		"company": {
+			"name": "European ADA Pool",
+			"addr": "Singel 542, 1017 AZ",
+			"city": "Amsterdam",
+			"country": "Netherlands"
+		},
+		"about": {
+			"me": "Two Professionals who are interested in promoting and creating awareness of Cardano and decentralisation, online security and data security",
+			"server": "We are running our Relays and Producers on AWS that provides secure and reliable 24/7 uptime nodes. It is designed to make web-scale cloud computing easier, faster and scalable, which perfectly fits for out staking pool.",
+			"company": "European Ada Pool is an international staking pool supported by organizations, strong development and marketing, striving to provide a stable staking pool for European and International Delegators. We are committing to financing and supporting projects which are focusing on the dApps."
+		},
+		"rss": "https://rss.app/feeds/JiWPV9chGImlWUZb.xml"
+	},
+	"my-pool-ids": {
+		"0": "pool14gw9d5yhxf5t6k68tqvpa95hragu78yuyr7lm9gz9d9dx2yz9s4",
+		"1": "aa1c56d0973268bd5b4758181e96971f51cf1c9c20fdfd95022b4ad3"
+	},
+	"telegram-admin-handle": {
+		"0": "euadapool"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "Relay 1",
+				"type": "relay",
+				"key": "ffd59c084867b9c077c2fff9a6b601b9"
+			},
+			"1": {
+				"name": "Core",
+				"type": "bp",
+				"key": "983a057bc266dfa9d3e166f91c5c8990"
+			},
+			"2": {
+				"name": "Relay 2",
+				"type": "relay",
+				"key": "a50fd4acc2022d9c213b1428354fb7bb"
+			}
+		}
+	}
+}

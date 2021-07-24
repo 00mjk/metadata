@@ -1,0 +1,32 @@
+{
+	"info": {
+		"url_png_icon_64x64": "http://minasan.io/icon_v2.png",
+		"url_png_logo": "http://minasan.io/logo_v2.png",
+		"location": "Prague, Czech Republic",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "minasan_ada",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Minasan",
+			"addr": "",
+			"city": "Prague",
+			"country": "Czech Republic",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Single pool operator involved in Cardano project since early 2018.",
+			"server": "Distributed and customized Intel NUCs which supports maximum decentralisation",
+			"company": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "c7211fc0d32e9498acd17c2e45f5a5e1ea7f483300b47f517db986ad"
+	}
+}

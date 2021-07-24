@@ -1,0 +1,7 @@
+{
+	"name": "Million Dollar Monkey Administration",
+	"description": "--- 1 Core Node --- 2 Relay Nodes --- reliable VPS located in Germany --- support a small pool ---",
+	"ticker": "MDMA",
+	"homepage": "https://www.mdmapool.de",
+	"extended": "https://raw.githubusercontent.com/mtrweb/MDMA/main/extendedPoolMetaData.json"
+}

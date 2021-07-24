@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "",
+		"url_png_logo": "",
+		"location": "Montreal, Quebec, Canada",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "FIXION MEDI₳",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "ffd23ba5f75e28a3cb1b095a352c5094d6589148b49329d05395cbdf"
+	},
+	"when-satured-then-recommend": {
+		"0": "",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	}
+}

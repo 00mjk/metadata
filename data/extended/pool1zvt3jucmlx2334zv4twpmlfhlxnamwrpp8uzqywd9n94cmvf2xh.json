@@ -1,0 +1,30 @@
+{
+	"itn": {
+		"owner": "ed25519_pk1fzaw43q6chundhd8gky65yjacvkcxl0ledv0geduteawl3zy0dnqg6stgw",
+		"witness": "ed25519_sig1sz9pcarpc2yumwsfz5zsexlla2tef32fgmgsmvkyy8wqyrazw9cyl8sma7zznjrlnxku8wyjuyr6ts0cgvv50t7cz2dw4ppvg49x5zgcvyvzw"
+	},
+	"info": {
+		"url_png_icon_64x64": "https://adavibe.eu/adavibe_logo_64x64.png",
+		"url_png_logo": "https://adavibe.eu/adavibe_logo.png",
+		"social": {
+			"twitter_handle": "Adavibesp",
+			"telegram_handle": "AdaVibeStakePool",
+			"github_handle": "adavibesp",
+			"codingame": [
+				{
+					"handle": "a8c43da0b16daa67504709e9ef4dec507190214"
+				}
+			]
+		},
+		"about": {
+			"me": "ADAVibe is a wholly owned and operated pool by myself. Our servers are running in enterprise grade datacenter powered by hydro and wind energy.",
+			"server": "Server are operated on basis of maximum redundancy and resource usage is being monitored"
+		}
+	},
+	"my-pool-ids": {
+		"0": "131719731bf99518d44caadc1dfd37f9a7ddb86109f82011cd2ccb5c"
+	},
+	"telegram-admin-handle": {
+		"0": "frmixx"
+	}
+}

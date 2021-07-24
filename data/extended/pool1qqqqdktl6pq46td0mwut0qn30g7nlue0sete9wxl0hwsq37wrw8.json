@@ -1,0 +1,23 @@
+{
+	"itn": {
+		"owner": "ed25519_pk12rdfk8a29tdnmu85nh7g39hj0spsr70nyg5vzvuxat0d6qpjaqhs480msg",
+		"witness": "ed25519_sig12c749nrs9wwzg842gntchxv8tnzjgyxu7jzcajrlwgsk5tljae3d0t3gxsuulnly4au7vt8yq3f8np73en284ps9pmaqmk2r2xcdspcn9m4gj"
+	},
+	"info": {
+		"url_png_icon_64x64": "https://straightpool.github.io/about/SP-Icon.png",
+		"url_png_logo": "https://straightpool.github.io/about/SP-Icon-Large.png",
+		"location": "Germany",
+		"social": {
+			"twitter_handle": "Straightpool4",
+			"telegram_handle": "str8pool",
+			"github_handle": "Straightpool"
+		},
+		"about": {
+			"me": "My name is Chris. I am a German IT professional with computer science background, with many years in the IT business. I am a Cardano enthusiast and Cardano Ambassador.",
+			"server": "The pool is run off three reliable, redundant virtual private servers, one block producer and two relays distributed across different data centers in Europe / Germany and Asia / Singapore. With this redundant setup, STR8 pool never misses a block even during maintenance windows. All nodes run on a modern secure Server OS with ample hardware resources and strong peering with easy scaling options to meet rising demands."
+		},
+		"my-pool-ids": {
+			"0": "000006d97fd0415d2dafdbb8b782717a3d3ff32f865792b8df7ddd00"
+		}
+	}
+}

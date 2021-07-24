@@ -1,0 +1,9 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file -https://raw.githubusercontent.com/CFPSG/1/main/poolMetaData.json",
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/CFPSG/1/main/poolicon.png",
+		"social": {
+			"twitter_handle": "coffeepool_ada"
+		}
+	}
+}

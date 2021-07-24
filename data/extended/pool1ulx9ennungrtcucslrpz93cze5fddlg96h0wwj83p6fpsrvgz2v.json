@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://genkipool.com/img/extImg/ico_GenkiPool.png",
+		"url_png_logo": "https://genkipool.com/img/extImg/Goku_GenkiPool_300x156.png",
+		"location": "ES",
+		"social": {
+			"twitter_handle": "GenkipoolC",
+			"telegram_handle": "genkipool",
+			"facebook_handle": "genkipool.genki",
+			"youtube_handle": "luisrb85",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "genkipool"
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Hi, my name is Luis, I have 7 years of experience as a network administrator and Network Security Assessment, I also have advanced knowledge in Linux and I know how to program in various languages, especially in bash and python.",
+			"server": "Dual core Intel Xeon Processor - 4GB RAM - 1Gbit bandwidth",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	},
+	"my-pool-ids": {
+		"0": "e7cc5cce7c9a06bc7310f8c222c702cd12d6fd05d5dee748f10e9218"
+	},
+	"when-satured-then-recommend": {
+		"0": "20a299827005c01b614b902756d9d03ce633f696c428f478ef9ddeeb"
+	}
+}

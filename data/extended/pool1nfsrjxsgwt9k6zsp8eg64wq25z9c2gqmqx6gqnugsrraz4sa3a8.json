@@ -1,0 +1,38 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://vnpool.org/pool/icon.png",
+		"url_png_logo": "https://vnpool.org/pool/logo.png",
+		"location": "Council Bluffs, United States",
+		"social": {
+			"twitter_handle": "vnpool_org",
+			"telegram_handle": "cardano",
+			"facebook_handle": "iohk.io",
+			"youtube_handle": "charleshoskinson",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Google Cloud firewalled networks - We have a block producer and two relays distributed..",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "9a60391a0872cb6d0a013e51aab80aa08b85201b01b4804f8880c7d1"
+	},
+	"when-satured-then-recommend": {
+		"0": "9a60391a0872cb6d0a013e51aab80aa08b85201b01b4804f8880c7d1"
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	}
+}

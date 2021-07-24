@@ -1,0 +1,40 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://lemon-pool.com/img/pool-icon.png",
+		"url_png_logo": "https://lemon-pool.com/img/pool-about-banner.jpg",
+		"location": "Cuba Havana",
+		"social": {
+			"twitter_handle": "Leo_Delegator",
+			"telegram_handle": "limonpool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Limon Cardano Stake Pool",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "We are a team of cuban engineers friends who believe in Cardano vision, we support descentralization and we think Cardano will improve financial services for countries in development like Cuba",
+			"server": "Reliable cloud based servers with (4 vCPU Cores/ 8GB RAM/ 200GB SSD Disk) each",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	},
+	"my-pool-ids": {
+		"0": "pool19hfx5wua6gmjerzg83es62j85m63u5wqdd9fcfy0dhf6cs8kx02"
+	},
+	"when-satured-then-recommend": {
+		"0": ""
+	},
+	"4cd8d9400fec972082cab86c93742aeb": ""
+}

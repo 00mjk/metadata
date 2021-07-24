@@ -1,0 +1,14 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://pools-united.github.io/pools/CURIE/assets/CurieLogo_64.png",
+		"url_png_logo": "https://pools-united.github.io/pools/CURIE/assets/CurieLogo.png",
+		"location": "Amsterdam, Netherlands",
+		"social": {
+			"twitter_handle": "CuriePool",
+			"telegram_handle": "mariecuriepool"
+		},
+		"about": {
+			"server": "1 block producer and 2 relays"
+		}
+	}
+}

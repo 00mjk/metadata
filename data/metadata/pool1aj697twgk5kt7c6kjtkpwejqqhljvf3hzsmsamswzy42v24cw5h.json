@@ -1,0 +1,6 @@
+{
+	"name": "KyleK's Stake Pool",
+	"description": "A stake pool designed to gracefully handle server/data center outages by running across multiple availability zones in Google Kubernetes Engine.",
+	"ticker": "KYLEK",
+	"homepage": "https://kylek.online"
+}

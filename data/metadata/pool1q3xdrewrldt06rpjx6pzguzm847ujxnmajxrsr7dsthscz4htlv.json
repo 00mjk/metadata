@@ -1,0 +1,7 @@
+{
+	"name": "MICRO Staking Pool",
+	"description": "ADA staking pool",
+	"ticker": "MICRO",
+	"homepage": "https://www.microstakepool.com",
+	"extended": "https://micro86.github.io/MICROpool/micro.extended-metadata.json"
+}

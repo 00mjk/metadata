@@ -1,0 +1,43 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://bit.ly/3tfEtFm",
+		"url_png_logo": "https://bit.ly/3nDj87j",
+		"location": "Wyoming, USA",
+		"social": {
+			"twitter_handle": "https://twitter.com/",
+			"telegram_handle": "https://t.me/TetonPool",
+			"facebook_handle": "https://twitter.com/TetonBlocks",
+			"youtube_handle": "https://youtube.com/channel/UCG4Av0xeLAD-hJCQHMrYqtA",
+			"twitch_handle": "",
+			"discord_handle": "Heath#5691",
+			"github_handle": "https://github.com/heathdrobertson"
+		},
+		"company": {
+			"name": "TetonBlocks",
+			"addr": "PO Box 726",
+			"city": "Jackson, Wyoming 83001",
+			"country": "USA",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Propelling Web 3.0 - The Value, Governance, & Digital Asset Web",
+			"server": "Ubuntu 20.10 - Internet 940 Mbps",
+			"company": "TetonBlocks"
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "a2a7050e1ef0618dc76bdcc9bbba0c01f88fe1b88e19cc3218acacd8"
+	},
+	"when-satured-then-recommend": {
+		"0": "",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": "https://t.me/HeathDRobertson"
+	},
+	"ada-pools": {
+		"id": "f73cccbf48d021881ee473623b007928"
+	}
+}

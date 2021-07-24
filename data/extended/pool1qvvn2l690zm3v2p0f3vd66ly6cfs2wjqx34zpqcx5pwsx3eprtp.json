@@ -1,0 +1,19 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://viperstaking.com/assets/favicon/adapools-64x64.png",
+		"url_png_logo": "https://viperstaking.com/assets/favicon/android-chrome-512x512.png",
+		"location": "Albuquerque, New Mexico, United States",
+		"social": {
+			"twitter_handle": "viperstakepool",
+			"telegram_handle": "joinchat/IEPIu0mJYDpqMT-3a8V0Vw",
+			"youtube_handle": "channel/UCs1LxJFihn45CkGSdLGHQgw",
+			"github_handle": "Viper-Staking"
+		}
+	},
+	"my-pool-ids": {
+		"0": "0319357f4578b716282f4c58dd6be4d613053a40346a208306a05d03"
+	},
+	"when-satured-then-recommend": {
+		"0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735"
+	}
+}

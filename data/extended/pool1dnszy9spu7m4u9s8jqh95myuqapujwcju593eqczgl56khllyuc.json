@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/wookie-nation/Wookie-Nation/main/WookieNationIcon_64x64.png",
+		"url_png_logo": "https://raw.githubusercontent.com/wookie-nation/Wookie-Nation/main/WookieNationIcon.png",
+		"location": "USA, North America",
+		"social": {
+			"twitter_handle": "NationWookie",
+			"telegram_handle": "Wookie-Nation",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "wookienationada",
+			"discord_handle": "kfEjArup5R",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Passionate IT Profesional & Technology Evangelist with over 24 years experience in delivering solutions for customers and corporations. Also strong in the Force and Full-Time Jedi.",
+			"server": "Server cluster hosted in 24/7 datacenter with power, load, and location redundancies.",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"telegram-admin-handle": [
+		""
+	],
+	"my-pool-ids": [
+		"6ce0221601e7b75e1607902e5a6c9c0743c93b12e50b1c830247e9ab"
+	],
+	"when-satured-then-recommend": [
+		"651151eed67c4b506a0e4279040a5210d85ec88704d680f39bca2dda"
+	]
+}

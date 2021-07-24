@@ -1,0 +1,60 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "http(s) url to pool icon; not animated; max 40kb",
+		"url_png_logo": "http(s) url to pool logo; not animated; max 50kb",
+		"location": "Truro, England",
+		"social": {
+			"twitter_handle": "Crowdano",
+			"telegram_handle": "crowdano_pool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "ejane24"
+		},
+		"company": {
+			"name": "Crowdano Crowdfunding",
+			"addr": "",
+			"city": "Truro",
+			"country": "England",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Ed",
+			"server": "Three servers hosted with 100% renewable energy!",
+			"company": "Crowdano Crowdfunding"
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "ae96cb925985079c1108a412e810be1871d68cab6dffb6eddbac9adb"
+	},
+	"when-satured-then-recommend": {
+		"0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
+		"1": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
+	},
+	"telegram-admin-handle": {
+		"0": "Mendrinos2"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "relay 1 eu",
+				"type": "relay",
+				"key": "example_get_own_on_adapools.org/connect"
+			},
+			"1": {
+				"name": "relay 2 usa",
+				"type": "relay",
+				"key": "example_get_own_on_adapools.org/connect"
+			},
+			"2": {
+				"name": "block producer home",
+				"type": "bp",
+				"key": "example_get_own_on_adapools.org/connect"
+			}
+		}
+	}
+}

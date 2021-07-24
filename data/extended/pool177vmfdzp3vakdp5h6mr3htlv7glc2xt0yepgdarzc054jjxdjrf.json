@@ -1,0 +1,21 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://cardano-save-pool.contact/img/save/logo_64.png",
+		"url_png_logo": "https://cardano-save-pool.contact/img/save/logo.png",
+		"location": "Noumea, New Caledonia",
+		"social": {
+			"twitter_handle": "CardanoSavePool",
+			"telegram_handle": "CardanoSavePool"
+		},
+		"about": {
+			"me": "Guillaume Fenollar + Senior Linux Engineer & SPO",
+			"server": "Bare-metal PB node and multiple relays with 24/7 monitoring"
+		}
+	},
+	"my-pool-ids": {
+		"0": "f799b4b4418b3b668697d6c71bafecf23f85196f264286f462c3e959"
+	},
+	"telegram-admin-handle": {
+		"0": "CardanoSavePool"
+	}
+}

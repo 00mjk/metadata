@@ -1,0 +1,34 @@
+{
+	"itn": {
+		"owner": "ed25519_pk1w9kzddgatseddqqs3fqzp9d5747dfl0w3xuv630ktx6cnek6x38qnuadnq",
+		"witness": "ed25519_sig1knlxf29dl5z6sw347at3cpcqp3rq5pxqfvucvvem8z7ac9vqgvqxsa3d7l4mwv2k3y6v284re9weempvet9e37twd0xsz9y3cu5hqrcq9sq3k"
+	},
+	"info": {
+		"url_png_icon_64x64": "https://adastat.net/img/logo-64x64.png",
+		"url_png_logo": "https://adastat.net/img/logo.png",
+		"location": "DÃ¼sseldorf, Germany",
+		"social": {
+			"twitter_handle": "ada_stat",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": ""
+		}
+	},
+	"telegram-admin-handle": {
+		"0": "dmitry_stas"
+	},
+	"my-pool-ids": {
+		"0": "77b0a93c26ac65be36e9a9f220f9a43cbc57d705fc5d8f1de5fdeea1",
+		"1": "adb8f11466290d1a8bef7c9665848cd66e45a7e74e5c25f586f0192e"
+	},
+	"when-satured-then-recommend": {
+		"0": "77b0a93c26ac65be36e9a9f220f9a43cbc57d705fc5d8f1de5fdeea1",
+		"1": "adb8f11466290d1a8bef7c9665848cd66e45a7e74e5c25f586f0192e",
+		"2": "660f2b816e90e4e826daebf33357d76ab89414f88d57dd7d9f7898fe",
+		"3": "8be06c73a6ba898ae2f0d1f1594321ab3c24dd0d0717bd3e686b1658",
+		"4": "ec7871705e483ac323f53c0f68f9c776a72b785967c444c9bf119393",
+		"5": "fcbfb4a3c18f890de7a51f68603b18e654f8b432abdda17c53a0d586"
+	}
+}

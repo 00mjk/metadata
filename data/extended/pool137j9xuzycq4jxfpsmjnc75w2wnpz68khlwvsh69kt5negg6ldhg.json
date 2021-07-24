@@ -1,0 +1,40 @@
+{
+	"how-to-implement": "",
+	"info": {
+		"url_png_icon_64x64": "https://storage.googleapis.com/topo-pool/white-logo-small.png",
+		"url_png_logo": "https://storage.googleapis.com/topo-pool/white-logo.png",
+		"location": "Argentina",
+		"social": {
+			"twitter_handle": "CryptoGirlB",
+			"telegram_handle": "PowerG",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "A 100% non profit pool, all pool operator's rewards will be donated to impactful charity projects",
+			"server": "Professionally setup pools for guaranteed reliability",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": [
+		"8fa4537044c02b232430dca78f51ca74c22d1ed7fb990be8b65d2794"
+	],
+	"when-satured-then-recommend": [
+		"9dda57fac3474adbe8b64be48aafeff6aa31f59909231f202b642d33"
+	],
+	"telegram-admin-handle": [
+		""
+	]
+}

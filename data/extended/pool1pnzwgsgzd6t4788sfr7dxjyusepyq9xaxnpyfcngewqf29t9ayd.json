@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://staking.rocks/stuff/staking-rocks-adapools-icon.png",
+		"url_png_logo": "https://staking.rocks/stuff/phrck-profile-adapools.png",
+		"location": "BGC, Manila, Philippines",
+		"social": {
+			"twitter_handle": "PHRCKpool",
+			"telegram_handle": "phrck",
+			"facebook_handle": "staking.rocks",
+			"youtube_handle": "channel/UC7KINscErbMtR6sZ4cCgRsQ",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Staking.rocks is a dedicated stake pool operator for the Cardano blockchain network and a passionate supporter of the project. We believe in the cause of the Cardano project. We are motivated by a vision of the future with more equality in terms of access to currency.",
+			"server": "We run 3 cloud servers composed of 1 block-producing node behind 2 relay nodes, all geographically separate from each other for maximum reliability (Singapore, Tokyo and Sydney). Each server has quad-core CPU, 8GB RAM and enterprise-class SSD drive for optimum performance.",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "0cc4e441026e975f1cf048fcd3489c86424014dd34c244e268cb8095"
+	},
+	"when-satured-then-recommend": {
+		"0": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://cylonyx.github.io/images/64x64Logo.png",
+		"url_png_logo": "https://cylonyx.github.io/images/Ada.png",
+		"extra": "c7c311ad83e43ebd772caa025b1484a4",
+		"location": "St. Paul, Minnesota",
+		"social": {
+			"twitter_handle": "Cylonyx",
+			"telegram_handle": "Cylonyx",
+			"youtube_handle": "channel/UCEhRHeDKwvgrEi8gYddBRHA/",
+			"twitch_handle": "Cylonyx"
+		},
+		"about": {
+			"me": "An electrical engineer looking to give power back to the people.",
+			"server": "Relays are on the cloud. The block producer is a server of my own."
+		},
+		"my-pool-ids": {
+			"0": "822ee46a8ae3b3eb4376a7fa6325743cb56de823edd936b6d1868483"
+		},
+		"when-satured-then-recommend": {
+			"0": "89eba2781e5cd11ccda6be56503702a39e9941e522f04cd5bba22957"
+		}
+	}
+}

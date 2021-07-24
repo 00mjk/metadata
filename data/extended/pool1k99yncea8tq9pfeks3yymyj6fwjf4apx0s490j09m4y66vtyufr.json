@@ -1,0 +1,20 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://user-images.githubusercontent.com/83668055/118300580-61b82a00-b4e2-11eb-900e-df7555ee3285.png",
+		"url_png_logo": "https://user-images.githubusercontent.com/83668055/118301083-f6228c80-b4e2-11eb-897f-97cec6f77ad8.png",
+		"location": "International",
+		"social": {
+			"twitter_handle": "TheMiningApple",
+			"telegram_handle": "pumppoolcardano",
+			"facebook_handle": "",
+			"youtube_handle": "TheMiningApple",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "pumppool"
+		},
+		"my-pool-ids": {
+			"0": "b14a49e33d3ac050a73684484d92 5a4ba49af4267c2a57c9e5dd49ad",
+			"1": ""
+		}
+	}
+}

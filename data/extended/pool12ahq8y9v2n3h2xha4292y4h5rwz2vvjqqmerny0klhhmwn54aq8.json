@@ -1,0 +1,33 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/SJPMurphy/UsAsOne/0292ce470e1116de5fa011819e0bbbf18351e7a0/USONE-Logo-64px.png",
+		"url_png_logo": "https://raw.githubusercontent.com/SJPMurphy/UsAsOne/0292ce470e1116de5fa011819e0bbbf18351e7a0/USONE_Logo.png",
+		"location": "Sydney, Australia",
+		"social": {
+			"twitter_handle": "as_usone",
+			"telegram_handle": "us_as_one",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Unified Shores IT Services",
+			"addr": "",
+			"city": "Sydney",
+			"country": "Australia",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Our mission is to support Australian based charities that are making a difference worldwide.",
+			"server": "",
+			"company": "We are a Multinational IT Team of Friends, monitoring 24/7, to ensure a Reliable and Secure Node for Delegators."
+		}
+	},
+	"my-pool-ids": {
+		"0": "576e0390ac54e3751afdaa8aa256f41b84a6324006f23991f6fdefb7",
+		"1": ""
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"name": "Alice Stake Pool",
+	"description": "Single stake pool operator w/ 100% uptime. Come down the rabbit hole with us!",
+	"ticker": "ALICE",
+	"homepage": "https://skilov3.github.io/AliceStakePool/",
+	"extended": "https://raw.githubusercontent.com/SkiLov3/AliceStakePool/main/extended.json"
+}

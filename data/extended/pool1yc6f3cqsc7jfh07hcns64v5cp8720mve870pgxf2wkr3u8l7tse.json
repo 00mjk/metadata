@@ -1,0 +1,23 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/hyperlinkpool/staticresources/master/hyperlinkpool-logo-adapools-trans-64.png",
+		"url_png_logo": "https://raw.githubusercontent.com/hyperlinkpool/staticresources/master/hyperlinkpool-khodl-logo.png",
+		"location": "Seoul, Korea",
+		"social": {
+			"twitter_handle": "HYPERLINKPOOL",
+			"telegram_handle": "HYPERLINKPOOL",
+			"github_handle": "hyperlinkpool"
+		},
+		"about": {
+			"me": "We are supported by Korea-Hodler-Community. Over 10 years software development. Experiences : Back-End Dev., Front-End Dev., SA, SE, DBA, PL, DevOps.",
+			"server": "Operation : Hybrid(Baremetal & Cloud Server)"
+		},
+		"adapools-verification-id": "a1d67c9bae4d44c35760fc2f7ff28b5c"
+	},
+	"my-pool-ids": {
+		"0": "263498e010c7a49bbfd7c4e1aab29809fca7ed993f9e14192a75871e"
+	},
+	"when-satured-then-recommend": {
+		"0": "263498e010c7a49bbfd7c4e1aab29809fca7ed993f9e14192a75871e"
+	}
+}

@@ -1,0 +1,8 @@
+{
+	"name": "Spanish Stake Pool",
+	"ticker": "ADAES",
+	"description": "High availability, four relays, two located in Spain, the rest distributed throughout the world, since epoch 208, supports decentralization, supports ADAES",
+	"homepage": "https://cardanopool.es",
+	"nonce": "1615919078",
+	"extended": "https://cardanopool.es/extended.json"
+}

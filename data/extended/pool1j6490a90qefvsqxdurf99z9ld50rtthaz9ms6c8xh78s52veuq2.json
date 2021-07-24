@@ -1,0 +1,32 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/Cardano-TH/BKKA/gh-pages/img/logo.png",
+		"url_png_logo": "https://raw.githubusercontent.com/Cardano-TH/BKKA/gh-pages/img/logo.png",
+		"location": "Bangkok, Thailand",
+		"social": {
+			"twitter_handle": "Cardano_TH",
+			"telegram_handle": "CardanoTH",
+			"facebook_handle": "CardanoADAThailand"
+		},
+		"about": {
+			"me": "Cardano-TH is an efficient and secure Stake Pool allowing you to easily participate in the functioning of the Cardano blockchain. Our target is to build a community in Thailand, to give knowledge about Cardano blockchain to Thai people, and to become one of decentralized parts. Once we get % margin fee, which will be voted by community, and we will donate all of %  margin fee to charities, https://www.thaichildrights.org/ and http://www.warawannursinghome.com/",
+			"server": "VM google cloud USA server & Raspberry Pi passive node at my Home in Bangkok Thailand"
+		},
+		"my-pool-ids": {
+			"0": "96aa57f4af0652c800cde0d25288bf6d1e35aefd11770d60e6bf8f0a",
+			"1": "pool1j6490a90qefvsqxdurf99z9ld50rtthaz9ms6c8xh78s52veuq2"
+		},
+		"when-satured-then-recommend": {
+			"0": "ebb32905bc6ef3b584b1e6f81de7e14201362aa04d10429123feb67f",
+			"1": "pool1awejjpdudmemtp93umupmelpggqnv24qf5gy9yfrl6m87astv7w",
+			"2": "2ee658bc6437e77e492d2216191e28dd076d88c7f0c0c4949092fe34",
+			"3": "pool19mn930ryxlnhujfdygtpj83gm5rkmzx87rqvf9ysjtlrgxxepj2",
+			"4": "7fec643470e07954326fb01fe6b25828d0de9bf8999e4ad2d8923a5c",
+			"5": "pool10lkxgdrsupu4gvn0kq07dvjc9rgdaxlcnx0y45kcjga9c0c766u"
+		},
+		"telegram-admin-handle": {
+			"0": "jjadaprincess",
+			"1": "yingadaprincess"
+		}
+	}
+}

@@ -1,0 +1,51 @@
+{
+	"itn": {
+		"owner": "ed25519_pk1xyfmxljw7cumjdk35jrd76ut0zak9sqljwkssgzm6vxkyh5faptqrykp5c",
+		"witness": "ed25519_sig1vhgzar8840zhmkr2xz0ukk5g72t0l9n2ld2c8d7rgpm0a5sle0d6z5qunffqr05sz9jc4qkdxm35z95pl7llqcjxyg4ljddz25weurgskr3zq"
+	},
+	"info": {
+		"url_png_icon_64x64": "",
+		"url_png_logo": "",
+		"location": "",
+		"social": {
+			"twitter_handle": "haskellcoding29",
+			"telegram_handle": "Cardano_Korea",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "I am Cardano Ambassador as moderator. I am also currently managing Cardano Korea  Community(official and unofficial) and I am JOY & HOPE Pool Operator. Now, I am planning to build a business model that utilizes the Cardano platform in the future with my professionals and English, Korean and Japanese language skills.",
+			"server": "",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "fd832d27b5fbe0489409613f50e2139b54a21e613c8a7609dcff556e",
+		"1": "e36c628f68125e717842a87c4b05a0835949a5ee3f1313b8706ce8d1",
+		"2": "65ea43eab7c0143d6bb68f9d56c276bce09377bdc41e1a42ac9535ed",
+		"3": "31cb0848348e7025dfab4acaef57d52d2879c051082929be9ad46a14"
+	},
+	"when-satured-then-recommend": {
+		"0": "fd832d27b5fbe0489409613f50e2139b54a21e613c8a7609dcff556e",
+		"1": "e36c628f68125e717842a87c4b05a0835949a5ee3f1313b8706ce8d1",
+		"2": "65ea43eab7c0143d6bb68f9d56c276bce09377bdc41e1a42ac9535ed",
+		"3": "31cb0848348e7025dfab4acaef57d52d2879c051082929be9ad46a14"
+	},
+	"telegram-admin-handle": {
+		"0": "cardanokorea",
+		"1": "Cardano_Korea",
+		"2": "joypool"
+	}
+}

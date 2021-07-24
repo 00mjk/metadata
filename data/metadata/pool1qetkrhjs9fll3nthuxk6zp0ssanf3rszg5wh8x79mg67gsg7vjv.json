@@ -1,0 +1,7 @@
+{
+	"name": "Diamond Pool",
+	"description": "Diamond Stake Pool - Make every moment precious by delegating your ADA to our cloud based stake pool operated by IT professionals",
+	"ticker": "CARAT",
+	"homepage": "https://diamondpool.io",
+	"extended": "https://raw.githubusercontent.com/adosiawolf/m/master/cx.json"
+}

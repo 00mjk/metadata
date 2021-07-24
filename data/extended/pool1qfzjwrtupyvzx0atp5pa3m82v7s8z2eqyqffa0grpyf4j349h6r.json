@@ -1,0 +1,25 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://antonelli182.github.io/favicon-32x32.png",
+		"url_png_logo": "https://antonelli182.github.io/logo-greenstake.png",
+		"location": "California"
+	},
+	"my-pool-ids": {
+		"0": "pool1qfzjwrtupyvzx0atp5pa3m82v7s8z2eqyqffa0grpyf4j349h6r"
+	},
+	"when-satured-then-recommend": {
+		"0": "pool1qfzjwrtupyvzx0atp5pa3m82v7s8z2eqyqffa0grpyf4j349h6r"
+	},
+	"telegram-admin-handle": {
+		"0": "antonelli182"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "Block Producer Server",
+				"type": "bp",
+				"key": "7d135a96cbb28f50c87faa9629becffc"
+			}
+		}
+	}
+}

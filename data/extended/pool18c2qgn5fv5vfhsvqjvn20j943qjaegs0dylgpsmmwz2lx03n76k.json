@@ -1,0 +1,34 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://github.com/prashakar/ada-pool-meta/blob/main/bettr_icon_64x64.png?raw=true",
+		"url_png_logo": "https://github.com/prashakar/ada-pool-meta/blob/main/bettr_logo_300x300.png?raw=true",
+		"location": "Canada",
+		"social": {
+			"twitter_handle": "the_better_pool",
+			"telegram_handle": "thebetterpool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "The Better Company",
+			"addr": "",
+			"city": "",
+			"country": "Canada",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "I'm a Software Engineer and entrepreneur. I believe Cardano will change the world for good.",
+			"company": "Single, small pool operator under The Better Company brand."
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "3e14044e8965189bc1809326a7c8b58825dca20f693e80c37b7095f3"
+	},
+	"when-satured-then-recommend": {},
+	"telegram-admin-handle": {}
+}

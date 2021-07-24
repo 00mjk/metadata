@@ -1,0 +1,16 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://adaholycs.de/wp-content/uploads/2021/01/cropped-cropped-cropped-Logo_Try_2_Haube-2-e1611499888324.png",
+		"url_png_logo": "https://adaholycs.de/wp-content/uploads/2021/01/cropped-cropped-cropped-Logo_Try_2_Haube-2-e1611499888324.png",
+		"about": {
+			"me": "Johann",
+			"server": "Intel Nuc, evironment friendly and build for future"
+		},
+		"social": {
+			"twitter_handle": "adaholycs"
+		}
+	},
+	"my-pool-ids": {
+		"0": "6d3f657a5fb765a69bd36e4d216da05ae979cc26a2955eb8478932f6"
+	}
+}

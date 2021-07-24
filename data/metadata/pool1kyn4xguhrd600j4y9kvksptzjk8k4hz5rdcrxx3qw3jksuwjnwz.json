@@ -1,0 +1,21 @@
+{
+	"name": "GoodLife",
+	"description": "German Black Forest Node",
+	"ticker": "GDL",
+	"homepage": "https://gd.life",
+	"info": {
+		"location": "Freudenstadt, Germany",
+		"social": {
+			"facebook_handle": "gd.life.de"
+		},
+		"company": {
+			"name": "Good Life",
+			"city": "Freudenstadt",
+			"country": "Germany"
+		},
+		"about": {
+			"me": "Free green Cardano Stake Pool made in Black Forest Germany - GDL",
+			"server": "Core DE 1gbit, R1 DE 1gbit, R2 NL 19gbit - solar energy."
+		}
+	}
+}

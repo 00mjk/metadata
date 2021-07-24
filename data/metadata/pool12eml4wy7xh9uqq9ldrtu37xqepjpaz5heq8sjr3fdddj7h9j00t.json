@@ -1,0 +1,7 @@
+{
+	"name": "Loyalty Pool",
+	"description": "70% of the pool margin will always go to those who are most loyal.",
+	"ticker": "LOYAL",
+	"homepage": "https://loyaltypool.com",
+	"extended": "https://loyaltypool.com/poolMetaDataExtended.json"
+}

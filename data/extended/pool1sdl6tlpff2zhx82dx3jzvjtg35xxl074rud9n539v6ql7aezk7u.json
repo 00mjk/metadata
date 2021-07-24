@@ -1,0 +1,36 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://data.devs.tools/dev64.png",
+		"url_png_logo": "https://data.devs.tools/dev.png",
+		"location": "Mexico City, Mexico",
+		"social": {
+			"twitter_handle": "dev_pools",
+			"telegram_handle": "",
+			"facebook_handle": "DevPool-109997274696527",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "yWwzaZb2",
+			"github_handle": "dev-pools"
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Professionals with years of experience running billion user products",
+			"server": "VPS in with monitoring located in US and operations in Mexico City",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "pool1sdl6tlpff2zhx82dx3jzvjtg35xxl074rud9n539v6ql7aezk7u"
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	}
+}

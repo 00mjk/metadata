@@ -1,0 +1,29 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/ProofStakePool/Proof-StakePool/main/Logo64x64.png",
+		"url_png_logo": "https://raw.githubusercontent.com/ProofStakePool/Proof-StakePool/main/Logo.png",
+		"location": "Germany",
+		"social": {
+			"twitter_handle": "ProofStakePool",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "I am an independent single stake pool operator who believes Cardano's groundbreaking technology and the cryptocurrency ADA. Since I am striving for true decentralization, I do not belong to any alliance that contradicts the idea of decentralization",
+			"server": "3 x 6 vCPU, 16 GB RAM, SSD. 1 x Block Producer (Germany), 2 Relays (Germany & USA)",
+			"company": ""
+		}
+	}
+}

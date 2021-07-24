@@ -1,0 +1,35 @@
+{
+	"itn": {
+		"owner": "ed25519_pk10ejwf9urcsvgx2a9zrt5dcnsjegrnur3ls3sycp5rudw9mj3esyssd7509",
+		"witness": "ed25519_sig1rjmmr2mhysprg02drydn7djte04uhc2zup9lw8uq2qsrv9tu4erapxmnthlcchu6tu7rvnfusan04dtqjvx43l49ya853nd7nrkk6qsg36mrq"
+	},
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/maneav/m/master/ArmADA_64x64.png",
+		"url_png_logo": "https://raw.githubusercontent.com/maneav/m/master/ArmADA.png",
+		"location": "Ontario, Canada",
+		"social": {
+			"twitter_handle": "ArmADApool",
+			"telegram_handle": "ArmADApool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "ArmADA Stake Pool",
+			"addr": "",
+			"city": "Ontario",
+			"country": "Canada",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "With over 20 years of IT experience, we are utilizing the best security, and monitoring practices to provide our delegators the best return possible. Working closely with the Cardano community from the beginning, allowed us to fine tune and improve our servers day-by-day.",
+			"server": "ArmADA Stake Pool is running on a global scale infrastructure since the Incentivized Test Net (ITN) in December 2019. It is a combination of bare metal located in Canada and servers hosted in Certified Data Centers around the globe to ensure redundancy in case of an outage."
+		},
+		"my-pool-ids": {
+			"0": "a2ccd8e93f5a518d4400790cb081673e79ed41e4bf1132f740f26a28"
+		}
+	}
+}

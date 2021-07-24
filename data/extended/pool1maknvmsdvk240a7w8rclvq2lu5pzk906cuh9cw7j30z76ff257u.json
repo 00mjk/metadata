@@ -1,0 +1,9 @@
+{
+	"itn": {
+		"owner": "ed25519_pk1fkapan9rm9tuvwxxx7yxqpuuq82vuqr7c7ga7tth4jxewcvgvj0s5m8uzp",
+		"witness": "ed25519_sig175ja6ml2r6qcruat45fdujkmxfjqtgufz4kz5ps3qelzjlf4l0afs8z2zpm03xx73fqpmskjwjw2g29569khhanxumjdpdpy8taqkqqnvcxue"
+	},
+	"info": {
+		"url_png_icon_64x64": "https://cardanoatstake.com/assets/logo/logo_small.png"
+	}
+}

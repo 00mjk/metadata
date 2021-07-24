@@ -1,0 +1,7 @@
+{
+	"name": "CardanoSky",
+	"description": "The Cardano Sky Staking project",
+	"ticker": "CASK",
+	"homepage": "https://cardanosky.com",
+	"extended": "https://gist.githubusercontent.com/LiorElb/e8e1f13b292cb446cb3092a0c45a65a2/raw/carsky-extended.json"
+}

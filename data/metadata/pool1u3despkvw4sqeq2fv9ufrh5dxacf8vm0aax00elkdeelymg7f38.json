@@ -1,0 +1,7 @@
+{
+	"name": "Ada Life Form",
+	"description": "Take the money and stake",
+	"ticker": "ALF",
+	"homepage": "https://adalifeform.at",
+	"extended": "https://raw.githubusercontent.com/maxleo1/alf/main/adapools.json"
+}

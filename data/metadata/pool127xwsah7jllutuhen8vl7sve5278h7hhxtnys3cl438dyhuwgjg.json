@@ -1,0 +1,7 @@
+{
+	"name": "ARTZ Pool",
+	"description": "Bare Metal Server. 24/7 Monitoring. Industry grade security. 10% donation to PS ARTS charity. Built to scale and handle smart contracts.",
+	"ticker": "ARTZ",
+	"homepage": "https://artzstakepool.com",
+	"extended": "https://raw.githubusercontent.com/joshmci9198/artz/main/extendedMetadata.json"
+}

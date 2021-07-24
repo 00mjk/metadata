@@ -1,0 +1,38 @@
+{
+	"info": {
+		"url_png_icon_64x64": "",
+		"url_png_logo": "",
+		"location": "New York, USA",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "@silveriodsm",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Dynamic Networks",
+			"addr": "Calle Cana",
+			"city": "Punta Cana",
+			"country": "Dominican Republic"
+		},
+		"about": {
+			"me": "Silverio Dos Santos",
+			"server": "Cloud hosted 8 CPU, 16 RAM 180 SSD",
+			"company": "Digital Ocean"
+		}
+	},
+	"my-pool-ids": {
+		"0": "pool1tdjjgjfwzl842nrzplkfakj4y7y4000cd8dxm2zjtlrjugt2aac",
+		"1": "5b6524492e17cf554c620fec9eda55278957bdf869da6da8525fc72e"
+	},
+	"when-satured-then-recommend": {
+		"0": "pool127gdv243hfcrapslaqq0nnh64u2gts72gtrt4888g6g2z0zsu64",
+		"1": "5790d62ab1ba703e861fe800f9cefaaf1485c3ca42c6ba9ce74690a1"
+	},
+	"telegram-admin-handle": {
+		"0": "@silveriodsm"
+	}
+}

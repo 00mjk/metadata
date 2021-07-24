@@ -1,0 +1,24 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://nodenetworks.org/wp-content/metadata/favicon.png",
+		"url_png_logo": "https://nodenetworks.org/wp-content/metadata/logo.png",
+		"social": {
+			"twitter_handle": "networks_node",
+			"telegram_handle": "NodeNetworksADAPool",
+			"youtube_handle": "nodenetworks"
+		}
+	},
+	"my-pool-ids": [
+		"de950fe87de4b25c5a63b5ddf89578adf92e36cdf2035f1da11797d4",
+		"008371cdb3cb14331b4ccd3bac369274906a26c8a00604e9b2785890"
+	],
+	"when-satured-then-recommend": [
+		"de950fe87de4b25c5a63b5ddf89578adf92e36cdf2035f1da11797d4",
+		"008371cdb3cb14331b4ccd3bac369274906a26c8a00604e9b2785890"
+	],
+	"telegram-admin-handle": [
+		"JB_SE",
+		"A1txchange",
+		"tayerr"
+	]
+}

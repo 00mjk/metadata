@@ -1,0 +1,20 @@
+{
+	"info": {
+		"location": "Kentucky, United States",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"about": {
+			"server": "One BP and two relays"
+		}
+	},
+	"my-pool-ids": {
+		"0": "c91e83649984043842f8d0a5f17763f09e953545cc78b78428acaa83"
+	}
+}

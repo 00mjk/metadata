@@ -1,0 +1,46 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://github.com/patrick310/coffr/raw/main/flag.png",
+		"url_png_logo": "https://github.com/patrick310/coffr/raw/main/logo.png",
+		"location": "Tuscaloosa, Alabama",
+		"social": {
+			"twitter_handle": "CardanoParrot",
+			"telegram_handle": "ada_coffr",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "NmShy7tqQH",
+			"github_handle": ""
+		},
+		"about": {
+			"me": "Systems engineer with a strong belief in the positive benefits of decentralization.",
+			"server": "Primarily cloud-based supplemented with operational, physical back-up servers."
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "651151eed67c4b506a0e4279040a5210d85ec88704d680f39bca2dda"
+	},
+	"when-satured-then-recommend": {
+		"0": "651151eed67c4b506a0e4279040a5210d85ec88704d680f39bca2dda",
+		"1": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
+	},
+	"telegram-admin-handle": {
+		"0": "CharlesMeridian"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "Main USA Relay",
+				"type": "relay",
+				"key": "93e92142900d0040d9ea243cd28dbba2"
+			},
+			"1": {
+				"name": "Relay Node 2",
+				"type": "relay",
+				"key": "4510168d0ae755c6527daa7ee96adc4c"
+			}
+		}
+	}
+}

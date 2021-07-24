@@ -1,0 +1,16 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://coinbevy.com/img/logo-64x64.png",
+		"url_png_logo": "https://coinbevy.com/img/logo-512x512.png",
+		"location": "Florida, United States",
+		"social": {
+			"twitter_handle": "CoinBevy"
+		}
+	},
+	"my-pool-ids": {
+		"0": "54c4c68b99589468656a50304b7796d79ccfb1150608461cae9d7621"
+	},
+	"when-satured-then-recommend": {
+		"0": "54c4c68b99589468656a50304b7796d79ccfb1150608461cae9d7621"
+	}
+}

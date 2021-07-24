@@ -1,0 +1,27 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://cryptopoolparty.com/img/logo64.png",
+		"url_png_logo": "https://cryptopoolparty.com/img/logo.png",
+		"location": "United States",
+		"social": {
+			"matrix_handle": "cryptopoolparty:matrix.org"
+		},
+		"company": {
+			"name": "Crypto Pool Party"
+		},
+		"about": {
+			"me": "CryptoPoolParty.com is hosted by evagenlists of the cryptocurrency ecosystem.  We have been around for a while and have seen a number of things, and want to contribute to the future of the ecosystem.",
+			"server": "Our servers are located in data centers around the world, are load balanced and well maintained.  We maintain servers in separate geographic regions to contribute to the overal speed of the network, and to ensure continuous uptime.",
+			"company": "CryptoPoolParty.com was founded as a way to give back to the community.  We're a small pool just starting out, but our goal is to redistribute a portion of the collected funds to assist open source and cryptocurrency projects."
+		},
+		"rss": "http(s) rss not yet here"
+	},
+	"my-pool-ids": {
+		"0": "dfd6ebd73fca6256db9c13e87fa13c61bc5c51d898a3017791e8ef02",
+		"1": "dfd6ebd73fca6256db9c13e87fa13c61bc5c51d898a3017791e8ef02"
+	},
+	"when-satured-then-recommend": {
+		"0": "dfd6ebd73fca6256db9c13e87fa13c61bc5c51d898a3017791e8ef02",
+		"1": "dfd6ebd73fca6256db9c13e87fa13c61bc5c51d898a3017791e8ef02"
+	}
+}

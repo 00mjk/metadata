@@ -1,0 +1,24 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://stakefornature.com/ico64.png",
+		"url_png_logo": "https://stakefornature.com/ico.png",
+		"location": "Canberra, Australia",
+		"social": {
+			"twitter_handle": "NatureStake",
+			"telegram_handle": "ST_4_NA",
+			"youtube_handle": "channel/UCK4NaspZepg1_t7TOKltxIw"
+		},
+		"about": {
+			"me": "We are Esther and Juan Carlos. We are a couple passionate by Nature and at the same time we love new technologies",
+			"server": "We use for servers located in London, Germany, Australia and Spain. This was we help Cardano decentralisation network.",
+			"company": "ð³ Stake for Nature ð¦"
+		},
+		"my-pool-ids": {
+			"0": "5707e4254180d481a4f1e690be0c2c54b3a618051d907df7e4434c0b"
+		},
+		"when-satured-then-recommend": {
+			"0": "",
+			"1": ""
+		}
+	}
+}

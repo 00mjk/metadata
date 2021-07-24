@@ -1,0 +1,33 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://i.postimg.cc/L53XJ9zN/Kurdopia-icon-64x64-wb.png",
+		"url_png_logo": "https://i.postimg.cc/L53XJ9zN/Kurdopia-icon-64x64-wb.png",
+		"location": "London, England",
+		"social": {
+			"twitter_handle": "kurdopia",
+			"telegram_handle": "joinchat/DsNKJhhjmiVoqrfTIGh1zQ",
+			"facebook_handle": "Kurdopia.store",
+			"youtube_handle": "channel/UCFZCcXJHREnUgZmZij9lJmQ",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"about": {
+			"me": "Experience as structural engineer with good enough knowledge in IT",
+			"server": "Block producer on bare metal server and relays on cloud services. Regularly monitored and updated to run at optimal capacity & sécurity.",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "f9f646eb4b04adea5afee58b63cc9f53e0da82118c2ab10a6557b922",
+		"1": ""
+	},
+	"when-satured-then-recommend": {
+		"0": "",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	}
+}

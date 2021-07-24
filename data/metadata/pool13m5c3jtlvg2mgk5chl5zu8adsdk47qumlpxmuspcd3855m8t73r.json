@@ -1,0 +1,17 @@
+{
+	"name": "ADAPG is an ADA Pool maintained by Poligram GmbH",
+	"ticker": "ADAPG",
+	"description": "ADA pool maintained by Poligram GmbH. We are Capital Market and Fund Management Software Solution Experts.",
+	"homepage": "https://ada.poligram.de",
+	"adapools_verify": "d1b36afc2b374d3c204ceff758d2b7a8",
+	"info": {
+		"company": {
+			"name": "Poligram GmbH",
+			"addr": "Rilkeweg 4",
+			"city": "Moehenesee",
+			"country": "Germany",
+			"company_id": "HRB10900",
+			"vat_id": "DE251226082"
+		}
+	}
+}

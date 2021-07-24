@@ -1,0 +1,7 @@
+{
+	"name": "A CardanoLand pool ACL",
+	"description": "Your Trust is our Motivation - A CardanoLand [ACL]",
+	"ticker": "ACL",
+	"homepage": "https://cardanoland.com",
+	"extended": "https://raw.githubusercontent.com/SViksha/A/master/EACL.json"
+}

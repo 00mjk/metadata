@@ -1,0 +1,47 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://assinaai.github.io/cardanari/cardanari-icon.png",
+		"url_png_logo": "https://assinaai.github.io/cardanari/cardanari-logo.png",
+		"location": "Sao Paulo, Brazil",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "@ccarbonari",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Cardanari LTDA",
+			"addr": "",
+			"city": "Sao Paulo",
+			"country": "Brazil",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "We are a small but very committed and reliable pool, please keep in mind that rewards on small pools takes time, but when they happen are bigger than rewards from bigger pools. So if you are a holder stake with us and be patient, the rewards will come. Thanks very much for trusting us, if you have any question just reach me any time on telegram.",
+			"server": "Relay and block node hosted on dedicates servers.",
+			"company": "Cardanari LTDA"
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "e20bd557014af3f4215c66ca00084d07bb0a5e39b96d04a6346b953a"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "Cardanari-Father-Relay1",
+				"type": "relay",
+				"key": "235e8bb14d0fff7662c294bd844ed465"
+			},
+			"1": {
+				"name": "Cardanari-Father-BlockProducer",
+				"type": "bp",
+				"key": "ad835f023a9623c898bcf405ebe2152b"
+			}
+		}
+	}
+}

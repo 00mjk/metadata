@@ -1,0 +1,42 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/jarixe/vapor/main/logo-64x64.png",
+		"url_png_logo": "https://raw.githubusercontent.com/jarixe/vapor/main/logo-1x1-small.png",
+		"location": "Arnhem, Netherlands",
+		"social": {
+			"twitter_handle": "vaporpooleu",
+			"telegram_handle": "vaporpool",
+			"facebook_handle": "vaporpooleu",
+			"youtube_handle": "/channel/UC9H4DEUBOan7NIU8f491-vQ",
+			"twitch_handle": "",
+			"discord_handle": "HpTAT2sMgF",
+			"github_handle": ""
+		},
+		"about": {
+			"me": "Owners Jari and Alex",
+			"server": "Partly run on renewable energy and relay nodes in reliable datacenters!"
+		},
+		"telegram-admin-handle": {
+			"0": "Jarixe_VAPOR"
+		},
+		"adapools_ext": {
+			"prometheus": {
+				"0": {
+					"name": "Relay 1 FR",
+					"type": "relay",
+					"key": "ef31d53e0225cdc65ba9b4e6dd68d9e6"
+				},
+				"1": {
+					"name": "Relay 2 DE",
+					"type": "relay",
+					"key": "5fe9b60c5ab05324cc8388ff9cd6bd3f"
+				},
+				"2": {
+					"name": "block producer home",
+					"type": "bp",
+					"key": "fc0bbb1f7e091ed9d24f554fafe531aa"
+				}
+			}
+		}
+	}
+}

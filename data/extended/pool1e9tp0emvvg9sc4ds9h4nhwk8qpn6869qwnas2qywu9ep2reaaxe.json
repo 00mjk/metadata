@@ -1,0 +1,58 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://lordb-rocks.github.io/lordb-64x64.png",
+		"url_png_logo": "https://lordb-rocks.github.io/lordb-logo-wide.jpg",
+		"location": "Los Angeles, CA",
+		"social": {
+			"twitter_handle": "lordb_rocks",
+			"telegram_handle": "lordb_stake_pool",
+			"facebook_handle": "lordb.pool",
+			"youtube_handle": "channel/UCKO54mPkEIuPyP1EFjgTcmQ",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "lordb-rocks"
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "(3) Reliable 4cpu, 8GB RAM, 80GB SSD servers, running Linux - 24/7/365 99.9% uptime with monitoring, SMS alerting & tight security, making sure no block goes unminted!",
+			"company": "Lord Byron Stake Pool"
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "c95617e76c620b0c55b02deb3bbac70067a3e8a074fb05008ee17215"
+	},
+	"when-satured-then-recommend": {
+		"0": "c95617e76c620b0c55b02deb3bbac70067a3e8a074fb05008ee17215"
+	},
+	"telegram-admin-handle": {
+		"0": "lordb_rocks"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "Block Producer",
+				"type": "bp",
+				"key": ""
+			},
+			"1": {
+				"name": "Relay 1",
+				"type": "relay",
+				"key": ""
+			},
+			"2": {
+				"name": "Relay 2",
+				"type": "relay",
+				"key": ""
+			}
+		}
+	}
+}

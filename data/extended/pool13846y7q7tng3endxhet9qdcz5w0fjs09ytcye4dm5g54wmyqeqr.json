@@ -1,0 +1,26 @@
+{
+	"itn": {
+		"owner": "ed25519_pk1jdsnkt5dxdfknzwjjzvrj2fyahkylk5alrcvxtq2je2tn55a85qqlr525q",
+		"witness": "ed25519_sig1pfw7tk658exp0zqpndwdsrjz9afqvx6cyun55jvk2k54gqd8sy6etv87dcgn3uqgq4rhtfjhw4l9vhx36sufw9uree3yj79xwk4s2rcdqx4v2"
+	},
+	"info": {
+		"url_png_logo": "https://brothershipool.org/bsp_face.png",
+		"url_png_icon_64x64": "https://brothershipool.org/logo-64-64.png",
+		"location": "Limassol, Cyprus",
+		"social": {
+			"twitter_handle": "BrothershipPool",
+			"telegram_handle": "Leandros42",
+			"youtube_handle": "leo h"
+		},
+		"about": {
+			"me": "My name is Leandros Holleman, born and raised in Cyprus with serveral years of DevOps experience. Feel free to pm me for any questions :) ",
+			"server": "Main server is a bare metal maschine with 12 Cores and 128 GB ECC Ram, dual internet connections, fall over power protection and relay servers around the world using AWS, Digitalocean and crontabo. BSP is always online!"
+		}
+	},
+	"my-pool-ids": {
+		"0": "89eba2781e5cd11ccda6be56503702a39e9941e522f04cd5bba22957"
+	},
+	"telegram-admin-handle": {
+		"0": "Leandros42"
+	}
+}

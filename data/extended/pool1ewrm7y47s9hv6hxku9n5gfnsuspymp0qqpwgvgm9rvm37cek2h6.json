@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://static.wixstatic.com/media/a49c35_1e524ac0d0324e74ad735416f9d81fcd~mv2.png",
+		"url_png_logo": "https://static.wixstatic.com/media/a49c35_85eeb0b18cb24383b466ec031a27ed0c~mv2.png",
+		"location": "Netherlands, Europe",
+		"social": {
+			"twitter_handle": "@Ada4goodP",
+			"telegram_handle": "ADA4GoodP",
+			"facebook_handle": "ADA4Good",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "6JYzD9NVnk",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "ADA4Good",
+			"addr": "",
+			"city": "",
+			"country": "Netherlands",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Vahid",
+			"server": "2 Relays, 1 Node Producer at Professional Managed Datacenter in Amsterdam",
+			"company": "ADA 4 Good"
+		},
+		"rss": ""
+	},
+	"telegram-admin-handle": [
+		""
+	],
+	"my-pool-ids": [
+		"cb87bf12be816ecd5cd6e167442670e4024d85e0005c8623651b371f"
+	],
+	"when-satured-then-recommend": [
+		"cb87bf12be816ecd5cd6e167442670e4024d85e0005c8623651b371f"
+	]
+}

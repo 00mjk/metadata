@@ -1,0 +1,24 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://gulaspool.com/photo/gulas_pool.jpg",
+		"location": "Budapest, Hungary",
+		"social": {
+			"twitter_handle": "adacoinH",
+			"telegram_handle": "adacoinhu",
+			"facebook_handle": "adacoinhu",
+			"youtube_handle": "channel/UCXAIM118PBVQlOb0PjtOrJA"
+		},
+		"about": {
+			"me": "The goal of the Hungarian Cardano Community is to be the first one to inform the Hungarian people about any updates and news related to Cardano. With our adacoin.hu news portal, we open a new world for enthusiastic inquirers. ",
+			"server": "Server in Hungary and Germany, Gbit internet connection, SSD, SLA 99.95%"
+		},
+		"rss": "https://adacoin.hu/feed/"
+	},
+	"my-pool-ids": {
+		"0": "926a9ad87449ee8782926ce1ee07f6e718ca82d974d86d41b0dc7111"
+	},
+	"telegram-admin-handle": {
+		"0": "klampert",
+		"1": "ittiswadevagyok"
+	}
+}

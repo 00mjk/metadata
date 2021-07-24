@@ -1,0 +1,8 @@
+{
+	"name": "ChefSwap ISPO #1",
+	"ticker": "CHEF1",
+	"description": "Official ChefSwap ISPO Stake Pool. Go to our website ChefSwap.org to confirm you are delegating to the right stake pool.",
+	"homepage": "https://www.chefswap.org",
+	"nonce": "1624036237",
+	"extended": "https://raw.githubusercontent.com/chefswap/spo/main/extend"
+}

@@ -1,0 +1,7 @@
+{
+	"name": "MEME Pool",
+	"description": "They don't know I run a Cardano stake pool.",
+	"ticker": "MEME",
+	"homepage": "https://meme.best",
+	"extended": "https://meme.best/node/extended.json"
+}

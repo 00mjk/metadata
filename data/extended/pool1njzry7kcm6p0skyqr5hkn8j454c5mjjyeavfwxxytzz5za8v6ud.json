@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.neatstaking.com/wp-content/uploads/2021/03/cropped-Unity-Staking-site-icon.png",
+		"url_png_logo": "https://www.neatstaking.com/wp-content/uploads/2021/03/Neat-Staking-Logo-512x512-1.png",
+		"location": "Cape Town, South Africa",
+		"social": {
+			"twitter_handle": "neatstaking",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Cardano Evangelist | Linux Systems Administrator and Storage Specialist (22 years Exp.)",
+			"server": "High Performance AWS Cloud Instances | 2.5 GHZ AMD EPYC 7000 series CPUs | Up to 5GB/s network speeds | Powered by AWS Nitro System",
+			"company": ""
+		}
+	},
+	"telegram-admin-handle": [
+		""
+	],
+	"my-pool-ids": [
+		"9c84327ad8de82f858801d2f699e55a5714dca44cf589718c4588541",
+		""
+	],
+	"when-satured-then-recommend": [
+		"",
+		""
+	]
+}

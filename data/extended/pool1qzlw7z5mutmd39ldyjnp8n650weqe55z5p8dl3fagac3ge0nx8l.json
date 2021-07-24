@@ -1,0 +1,32 @@
+{
+	"itn": {
+		"owner": "ed25519_pk1gy0e8lw4dnlkullq559c79nfmanr6e62d3c3trp6c8jsjkvges6q57672t",
+		"witness": "ed25519_sig1zsm8s8xcfs6xrutmd8ysu777p0wnd4qlfrd5y9pzgvu94lngt9u76jvxzd3r4mkkpvqzfx46xcr2ledw9seqv6lggpj46d26ku7t7rcvxwj38"
+	},
+	"info": {
+		"url_png_icon_64x64": "https://bluecheesestakehouse.com/apple-icon-60x60.png",
+		"url_png_logo": "https://bluecheesestakehouse.com/android-icon-192x192.png",
+		"location": "Oregon, USA",
+		"social": {
+			"twitter_handle": "amw7",
+			"telegram_handle": "blue_cheese_stake_house",
+			"youtube_handle": "andrewwestberg",
+			"discord_handle": "",
+			"github_handle": "AndrewWestberg"
+		},
+		"company": {
+			"name": "BCSH, LLC."
+		},
+		"about": {
+			"server": "EPYC - Bare Metal",
+			"company": "BCSH, LLC."
+		},
+		"rss": ""
+	},
+	"telegram-admin-handle": [
+		"andrewwestberg"
+	],
+	"my-pool-ids": [
+		"00beef0a9be2f6d897ed24a613cf547bb20cd282a04edfc53d477114"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://spaas.org/img/spaas-64x64.png",
+		"social": {
+			"twitter_handle": "spaaspool",
+			"telegram_handle": "spaaspool",
+			"github_handle": "spaaspool"
+		}
+	},
+	"my-pool-ids": {
+		"0": "2518d909e839ee7dd775c933172a58bbc3339ecf0d6af7d1146b5f47"
+	}
+}

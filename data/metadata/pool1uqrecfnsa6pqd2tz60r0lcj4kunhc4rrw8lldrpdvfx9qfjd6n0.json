@@ -1,0 +1,9 @@
+{
+	"name": "Amsterdam Node",
+	"ticker": "AMS",
+	"description": "Amsterdam Node - The Secure Node For The Long Run",
+	"homepage": "http://www.amsterdamnode.com",
+	"extended": "https://git.io/JGFix",
+	"nonce": "1597293683",
+	"adapools": "229277a1c7db0d486b3fc0ab76cd0cd3"
+}

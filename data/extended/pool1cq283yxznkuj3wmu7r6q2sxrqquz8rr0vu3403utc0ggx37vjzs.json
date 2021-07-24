@@ -1,0 +1,35 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://meta.ada-pool.cloud/img/cloud-64.png",
+		"url_png_logo": "https://meta.ada-pool.cloud/img/cloud.png",
+		"location": "New York, USA",
+		"social": {
+			"telegram_handle": "cloudcardanostakepool"
+		}
+	},
+	"my-pool-ids": {
+		"0": "pool1cq283yxznkuj3wmu7r6q2sxrqquz8rr0vu3403utc0ggx37vjzs"
+	},
+	"telegram-admin-handle": {
+		"0": "beersnbits"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "Cardano Cloud Stake Pool Relay 1",
+				"type": "relay",
+				"key": "5ebce749435b44ef409bc9d96d1ff8cb"
+			},
+			"1": {
+				"name": "Cardano Cloud Stake Pool Relay 2",
+				"type": "relay",
+				"key": "28c1ca4ddd028a9f4edf3d17469a4341"
+			},
+			"2": {
+				"name": "Cardano Cloud Stake Pool Block Producer 1",
+				"type": "bp",
+				"key": "c4ed45912dfb0044e27af3165659c160"
+			}
+		}
+	}
+}

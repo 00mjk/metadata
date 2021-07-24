@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://quantpool.io/quant-logo.png",
+		"url_png_logo": "https://quantpool.io/quant-logo.png",
+		"location": "Country, Continent",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "QuantPool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": ""
+		},
+		"rss": "http(s) url to valid RSS feed"
+	},
+	"telegram-admin-handle": [
+		""
+	],
+	"my-pool-ids": [
+		"39161b537e4f275a48b2e7cc0799fa6e1c2da5bd6c237ed07b0c4000"
+	],
+	"when-satured-then-recommend": [
+		"39161b537e4f275a48b2e7cc0799fa6e1c2da5bd6c237ed07b0c4000"
+	]
+}

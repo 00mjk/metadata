@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://sayshar.github.io/ADASRN_64x64.png",
+		"url_png_logo": "https://sayshar.github.io/ADASRN_1024x1024.png",
+		"location": "Rawang, Malaysia",
+		"social": {
+			"twitter_handle": "ADASRN1",
+			"telegram_handle": "joinchat/-wRavw7JOvo1MmFl",
+			"facebook_handle": "ADASRN1",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "9fXUEqaYCr",
+			"github_handle": "sayshar"
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "We are Malaysians who want to participate in the Cardano network as we believe DeFi is the future. We are glad to be part of the 100 pools chosen for the second cohort of 2021 to receive the IOG delegation fund. This would help us attract more delegators as we can now prove the capability of our pool operations. We are donating some of our proceedings to charity once we have received enough delegation to become profitable. Follow our Twitter page to chat and/or keep up with us.",
+			"server": "We have 3 separate bare metal nodes which comprise of 2 Relay nodes and 1 Block producing node. As fans of the little Raspberry Pi, 2 of our bare metal nodes (1 relay and 1 block producer), are run from Raspberry Pi 4B 8GB units with binaries built from source for the aarch64 architecture. For redundancy, we have an additional AMD64 Linux PC which can take the place of either the block producer or relay when performing extended maintenance. Our OS of choice is Ubuntu 20.04 LTS (for the relays) and AlpineOS 3.13.5 (for the block producer).",
+			"company": ""
+		},
+		"rss": "http(s) url to valid RSS feed"
+	},
+	"telegram-admin-handle": [
+		""
+	],
+	"my-pool-ids": [
+		"cc1b1c03798884c636703443a23b8d9e827d6c0417921600394198a0"
+	],
+	"when-satured-then-recommend": [
+		"cc1b1c03798884c636703443a23b8d9e827d6c0417921600394198a0"
+	]
+}

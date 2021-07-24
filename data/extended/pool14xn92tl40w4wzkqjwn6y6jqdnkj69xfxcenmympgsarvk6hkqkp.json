@@ -1,0 +1,57 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://helia-staking.ch/wp-content/uploads/2021/07/sun-emoji64.png",
+		"url_png_logo": "https://helia-staking.ch/wp-content/uploads/2021/07/sun-emoji.png",
+		"location": "Frankfurt, Germany",
+		"social": {
+			"twitter_handle": "heliastaking",
+			"telegram_handle": "heliastaking",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "heliastaking"
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": "GB123456789"
+		},
+		"about": {
+			"me": "Proud Single Stake Pool Operator from Switzerland with ambition of blockchain education and decentralization of blockchain services",
+			"server": "2 Relays and Block Producer are on fast pacing cloud, each node with Octa-Core CPUs, 16GBs RAM and 320GBs NVMe",
+			"company": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "a9a6552ff57baae1581274f44d480d9da5a29926c667b26c288746cb"
+	},
+	"when-satured-then-recommend": {
+		"0": "a9a6552ff57baae1581274f44d480d9da5a29926c667b26c288746cb"
+	},
+	"telegram-admin-handle": {
+		"0": "heliastaking"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "Relay 1",
+				"type": "relay",
+				"key": "4113789d1c239ff50d5927b684a58642"
+			},
+			"1": {
+				"name": "Relay 2",
+				"type": "relay",
+				"key": "fe882449aa6898fa6e4cab792392d621"
+			},
+			"2": {
+				"name": "Block Producer",
+				"type": "bp",
+				"key": "58b98a9eea39e92d720f01ac26153020"
+			}
+		}
+	}
+}

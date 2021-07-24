@@ -1,0 +1,14 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://nimuepool.io/images/nimue-icon-04.png",
+		"url_png_logo": "https://nimuepool.io/images/nimue-logo-medium-01.png",
+		"location": "Sint-Niklaas, Flanders, Belgium",
+		"social": {
+			"twitter_handle": "nimuepool",
+			"facebook_handle": "nimuepool"
+		},
+		"about": {
+			"server": "Intel NUC 10 Core i7-10710U, VMware ESXi 7, Ubuntu Server 20.04 LTS"
+		}
+	}
+}

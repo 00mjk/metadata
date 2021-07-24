@@ -1,0 +1,68 @@
+{
+	"itn": {
+		"owner": "",
+		"witness": ""
+	},
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/lidi-11/lidi1/main/lidi-logo-64x64.png",
+		"url_png_logo": "https://raw.githubusercontent.com/lidi-11/lidi1/main/lidi-logo.png",
+		"location": "",
+		"social": {
+			"twitter_handle": "LIDIevents",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"when-satured-then-recommend": {
+		"0": "",
+		"1": "",
+		"2": "",
+		"3": "",
+		"4": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "",
+				"type": "",
+				"key": ""
+			},
+			"1": {
+				"name": "",
+				"type": "",
+				"key": ""
+			},
+			"2": {
+				"name": "",
+				"type": "",
+				"key": ""
+			}
+		}
+	}
+}

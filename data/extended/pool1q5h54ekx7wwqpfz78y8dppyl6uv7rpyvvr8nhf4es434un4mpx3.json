@@ -1,0 +1,26 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://behemothpool.files.wordpress.com/2021/05/bhmt_icon_64x64-5.png",
+		"location": "Kaarina, Finland",
+		"social": {
+			"twitter_handle": "Behemothpool",
+			"telegram_handle": "behemothpool",
+			"github_handle": "rakalto"
+		},
+		"about": {
+			"server": "Raspberry Pi Hosted at my home in Kaarina, Finland."
+		},
+		"my-pool-ids": {
+			"0": "052f4ae6c6f39c00a45e390ed0849fd719e1848c60cf3ba6b985635e"
+		},
+		"adapools_ext": {
+			"prometheus": {
+				"0": {
+					"name": "relay 1 fi",
+					"type": "relay",
+					"key": "3f62526309ac1417217fad14d9caffca"
+				}
+			}
+		}
+	}
+}

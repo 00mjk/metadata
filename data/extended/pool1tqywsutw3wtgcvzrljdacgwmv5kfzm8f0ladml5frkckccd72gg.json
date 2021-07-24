@@ -1,0 +1,58 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/swinful/csp/master/FREEBSD_Logo_head_64x64.png",
+		"url_png_logo": "https://raw.githubusercontent.com/swinful/csp/master/FREEBSD_Logo_Horiz_Pos_RGB.png",
+		"location": "United States",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "The FreeBSD Stake Pool",
+			"addr": "",
+			"city": "",
+			"country": "United States",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "A SPO with an affinity towards for FreeBSD for use within the Cardano blockchain where applicable.",
+			"server": "1 x Producer, 3 x Relays. Each w/ 16GB MEM + 6 vCPU",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "5808e8716e8b968c3043fc9bdc21db652c916ce97ffaddfe891db16c"
+	},
+	"when-satured-then-recommend": {
+		"0": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "relay 1 usa",
+				"type": "relay",
+				"key": ""
+			},
+			"1": {
+				"name": "relay 2 ger",
+				"type": "relay",
+				"key": "example_get_own_on_adapools.org/connect"
+			},
+			"2": {
+				"name": "block producer home",
+				"type": "bp",
+				"key": ""
+			}
+		}
+	}
+}

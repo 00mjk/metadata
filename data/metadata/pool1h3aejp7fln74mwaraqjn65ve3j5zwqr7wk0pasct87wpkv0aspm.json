@@ -1,0 +1,7 @@
+{
+	"name": "BEAST Pool",
+	"description": "This is @beastlorion's staking pool.",
+	"ticker": "BEAST",
+	"homepage": "https://twitter.com/Beastlyorion",
+	"extended": "https://beastlyorion.github.io/poolMetadataExt.json"
+}

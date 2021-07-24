@@ -1,0 +1,23 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://i.ibb.co/dGQXM3h/logo-64x64.png",
+		"url_png_logo": "https://i.ibb.co/xLrHW7R/logo-200x200.png",
+		"location": "Hamburg, Germany",
+		"social": {
+			"twitter_handle": "gerstaking",
+			"telegram_handle": "germanstaking",
+			"facebook_handle": "",
+			"youtube_handle": "channel/UCMCLQZUcbEbqs_I_jXeAOzw",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"about": {
+			"me": "Welcome to German Staking, we create Cardano Content for German Cardano enthusiasts to simplify the so often overwhelming Entrypoint of the Cardano ecosystem.",
+			"server": "We use a local Relay and a cloud hosted Relay to insure consistent connection between our Leader Node and the Relays. All Nodes are hosted and run in Germany! 24/7/365 monitoring and alerting system"
+		}
+	},
+	"my-pool-ids": {
+		"0": "7d48468f87fe87243f0590c842ff8e543c329335e50c78d2ccbda682"
+	}
+}

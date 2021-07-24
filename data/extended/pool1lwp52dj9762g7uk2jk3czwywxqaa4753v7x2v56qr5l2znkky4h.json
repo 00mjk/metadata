@@ -1,0 +1,28 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://github.com/PimpMyPool/PimpMyPool/blob/main/logo.png",
+		"url_png_logo": "",
+		"location": "Essxe UK",
+		"social": {
+			"twitter_handle": "PimpPool",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "UK",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": ""
+		}
+	}
+}

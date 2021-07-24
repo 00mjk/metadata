@@ -1,0 +1,40 @@
+{
+	"how-to-implement": "",
+	"info": {
+		"url_png_icon_64x64": "https://i.postimg.cc/jjpN4vFB/iconok2.png",
+		"url_png_logo": "https://i.postimg.cc/WbNZ8d5p/logopngk2.png",
+		"location": "From Barcelona to the Whole World",
+		"social": {
+			"twitter_handle": "K2Pool",
+			"telegram_handle": "K2OFICIAL",
+			"facebook_handle": "",
+			"youtube_handle": "channel/UCQhjBOT3M0vfA1FA-IFDAow",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Pool formed by a great team of professionals with 100% dedication to Cardano's project. With a long term vision, we ensure an excellent service to our delegators by providing a quality and transparent service. We are at your disposal for any questions you may have!",
+			"server": "A Linux server hosted in a professionally maintained distributed cloud data center. Built from the source, focusing on safety and stability to ensure the longest uptime!",
+			"company": "K2 Pools"
+		},
+		"rss": ""
+	},
+	"my-pool-ids": [
+		"9de0b1634db79afad8f12271820c9f165d70b6aa55bbffd79aed316a"
+	],
+	"when-satured-then-recommend": [
+		""
+	],
+	"telegram-admin-handle": [
+		""
+	]
+}

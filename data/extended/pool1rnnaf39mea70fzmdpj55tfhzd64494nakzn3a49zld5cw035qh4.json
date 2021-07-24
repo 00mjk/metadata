@@ -1,0 +1,48 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://omegapool.network/Img/favicon.png",
+		"url_png_logo": "https://omegapool.network/Img/OmegaPool.png",
+		"location": "Frankfurt, Germany",
+		"social": {
+			"twitter_handle": "Omega_pool",
+			"telegram_handle": "joinchat/EDt3buGsZhA1NmM0",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "...",
+			"server": "Linux Ubuntu Hosted in Frankfurt Germany",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "1ce7d4c4bbcf7cf48b6d0ca945a6e26eab52d67db0a71ed4a2fb6987"
+	},
+	"when-satured-then-recommend": {
+		"0": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "",
+				"type": "",
+				"key": ""
+			}
+		}
+	}
+}

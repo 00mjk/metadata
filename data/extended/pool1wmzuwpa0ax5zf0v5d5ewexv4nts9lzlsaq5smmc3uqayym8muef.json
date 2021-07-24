@@ -1,0 +1,59 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raspberryrpi.com/wp-content/uploads/2021/05/RPI-Logo-Nederlandse-stakepool-e1621180854953.png",
+		"url_png_logo": "https://raspberryrpi.com/wp-content/uploads/2021/05/RPI-Logo-Nederlandse-stakepool-e1621180854953.png",
+		"location": "Utrecht, The Netherlands",
+		"social": {
+			"twitter_handle": "Stakepool_RPI",
+			"telegram_handle": "thyesMB",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "Utrecht",
+			"country": "The Netherlands",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "A Dutch stake pool operator who joined the Cardano blockchain in March 2021 with the 'Raspberry Pi Pool' stake pool",
+			"server": "Raspberry Pi Hosted at my Home in Utrecht 100MB up/down.",
+			"company": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "76c5c707afe9a824bd946d32ec99959ae05f8bf0e8290def11e03a42",
+		"1": ""
+	},
+	"when-satured-then-recommend": {
+		"0": "",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": "thyesMB"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "",
+				"type": "",
+				"key": ""
+			},
+			"1": {
+				"name": "",
+				"type": "",
+				"key": ""
+			},
+			"2": {
+				"name": "",
+				"type": "",
+				"key": ""
+			}
+		}
+	}
+}

@@ -1,0 +1,43 @@
+{
+	"itn": {
+		"owner": "ed25519_pk1r9a78hagrt2tc6zdd8rc2gsz72mh4xsj58f3mql70z35p045ae4qyzygxm",
+		"witness": "ed25519_sig1kfa7rhmmg45vyucedytcna6zgq65wt49l0696a9rljvfrk80787njgnh3y8eaa9mxgkfxxqu47ycxf02l4f2eetp2m4lrh866rv0wrcyx74fg"
+	},
+	"info": {
+		"url_png_icon_64x64": "https://stakeadacoins.io/crown_logo_64x64.png",
+		"url_png_logo": "https://stakeadacoins.io/crown_logo_64x64.png",
+		"location": "USA",
+		"social": {
+			"twitter_handle": "Stake_ADA_coins",
+			"telegram_handle": "Stake_ADA_coins",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "CROWN pool, has been involved with testing the protocol since before the Incentivized Testnet.",
+			"server": "CROWN pool relies on 5 geographically distributed servers - including a backup block producer, multiple relays and monitoring/alerts.",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"telegram-admin-handle": {
+		"0": "Stake_ADA_coins"
+	},
+	"my-pool-ids": {
+		"0": "0014cda8c1c48b64d542ae26e8b65d9e1953c0d5562ee620d6900f4c"
+	},
+	"when-satured-then-recommend": {
+		"0": ""
+	}
+}

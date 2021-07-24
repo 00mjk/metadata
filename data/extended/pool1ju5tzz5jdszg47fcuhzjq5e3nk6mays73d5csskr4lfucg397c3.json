@@ -1,0 +1,21 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://solarcardano.com/icon.png",
+		"location": "Texas, USA",
+		"social": {
+			"telegram_handle": "solrp_stake_pool",
+			"github_handle": "canad1an",
+			"twitter_handle": "SOLRP_StakePool"
+		},
+		"about": {
+			"me": "Single Pool Operator",
+			"server": "Raspberry Pi Producer + Raspberry 2 Pi Relay located in Fort Worth Texas, USA running 500gb ssd all solar powered with very low energy draw."
+		},
+		"my-pool-ids": {
+			"0": "9728b10a926c048af938e5c52053319db5be921e8b698842c3afd3cc"
+		},
+		"when-satured-then-recommend": {
+			"0": "Small pools - support Decentralization"
+		}
+	}
+}

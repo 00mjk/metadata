@@ -1,0 +1,23 @@
+{
+	"itn": {
+		"owner": "ed25519_pk1amml6u3p05nhnv9s2r9rjm6jaxs0d9elxa24xuza29ah97uy6mtsglhrw7",
+		"witness": "ed25519_sig192mljk32pnn8nc8w64jjwxvwl5jzh90tkwjyyj2zur4zrlygte3zja573sh4w8lcpn5s7kn4ak0ynwwjpa92a78dnh400echdry4zrs85ekc9"
+	},
+	"adapools": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/TobiasFancee/a/master/Fancy64x64.png",
+		"url_png_logo": "https://raw.githubusercontent.com/TobiasFancee/a/master/Fancy400x400.png",
+		"location": "United States",
+		"social": {
+			"twitter_handle": "FanceePool",
+			"telegram_handle": "TobiasFancee",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": ""
+		},
+		"about": {
+			"me": "FanceePool is an American Cardano stake pool focused on community engagement and interaction. Originally realized by our founder Tobias Fancee, our objective is to promote Cardano awareness in the cryptocurrency space through engagements on social media. FanceePool utilizes a bare-metal server to reduce costs and optimize performance. Equipped with more-than-capable hardware, we have chosen fees that are low yet sustainable. We are here to provide a service to ADA holders worldwide. Let's decentralize Cardano together!",
+			"server": "Quad-core CPU, 32 GB of RAM, 500 GB SSD, Fiber Internet Connection"
+		}
+	}
+}

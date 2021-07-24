@@ -1,0 +1,27 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.opendawn.com/opendawn-thumbnail.png",
+		"url_png_logo": "http://www.opendawn.com/wp-content/uploads/2016/03/drawing.png",
+		"location": "Tokyo, Japan",
+		"social": {
+			"twitter_handle": "opendawn",
+			"telegram_handle": "shanecoughlan",
+			"facebook_handle": "shanecoughlan",
+			"youtube_handle": "ShaneCoughlan",
+			"github_handle": "shanecoughlan"
+		},
+		"company": {
+			"name": "This pool is managed by Shane Coughlan (https://www.linkedin.com/in/shanecoughlan/)",
+			"city": "Takamatsu",
+			"country": "Japan"
+		},
+		"about": {
+			"me": "DAWN Community - SPO Japanese Guild + Single Pool Alliance",
+			"server": "Zero-Emission Server powered by Solar + Solar Battery"
+		},
+		"rss": "http(s) url to valid RSS feed"
+	},
+	"my-pool-ids": {
+		"0": "9f2049983941787cf7d02c27bc7b09553a14d9e8e09bcab5c613f8e9"
+	}
+}

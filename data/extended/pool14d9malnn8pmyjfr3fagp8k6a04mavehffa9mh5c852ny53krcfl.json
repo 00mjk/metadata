@@ -1,0 +1,17 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://main.djc6q0imvii92.amplifyapp.com/Viking_without_Ornament_64.png",
+		"url_png_logo": "https://main.djc6q0imvii92.amplifyapp.com/sword.png",
+		"location": "Germany",
+		"social": {
+			"telegram_handle": "stakeandsword"
+		},
+		"about": {
+			"me": "Many epochs ago, three powerful druids pledged loyalty to the almighty Cardano. They swore an oath to use their sorcerous skills to establish and maintain a portal between the world of mere mortals and the realm of Cardano which holds the source of all truth.",
+			"server": "2 Relays and 1 Block Producer hosted on Hetzner Cloud."
+		}
+	},
+	"my-pool-ids": {
+		"0": "ab4bbefe7338764924714f5013db5d7d77d666e94f4bbbd307a2a64a"
+	}
+}

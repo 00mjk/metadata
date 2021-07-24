@@ -1,0 +1,7 @@
+{
+	"name": "JUNO stake pool",
+	"description": "Single pool operator. Pool operated from the Netherlands. Join our channel via https://t.me/juno_stakepool.",
+	"ticker": "JUNO",
+	"homepage": "https://junostakepool.com",
+	"extended": "https://junostakepool.com/mainnet/juno.ext-metadata.json"
+}

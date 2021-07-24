@@ -1,0 +1,40 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://intlx.s3.us-east-2.amazonaws.com/poolIcon64x64.png",
+		"url_png_logo": "https://intlx.s3.us-east-2.amazonaws.com/Full+Logo.png",
+		"location": "USA",
+		"social": {
+			"twitter_handle": "endeavor_ENDVR",
+			"telegram_handle": "endeavorstakepools",
+			"facebook_handle": "",
+			"youtube_handle": "channel/UClPpMLDvTuhK1Y-UKxDpKUg",
+			"twitch_handle": "",
+			"discord_handle": "XFfMM7p"
+		},
+		"company": {
+			"name": "Endeavor INTL",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "https://endeavorstakepools.com",
+			"server": "",
+			"company": "Endeavor INTL",
+			"ownership": "76be7f204840e892e73cd431a99ccdf3"
+		}
+	},
+	"my-pool-ids": {
+		"0": "ea595c6f726db925b6832af51795fd8a46e700874c735d204f7c5841",
+		"1": "1bdb8db050fb6cfd13a8e34ddec812e0aec77c589f71fc396cd9d950"
+	},
+	"when-satured-then-recommend": {
+		"0": "ea595c6f726db925b6832af51795fd8a46e700874c735d204f7c5841",
+		"1": "1bdb8db050fb6cfd13a8e34ddec812e0aec77c589f71fc396cd9d950"
+	},
+	"telegram-admin-handle": {
+		"0": "@EndeavorINTL"
+	}
+}

@@ -1,0 +1,41 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://joeystakepool.com/meta/jsp_icon.png",
+		"url_png_logo": "https://joeystakepool.com/meta/jsp_logo.png",
+		"location": "San Francisco, CA",
+		"social": {
+			"twitter_handle": "JoeyStakePool",
+			"telegram_handle": "joinchat/PWnC2BsPzwXdY_qLPFwypw",
+			"facebook_handle": "",
+			"youtube_handle": "playlist?list=PL6RnKa7vCuz04nvyFSo7A7razC7wI9mPa",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Joey Stake Pool",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Our pool operator is a network engineer by trade with 15+ years of experience. He also manages a data center and is an open source enthusiast. ",
+			"server": "Our servers are hosted on AWS for security, reliabiltiy, & performance.",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "03f79dedaead96339d36df69158116e83208b938afb5fcd0a30e5b5c"
+	},
+	"when-satured-then-recommend": {
+		"0": "95954fa839905a201d8d97cc31be8bbd4ac2ad0df1d201accce3a23e",
+		"1": "e9ef42e5fe6e45c46565d601cf66e9006d84bfb7fa8ace69afd0ad5e"
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	}
+}

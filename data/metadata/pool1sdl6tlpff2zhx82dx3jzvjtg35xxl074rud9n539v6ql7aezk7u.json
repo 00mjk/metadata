@@ -1,0 +1,7 @@
+{
+	"name": "DevPool",
+	"description": "High quality Cardano stake pool, from and for the developers Community",
+	"ticker": "DEV",
+	"homepage": "https://pool.devs.tools",
+	"extended": "https://data.devs.tools/pool-extended.json"
+}

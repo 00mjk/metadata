@@ -1,0 +1,31 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://github.com/chefswap/spo/blob/main/logo64x64.png?raw=true",
+		"url_png_logo": "https://github.com/chefswap/spo/blob/main/logo512x512.png?raw=true",
+		"location": "London",
+		"social": {
+			"twitter_handle": "ChefSwapADA",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "ChefSwap",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"company": "We are building a community driven decentralized exchange on the Cardano Blockchain. To fund this project and allow early investors to own their share, we are taking 99% of the rewards from our stake pools. In return you will receive 5 $CHEF tokens per 1 ADA from the rewards earned. You will receive these tokens when smart contracts go live on the mainnet."
+		},
+		"my-pool-ids": {
+			"0": "",
+			"1": ""
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://bit.ly/3gHx7HY",
+		"url_png_logo": "https://bit.ly/3gHx7HY",
+		"location": "New York, NY",
+		"social": {
+			"twitter_handle": "galileo_sp",
+			"telegram_handle": "GalileoSP",
+			"reddit_handle": "u/Galileostakepool"
+		},
+		"my-pool-ids": {
+			"0": "d2c391e69ffb010196706660f3f41e9190e4b94314f3d9dab34529e8"
+		},
+		"adapools_ext": {
+			"prometheus": {
+				"0": {
+					"name": "Settimi Relay",
+					"type": "relay",
+					"key": "c9658e354b3ae026a79954f6cc0a1b7d"
+				}
+			}
+		}
+	}
+}

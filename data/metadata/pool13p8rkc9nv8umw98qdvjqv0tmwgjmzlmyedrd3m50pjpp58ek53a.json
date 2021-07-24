@@ -1,0 +1,8 @@
+{
+	"name": "Adapify",
+	"ticker": "PIFY",
+	"description": "A stake pool to support the adapify development team to work on Cardano projects.",
+	"homepage": "https://adapify.com",
+	"nonce": "1622418116",
+	"extended": "https://adapify.com/metadata/extended.json"
+}

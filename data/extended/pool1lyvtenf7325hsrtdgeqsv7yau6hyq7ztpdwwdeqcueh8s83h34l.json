@@ -1,0 +1,39 @@
+{
+	"itn": {
+		"owner": "ed25519_pk14nln47yfvl39ljl3g2g9m5w3d73kunrmyncpqkmnlu4hcj62fdkqfan50t",
+		"witness": "ed25519_sig1qjdpzg852relun8djv72vrhy6mcfhc9wyqxz3e8nn2s34x2ywzd8uaguavrzkdt6vmypzc5v23g42d6pfjgluh4jj6h675tz3lgfcqqfekye2"
+	},
+	"info": {
+		"url_png_icon_64x64": "https://cardanounited.com/unite.png",
+		"url_png_logo": "https://cardanounited.com/unite.png",
+		"location": "Toronto, Canada",
+		"social": {
+			"twitter_handle": "cardanounite",
+			"telegram_handle": "cardanounited",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Cardano United",
+			"addr": "",
+			"city": "Toronto",
+			"country": "Canada",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Long-Time Cardano Enthusiasts in it for the long haul.",
+			"server": "Global Relays on Google Cloud - Block Producing Node on Physical Bare Metal Server.",
+			"company": ""
+		},
+		"my-pool-ids": [
+			"f918bccd3e8aa9780d6d464106789de6ae40784b0b5ce6e418e66e78"
+		],
+		"telegram-admin-handle": [
+			"cardanounited"
+		]
+	}
+}

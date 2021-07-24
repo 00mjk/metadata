@@ -1,0 +1,19 @@
+{
+	"info": {
+		"location": "Northern Germany",
+		"social": {
+			"twitter_handle": "AdaDada67180863"
+		},
+		"about": {
+			"me": "dada",
+			"server": "Our DADA pool is hosted on two vservers in northern Germany (not AWS!) intwo different locations.",
+			"company": "DADA"
+		}
+	},
+	"my-pool-ids": {
+		"0": "c89501f87a5893dd43c270ec601a9fe905bb65429c09d8bb4b2f7ef8"
+	},
+	"when-satured-then-recommend": {
+		"0": "c89501f87a5893dd43c270ec601a9fe905bb65429c09d8bb4b2f7ef8"
+	}
+}

@@ -1,0 +1,25 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://banderinimedia.blob.core.windows.net/images/logo.png",
+		"url_png_logo": "https://banderinimedia.blob.core.windows.net/images/logo_full.png",
+		"location": "United Kingdom",
+		"social": {
+			"twitter_handle": "banderini1",
+			"telegram_handle": "banderini"
+		},
+		"about": {
+			"me": "I'm a DevOps engineer with decades of experience delivering and supporting software deployments. I've been involved in Cardano since its inception and cryptocurrency in general since the early days of bitcoin. banderini donates 10% of operator profits to charities working with the homeless and refugees. The shared ownership of blockchains is a new model of enterprise which is poised to change everything about how the world works today and the opportunities for improving our societies are already available. Visit https://banderini.net for more.",
+			"server": "banderini nodes are geographically dispersed and architected for zero downtime during upgrades or failure events. banderini nodes will never miss a block. Core nodes operate on private networks and management layers are closed off from the internet, so the pool is secure by design. Infrastructure is monitored 24/7 and performance is constantly being evaluated. There are live dashboards available at http://blackbird.banderini.net - to toggle dashboards, click on 'banderini' in the top left corner of the page.",
+			"company": "https://banderini.net"
+		}
+	},
+	"my-pool-ids": {
+		"0": "4ee9e4c2ec6fc68850330dbc75ccd7ebf7951f20e1085d324f36cf44"
+	},
+	"when-satured-then-recommend": {
+		"0": "80cb48c2953a78d25f69dbcea305fbcce0c520c25d401cd75a259cf1"
+	},
+	"telegram-admin-handle": {
+		"0": "leslieonline1"
+	}
+}

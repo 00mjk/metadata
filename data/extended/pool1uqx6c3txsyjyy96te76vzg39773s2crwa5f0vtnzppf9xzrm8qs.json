@@ -1,0 +1,37 @@
+{
+	"how-to-implement": "f4eaa4cd07e7cf0f06b208f4524b78c9 in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/eltontay/mlnsStakingPool/main/mlnsIcon.png",
+		"url_png_logo": "https://raw.githubusercontent.com/eltontay/mlnsStakingPool/main/mlnsLogo.png",
+		"location": "Singapore, Singapore",
+		"social": {
+			"twitter_handle": "wottlenft",
+			"telegram_handle": "wottlenft",
+			"discord_handle": "wottlenft"
+		},
+		"about": {
+			"me": "A passionate team of Singaporean developers that want to help the Cardano artists :)",
+			"server": "Raspbery Pi because that is the sustainable way to go!"
+		}
+	},
+	"my-pool-ids": {
+		"0": "e00dac4566812442174bcfb4c12225f7a305606eed12f62e62085253"
+	},
+	"telegram-admin-handle": {
+		"0": "NFTAY"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "wottlenft relay",
+				"type": "relay",
+				"key": "5edbb797494a1683d276d8efbc5372f7"
+			},
+			"1": {
+				"name": "wottlenft block",
+				"type": "bp",
+				"key": "69af463f3ba4cdc1405c5385a3bcc330"
+			}
+		}
+	}
+}

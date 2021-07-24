@@ -1,0 +1,36 @@
+{
+	"how-to-implement": "in meta.json define *extended* to this json https://raw.github/ex-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/bclens/mainnet/main/WISHLogo64x64px.png",
+		"url_png_logo": "https://raw.githubusercontent.com/bclens/mainnet/main/WISHLogoFull.png",
+		"location": "Singapore",
+		"social": {
+			"twitter_handle": "BlockchainLens",
+			"telegram_handle": "BCLens",
+			"facebook_handle": "WISHPoolByBCLens",
+			"youtube_handle": "Blockchain Lens [WISH]",
+			"discord_handle": "BCLens[WISH]",
+			"github_handle": "BCLens"
+		},
+		"company": {
+			"name": "Blockchain Lens",
+			"addr": "Member of Mission Driven Pools, F2LB Alliance and Single Pool Alliance",
+			"city": "Creator of Cardano SPOT Check.  Hailing from The Garden City",
+			"country": "Singapore"
+		},
+		"about": {
+			"me": "We pledge 10% of our own profit to educational charities while you earn 100% of your usual rewards. Managed by IT Professionals with more than 25 years experience in systems admin and project management",
+			"server": "Running on hybrid DC and secure hosted servers, 24/7 power, cooling, physical security, hi-speed network",
+			"company": "We believe giving a student access to quality education can help lift his/her family out of poverty.  Join us on our mission to make wishes come true-- including yours!"
+		}
+	},
+	"my-pool-ids": {
+		"0": "4dbdfb68de96a563719f7df2b3cf7c98fb547a3e7edca2a547d35852"
+	},
+	"when-satured-then-recommend": {
+		"0": "4dbdfb68de96a563719f7df2b3cf7c98fb547a3e7edca2a547d35852"
+	},
+	"telegram-admin-handle": {
+		"0": "BCLens"
+	}
+}

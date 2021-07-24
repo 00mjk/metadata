@@ -1,0 +1,31 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://agua.gratis/icono64x64.png",
+		"url_png_logo": "https://agua.gratis/iconosintexto.png",
+		"location": "YucatÃ¡n, Mexico",
+		"social": {
+			"twitter_handle": "@jorgejaqa",
+			"telegram_handle": "jorgejaqa",
+			"facebook_handle": "jorgealberto.quesadaarceo/",
+			"youtube_handle": "channel/UChfGkjphwrqGrmnd-BUilow",
+			"discord_handle": "t9ny2TNu3F",
+			"github_handle": "jorgejaqa"
+		},
+		"company": {
+			"name": "TINSON S de RL de CV",
+			"addr": "Felipe Carrillo Puerto",
+			"city": "Merida",
+			"country": "Mexico",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Hi, my name is Jorge Quesada, I'm a Mechatronics engineer and I design and build wastewater treatment plants in Mexico, I heard about Cardano in January 2021, since then I'm running a stake Pool Called AGUA",
+			"server": "Google Cloud, it's simple, Relieable, Scalable, 99.99% uptime, 2 relays, 1 hidden, 1 producer",
+			"company": "The Objetive of AGUA it's simple, helping my community providing drinking water to low income people and issue awareness about Cardano Project and ecosystem."
+		}
+	},
+	"my-pool-ids": {
+		"0": "751d0f6979f4432be43512cfd35d43d3b02dbd4a7a0352a7699cb626"
+	}
+}

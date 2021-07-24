@@ -1,0 +1,30 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/amirderakh/peach/main/avo64.png",
+		"url_png_logo": "https://raw.githubusercontent.com/amirderakh/peach/main/avo.png",
+		"location": "Australia",
+		"social": {
+			"instagram_handle": "avocadopool",
+			"discord_handle": "",
+			"reddit_handle": "",
+			"twitter_handle": "AvocadoPool",
+			"facebook_handle": "AvocadoPool",
+			"youtube_handle": "channel/UCovxsfNjVocdFKPkJSz7JmQ",
+			"twitch_handle": "",
+			"telegram_handle": "AvocadoPool",
+			"github_handle": "amirderakh"
+		},
+		"company": {
+			"name": "numic.eu"
+		},
+		"about": {
+			"me": "",
+			"server": "3x Ubuntu 20.04 LTS servers running in Europe & Australia, non-AWS",
+			"company": "Numic is a quantitative investment management company trading in global financial markets"
+		}
+	},
+	"my-pool-ids": {
+		"0": "5df46b9796868647647f6d3a4ebd188920e70cd12720513337203b62",
+		"1": ""
+	}
+}

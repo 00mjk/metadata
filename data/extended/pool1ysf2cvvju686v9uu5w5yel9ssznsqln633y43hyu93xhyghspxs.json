@@ -1,0 +1,23 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/koreahodlzero/statics/main/kodlzero_logo_icon.png",
+		"url_png_logo": "https://raw.githubusercontent.com/koreahodlzero/statics/main/kodlzero_logo_main.png",
+		"location": "Seoul, Korea",
+		"social": {
+			"twitter_handle": "kodlpoolzero",
+			"telegram_handle": "KODLZero",
+			"github_handle": "koreahodlzero"
+		},
+		"about": {
+			"me": "We are pools of Cardano-Korea-Hodler-Community. We are working to popularize the stake pool in the Korean Hodler community.",
+			"server": "Operation : Hybrid(Baremetal & Cloud Server)"
+		},
+		"adapools-verification-id": "beda81faace7a9f6bb5b3b25d4c89e7f"
+	},
+	"my-pool-ids": {
+		"0": "2412ac3192e68fa6179ca3a84cfcb080a7007e7a8c4958dc9c2c4d72"
+	},
+	"when-satured-then-recommend": {
+		"0": "2412ac3192e68fa6179ca3a84cfcb080a7007e7a8c4958dc9c2c4d72"
+	}
+}

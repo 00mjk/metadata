@@ -1,0 +1,17 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://polypool.io/images/PP-BlueLogo_icon.png",
+		"url_png_logo": "https://polypool.io/images/PP-BlueLogo.png",
+		"location": "Europe",
+		"social": {
+			"twitter_handle": "Max_PolyPool",
+			"telegram_handle": "polypool"
+		},
+		"company": {
+			"name": "PolyPool, LLC"
+		}
+	},
+	"telegram-admin-handle": [
+		"max_polypool"
+	]
+}

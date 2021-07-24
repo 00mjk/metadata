@@ -1,0 +1,27 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/durianpool/durianpool.github.io/main/assets/img/favicon/foradapool.png",
+		"url_png_logo": "https://raw.githubusercontent.com/durianpool/durianpool.github.io/main/assets/img/favicon/foradapoollogo.png",
+		"location": "Kuala Lumpur, Malaysia",
+		"social": {
+			"twitter_handle": "durianpool",
+			"facebook_handle": "Durianpool",
+			"github_handle": "durianpool"
+		},
+		"company": {
+			"name": "Durianpool",
+			"city": "Kuala Lumpur",
+			"country": "Malaysia"
+		},
+		"about": {
+			"me": "No Durian Here, Something More Delicious For You.We are blockchain enthusiast, support crypto projects which has potential to revolutionize the world."
+		}
+	},
+	"my-pool-ids": {
+		"0": "bac9545a444bc6868986939214c6afd375029b14d22d032b85f9a02d"
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	}
+}

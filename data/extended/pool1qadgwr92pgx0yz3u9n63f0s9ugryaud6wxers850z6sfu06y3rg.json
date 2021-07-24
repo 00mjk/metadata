@@ -1,0 +1,33 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://responsible-staking.at/pool/logo_64x64.png",
+		"url_png_logo": "https://responsible-staking.at/pool/logo.png",
+		"location": "Austria, Germany, Finland",
+		"social": {
+			"twitter_handle": "ResponsibleSta3",
+			"telegram_handle": "vital_stakepool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "ResponsibleStaking"
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "Austria",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "We are a single pool operator backed by a strong technical setup and running it to support social stability.",
+			"server": "Hybrid Cloud Setup: 3 Relay, 1 Validator + 1 Standby Validator, each 4-8 Core, 16-24 GB RAM, Properly hardened (Firewall, Node only internal network, SSH Public Key Only, no Root User, VPN only maintenance access) and monitored (Availability, Sync latency, Mail and SMS Alerting) ",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "075a870caa0a0cf20a3c2cf514be05e2064ef1ba71b2381e8f16a09e"
+	}
+}

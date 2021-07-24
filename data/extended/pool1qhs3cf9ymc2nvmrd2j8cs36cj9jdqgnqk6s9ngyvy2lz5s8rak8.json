@@ -1,0 +1,29 @@
+{
+	"info": {
+		"url_png_icon_64x64": "http://icon.panl.org",
+		"url_png_logo": "http://logo.panl.org",
+		"location": "United States",
+		"social": {
+			"twitter_handle": "PANL_stakepool",
+			"telegram_handle": "PANLstakepool",
+			"telegram-admin-handle": "@rp5210",
+			"telegram_group_handle": "https://t.me/panl_stakepool",
+			"github_handle": "rp5210"
+		},
+		"company": {
+			"name": "PANL Stake Pool",
+			"country": "United States"
+		}
+	},
+	"my-pool-ids": {
+		"0": "05e11c24a4de15366c6d548f8847589164d02260b6a059a08c22be2a"
+	},
+	"when-satured-then-recommend": {
+		"0": "05e11c24a4de15366c6d548f8847589164d02260b6a059a08c22be2a",
+		"1": "eb6e1949ef2e1f2cdb9b041d2a4b86d4d837798ab3ddfe53cc4cafe4",
+		"2": "075578defd7ee97cbeaa2937e5819099cb3835ac9f9c8b1a2c3a3578"
+	},
+	"telegram-admin-handle": {
+		"0": "rp5210"
+	}
+}

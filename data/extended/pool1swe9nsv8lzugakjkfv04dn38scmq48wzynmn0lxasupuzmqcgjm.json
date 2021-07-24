@@ -1,0 +1,40 @@
+{
+	"how-to-implement": "I invented disco",
+	"info": {
+		"url_png_icon_64x64": "https://adage.app/img/favicon/anim-07-05.png",
+		"url_png_logo": "https://adage.app/img/nb-pop-02.png",
+		"location": "Scandinavia, Europe",
+		"social": {
+			"twitter_handle": "Uruncles",
+			"telegram_handle": "adagepool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "bobdobs"
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Developer and Linux admin with 12 years pro experience. Come and visit my pool site.",
+			"server": "Dedicated Intel Xeon E3-1246V3 server with 32 GB RAM. Lightweight cloud servers for relays.",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "83b259c187f8b88eda564b1f56ce2786360a9dc224f737fcdd8703c1"
+	},
+	"when-satured-then-recommend": {
+		"0": "8fdf253d44c9817d7dfd72f392a234aaab546d22cbcbc5984f84fc1f"
+	},
+	"telegram-admin-handle": {
+		"0": "uruncles"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://slotterypool.com/wp-content/uploads/cropped-slottery-favicon-180x180.png",
+		"url_png_logo": "https://slotterypool.com/wp-content/uploads/cropped-slottery-favicon-180x180.png",
+		"location": "United States",
+		"social": {
+			"twitter_handle": "SlotteryPool",
+			"telegram_handle": "slotterypool"
+		},
+		"about": {
+			"me": "By staking to Slottery Pool you increase your chance to get more ADA each epoch. You also receive native SLOTTERY tokens every epoch that you can participate to the upcoming grand jackpot.",
+			"server": "8 core high memory servers, 99% uptime, best security practices"
+		}
+	},
+	"my-pool-ids": {
+		"0": "5cd2d541b05ee59b99cf4b6262bb0ff17d4369f0e54c161653bc3bb5"
+	}
+}

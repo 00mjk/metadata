@@ -1,0 +1,7 @@
+{
+	"name": "Medical Pool",
+	"ticker": "MED",
+	"description": "Twenty-five percent of the margin will be spent on medical outreach projects that YOU the community vote for.",
+	"homepage": "https://medicalstakepool.com",
+	"extended": "https://raw.githubusercontent.com/bareince/m/main/extended_poolmeta.json"
+}

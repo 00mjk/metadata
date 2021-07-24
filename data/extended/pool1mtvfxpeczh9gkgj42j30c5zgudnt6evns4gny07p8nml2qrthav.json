@@ -1,0 +1,25 @@
+{
+	"info": {
+		"location": "Wyoming",
+		"url_png_icon_64x64": "https://www.dadstakes.com/favicon_64x64.png",
+		"url_png_logo": "https://www.dadstakes.com/images/logo.png",
+		"social": {
+			"twitter_handle": "dadstakes",
+			"github_handle": "dadstakes",
+			"telegram_handle": "https://t.me/joinchat/uM3fBcpCIE04ZjZh",
+			"discord_handle": "petfPsypXm"
+		},
+		"company": {
+			"name": "Dad Stakes, LLC."
+		},
+		"about": {
+			"company": "Dad Stakes, LLC."
+		},
+		"owner_ids": {
+			"owner1": "cad1e4134ee6d0155eb7a51fa7da88ae",
+			"owner2": "60f557b20d5b403fe39058d9c7f8c17a",
+			"owner3": "76fb95a8f0917a45806504570216e1a7",
+			"owner4": "c7f15c4e17fcbba027c590bea9f7c5bd"
+		}
+	}
+}

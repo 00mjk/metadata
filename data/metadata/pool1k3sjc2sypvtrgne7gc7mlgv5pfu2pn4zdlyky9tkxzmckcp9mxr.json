@@ -1,0 +1,7 @@
+{
+	"name": "LFE stake pool",
+	"description": "DevOps by profession. Cloud based High-availability stake pool.",
+	"ticker": "LFE",
+	"homepage": "https://lfepool.com",
+	"extended": "https://lfepool.com/LFE/v2/extendedMetadata.json"
+}

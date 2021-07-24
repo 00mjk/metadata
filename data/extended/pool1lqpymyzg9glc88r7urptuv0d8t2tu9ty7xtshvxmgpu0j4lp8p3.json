@@ -1,0 +1,76 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://vincepool.com/wp-content/uploads/2020/12/vinci_icon_64.png",
+		"url_png_logo": "https://vincepool.com/wp-content/uploads/2020/12/vinci_logo.png",
+		"location": "Germany, Europe",
+		"social": {
+			"twitter_handle": "DaVinci_Pools",
+			"telegram_handle": "vincepools",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "We are a team of two individual with a strong passion and belief in the cryptocurrency industry. With our combined experience of 20 years in Information Technology system engineering and cybersecurity. we operate a cardano stakepool as we are commited to push the decentralization as far as possible and to support the cardano community .",
+			"server": "Our Servers are running on the cloud. Our Relays are located in Germany with mutiple reduncy and all relays are in active state. All sensative keys are stored and handled on a dedicated offline environment, providding complete safety to the pool. ",
+			"company": "Vincerio"
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "f8024d90482a3f839c7ee0c2be31ed3ad4be1564f1970bb0db4078f9",
+		"1": "91d030730d73b037e1c230d6e8bd80c05687c9bf1efbc051de22d803"
+	},
+	"when-satured-then-recommend": {
+		"0": "91d030730d73b037e1c230d6e8bd80c05687c9bf1efbc051de22d803",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "",
+				"type": "",
+				"key": ""
+			},
+			"1": {
+				"name": "",
+				"type": "",
+				"key": ""
+			},
+			"2": {
+				"name": "",
+				"type": "",
+				"key": ""
+			},
+			"3": {
+				"name": "",
+				"type": "",
+				"key": ""
+			},
+			"4": {
+				"name": "",
+				"type": "",
+				"key": ""
+			},
+			"5": {
+				"name": "",
+				"type": "",
+				"key": ""
+			}
+		}
+	}
+}

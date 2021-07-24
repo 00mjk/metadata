@@ -1,0 +1,48 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://adapify.com/logo64.png",
+		"url_png_logo": "https://adapify.com/logo.png",
+		"location": "Athens, GA, USA",
+		"social": {
+			"twitter_handle": "adapify",
+			"telegram_handle": "adapify",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "cyphil",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Adapify Inc",
+			"addr": "115 Eaglewood Way",
+			"city": "Athens, GA",
+			"country": "United States",
+			"company_id": "123456789",
+			"vat_id": "GB123456789"
+		},
+		"about": {
+			"me": "We are software development team, primarily working on rxsoil.com, and contributing to the Cardano community as time and resources permit.",
+			"server": "HP DL360 G7.",
+			"company": "Adapify Inc"
+		}
+	},
+	"my-pool-ids": {
+		"0": "884e3b60b361f9b714e06b24063d7b7225b17f64cb46d8ee8f0c821a"
+	},
+	"when-satured-then-recommend": {
+		"0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
+		"1": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
+	},
+	"telegram-admin-handle": {
+		"0": "adapify"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "Adapify Relay 1",
+				"type": "relay",
+				"key": "a08c46341759215584088d8e33306e1e"
+			}
+		}
+	}
+}

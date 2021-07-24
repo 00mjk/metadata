@@ -1,0 +1,42 @@
+{
+	"itn": {
+		"owner": "ed25519_pk13a8f7slkx0jsaxkdpusajz3p2j86gzglan8rqxd3wss43w30uqlq9nm8cr",
+		"witness": "ed25519_sig1p0kfzjt69u525dfgh5nhpfxzmmndclv7gq5cu0wxg777n32cmeznk8ypanqtw4jpmygszvkx6nmvqaqd4lda55lv7hwvqv2sz03d7zgfd4f4k"
+	},
+	"info": {
+		"url_png_icon_64x64": "https://www.ianesthesia.org/SAGE_Cardano64x64.png",
+		"url_png_logo": "https://www.ianesthesia.org/SAGE_Cardano192x192.png",
+		"location": "Boulder, Colorado",
+		"social": {
+			"twitter_handle": "SAGE_Cardano",
+			"telegram_handle": "SAGE_Cardano",
+			"youtube_handle": "channel/UCgeDh3vIqnPosd3Zh0Ss5fQ"
+		},
+		"company": {
+			"name": "iAnesthesia LLC",
+			"addr": "637-B South Broadway, Suite #129",
+			"city": "Boulder, Colorado 80305",
+			"country": "United States",
+			"company_id": "90-0412240"
+		},
+		"about": {
+			"me": "Dr. William Trask and Dr. Terrance Truxillo",
+			"company": "We are two Anesthesiologist that started iAnesthesia LLC back in 2008 to build medical iPhone apps: Instant ECG, Pedi Safe, ECHO Views, ACLS. \n\n Our company has held Bitcoin, Ethereum, and Cardano over the years and at the beginning of 2020 decided to start SAGE stake pool on the ITN (incentivized testnet for Cardano). We have enjoyed being part of the community and look to stabilize the network with both cloud based and local based (Boulder & New Orleans) nodes. The vision for the Cardano network has inspired us and we look forward to developing DApps for the ecosystem. \n\n Please consider delegating to SAGE Cardano Stake Pool. We will do everything we can to be successful earning you rewards! If you need help learning how to delegate or have questions please contact us. Definitely follow @Sage_Cardano on Twitter."
+		}
+	},
+	"my-pool-ids": {
+		"0": "bca52a1ea803c93025fa43e3aed7af82c3b2bfb01b530b07b0048c9a"
+	},
+	"telegram-admin-handle": {
+		"0": "SAGE_Cardano"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "SAGE Block Producer",
+				"type": "SAGE Block Producer",
+				"key": "4aeb7e06cda01f44a863aa397795d088"
+			}
+		}
+	}
+}

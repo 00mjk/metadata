@@ -1,0 +1,36 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.microstaking.com/metadata/ae-64x64.png",
+		"url_png_logo": "https://www.microstaking.com/metadata/dubai.png",
+		"location": "AE",
+		"social": {
+			"twitter_handle": "io_natasha",
+			"facebook_handle": "",
+			"youtube_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Hi, I am Natasha from Dubai. I have been in crypto currencies since early 2018. My background is 20 years within financial services. I am really excited to be part of the Cardano community as a Stake Pool Operator (SPO) to support the growth of Cardano.",
+			"server": "We use state of the art datacenter to keep our pools running 24/7 with focus on security, uptime and performance monitoring.",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "643808a16d63204df62860a87c5ec7e551ca11af8b8e15a6d08ad667"
+	},
+	"when-satured-then-recommend": {
+		"0": "de040bdddb4bdee99ef029a94d3b05e732b59b041386ce5fae7a5b68",
+		"1": "3525f31818cd5161d6bea81e8c437caf9c904965dda0c53a27e48224"
+	},
+	"telegram-admin-handle": {
+		"0": "StakePool247"
+	}
+}

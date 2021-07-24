@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://booksforfree.education/books_icon.png",
+		"url_png_logo": "https://booksforfree.education/books_icon.png",
+		"location": "Vienna, Europe",
+		"social": {
+			"twitter_handle": "https://www.twitter.com/BOOKS_stakepool",
+			"telegram_handle": "t.me/BOOKS_stakepool",
+			"facebook_handle": "https://booksforfree.education/books_icon.png",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": ""
+		},
+		"rss": "http(s) url to valid RSS feed"
+	},
+	"telegram-admin-handle": [
+		""
+	],
+	"my-pool-ids": [
+		"fa11934be80ac1af0c935ae5af7aaa1fc8945116de0cf39a2de83e8d"
+	],
+	"when-satured-then-recommend": [
+		"fa11934be80ac1af0c935ae5af7aaa1fc8945116de0cf39a2de83e8d"
+	]
+}

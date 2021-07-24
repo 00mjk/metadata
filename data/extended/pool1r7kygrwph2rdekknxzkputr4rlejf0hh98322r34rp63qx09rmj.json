@@ -1,0 +1,23 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://born-in-the.cloud/images/logo-64x64.png",
+		"url_png_logo": "https://born-in-the.cloud/images/logo-512x512.png",
+		"location": "Frankfurt am Main, Germany",
+		"social": {
+			"twitter_handle": "BORN_stakepool",
+			"telegram_handle": "born_in_the_cloud",
+			"github_handle": "born-in-the-cloud"
+		},
+		"about": {
+			"me": "We are an independent group of Computer Scientists and IT Professionals based in Austria, Germany and Switzerland.",
+			"server": "All nodes are deployed on zone-redundant high-availability (>99.95%) enterprise systems in Frankfurt am Main, Germany's best connected city."
+		}
+	},
+	"my-pool-ids": {
+		"0": "1fac440dc1ba86dcdad330ac1e2c751ff324bef729e2a50e35187510"
+	},
+	"telegram-admin-handle": {
+		"0": "born_in_the_cloud",
+		"1": "doctor_atomic"
+	}
+}

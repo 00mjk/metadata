@@ -1,0 +1,14 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://cashbackpool.net/images/logo_64.png",
+		"url_png_logo": "https://cashbackpool.net/images/logo.png",
+		"location": "Germany, Europe",
+		"social": {
+			"telegram_handle": "CashbackPool",
+			"twitter_handle": "CashbackPool"
+		}
+	},
+	"my-pool-ids": {
+		"0": "20abf75c081efec5cd005a3665e995d69480b79caf6b8c1ecec3db70"
+	}
+}

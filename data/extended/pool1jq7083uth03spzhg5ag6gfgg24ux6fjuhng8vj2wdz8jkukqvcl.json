@@ -1,0 +1,28 @@
+{
+	"info": {
+		"location": "Iasi, Romania",
+		"social": {
+			"twitter_handle": "eadesign_ro",
+			"telegram_handle": "lmiculescu"
+		},
+		"company": {
+			"name": "Eco active",
+			"addr": "Stradela Canta No. 8",
+			"city": "Iasi",
+			"country": "Romania",
+			"company_id": "24090159",
+			"vat_id": "RO24090159"
+		},
+		"about": {
+			"me": "Software developer in the ecommerce ecosystem, more specific Magento and Magento2",
+			"server": "AMD EPYC 7601 32-Core Processor, 4 core, 8 GB RAM using the Linode infrastructure.",
+			"company": "EADesign is a software development company based in Iasi, Romania focused on ecommerce Magento online shops development"
+		}
+	},
+	"my-pool-ids": {
+		"0": "903cf3c78bbbe3008ae8a751a4250855786d265cbcd076494e688f2b"
+	},
+	"telegram-admin-handle": {
+		"0": "lmiculescu"
+	}
+}

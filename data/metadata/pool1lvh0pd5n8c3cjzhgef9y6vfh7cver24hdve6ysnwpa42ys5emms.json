@@ -1,0 +1,7 @@
+{
+	"name": "RaspberryPool",
+	"description": "Stake & relax. I take care of the rest.",
+	"ticker": "RAOOL",
+	"homepage": "https://www.raspberry-stakepool.fr",
+	"extended": "https://raw.githubusercontent.com/RaspberryPool/RAOOL/master/extended.json"
+}

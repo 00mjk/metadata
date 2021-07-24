@@ -1,0 +1,40 @@
+{
+	"how-to-implement": "",
+	"info": {
+		"url_png_icon_64x64": "https://love2stake.com/black_64_64.png",
+		"url_png_logo": "https://love2stake.com/b_nar_no_slog.png",
+		"location": "",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "Love2Stake",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "jaDH7d",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Love2Stake",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Run by cryptocurrency enthusiasts with over 25+ years in managing large scale critical systems in the Financial sector.  Our goal is to help Cardano to be worlds leading cryptocurrency and provide financial freedom to our delegators.",
+			"server": "HP Enterprise servers, hosted across multiple locations, efficient block propgation with 2 relays, Servers monitored for 24/7 availability",
+			"company": "https://love2stake.com"
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "65a6837264ea1d99e8af24e3a0f54cd4b3821919eb3e59b3a56b857e"
+	},
+	"when-satured-then-recommend": {
+		"0": "65a6837264ea1d99e8af24e3a0f54cd4b3821919eb3e59b3a56b857e"
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	}
+}

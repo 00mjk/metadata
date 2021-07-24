@@ -1,0 +1,26 @@
+{
+	"itn": {
+		"owner": "ed25519_pk16kf7gvuje0qf5u5ms6a80ykd6u6x779j8ahq7p72x9argwqwupzs6ql3mc",
+		"witness": "ed25519_sig197dwqyh5cjc72msnuprg6u3racln49nzmckymeykkxt7ndzv49d54k9027hk0g38t9s8fl2et2392x0ucz4hfclyaqqzh92663ne6zgklgds5"
+	},
+	"info": {
+		"url_png_icon_64x64": "https://steakandbake.github.io/assets/64.png",
+		"url_png_logo": "https://steakandbake.github.io/assets/steakandbake-logo-256.png",
+		"location": "Switzerland",
+		"social": {
+			"twitter_handle": "steakandbaker",
+			"github_handle": "steakandbake"
+		},
+		"about": {
+			"me": "STEAK AND ADA - GUARDIANS OF CARDANO. YOU STAKE IT, WE PRODUCE IT! THANK YOU FOR YOUR DELEGATION We look forward to minting many new ADA lovelaces for you.",
+			"server": "Powerful Secure Bare-Metal Non-Cloud Dual Xeon Servers with Gbit backbones"
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "f76e3a1104a9d816a67d5826a155c9e2979a839d0d944346d47e33ab"
+	},
+	"when-satured-then-recommend": {
+		"0": "c34a7f59c556633dc88ec25c9743c5ebca3705e179a54db5638941cb"
+	}
+}

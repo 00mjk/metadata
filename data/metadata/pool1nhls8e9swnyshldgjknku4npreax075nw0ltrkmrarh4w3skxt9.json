@@ -1,0 +1,7 @@
+{
+	"name": "Cardano Dan's Stake Pool",
+	"description": "High performance & low fee pool. Run by Cardano DAN, an IT pro engaged in Cardano since 2017. For questions, find Dan on twitter or at cardanodan@protonmail.com",
+	"ticker": "DAN",
+	"homepage": "https://twitter.com/cardanodan",
+	"extended": "https://raw.githubusercontent.com/cardanodan/pool/meta/ext.json"
+}

@@ -1,0 +1,25 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://wolverinestakepool.com/wolv_icon_64.png",
+		"location": "London, England",
+		"social": {
+			"twitter_handle": "Wolverine_Pool",
+			"telegram_handle": "Crypto_wolverine",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"about": {
+			"me": "I am a lawyer, father, husband, dual national (US and British) and crypto enthusiast.  I've been a stake pool operator since the first mainnet block and look forward to supporting the ecosystem.",
+			"server": "1 block producer with 3 distributed relays, including 2 cloud-based relays and 1 home-based relay"
+		}
+	},
+	"my-pool-ids": {
+		"0": "0abed0bdf287e9f298282efde1759706ddeeed68a4fe97c9dc6ff8a1"
+	},
+	"telegram-admin-handle": {
+		"0": "Crypto_wolverine"
+	}
+}

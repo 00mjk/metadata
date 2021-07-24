@@ -1,0 +1,22 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://everestada.com/evermeta/Ever-Icon1.png",
+		"url_png_logo": "https://everestada.com/evermeta/Ever-Pool.png",
+		"social": {
+			"twitter_handle": "Everest_ADA",
+			"telegram_handle": "EverestPoolGroup",
+			"facebook_handle": "EverestCardano"
+		},
+		"company": {},
+		"about": {
+			"server": "Cloud hosted and onsite back up. Highly scalable and 24/7 uptime gauranteed."
+		}
+	},
+	"telegram-admin-handle": [
+		"Everest_Staking"
+	],
+	"my-pool-ids": [
+		"6f365275ed3b789fc7bf4d4d0b769dc70117542aee93ca328f94ee53"
+	],
+	"when-satured-then-recommend": []
+}

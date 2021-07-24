@@ -1,0 +1,7 @@
+{
+	"name": "crypto.ro",
+	"description": "High performance Cardano staking pool with strategic relays on energy efficient data centers - operated by the team at crypto.ro",
+	"ticker": "CRO",
+	"homepage": "https://crypto.ro",
+	"extended": "https://ada.crypto.ro/croextended.json"
+}

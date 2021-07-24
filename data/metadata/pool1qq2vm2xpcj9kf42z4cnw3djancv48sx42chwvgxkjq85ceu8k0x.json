@@ -1,0 +1,7 @@
+{
+	"name": "CROWN Stake Pool",
+	"ticker": "CROWN",
+	"extended": "https://StakeADAcoins.io/crown-extended.json",
+	"homepage": "https://StakeADAcoins.io",
+	"description": "USA based Cardano Staking Service - Backup Block Producer, Monitoring and Alerts"
+}

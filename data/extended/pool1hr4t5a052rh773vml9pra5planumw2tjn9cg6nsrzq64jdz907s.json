@@ -1,0 +1,15 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://neonpool.io/assets/adapools_64x64.png",
+		"url_png_logo": "https://neonpool.io/assets/favicon-96x96.png",
+		"location": "Boston, MA",
+		"social": {
+			"twitter_handle": "neon_stake_pool",
+			"telegram_handle": "neonpool",
+			"github_handle": "neon-pool"
+		}
+	},
+	"my-pool-ids": {
+		"0": "b8eaba75f450efef459bf9423ed03fecf9b7297299708d4e03103559"
+	}
+}

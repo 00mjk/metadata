@@ -1,0 +1,7 @@
+{
+	"name": "Tiny Pool",
+	"description": "A tiny pool with big dreams, based in Romania and run by developers",
+	"ticker": "TINY",
+	"homepage": "https://tiny-pool.eadesign.ro",
+	"extended": "https://raw.githubusercontent.com/eadesignro/ada/main/extended.json"
+}

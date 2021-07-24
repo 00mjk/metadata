@@ -1,0 +1,35 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://arthurjgoldman.com/metadata/king-64x64.png",
+		"url_png_logo": "https://arthurjgoldman.com/metadata/king1.png",
+		"location": "UK",
+		"social": {
+			"twitter_handle": "ArthurJGoldman",
+			"facebook_handle": "ArthurJGoldman",
+			"youtube_handle": "ArthurJGoldman"
+		},
+		"company": {
+			"name": "Arthur J Goldman Consultants Ltd",
+			"addr": "1112 London Road",
+			"city": "London",
+			"country": "UK",
+			"company_id": "8886985",
+			"vat_id": "330023861"
+		},
+		"about": {
+			"me": "",
+			"server": "We use state of the art datacenter to keep our pools running 24/7 with focus on security, uptime and performance monitoring.",
+			"company": "Arthur J Goldman Consultants Ltd, specialises in cyber security, blockchain solution and investments. We have teamed up with StakePool247 to setup, operate and maintain our global enterprise level pools in Google cloud across multiple geographic locations. StakePool247 have been involved in Cardano Project since 2018 and participated in the Incentivised TestNet (ITN). StakePool247 are also a member of Cardano Pioneer Family (Friends & Family)"
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "643808a16d63204df62860a87c5ec7e551ca11af8b8e15a6d08ad667"
+	},
+	"when-satured-then-recommend": {
+		"0": "643808a16d63204df62860a87c5ec7e551ca11af8b8e15a6d08ad667"
+	},
+	"telegram-admin-handle": {
+		"0": "StakePool247"
+	}
+}

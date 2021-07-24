@@ -1,0 +1,40 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://wise-pool.eu/wp-content/uploads/2021/03/website_logo_transparent_background_64x64.png",
+		"url_png_logo": "https://wise-pool.eu/wp-content/uploads/2021/02/FullColor_1280x1024_72dpi.png",
+		"location": "Ahrensfelde, Germany",
+		"social": {
+			"twitter_handle": "wise_pool",
+			"telegram_handle": "WISEpoolada",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "aleincsharp"
+		},
+		"company": {
+			"name": "Wise Pool",
+			"addr": "",
+			"city": "Ahrensfelde",
+			"country": "Germany",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Arthur, 32 years old family man, Software Engineer",
+			"server": "Server with 12 cores, 44GB RAM, 512GB NVME + SSD and 2,5TB Backup Storage",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "0d549d59c5fd90ea2e7ef58041e14a10e15e0145386ba3a3b8709da4"
+	},
+	"when-satured-then-recommend": {
+		"0": ""
+	},
+	"telegram-admin-handle": {
+		"0": "wise-pool"
+	}
+}

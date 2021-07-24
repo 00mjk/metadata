@@ -1,0 +1,17 @@
+{
+	"my-pool-ids": [
+		"d7a6f54ea7fd2e94279acd74601e7126538c6cadc4f794db66e1377c"
+	],
+	"itn": {
+		"owner": "ed25519_pk10dmjcv7zfaqya7haaskdw24vmxc9u63x72tv8wcw9pmm66scqcrqk9y8z8",
+		"witness": "ed25519_sig1jxzgrxf73n2dqvzjcrjmywfcyn2j9ejn59wlm28ktjjxxtxzh8m3nh5zeylqs3zy7f9jw0ff3t0ztr0kcp9chlzsxk73d3jvv0yc5pc4nfctw"
+	},
+	"info": {
+		"url_png_icon_64x64": "https://meta.stakeops.com/icon.png",
+		"url_png_logo": "https://meta.stakeops.com/logo.png",
+		"about": {
+			"me": "Hello! I'm a software developer looking to build a platform to enable investors and organizations get involved in Cardano. Sure people can find someone to operate their pool for them, but I'm building an automated solution that requires no human interaction. And with that low of a barrier to entry I believe it will bring people into the Cardano system. I would like to talk more about it, but I don't want to give away too many details until my website is complete! If you have any questions, please contact support@stakeops.com",
+			"server": "We are running custom tailored software to monitor, provision (and change hardware settings), and move servers as needed. Currently we have 2 servers: one in the USA and one in Germany. Our software is compatible with 3 cloud providers currently, but our favorite is Kamatera, so that is what we're currently using"
+		}
+	}
+}

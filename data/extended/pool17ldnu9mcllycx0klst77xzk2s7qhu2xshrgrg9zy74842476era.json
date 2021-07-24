@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://cardano-official.sg/s/SGCO-favicon.png",
+		"url_png_logo": "https://www.cardano-official.sg/s/SGCO-logo.png",
+		"location": "Singapore, Asia",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"telegram-admin-handle": [
+		""
+	],
+	"my-pool-ids": [
+		"f7db3e1778ffc9833edf82fde30aca87817e28d0b8d0341444f54f55"
+	],
+	"when-satured-then-recommend": [
+		"f7db3e1778ffc9833edf82fde30aca87817e28d0b8d0341444f54f55"
+	]
+}

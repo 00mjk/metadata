@@ -1,0 +1,20 @@
+{
+	"itn": {
+		"owner": "ed25519_pk107j5q25u65xuvuutyjh3cfdlp9ghfl5sq90vgqpd40p92nc2eduqggylq0",
+		"witness": "ed25519_sig1p8hfu5g3072meet5g3f7l748ryftuaggjj00thadpy9pxyx8huxfysdjpvvyzd36swfcwmzup9h6da0q9pjxs52g7uckxcw4862rvqcxlwz45"
+	},
+	"info": {
+		"url_png_icon_64x64": "https://hermes-stakepool.com/meta/pic.png",
+		"location": "Germany",
+		"social": {
+			"twitter_handle": "Wiiinnie",
+			"telegram_handle": "wiiinnie"
+		},
+		"about": {
+			"me": "German well-known stakepool operator since ITN."
+		},
+		"telegram-admin-handle": {
+			"0": "wiiinnie"
+		}
+	}
+}

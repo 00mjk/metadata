@@ -1,0 +1,7 @@
+{
+	"name": "AHA",
+	"description": "AHA stake pool",
+	"ticker": "AHA",
+	"homepage": "https://ahaxu.com",
+	"extended": "https://ahaxu.com/extended-meta-data.json"
+}

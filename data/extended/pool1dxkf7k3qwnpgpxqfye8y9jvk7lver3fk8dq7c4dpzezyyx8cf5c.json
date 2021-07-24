@@ -1,0 +1,31 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://outerspace.money/icon_for_adapools.png",
+		"url_png_logo": "https://outerspace.money/logo_for_adapools.png",
+		"location": "Outer Space",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"about": {
+			"me": "SPâ³CE is a dedicated team of professionals who fundamentally believe in the Cardano Vision. Our mission is to generate maximum rewards for our fellow ADA-nauts (aka delegators). To demonstrate our commitment and resolve, the team behind SPâ³CE have personally pledged over ONE MILLION ADA to our portfolio of pools. Demand the best, earn the most, choose SPâ³CE. We are building a better future. Block by Block. Epoch by Epoch. Pool by Pool.",
+			"server": "",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "69ac9f5a2074c2809809264e42c996f7d991c5363b41ec55a1164442"
+	},
+	"when-satured-then-recommend": {
+		"0": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	}
+}

@@ -1,0 +1,43 @@
+{
+	"itn": {
+		"owner": "ed25519_pk1fas5e2ekp64y2prffqcael58lrms097tsxdfyfq9mz0tz54qflds43zm8s",
+		"witness": "ed25519_sig18apk7zuj0uxvrcgwg3swpq6rcx3fafudzeuauhvj0a4kvujzkw9k9wmv6vlucnn3z7x0ywul6fe8d0pzccq0jqwczz9pdfk7v22cgrsrf2rmc"
+	},
+	"info": {
+		"url_png_icon_64x64": "https://hivestaking.com/logo64x64.png",
+		"url_png_logo": "https://hivestaking.com/HiveLogo.png",
+		"location": "New Hampshire, US",
+		"social": {
+			"twitter_handle": "HivePool",
+			"telegram_handle": "HiveCardanoStakePool",
+			"facebook_handle": "HiveCardanoStakePool",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Hive Cardano Stake Pool",
+			"addr": "...",
+			"city": "...",
+			"country": "US",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "...",
+			"server": "Pool running on servers in Europe.",
+			"company": "..."
+		},
+		"rss": "http(s) url to valid RSS feed"
+	},
+	"my-pool-ids": {
+		"0": "de18050a35497096eecd2f93ddc2ea7e6c05cdae5575325327e223b3"
+	},
+	"when-satured-then-recommend": {
+		"0": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	}
+}

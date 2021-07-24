@@ -1,0 +1,32 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/adacuan/ada/main/adacuan64x64.png",
+		"url_png_logo": "https://raw.githubusercontent.com/adacuan/ada/main/adacuanlogo.png",
+		"location": "Salatiga, Indonesia",
+		"social": {
+			"twitter_handle": "adacuanpool",
+			"telegram_handle": "",
+			"facebook_handle": "adacuanpool",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Adacuan",
+			"addr": "...",
+			"city": "Salatiga",
+			"country": "Indonesia",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Single pool operater",
+			"server": "High Spesification Computer with 300MB internet bandwidth up/down, covered by generator 24H.",
+			"company": "..."
+		}
+	},
+	"my-pool-ids": {
+		"0": "ad9adce0849bd92dbfd61f9985cc139c5abd68ed9f751c85bf2294f1"
+	}
+}

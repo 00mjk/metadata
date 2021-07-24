@@ -1,0 +1,42 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/zeldapool-ada-pool/zeldaconfig/main/Z3lda64x64.jpg",
+		"url_png_logo": "https://raw.githubusercontent.com/zeldapool-ada-pool/zeldaconfig/main/Z3lda64x64.jpg",
+		"location": "Jersey City, New Jersey",
+		"social": {
+			"twitter_handle": "Z3ldaP",
+			"telegram_handle": "z3ldastakepool",
+			"facebook_handle": "z3ldastakingpool"
+		},
+		"company": {
+			"city": "Jersey City",
+			"country": "United States"
+		},
+		"about": {
+			"me": "Z3LDA pool is a United States based pool that is owned and operated by a staking team with a deep experience of blockchain and staking",
+			"server": "Cloud Based Solution. Relays: 2 x 2 CPU, 8 GB RAM, 40 Gb SSD. Relay 1: U.S. East Coast, Relay 2: Paris. Automatic failover. Block Producer: 1 x 2 CPU, 8 GB RAM, 40 Gb SSD. Servers have been hardened via point-to-point VPN connectivity, multi-layer firewalling, shared memory protection, use of fail2ban, use of 2FA for authentication. No cold keys are stored on the server and are instead held on an air-gapped secure machine."
+		}
+	},
+	"my-pool-ids": {
+		"0": "pool1yc6h3nppujkdlwrv53afp7aeyq9zq0j9ja0xl6jz876rszrmd8l"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "Relay 1",
+				"type": "relay",
+				"key": "b0df29539746255640c29d822264dc87"
+			},
+			"1": {
+				"name": "Block Producer",
+				"type": "bp",
+				"key": "18be7f41a5f18545d89627db75125803"
+			},
+			"2": {
+				"name": "Relay 2",
+				"type": "relay",
+				"key": "dca36f0162441acde2e23395c66f0af2"
+			}
+		}
+	}
+}

@@ -1,0 +1,61 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://shamrock-pool.com/newimages/favicon-64x64.png",
+		"url_png_logo": "https://shamrock-pool.com/newimages/favicon-64x64.png",
+		"location": "Ireland",
+		"social": {
+			"twitter_handle": "@PoolShamrock",
+			"telegram_handle": "shamrockpool",
+			"facebook_handle": "shamrock.pool.3",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Shamrock Pool",
+			"addr": "",
+			"city": "",
+			"country": "Ireland",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "...",
+			"server": "The Shamrock pool a series of servers distributed across the world aiding in the decentralization of Cardano.",
+			"company": "..."
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "",
+		"1": ""
+	},
+	"when-satured-then-recommend": {
+		"0": "",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "relay 1 eu",
+				"type": "relay",
+				"key": "example_get_own_on_adapools.org/connect"
+			},
+			"1": {
+				"name": "relay 2 usa",
+				"type": "relay",
+				"key": "example_get_own_on_adapools.org/connect"
+			},
+			"2": {
+				"name": "block producer home",
+				"type": "bp",
+				"key": "example_get_own_on_adapools.org/connect"
+			}
+		}
+	}
+}

@@ -1,0 +1,33 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://i.imgur.com/rdFPWer.png",
+		"url_png_logo": "http(s) url to pool logo; not animated; max 50kb",
+		"location": "Gauteng, South-Africa",
+		"social": {
+			"twitter_handle": "Axnosis",
+			"telegram_handle": "ChrisvNiekerk",
+			"facebook_handle": "AxnosisStakePool",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "AxnStakePool"
+		},
+		"company": {
+			"name": "Axnosis",
+			"addr": "CSIR, 4E",
+			"city": "Pretoira",
+			"country": "South-Africa"
+		},
+		"about": {
+			"me": "A privately owned company registered in South Africa, operating out of offices in Pretoria, Gauteng province. We have been operational since 2004, mainly operating as an ERP software solutions provider. We have experienced software consultants, developers with skills in multiple programming languages, as well as technical expertise with network management.",
+			"server": "8GB RAM, 4cores, 256GB storage server running on fiber with LTE and generator backup",
+			"company": "Axnosis"
+		}
+	},
+	"my-pool-ids": {
+		"0": "ee1f91a5e08196567a88de2f1180b4a9f673961e5c2e170421a39002"
+	},
+	"telegram-admin-handle": {
+		"0": "Axnosis"
+	}
+}

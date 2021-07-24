@@ -1,0 +1,42 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://storage.googleapis.com/nfty-pool/nfty-64x64.png",
+		"url_png_logo": "https://storage.googleapis.com/nfty-pool/nfty-512x512.png",
+		"location": "Chelsea, Canada",
+		"social": {
+			"twitter_handle": "nftynfty",
+			"telegram_handle": "nftynfty",
+			"facebook_handle": "",
+			"youtube_handle": "UCXoULyZFMBhQrAqiazwdgDQ",
+			"twitch_handle": "",
+			"discord_handle": "sKed6PnTxR",
+			"github_handle": "NftyNfty"
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": ""
+		},
+		"rss": "",
+		"adapools": {
+			"pool_claim": "45899d9dfd67c3bffaae07c959141c22"
+		}
+	},
+	"telegram-admin-handle": [
+		""
+	],
+	"my-pool-ids": [
+		"68c69fd7293f1dd040920c20d09f21827f37364db71e837898c68138"
+	],
+	"when-satured-then-recommend": [
+		"68c69fd7293f1dd040920c20d09f21827f37364db71e837898c68138"
+	]
+}

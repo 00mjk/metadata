@@ -1,0 +1,61 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://biceppool.github.io/extended-bicep.json",
+	"info": {
+		"url_png_icon_64x64": "https://biceppool.github.io/logo.png",
+		"url_png_logo": "http(s) url to pool logo; not animated; max 50kb",
+		"location": "Cardano Blockchain",
+		"social": {
+			"twitter_handle": "BicepPool",
+			"telegram_handle": "joinchat/Q1yc9cLpPitIXpds",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "bdc9e0311857f72fb9071689d46bc4913e307085ba0ce25d018532ff",
+		"1": ""
+	},
+	"when-satured-then-recommend": {
+		"0": "",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "",
+				"type": "",
+				"key": ""
+			},
+			"1": {
+				"name": "",
+				"type": "",
+				"key": ""
+			},
+			"2": {
+				"name": "",
+				"type": "",
+				"key": ""
+			}
+		}
+	}
+}

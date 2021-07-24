@@ -1,0 +1,36 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://jimcase.github.io/cassoweb/assets/dblogo64x64.png",
+		"url_png_logo": "https://jimcase.github.io/cassoweb/assets/dbLogo.png",
+		"location": "Tenerife, Canary Islands, Spain",
+		"social": {
+			"twitter_handle": "AdaBooster",
+			"telegram_handle": "adabooster",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "dBooster",
+			"addr": "Distributed",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "We offer 0% margin fee until reach 4M in stake",
+			"server": "Multi-cloud & baremetal nodes. Servers in Holland, Germany and Spain.",
+			"company": "dBooster.io"
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": ""
+	},
+	"when-satured-then-recommend": {
+		"0": ""
+	}
+}

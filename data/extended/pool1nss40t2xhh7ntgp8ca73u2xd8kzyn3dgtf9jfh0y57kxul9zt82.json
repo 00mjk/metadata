@@ -1,0 +1,54 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://beerpool.io/wp-content/uploads/2020/10/23-512.png",
+		"url_png_logo": "",
+		"location": "United States",
+		"social": {
+			"twitter_handle": "BeerStakePool",
+			"telegram_handle": "BeerStakePool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "BeerStakePool"
+		},
+		"company": {
+			"name": "Beer Money Stake Pool",
+			"addr": "",
+			"city": "",
+			"country": "United States",
+			"company_id": "269a8e9bb80fd84431f399aee29db4d3",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "Hosted in AWS USA East Region. Low latency, enterprise grade bandwidth and 24/7 uptime.",
+			"company": "The Beer Money Stake Pool team is based out of The United States of America and consist of IT professionals with backgrounds in a variety of areas from System Administration to Information Security. We love driking beer and discussing emerging technologies and out of one of these sessions our stake pool was born."
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "9c2157ad46bdfd35a027c77d1e28cd3d8449c5a85a4b24dde4a7ac6e"
+	},
+	"when-satured-then-recommend": {
+		"0": "9c2157ad46bdfd35a027c77d1e28cd3d8449c5a85a4b24dde4a7ac6e"
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "Relay-01",
+				"type": "relay",
+				"key": "163623734ff004e6aad55cef36ce29f7"
+			},
+			"1": {
+				"name": "Relay-02",
+				"type": "relay",
+				"key": "6214f5bf8595a35d90a7d195c2ff7641"
+			}
+		}
+	}
+}

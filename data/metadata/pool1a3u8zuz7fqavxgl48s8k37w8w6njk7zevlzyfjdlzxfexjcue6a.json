@@ -1,0 +1,7 @@
+{
+	"name": "AAA2",
+	"ticker": "AAA2",
+	"description": "AAA2 Pool",
+	"homepage": "https://stakelovelace.io/aaa/",
+	"extended": "https://raw.githubusercontent.com/stakelovelace/pub/main/aaa2_extended.json"
+}

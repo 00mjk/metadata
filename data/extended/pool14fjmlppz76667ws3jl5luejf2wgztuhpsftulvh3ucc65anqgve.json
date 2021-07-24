@@ -1,0 +1,25 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://xstakepool.com/image/xsp-icon64.png",
+		"url_png_logo": "https://xstakepool.com/image/logo-black-yoko.png",
+		"social": {
+			"twitter_handle": "X_StakePool_XSP",
+			"telegram_handle": "X_StakePool_XSP",
+			"youtube_handle": "channel/UCfebN7mp8rs6GTTsMt_kSGg",
+			"github_handle": "btbf"
+		},
+		"about": {
+			"me": "æ¥æ¬äººãªãã¼ã¬ã¼ã¿ã¼ãéå¶ããX Stake Poolã§ããæ¥æ¬ã§ç´18å¹´éã·ã¹ãã ã¨ã³ã¸ãã¢ãWEBéçºãè¡ã£ã¦ããã¾ããI would like to introduce the X Stake Pool, a stake pool system run by a Japanese operator!I, the operator, have around eighteen years of experience working in system engineering and web development here in Japan.",
+			"server": "VM terminal featuring a 6 core CPU, 16GB of RAM and a 400GB SSD."
+		}
+	},
+	"my-pool-ids": {
+		"0": "aa65bf8422f6b5af3a1197e9fe6649539025f2e18257cfb2f1e631aa"
+	},
+	"when-satured-then-recommend": {
+		"0": "aa65bf8422f6b5af3a1197e9fe6649539025f2e18257cfb2f1e631aa"
+	},
+	"telegram-admin-handle": {
+		"0": "X_StakePool_XSP"
+	}
+}

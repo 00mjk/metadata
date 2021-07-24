@@ -1,0 +1,23 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://adaseal.eu/logo/small.png",
+		"url_png_logo": "https://adaseal.eu/logo/logo.png",
+		"location": "Prague, Czechia",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "SEAL_Pool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"my-pool-ids": {
+			"0": "7d59eb08203e86f74d3011c7e967ed50fbd0954001eab1cb00b69422"
+		},
+		"about": {
+			"me": "We are community staking pool with minimal possible fees (0% margin) located in central Europe, that is running on dedicated hardware in a datacentre, operated by seasoned IT professionals. Our goal is to enlarge and improve Cardano Community, allow people to efficiently stake their ADA and support wild animals.",
+			"server": "SuperMicro, dedicated HA cluster, located in datacenter, 1Gbps network"
+		}
+	}
+}

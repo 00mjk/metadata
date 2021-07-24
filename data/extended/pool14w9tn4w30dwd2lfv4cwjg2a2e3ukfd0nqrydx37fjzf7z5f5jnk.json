@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.kaizenstakepool.com/kobe.pool.logo.png",
+		"url_png_logo": "https://www.kaizenstakepool.com/kobe.pool.logo.png",
+		"location": "United States, North America",
+		"social": {
+			"twitter_handle": "KaizenCrypto",
+			"telegram_handle": "KaizenCrypto_KAIZN",
+			"facebook_handle": "",
+			"youtube_handle": "Kaizen Crypto",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Cardano Stakepool Operator and Content Creator",
+			"server": "High Performance Bare Metal Server and Dedicated Offsite Backup",
+			"company": "Kaizen Crypto LLC"
+		},
+		"rss": ""
+	},
+	"telegram-admin-handle": [
+		"KaizenCrypto_KAIZN"
+	],
+	"my-pool-ids": [
+		"ab8ab9d5d17b5cd57d2cae1d242baacc7964b5f300c8d347c99093e1"
+	],
+	"when-satured-then-recommend": [
+		"ab8ab9d5d17b5cd57d2cae1d242baacc7964b5f300c8d347c99093e1"
+	]
+}

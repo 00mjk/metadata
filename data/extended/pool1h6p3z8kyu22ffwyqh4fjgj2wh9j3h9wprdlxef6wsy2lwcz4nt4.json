@@ -1,0 +1,59 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://git.io/Jc929",
+		"url_png_logo": "https://git.io/Jc929",
+		"location": "Between time and space",
+		"social": {
+			"twitter_handle": "forbole",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "forbole"
+		},
+		"company": {
+			"name": "Forbole",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Forbole",
+			"server": "Quantum Computing ",
+			"company": "Forbole"
+		}
+	},
+	"my-pool-ids": {
+		"0": "be83111ec4e29494b880bd5324494eb9651b95c11b7e6ca74e8115f7",
+		"1": ""
+	},
+	"when-satured-then-recommend": {
+		"0": "be83111ec4e29494b880bd5324494eb9651b95c11b7e6ca74e8115f7",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": "your_tg_handle"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "",
+				"type": "relay",
+				"key": ""
+			},
+			"1": {
+				"name": "relay 1",
+				"type": "relay",
+				"key": ""
+			},
+			"2": {
+				"name": "relay2",
+				"type": "relay",
+				"key": ""
+			}
+		}
+	}
+}

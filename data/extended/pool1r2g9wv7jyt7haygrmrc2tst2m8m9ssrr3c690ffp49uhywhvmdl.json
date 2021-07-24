@@ -1,0 +1,43 @@
+{
+	"itn": {
+		"owner": "ed25519_pk1hggj600lx7nwdu7pctzjze293qyq5tqhxh007ctmrtakqmnmt5gsq0qzkl",
+		"witness": "ed25519_sig1k7nru4umj5kag77ltpav9vqazthaj24wjlthem6se5hgdp48rsgr5lm8a397t3wwlrnl8tq2az2sv2ep8sgkn5h36exp6hd5j7a85pg504rje"
+	},
+	"info": {
+		"url_png_icon_64x64": "https://cryptofunctional.com/crfn64.png",
+		"url_png_logo": "https://cryptofunctional.com/crfn.png",
+		"location": "Australia, Australia",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "YubYub",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "YubYub#2687",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Zealteam",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": "Zealteam"
+		},
+		"rss": ""
+	},
+	"telegram-admin-handle": [
+		""
+	],
+	"my-pool-ids": [
+		"1a905733d222fd7e9103d8f0a5c16ad9f65840638e3457a521a97972"
+	],
+	"when-satured-then-recommend": [
+		"1a905733d222fd7e9103d8f0a5c16ad9f65840638e3457a521a97972"
+	]
+}

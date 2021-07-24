@@ -1,0 +1,43 @@
+{
+	"itn": {
+		"owner": "ed25519_pk14hy2epr8e9hygnsdqracx72h4jlxkvkp9mx2tnd3v06py48sptqsd905tt",
+		"witness": "ed25519_sig1jhs4frjgjz8kd29y76ggx4gq7nglqwk3cjd8rgpmpc9ftcu5swys4lxlhjwyzmhwgrgkzawldyc3eg5l84k3z3t63jkh0ake3sxgzpqlu4h2l"
+	},
+	"info": {
+		"url_png_icon_64x64": "https://ahlnet.nu/pool/ahl-logo-b_w-bg-round-64x64.png",
+		"url_png_logo": "https://ahlnet.nu/pool/ola_256x256.png",
+		"location": "Sweden, Europe",
+		"social": {
+			"twitter_handle": "olaahlman",
+			"telegram_handle": "olaahlman",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Cardano Believer | Stake Pool Operator | IT Technician | Globetrotter >> Providing tools and guides to help the Cardano community grow and prosper",
+			"server": "High-availability infrastructure on powerful AMD bare metal servers in Sweden",
+			"company": ""
+		}
+	},
+	"telegram-admin-handle": [
+		"olaahlman"
+	],
+	"my-pool-ids": [
+		"0001a003afb844ce6d9409fc49e049db654a78dc77f1151cb6cd548f",
+		"0001a007008ad930089e1be2de42ef058ac18ce761e8dd2651740b7a"
+	],
+	"when-satured-then-recommend": [
+		"0001a003afb844ce6d9409fc49e049db654a78dc77f1151cb6cd548f",
+		"5271fc86fd9c25613c138c4aef6f8593b2952c95897b079facebbc9e"
+	]
+}

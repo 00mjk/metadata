@@ -1,0 +1,44 @@
+{
+	"info": {
+		"url_png_logo": "https://static.crypto2099.io/img/buffy-bot-icon.png",
+		"location": "Wyoming, USA",
+		"social": {
+			"twitter_handle": "Crypto2099Corp",
+			"telegram_handle": "Crypto2099",
+			"github_handle": "Crypto2099",
+			"codingame": [
+				{
+					"handle": "400e037704b7ec4ba0f2578d5f7f2a147836804"
+				}
+			]
+		},
+		"company": {
+			"name": "Crypto2099, Corp",
+			"country": "USA"
+		},
+		"about": {
+			"server": "Cloud-hosted deployment at datacenters around the world",
+			"company": "We are people passionate about Cardano and the future of blockchain with 10+ years of systems administration expertise"
+		}
+	},
+	"my-pool-ids": [
+		"000022b3f0b748a43239c5024c58f852c05593cd0a77a798f0bb3a14",
+		"00003e2c67a19f5cec109ffb840b4d1ac41604ec8db7fb38e80cc432"
+	],
+	"when-saturated-then-recommend": [
+		"000022b3f0b748a43239c5024c58f852c05593cd0a77a798f0bb3a14",
+		"00003e2c67a19f5cec109ffb840b4d1ac41604ec8db7fb38e80cc432",
+		"95954fa839905a201d8d97cc31be8bbd4ac2ad0df1d201accce3a23e",
+		"00000110093effbf3ce788aebd3e7506b80322bd3995ad432e61fad5",
+		"00004614332ac81201d8302d4cb8262502af229256e143dc2156156e",
+		"4aea697c45e39e37e5d842ec8cf6c01a714e88db33a1ba0565ab59af",
+		"abacadaba9f12a8b5382fc370e4e7e69421fb59831bb4ecca3a11d9b"
+	],
+	"telegram-admin-handle": [
+		"TheRealAdamDean"
+	],
+	"itn": {
+		"owner": "ed25519_pk1pse9mh92yvg72w2q07nl8kvj3jwzf3vljxsqh70ytvuw54chh9mqk4730a",
+		"witness": "ed25519_sig1ele28lycq3xhyz64ga038ajqfcnfhagvmhzwkz04dueg79lufeq8llfpehvzwf8vdhfysxp9qzqrd763jnm5nyuzfp67ev8dq7axcpgh8ns40"
+	}
+}

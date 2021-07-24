@@ -1,0 +1,33 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://github.com/sambor1981/ROG/blob/main/rogonepool.png?raw=true",
+		"url_png_logo": "https://github.com/sambor1981/ROG/blob/main/rogonepool.png?raw=true",
+		"location": "Poznan, Poland",
+		"social": {
+			"twitter_handle": "RStakepool",
+			"telegram_handle": "ROG_Pool",
+			"facebook_handle": "profile.php?id=100070334024314",
+			"youtube_handle": "channel/UCK4x-sBPqDJFlKxzMsMTxzw",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "sambor1981"
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Let's grow all together, and make a better world. Stake Cardano with us.",
+			"server": "",
+			"company": ""
+		},
+		"my-pool-ids": {
+			"0": "59a5636fc0427e6eeb3cf23016fce0e749b2f4a3f0f589d6caa10f05",
+			"1": ""
+		}
+	}
+}

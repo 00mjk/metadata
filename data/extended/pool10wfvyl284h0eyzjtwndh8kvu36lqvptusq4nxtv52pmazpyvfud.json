@@ -1,0 +1,61 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/ACcryTm/ACT/main/ed.json",
+	"info": {
+		"url_png_icon_64x64": "https://s6.gifyu.com/images/ACTwSTAR-PNG.png",
+		"url_png_logo": "https://s6.gifyu.com/images/ACTwSTAR-PNG.png",
+		"location": "Las Vegas, Nevada",
+		"social": {
+			"twitter_handle": "@act_pool",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "channel/UCMB9yGj-0Wva02tsj8W2Ggg",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "",
+			"instagram_handle": "Advanced_crypto_team"
+		},
+		"company": {
+			"name": "Advanced Crypto Team",
+			"addr": "",
+			"city": "Las Vegas",
+			"country": "USA",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "7b92c27d47addf920a4b74db73d99c8ebe06057c802b332d945077d1",
+		"1": ""
+	},
+	"when-satured-then-recommend": {
+		"0": "18652168f6def2b2184bd8e0b1b9023fcc9d31edf3008714e3a18e3c",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": "your_tg_handle"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "relay 1 eu",
+				"type": "relay",
+				"key": "example_get_own_on_adapools.org/connect"
+			},
+			"1": {
+				"name": "relay 2 usa",
+				"type": "relay",
+				"key": "example_get_own_on_adapools.org/connect"
+			},
+			"2": {
+				"name": "block producer home",
+				"type": "bp",
+				"key": "example_get_own_on_adapools.org/connect"
+			}
+		}
+	}
+}

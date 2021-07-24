@@ -1,0 +1,34 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://diamondpool.io/ximg/diamond-logo64.png",
+		"url_png_logo": "https://diamondpool.io/ximg/diamond-logo.jpg",
+		"location": "United States",
+		"social": {
+			"twitter_handle": "diamondpool_io",
+			"telegram_handle": "",
+			"facebook_handle": "diamondstakepool",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Diamond Pools",
+			"country": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "065761de502a7ff8cd77e1ada105f08766988e02451d739bc5da35e4"
+	},
+	"when-satured-then-recommend": {
+		"0": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	}
+}

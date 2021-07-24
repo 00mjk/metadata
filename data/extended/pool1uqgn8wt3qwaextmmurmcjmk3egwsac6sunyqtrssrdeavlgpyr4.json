@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/GS1973/ALLI/master/ica.png",
+		"url_png_logo": "https://raw.githubusercontent.com/GS1973/ALLI/master/bga.png",
+		"location": "The Netherlands, Europe",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "The Alliance supports the decentralization of Cardano by supporting the currently low-stake stake pools. By supporting The Alliance you as an investor/delegator are helping these pools transforming into healthy block producing stake pools with which the Cardano ecosystem becomes more decentralized. The more (decentralized) healthy block producing stake pools, the healthier the Cardano ecosystem, the higher the value of the ecosystem and the higher the ada value (price). Decentralized in the sense of many good performing stake pools with different owners. The latter is essential for a healthy and sustainable blockchain, since it prevents Sybil attacks (owners/pools having too much power (stake) enabling them to take over the ecosystem). By delegating to The Alliance you as an investor/delegator are helping to increase the health and the value of the Cardano ecosystem with, as a side effect, the increase of the ada price (mid/long term).The Alliance is aiming for a total active stake close to saturation level, which is currently about 64M ada. With this amount of stake the ROI for you as an investor/delegator is high (short term) and next to that this amount helps the individual pools of The Alliance to anchor in the ecosystem. Delegate to The Alliance for both short term high ROI (by delegating ada) and for mid/long term high ROI (due to your investment in ada).",
+			"server": "",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	},
+	"my-pool-ids": {
+		"0": ""
+	},
+	"when-satured-then-recommend": {
+		"0": ""
+	}
+}

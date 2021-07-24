@@ -1,0 +1,41 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://hawaiicardano.com/hc64.png",
+		"url_png_logo": "https://hawaiicardano.com/hc.png",
+		"location": "Honolulu, HI",
+		"social": {
+			"twitter_handle": "hawaiicardano",
+			"telegram_handle": "",
+			"facebook_handle": "hawaiicardano",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "H Tech Studio",
+			"addr": "",
+			"city": "Honolulu",
+			"country": "Hawaii",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Hawaii Based Team of Developers & Engineers",
+			"server": "We implement multiple nodes in different locations to create a robust and reliable staking pool.",
+			"company": "HTECH Studio LLC"
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "e9794106e9403e8fbe059b1a2728fa8f686cf6e90565f7ba542b2dca",
+		"1": ""
+	},
+	"when-satured-then-recommend": {
+		"0": "e9794106e9403e8fbe059b1a2728fa8f686cf6e90565f7ba542b2dca",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	}
+}

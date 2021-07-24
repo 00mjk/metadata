@@ -1,0 +1,26 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://ghisx-pool.com/wp-content/uploads/icon_64x64.png",
+		"url_png_logo": "https://https://ghisx-pool.com/wp-content/uploads/icon_400x400.jpg",
+		"location": "Paris, France",
+		"social": {
+			"twitter_handle": "ghisxpool",
+			"telegram_handle": "Ghisx",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": ""
+		},
+		"about": {
+			"me": "Ghisx pool is a stake pool run by Cedric, a software engineer and blockchain enthusiast who is a long time community member. One of his passion is to contribute at the creation of a better decentralized future.",
+			"server": "Cloud-based servers hosted by a leading hosting provider with state-of-the-art data centers",
+			"company": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "291173f43cc28027f0b61d5d22825189aeef3e7e128fa37fef46beb4"
+	},
+	"when-satured-then-recommend": {
+		"0": "34a89f77c5fcf0563d129bde9b255f20b269a2dda1561c65d418ec40"
+	}
+}

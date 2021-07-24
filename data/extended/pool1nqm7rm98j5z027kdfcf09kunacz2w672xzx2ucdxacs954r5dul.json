@@ -1,0 +1,58 @@
+{
+	"how-to-implement": "https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://santoelectronics.com/s/santo64x64.png",
+		"url_png_logo": "https://santoelectronics.com/s/santo.png",
+		"location": "Michigan, USA",
+		"social": {
+			"twitter_handle": "nodesanto",
+			"telegram_handle": "santoelectronics",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "SantoNode#1173",
+			"github_handle": "santonode"
+		},
+		"company": {
+			"name": "Santo Electronics",
+			"addr": "3547 Alpine Ave, #2000",
+			"city": "Grand Rapids, Michigan",
+			"country": "USA",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Chris Nunez, Owner and Operator",
+			"server": "Linux 8core 16gb servers USA-UK-Singapore",
+			"company": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "9837e1eca79504f57acd4e12f2db93ee04a76bca308cae61a6ee205a"
+	},
+	"when-satured-then-recommend": {
+		"0": "9837e1eca79504f57acd4e12f2db93ee04a76bca308cae61a6ee205a"
+	},
+	"telegram-admin-handle": {
+		"0": "santoelectronics"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "relay 1 eu",
+				"type": "relay",
+				"key": "example_get_own_on_adapools.org/connect"
+			},
+			"1": {
+				"name": "relay 2 usa",
+				"type": "relay",
+				"key": "example_get_own_on_adapools.org/connect"
+			},
+			"2": {
+				"name": "block producer home",
+				"type": "bp",
+				"key": "example_get_own_on_adapools.org/connect"
+			}
+		}
+	}
+}

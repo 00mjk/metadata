@@ -1,0 +1,8 @@
+{
+	"name": "Crowdano Stakepool",
+	"ticker": "CROW",
+	"description": "The official Crypto Crow Cardano stake pool",
+	"homepage": "https://crowdano.com",
+	"nonce": "1597257942",
+	"extended": "https://crowdano.com/adapool.json"
+}

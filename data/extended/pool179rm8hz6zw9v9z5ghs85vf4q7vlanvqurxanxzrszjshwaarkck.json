@@ -1,0 +1,42 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://crowdano.com/images/Crow-Coin-64x64.png",
+		"url_png_logo": "https://crowdano.com/images/Crow-Coin.png",
+		"location": "United States",
+		"social": {
+			"twitter_handle": "jasonappleton",
+			"telegram_handle": "adapools_ops",
+			"facebook_handle": "cryptocrow",
+			"youtube_handle": "cryptocrowofficial",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Crowdano.com",
+			"addr": "",
+			"city": "Cintinnati",
+			"country": "United States",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Jason Appleton (Crypto Crow)",
+			"server": "Multi-redundant relays",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "087cb9a9dab66751853893b0de0628aee88c36f82fd0c1ee3b998548",
+		"1": "f147b3dc5a138ac28a88bc0f4626a0f33fd9b01c19bb33087014a177"
+	},
+	"when-satured-then-recommend": {
+		"0": "4ca9249724d0d5229e0538163933f31986599b4d378c7eb26ca2e88b",
+		"1": "d5b90a198d2411b5c82fbdfee5f94b86de49a8589bfa7720b9de358f"
+	},
+	"telegram-admin-handle": {
+		"0": "Natasha_no"
+	}
+}

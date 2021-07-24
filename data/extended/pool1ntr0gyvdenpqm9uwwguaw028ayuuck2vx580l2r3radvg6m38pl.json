@@ -1,0 +1,21 @@
+{
+	"info": {
+		"location": "Dublin, Ireland",
+		"social": {
+			"twitter_handle": "@danny_cryptofay",
+			"telegram_handle": "crypto_fay",
+			"facebook_handle": "cryptofay"
+		},
+		"about": {
+			"me": "Tech Guys",
+			"server": "AWS hosted automated and monitored pool with best industry practices",
+			"company": "Private"
+		}
+	},
+	"my-pool-ids": {
+		"0": "9ac6f4118dccc20d978e7239d73d47e939cc594c350effa8711f5ac4"
+	},
+	"telegram-admin-handle": {
+		"0": "danny_cryptofay"
+	}
+}

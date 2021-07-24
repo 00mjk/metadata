@@ -1,0 +1,43 @@
+{
+	"itn": {
+		"owner": "ed25519_pk1ahz8n9wqqwvn9m567vd07yz8s8kuk9vm6hld7zaaclqzhsvmpanslj6xqd",
+		"witness": "ed25519_sig12ps4ac735le77kmqutl705k6zvda3ta7uzcah2p83uqpcatv9q26ephrrl7g3jzrhazhaszxjqza007uh0cn2z2lr3zldda2z07qvpg6dw0lm"
+	},
+	"info": {
+		"url_png_icon_64x64": "https://angelstakepool.net/pool/angel-logo-64.png",
+		"url_png_logo": "https://angelstakepool.net/pool/angel-logo.png",
+		"location": "USA",
+		"social": {
+			"twitter_handle": "angelstakepool",
+			"telegram_handle": "ANGELpool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "ANGEL pool, running since the ITN, offers low fees and decent pledge, as well as seriousness and commitment to our delegators and to Cardano as a project.",
+			"server": "Our pool relies on 5 geographically distributed servers [including monitoring/alerts] with competitive hardware specs.",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"telegram-admin-handle": {
+		"0": "ANGELpool"
+	},
+	"my-pool-ids": {
+		"0": "00004614332ac81201d8302d4cb8262502af229256e143dc2156156e"
+	},
+	"when-satured-then-recommend": {
+		"0": "0000558092d1645b110130bb1b9d449dced79bfccf313e2880e6cf38"
+	}
+}

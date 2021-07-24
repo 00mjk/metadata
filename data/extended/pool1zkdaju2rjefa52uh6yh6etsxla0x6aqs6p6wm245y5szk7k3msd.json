@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://static.wixstatic.com/media/e77804_11940866b6bd48f6ba49d77f1604248b~mv2.jpg",
+		"url_png_logo": "https://static.wixstatic.com/media/e77804_11940866b6bd48f6ba49d77f1604248b~mv2.jpg",
+		"location": "Rockwood, Ontario",
+		"social": {
+			"twitter_handle": "https://twitter.com/ShawnA3C",
+			"telegram_handle": "https://t.me/joinchat/-bfrCYmeBzM3YmUx",
+			"facebook_handle": "",
+			"youtube_handle": "https://www.youtube.com/channel/UCLeEDYaGJn2zlA3N_Jwx1Fg",
+			"twitch_handle": "",
+			"discord_handle": "https://discord.gg/uWdSDkSg",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "A3C Modern Consulting",
+			"addr": "",
+			"city": "Rockwood",
+			"country": "Canada",
+			"company_id": "A3C",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "A3C's MISSON = Assist Cardano with banking the unbanked by donating 20% of our personal margin rewards to kiva.org & helping the community by offering free Crypto advice/support via our website, Twitter, Discord & YouTube. Our goal is to be 100% green through Tesla Solar Roof & Starlink when available in our area.",
+			"server": "1 relay registered on-chain, 3 unlisted relays to prevent DoS attacks.  Infrastructure currently hosted on AWS using t3.large instances. ",
+			"company": "A3C was created to help the community by providing reliable information and safe practices on how to invest in Cryptocurrency."
+		}
+	},
+	"my-pool-ids": {
+		"0": "pool1zkdaju2rjefa52uh6yh6etsxla0x6aqs6p6wm245y5szk7k3msd"
+	},
+	"when-satured-then-recommend": {
+		"0": "",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	}
+}

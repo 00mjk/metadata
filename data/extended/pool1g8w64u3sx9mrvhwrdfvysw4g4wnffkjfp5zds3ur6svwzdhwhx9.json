@@ -1,0 +1,11 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://knightsofcardano.com/static/poolIcon.png",
+		"url_png_logo": "https://knightsofcardano.com/static/poolLogo.png",
+		"location": "Paris, France",
+		"social": {
+			"twitter_handle": "KNGHTstakepool",
+			"telegram_handle": "KnightsOfCardano"
+		}
+	}
+}

@@ -1,0 +1,34 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://nickhiams.github.io/64x64.png",
+		"url_png_logo": "https://nickhiams.github.io/periodic.png",
+		"location": "England",
+		"social": {
+			"twitter_handle": "thecryptoleum",
+			"telegram_handle": "oleum_net",
+			"linkedin_handle": "nick-hiams-1859b628",
+			"discord_handle": "oleum#2333",
+			"github_handle": "NickHiams"
+		},
+		"company": {
+			"name": "oleum.net",
+			"city": "Northamptonshire",
+			"country": "England"
+		},
+		"about": {
+			"me": "Nick Hiams",
+			"server": "Block producer Bare metal Intel 4 Core 8Gb RAM 300/300 Fibre Relays-1 anonymous 1 EU 1 USA",
+			"company": "oleum.net"
+		}
+	},
+	"my-pool-ids": {
+		"0": "4013a7d086bec89ec1b2ba4e43633012d02e66c54278c229b324a982"
+	},
+	"when-satured-then-recommend": {
+		"0": "18d55e1060368606c01803afa75168339b9c1cd3a867e0f967d160ed",
+		"1": "68f866aa0448d8066426be9e913c171f7f8cc07c0def4eaf92e5df2b"
+	},
+	"telegram-admin-handle": {
+		"0": "OlNick"
+	}
+}

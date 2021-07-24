@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "",
+		"url_png_logo": "https://fermat.space/wp-content/uploads/2021/06/cropped-logo.png",
+		"location": "The Netherlands, Europe",
+		"social": {
+			"twitter_handle": "https://twitter.com/FermatPool",
+			"telegram_handle": "https://t.me/FERMTpool",
+			"facebook_handle": "",
+			"youtube_handle": "ca23703ecaf086fe305c8f0726a3a163",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "https://github.com/fermatspace"
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "We aspire to be as dedicated as Pierre de Fermat was to his works, in the creation of a fully transparent Cardano staking pool. This includes transparency in the use of epoch rewards we will receive, most of which (if not all) will be re-delegated to the [FERMT] pool, to stimulate pool growth.",
+			"server": "We currently have two servers running and plan to increase the amount of nodes in the future to create a resilient network that ensures uptime of our node! All of our servers are enterprise servers that have the highest security standards.",
+			"company": "We are a new initiative that thrives to get more out of the staking experience. Why wait, delegate to support us and experience it yourself!"
+		},
+		"rss": ""
+	},
+	"telegram-admin-handle": [
+		""
+	],
+	"my-pool-ids": [
+		"c6f745cbfeb674f922d60527939b6893766f81bedd391330f3b1f365"
+	],
+	"when-satured-then-recommend": [
+		"c6f745cbfeb674f922d60527939b6893766f81bedd391330f3b1f365"
+	]
+}

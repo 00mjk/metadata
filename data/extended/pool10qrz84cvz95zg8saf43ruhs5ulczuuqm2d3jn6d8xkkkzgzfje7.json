@@ -1,0 +1,20 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://adappt.online/logo64_64.png",
+		"url_png_logo": "https://adappt.online/logo.png",
+		"location": "Budapest, Hungary",
+		"social": {
+			"twitter_handle": "AdapptO"
+		},
+		"about": {
+			"server": "Adappt Online pool supports Cardano and the concept of DApps. On-premise servers with 24/7 monitoring."
+		}
+	},
+	"my-pool-ids": {
+		"0": "780623d70c1168241e1d4d623e5e14e7f02e701b536329e9a735ad61"
+	},
+	"itn": {
+		"owner": "ed25519_pk19fkwa549m4gy5ad2emgvtzv4fhlmphj92e2vrf6galwlksha5h3su3wd7j",
+		"witness": "ed25519_sig1kgzqwwhhrd0v9jpf6c7p8w9ghm6cy58pah32jfxfehcc58vqnztr5557m0tsaasgz8wnma30u4a67s0nwy2rfdrh9g8fqjwky8ddzzs7asl2c"
+	}
+}

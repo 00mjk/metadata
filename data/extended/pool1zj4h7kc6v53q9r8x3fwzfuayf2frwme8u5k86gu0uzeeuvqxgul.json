@@ -1,0 +1,12 @@
+{
+	"adapools": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/chekypool/meta/main/64x64.png",
+		"social": {
+			"twitter_handle": "CheekyCrypto",
+			"youtube_handle": "CheekyCrypto"
+		},
+		"about": {
+			"me": "Cheeky Crypto is a YouTube Channel based in the United Kingdom - we live and breath everything Crypto and Cardano! By staking with CHEEK you are staking with enterprise grade architecture and infrastructure that is ALWAYS online to generate rewards!"
+		}
+	}
+}

@@ -1,0 +1,60 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://atmstakepool.com/wp-content/uploads/2020/10/Logo-ATM-64-1.png",
+		"url_png_logo": "https://atmstakepool.com/wp-content/uploads/2020/10/logo-ATM-full-1.png",
+		"location": "London, England",
+		"social": {
+			"twitter_handle": "AtmPools",
+			"telegram_handle": "ATMStakePool",
+			"facebook_handle": "atmstakepool",
+			"youtube_handle": "channel/UC6u8KWGpk7HgdBYNDB0RQUQ",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "ATMStakePool"
+		},
+		"company": {
+			"name": "ATM Stake Pool",
+			"addr": "",
+			"city": "London",
+			"country": "England",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Josh Jameson BSc, serial entrepreneur and host of The Cardano HereAfter Party",
+			"server": "",
+			"company": "ADA Technology Management (ATM) is the only pool offering free services, The Cardano HereAfter Party on YouTube and helping build businesses on Cardano with advice and funding"
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "003da6afe37eca8d1bec9a040a51f23eb085c3e1b924948a214067e7",
+		"1": ""
+	},
+	"when-satured-then-recommend": {
+		"0": "c0c231446dc398936f0f85506072f10641b861ce5012c0fcb1051442",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "relay 1",
+				"type": "relay",
+				"key": "867698a09ea6c192686843294f53c0de"
+			},
+			"1": {
+				"name": "relay 2",
+				"type": "relay",
+				"key": "578b95f599c39598f57a904a03dde7e1"
+			},
+			"2": {
+				"name": "",
+				"type": "",
+				"key": ""
+			}
+		}
+	}
+}

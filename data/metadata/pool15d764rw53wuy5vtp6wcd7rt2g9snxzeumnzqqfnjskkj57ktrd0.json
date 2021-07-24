@@ -1,0 +1,7 @@
+{
+	"name": "Big O Cardano Pool",
+	"description": "Dedicated to decentralization and giving to the Omaha Open Door Mission",
+	"ticker": "OMAHA",
+	"homepage": "http://omahacardanopool.com",
+	"extended": "https://omahametadata.s3.amazonaws.com/omahametadata-ext.json"
+}

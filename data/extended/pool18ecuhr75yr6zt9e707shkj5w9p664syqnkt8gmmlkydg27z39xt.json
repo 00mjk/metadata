@@ -1,0 +1,40 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://github.com/lu1tr0n/Toolspool/blob/main/cover_65x65.png?raw=true",
+		"url_png_logo": "https://github.com/lu1tr0n/Toolspool/blob/main/cover.png?raw=true",
+		"location": "San Salvador | New Jersey",
+		"social": {
+			"twitter_handle": "toolspool_sv",
+			"telegram_handle": "ToolsPool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "lu1tr0n"
+		},
+		"company": {
+			"name": "Toolspool",
+			"addr": "",
+			"city": "San Salvador | New Jersey",
+			"country": "SV",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "I am passionate about blockchain and cryptocurrencies and I am happy to be a part of the Cardano network and to support the community.",
+			"server": "We are using a secure and easily scalable infrastructure, we currently have 1 Block Producer and Relay Nodes but it will be improved to have 24/7 availability.",
+			"company": "..."
+		}
+	},
+	"my-pool-ids": {
+		"0": "3e71cb8fd420f425973e7fa17b4a8e2875aac0809d96746f7fb11a85",
+		"1": ""
+	},
+	"when-satured-then-recommend": {
+		"0": "1940494163c3e8f9c907fefce31287f5768e454a613f29adb0dd0083",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": "ToolsPool"
+	}
+}

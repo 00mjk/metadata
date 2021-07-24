@@ -1,0 +1,25 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://sweetadapool.com/images/adapools-icon-64x64.png",
+		"url_png_logo": "https://sweetadapool.com/images/adapools-logo.png",
+		"location": "",
+		"social": {
+			"twitter_handle": "sweetadapool",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"about": {
+			"me": "",
+			"server": "Hosted on award winning cloud service providers, with reduntant relays and distributed over 2 different continents, we can guarantee an uptime of more than 99.99%. This results in a pool that does not miss blocks or becomes offline, even during updates.",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "pool1l0f7d56gwgdyct6vev88mnuf4ankx2fpm53plr8g6rd6zxz6del"
+	}
+}

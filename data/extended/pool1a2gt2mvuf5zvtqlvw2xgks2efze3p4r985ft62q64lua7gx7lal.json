@@ -1,0 +1,42 @@
+{
+	"itn": {
+		"owner": "ed25519_pk1vchhd0lk8ny9v2pvrgw0huhk28mwmq4vfdn02q6st5503ev6p2eqz40x7u",
+		"witness": "ed25519_sig1ptqem7ek5tjyrlgk86xvwm0ktemaphuhjpzmhjutrg7pl042jxlv549aw7345whkpj58jdwksj93s39y6fzfa79ddz9rvmt288rkcqg9uupj5"
+	},
+	"adapools": {
+		"url_png_icon_64x64": "https://saltstaking.com/saltmeta64.png",
+		"url_png_logo": "https://saltstaking.com/saltmetalogo.png",
+		"location": "Utah, United States",
+		"social": {
+			"twitter_handle": "saltstaking",
+			"telegram_handle": "saltstaking",
+			"facebook_handle": "",
+			"youtube_handle": "UCofZm8seSRmdXxcYI-403Ug",
+			"twitch_handle": "",
+			"discord_handle": "E697gkU3"
+		},
+		"about": {
+			"me": "Salt Staking is a small pool operation located in the beautiful state of Utah. Created with love and enthusiasm for the Cardano Ecosystem. Established in 2019.",
+			"server": "3x Intel Xeon Scalable Processor (Skylake), 8GB ECC RAM, 10M fiber internet. Relay node locations in Salt Lake City, UT and Las Vegas, NV."
+		}
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "Salt Lake City Core",
+				"type": "bp",
+				"key": "52887be22561eae80ecc61d40a444598"
+			},
+			"1": {
+				"name": "Salt Lake City Relay",
+				"type": "relay",
+				"key": "35bac1fd1ee16374e98e7b8838cdb976"
+			},
+			"2": {
+				"name": "Las Vegas Relay",
+				"type": "relay",
+				"key": "8ad7fe7cb8ccd715ab6fea18273616d9"
+			}
+		}
+	}
+}

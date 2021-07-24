@@ -1,0 +1,7 @@
+{
+	"name": "ADOPTion Stake Pool",
+	"description": "ADOPT Stake Pool aims to power the adoption of  the Cardano network by giving rewards back to the working community",
+	"ticker": "ADOPT",
+	"homepage": "https://adoptstakepool.com",
+	"extended": "https://raw.githubusercontent.com/adosiawolf/m/master/ax.json"
+}

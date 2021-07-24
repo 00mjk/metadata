@@ -1,0 +1,7 @@
+{
+	"name": "Ryu Capital 1",
+	"description": "Official pool of cardano by Ryu Capital",
+	"ticker": "RYU1",
+	"homepage": "https://ryucapital.medium.com",
+	"extended": "https://raw.githubusercontent.com/Sh1dow/metadata/main/extended-metadata.json"
+}

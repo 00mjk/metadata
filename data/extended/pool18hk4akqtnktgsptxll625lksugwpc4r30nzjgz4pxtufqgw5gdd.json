@@ -1,0 +1,34 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.spiraladapool.com/images/logo64.png",
+		"url_png_logo": "https://www.spiraladapool.com/images/logo512.png",
+		"location": "London, England",
+		"social": {
+			"twitter_handle": "@spiraladapool",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "UCH-svMe3xvaIpHWWyrcqapg",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": ""
+	},
+	"when-satured-then-recommend": {},
+	"telegram-admin-handle": {}
+}

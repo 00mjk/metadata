@@ -1,0 +1,61 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://www.greenstakepool.com/icon",
+		"url_png_logo": "https://www.greenstakepool.com/logo",
+		"location": "Switzerland",
+		"social": {
+			"twitter_handle": "@Gr88nCardano",
+			"telegram_handle": "GR88nD84L",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "PierreManos"
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "Switzerland",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Father, Husband, Blockchain Enthusiast, Python Programmer, Surfer, Climate Activist",
+			"server": "Well-polished block-producing node combined with several lightweight relays all running on low CO2 Electricity, with an ideal location for blocks propagation, GREEN is a pool with a growing number of committed delegators!",
+			"company": ""
+		},
+		"rss": "http(s) url to valid RSS feed"
+	},
+	"my-pool-ids": {
+		"0": "34a89f77c5fcf0563d129bde9b255f20b269a2dda1561c65d418ec40",
+		"1": ""
+	},
+	"when-satured-then-recommend": {
+		"0": "291173f43cc28027f0b61d5d22825189aeef3e7e128fa37fef46beb4",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "relay 1 eu",
+				"type": "relay",
+				"key": "example_get_own_on_adapools.org/connect"
+			},
+			"1": {
+				"name": "relay 2 usa",
+				"type": "relay",
+				"key": "example_get_own_on_adapools.org/connect"
+			},
+			"2": {
+				"name": "block producer home",
+				"type": "bp",
+				"key": "example_get_own_on_adapools.org/connect"
+			}
+		}
+	}
+}

@@ -1,0 +1,31 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://github.com/goff/gys-poolmetadata/raw/main/GYS-Logo-64.png",
+		"url_png_logo": "https://github.com/goff/gys-poolmetadata/raw/main/GYS-Logo-512.png",
+		"location": "USA",
+		"social": {
+			"twitter_handle": "GrowYourStake",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Grow Your Stake",
+			"city": "Austin/Dallas",
+			"country": "USA"
+		},
+		"about": {
+			"me": "Over 25 years in software development. We continue to spread the word about Cardano and the good it will bring.",
+			"server": "Reliable, scalable, and hardened (secure) servers in the cloud. Specs on Servers: 2 Cores, SSDs, 8 GB RAM"
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "59db640a870601fedb539d3f4954007332e76e463d1265c096b69c59"
+	},
+	"when-satured-then-recommend": {},
+	"telegram-admin-handle": {}
+}

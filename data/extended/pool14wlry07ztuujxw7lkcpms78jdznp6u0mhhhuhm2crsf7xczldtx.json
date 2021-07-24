@@ -1,0 +1,20 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://eclipsepool.com/_next/static/images/favicon-64x64.png",
+		"url_png_logo": "https://eclipsepool.com/_next/static/images/eclipse-logo-dark-58f0877dae8eb1e61c340475b8151e3.png",
+		"location": "Nairobi, Kenya",
+		"social": {
+			"twitter_handle": "eclipsepool",
+			"facebook_handle": "EclipseStakePool"
+		},
+		"company": {
+			"name": "Eclipse Stake Pool"
+		},
+		"about": {
+			"company": "Thank you for considering ECL. We are a small pool with a big heart! Currently based in Africa and running nodes in the US, Europe and South Africa. We run our nodes professionally to ensure high availability & performance, and we've hardened them for utmost security. We have dedicated 25% of our fees towards paying tuition fees for needy children. Visit our website to learn more and get involved!"
+		}
+	},
+	"my-pool-ids": {
+		"0": "abbe323fc25f39233bdfb603b878f268a61d71fbbdefcbed581c13e3"
+	}
+}

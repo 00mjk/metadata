@@ -1,0 +1,7 @@
+{
+	"name": "Grc1Pool",
+	"description": "The 1st Greek Pool, with 10 Relays presence around the globe: GR, DE, UK, US, JP, MY, ID, IN, NL, FI. 1% margin, the minimum fixed cost, permanent.",
+	"ticker": "GRC1",
+	"homepage": "https://grc1.netcount.gr",
+	"extended": "https://grc1.netcount.gr/meta/ext.json"
+}

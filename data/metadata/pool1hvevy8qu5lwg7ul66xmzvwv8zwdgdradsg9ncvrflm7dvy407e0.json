@@ -1,0 +1,7 @@
+{
+	"name": "Hamster Stake Pool",
+	"description": "We hoard ADA like a hamster",
+	"ticker": "HAMDA",
+	"homepage": "https://hamster-stake-pool.de",
+	"extended": "https://hamster-stake-pool.de/hamsterpoolmetaextend.json"
+}

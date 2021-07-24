@@ -1,0 +1,28 @@
+{
+	"itn": {
+		"owner": "ed25519_pk1zpht6k7dmcw2xrnql2qnsx3s0aa03t8820x2a8gdmvlywgytxj7qssx2rq",
+		"witness": "ed25519_sig1rc870jdjs3yczkhpv9uuuplql74vu9axce6v03seysdd9trg2gknssz6md2z3gykc44qexc9jrv0pka97ag5pjpql4ufk9jayhrqqqc9w352t"
+	},
+	"info": {
+		"url_png_icon_64x64": "https://adapointpool.com/metadata/AdaPointPoolLogo64x64.png",
+		"url_png_logo": "https://adapointpool.com/metadata/AdaPointPoolLogo.png",
+		"location": "Germany",
+		"social": {
+			"twitter_handle": "Ada_Point_Pool",
+			"telegram_handle": "gwearon",
+			"facebook_handle": "adapointpool",
+			"youtube_handle": "channel/UCq3oCrg2-R2HAuf9XLF_XcA",
+			"github_handle": "Gwearon"
+		},
+		"about": {
+			"me": "--FROM 2019-- We are Cardano. Providing low fee staking rewards for institutions and individuals. Trusted ITN operator with a proven track record: Produced 4,000+ blocks, Distributed 3,500,000+ ADA to our users which delegated 7 billion+ ADA to our pool!",
+			"server": "2 Relays and 1 Main node. Running on 2 x 8 vCores AMD Epyc, 16GB, 2 x 3 vCores AMD Epyc, 8GB. All instances have 10 Gbit connection and a SSD drive with backups. We are also running a Cardano Jormungandr testnet node, cardano-db-sync (with cardano-graph-ql) node for our internal use in our other Cardano related projects."
+		}
+	},
+	"my-pool-ids": {
+		"0": "1cb5d0e006c33ace982a527d4140bc086f99f7d35c27c5ab29600a74"
+	},
+	"telegram-admin-handle": {
+		"0": "gwearon"
+	}
+}

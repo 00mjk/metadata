@@ -1,0 +1,31 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/alfacardanopool/APOOL/main/64x64.png",
+		"url_png_logo": "https://raw.githubusercontent.com/alfacardanopool/APOOL/main/logo.png",
+		"location": "Thessaloniki, Greece",
+		"social": {
+			"twitter_handle": "AlfaCardanoPool",
+			"telegram_handle": "alfacardanopool",
+			"facebook_handle": "alfacardanopool",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "Alfa Pool (ALFA)#5628",
+			"github_handle": "alfacardanopool"
+		},
+		"company": {
+			"name": "Alfa Pool"
+		},
+		"about": {
+			"server": "Baremetal core plus cloud relays",
+			"company": "Alfa Pool is supporting decentralization for a better ecosystem and donating to Greek charity organisations"
+		}
+	},
+	"my-pool-ids": {
+		"0": "pool18qddv82sx8p22uxzdrf0qx9lkewxadlr9ef45kpcf7dzz3n56qv",
+		"1": "381ad61d5031c2a570c268d2f018bfb65c6eb7e32e535a58384f9a21"
+	},
+	"when-satured-then-recommend": {
+		"0": "",
+		"1": ""
+	}
+}

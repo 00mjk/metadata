@@ -1,0 +1,8 @@
+{
+	"name": "Kurdopia Pool",
+	"ticker": "KURD",
+	"description": "The margin fee will be used to invest in the Kurdish community. Contributing to mass adoption. Twitter @Kurdopia",
+	"homepage": "https://kurdopia.store",
+	"nonce": "1605540769",
+	"extended": "https://raw.githubusercontent.com/aryan-xebat/K/main/epm.json"
+}

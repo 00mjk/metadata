@@ -1,0 +1,32 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://git.io/JZmAr",
+		"url_png_logo": "https://git.io/JZmAr",
+		"location": "The Cloud",
+		"social": {
+			"twitter_handle": "XsecP",
+			"telegram_handle": "https://t.me/joinchat/H8B84akVuVU2Zjdk",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "eXtremely SECure Cardano ADA Staking Pool ",
+			"website": "https://ada.xsec.es"
+		},
+		"about": {
+			"me": "We are certified DevSecOps engineers with over 20 years of experience managing highly available distributed systems. Passionate about web3 and decentralizacion of power.",
+			"server": "XSEC staking pool runs in different datacenters distributed amongst Europe. We treat it as the most important highly available distributed system that we have ever managed.",
+			"company": "To be a small, secure and reliable pool is the reason for XSEC to exist. We are proud member of Cardano Single Pool Alliance https://singlepoolalliance.net/. We strongly believe that there have to be as many small nodes as possible for the future to be really decentralized."
+		}
+	},
+	"my-pool-ids": {
+		"0": "ac4c79de638c8bb08997e939dccde43fe347a392d11a7ddf77bf3816"
+	},
+	"telegram-admin-handle": {
+		"0": "adri_xsec"
+	}
+}

@@ -1,0 +1,29 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://plebpool.com/plebpool_logo_64.png",
+		"url_png_logo": "https://plebpool.com/plebpool_logo_64.png",
+		"location": "Cape Town, South Africa",
+		"social": {
+			"twitter_handle": "Plebpool1",
+			"telegram_handle": "plebpool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"about": {
+			"me": "PlebPool is a pool for all us plebians [PLBPL] - Single Pool Operator for the people - South African based. Professionally run!",
+			"server": "1 blockproducer + 2 public relays located in Cape Town and Pretoria, South Africa <CPU:8core|RAM:16G|SSD:200G> + 1 private Canadian relay"
+		},
+		"my-pool-ids": {
+			"0": "51120922fb9d7c0ecbb20378950da7880cb6dd9d3c9e06e17bff6aca"
+		},
+		"when-satured-then-recommend": {
+			"0": "small pools - support decentralization"
+		},
+		"telegram-admin-handle": {
+			"0": "brian_goodwin"
+		}
+	}
+}

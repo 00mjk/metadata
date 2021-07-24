@@ -1,0 +1,13 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://adapurse.com/purse-icon.png",
+		"url_png_logo": "https://adapurse.com/purse-logo.png",
+		"location": "Newark, USA",
+		"about": {
+			"server": "Monitored, resilient and safe Cardano stake pool powered by Linux."
+		}
+	},
+	"my-pool-ids": {
+		"0": "158144a30f7bb9b14443e72099782d6708f016ab20a6f0ee67f878e4"
+	}
+}

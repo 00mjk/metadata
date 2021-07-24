@@ -1,0 +1,36 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.ezstaking.io/assets/images/logo_square64.png",
+		"url_png_logo": "https://www.ezstaking.io/assets/images/logo_square.png",
+		"location": "Paris, France",
+		"social": {
+			"twitter_handle": "EZStaking",
+			"telegram_handle": "ezstaking",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "SAS LOUNES GROUP HOLDING",
+			"addr": "23 RUE RENE GAUDIN",
+			"city": "LORMONT",
+			"country": "FRANCE",
+			"company_id": "879513737",
+			"vat_id": "FR88879513737"
+		},
+		"about": {
+			"me": "EZStaking.io Node Validator",
+			"server": "VPS in multiple locations with monitoring and operations in Europe and Canada",
+			"company": "EZStaking.io"
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "857b1252cb6a3d079dbadcd76c2c58f44b7a4eba5962f921194a8fec"
+	},
+	"telegram-admin-handle": {
+		"0": "keupsonite"
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"name": "Cardano Voting",
+	"description": "Providing independent, up-to-date and insightful Cardano voting information",
+	"ticker": "CAVO",
+	"homepage": "https://www.cardanovoting.info",
+	"extended": "https://adjson.cardanovoting.info"
+}

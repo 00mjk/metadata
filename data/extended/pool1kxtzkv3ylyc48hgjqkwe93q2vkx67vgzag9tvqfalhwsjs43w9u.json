@@ -1,0 +1,22 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.adapool.at/favicon-32x32.png",
+		"url_png_logo": "https://www.adapool.at/android-chrome-256x256.png",
+		"location": "Vienna, Austria",
+		"social": {
+			"twitter_handle": "AdapoolA",
+			"telegram_handle": "ADApoolAT",
+			"github_handle": "Josef3110"
+		},
+		"company": {
+			"name": "Josef Fritscher",
+			"addr": "HÃ¶hnegasse 1/5",
+			"city": "Wien",
+			"country": "Ãsterreich",
+			"vat_id": "ATU57273499"
+		}
+	},
+	"my-pool-ids": {
+		"0": "b1962b3224f93153dd12059d92c40a658daf3102ea0ab6013dfddd09"
+	}
+}

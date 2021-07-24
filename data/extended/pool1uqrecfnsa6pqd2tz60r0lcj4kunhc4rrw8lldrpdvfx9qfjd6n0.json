@@ -1,0 +1,15 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://pbs.twimg.com/profile_images/1298608418090098690/RhnFH4Fg_400x400.jpg",
+		"location": "Amsterdam",
+		"social": {
+			"twitter_handle": "AmsterdamNode",
+			"youtube_handle": "channel/UCoSdZtNyy9VVyXz2wle6noQ"
+		},
+		"about": {
+			"me": "We are passionate about solving real world problems with technology. For the Cardano project our drive is: I) Running a secure, transparent and high performance node II) Educating the community and bringing together great minds III) Making a positive impact on the world through technology",
+			"server": "Infastructure set up with multiple relays distributed across: 1. Amsterdam | dedicated cloud server | 8GB RAM - 4 CPUs - 2GB/s 2. Frankfurt | dedicated cloud server | 8GB RAM - 4 CPUs - 2GB/s 3. Harare | dedicated cloud server | 8GB RAM - 4 CPUs - 2GB/s"
+		},
+		"rss": ""
+	}
+}

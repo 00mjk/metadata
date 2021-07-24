@@ -1,0 +1,16 @@
+{
+	"itn": {
+		"owner": "ed25519_pk17m3zc4xp0r2gxt3skzlm4cwazp08yqzu7tp2c0a3pxe8kht573nqm0nzr2",
+		"witness": "ed25519_sig12455ej4hhaks2rg57e6793jla42ufcns73juudrvukqrkmgq90mnmafreuhppftkvjvlanxe9j64swdlq9l7lsdzs7s9qpqa094vvrqfxp0y7"
+	},
+	"info": {
+		"url_png_icon_64x64": "https://alphastaking.com/static/images/alpha-logo-64x64.png",
+		"url_png_logo": "https://alphastaking.com/static/images/alpha-logo.png",
+		"social": {
+			"twitter_handle": "alphastaking"
+		}
+	},
+	"my-pool-ids": {
+		"0": "a1fa8385fa06ebd0b7d47e6d90eb399970dfb41005635ffd5b0bc964"
+	}
+}

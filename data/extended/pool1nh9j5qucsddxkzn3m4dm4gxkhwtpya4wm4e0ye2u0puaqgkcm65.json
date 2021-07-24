@@ -1,0 +1,60 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "",
+		"url_png_logo": "",
+		"location": "Oregon, USA",
+		"social": {
+			"twitter_handle": "FungiPool",
+			"telegram_handle": "FungiPool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "fungipool"
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "...",
+			"server": "Stake with FUNGI, earn rewards and support the mushroom movement! Oregon, USA. Bare Metal, 1Gbps Fiber, Renewable Energy",
+			"company": "..."
+		}
+	},
+	"my-pool-ids": {
+		"0": "pool1nh9j5qucsddxkzn3m4dm4gxkhwtpya4wm4e0ye2u0puaqgkcm65",
+		"1": ""
+	},
+	"when-satured-then-recommend": {
+		"0": "",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": "FungiPool"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "",
+				"type": "",
+				"key": ""
+			},
+			"1": {
+				"name": "",
+				"type": "",
+				"key": ""
+			},
+			"2": {
+				"name": "",
+				"type": "",
+				"key": ""
+			}
+		}
+	}
+}

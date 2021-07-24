@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://assets.redhorsepool.com/redh-icon-adapools.png",
+		"url_png_logo": "https://assets.redhorsepool.com/redh-profile-adapools.png",
+		"location": "General Santos City, Philippines",
+		"social": {
+			"twitter_handle": "RedhPool",
+			"telegram_handle": "redhorsepool",
+			"facebook_handle": "redhorsepool",
+			"youtube_handle": "channel/UCpKaM0uawUFpcQeUsBbaJ8w",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Red Horse Pool is an extra-strong Cardano stake pool brewed in General Santos City, Philippines, founded by three free-spirited friends. They are passionate about financial inclusion and they believe that through cryptocurrency, they can help empower farmers and fisherfolks. Ito ang tama!",
+			"server": "Our nodes are strategically located and connected to other relay nodes worldwide. Our servers are memory-optimized with 16GB of RAM for the block producer and at least 8GB of RAM for the relays. All nodes have at least 4GB network connection. You can monitor REDH nodes' performance and reliability by visiting https://dashboard.redhorsepool.com.",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "9539696ef32ea50fef0dd5a24dca2c9c931706532c3a3bdbdbf31766"
+	},
+	"when-satured-then-recommend": {
+		"0": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	}
+}

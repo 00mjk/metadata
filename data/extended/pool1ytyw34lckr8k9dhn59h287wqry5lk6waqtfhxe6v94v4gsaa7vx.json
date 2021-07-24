@@ -1,0 +1,54 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/adaczech/mainnet/c90ce9775b2aed901fc5fcf735ba4c5cf5553ffb/ada-czech-logo.ico",
+		"url_png_logo": "https://raw.githubusercontent.com/adaczech/mainnet/c90ce9775b2aed901fc5fcf735ba4c5cf5553ffb/ada-czech-logo.png",
+		"location": "Beroun, Czech Republic",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "Beroun",
+			"country": "Czech Republic",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "We believe CARDANO is the future",
+			"server": "Virtual Private Servers on cloud infrastructure",
+			"company": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "22c8e8d7f8b0cf62b6f3a16ea3f9c01929fb69dd02d373674c2d5954",
+		"1": ""
+	},
+	"when-satured-then-recommend": {
+		"0": "22c8e8d7f8b0cf62b6f3a16ea3f9c01929fb69dd02d373674c2d5954",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "relay 1 eu",
+				"type": "relay",
+				"key": "62.171.160.224"
+			},
+			"1": {
+				"name": "block producer home",
+				"type": "bp",
+				"key": "62.171.161.18"
+			}
+		}
+	}
+}

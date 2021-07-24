@@ -1,0 +1,20 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://cardano-blockhouse.de/img/logo_64x64.png",
+		"url_png_logo": "https://cardano-blockhouse.de/img/logo_horizontal_ap.png",
+		"location": "Germany",
+		"social": {
+			"twitter_handle": "cardanoBH",
+			"telegram_handle": "CardanoBlockhouse",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"about": {
+			"me": "Cardano's Blockhouse welcomes you at our stake pool. We build Cardano's blocks! One experienced system administrator manages our stake pool 24/7 so that you can rely on best block rewards at all times. We're glad to serve you.",
+			"server": "To achieve best redundancy and geographical distribution a mix of virtual and physical bare-metal machines is used. Each of our relay- and block-nodes is equipped with at least 4 dedicated cores, 16 GByte ECC RAM and reliable storage. Ressources are easily scalable and get adjusted whenever required."
+		}
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/NadiemElSherif/Lucy/main/Logo64.png",
+		"url_png_logo": "https://raw.githubusercontent.com/NadiemElSherif/Lucy/main/LogoFull.png",
+		"location": "Leiden, The Netherlands",
+		"social": {
+			"instagram_handle": "kingjames_princesslucy",
+			"discord_handle": "811897543193657365",
+			"reddit_handle": "Lucy_Pool",
+			"telegram_handle": "Lucy_Pool",
+			"twitter_handle": "LucyPool5"
+		},
+		"company": {
+			"name": "Lucy Pool"
+		},
+		"about": {
+			"me": "An IT guy and its cats running a Stake Pool",
+			"server": "3 servers 1 running in the Netherlands and 2 running in Germany. All servers have 24/7 monitoring",
+			"company": "Hi, I am Nadiem from the Netherlands. I am the operator of the Lucy Pool. The name Lucy comes from one of my cats. My day job is that of a software developer. I became interested in Cardano after watching the whiteboard video from Charles 2017. Since then we have been following the Cardano Project. At the beginning of this year, we started contributing by hosting a Stake pool named LUCY. Our main goal is to let our stakeholders share in the pools rewards."
+		},
+		"my-pool-ids": {
+			"0": "pool10ysem79xjxd223plxqws0fheawd78znr3qs4h2h422gmxa40amu",
+			"1": "79219df8a6919aa5443f301d07a6f9eb9be38a6388215baaf55291b3"
+		}
+	}
+}

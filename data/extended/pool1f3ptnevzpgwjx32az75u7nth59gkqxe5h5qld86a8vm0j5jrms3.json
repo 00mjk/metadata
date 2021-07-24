@@ -1,0 +1,37 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://thechickenpool.space/wp-content/uploads/2021/02/poulelogo.png",
+		"url_png_logo": "https://thechickenpool.space/wp-content/uploads/2021/02/poulelogo-1.png",
+		"location": "Toulouse, France",
+		"social": {
+			"twitter_handle": "chicken_pool",
+			"telegram_handle": "thechickenpool",
+			"facebook_handle": "thechickenpool"
+		},
+		"about": {
+			"server": "Intel i5-2300 - 16GB DDR3 1333 MHz - 100Mbits up and down"
+		}
+	},
+	"my-pool-ids": [],
+	"adapoolsverify": "74a738071e747b33eeb15e1ac6bffdb1",
+	"when-satured-then-recommend": [],
+	"telegram-admin-handle": [],
+	"itn": {
+		"owner": "ed25519_pk1ggypf8yflpjj55cyp8t7cgcjy9tk8zna9e0ljj9nz5pwz7hqxufsdl3hqf",
+		"witness": "ed25519_sig15vzg4kxfp04pux78u4xkz6af8fmsxzfy25ur0kjy5qdjvgwd4nf2f9lcfca49mt936hajn3m3952udzr6nd00gwajzgeq0e3x9q4jzqv3q4w7"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "relay1",
+				"type": "relay",
+				"key": "ccd3aac49a1494b9dd79f749d14f2b82"
+			},
+			"1": {
+				"name": "relay2",
+				"type": "relay",
+				"key": "191cf78bc8f271c1059d322752d52a8f"
+			}
+		}
+	}
+}

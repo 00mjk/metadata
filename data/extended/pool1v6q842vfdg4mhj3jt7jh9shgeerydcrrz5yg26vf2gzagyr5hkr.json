@@ -1,0 +1,21 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://1earth-1family.space/img/earthChildren.png",
+		"location": "Connecticut USA",
+		"social": {
+			"twitter_handle": "OneEarthOneFamily",
+			"telegram_handle": "OneEarthOneFamily",
+			"github_handle": "WeAreOneCode"
+		},
+		"about": {
+			"me": "Single Pool Operator",
+			"server": "Bare Metal + Google Cloud servers located in West, Mid, and East USA"
+		},
+		"my-pool-ids": {
+			"0": "66807aa9896a2bbbca325fa572c2e8ce4646e06315088569895205d4"
+		},
+		"when-satured-then-recommend": {
+			"0": "small pools - support decentralization"
+		}
+	}
+}

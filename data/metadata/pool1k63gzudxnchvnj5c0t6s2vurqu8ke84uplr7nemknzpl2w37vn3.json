@@ -1,0 +1,7 @@
+{
+	"name": "Cherry Stake Pool",
+	"description": "A solar powered stake pool with 0% fees.",
+	"ticker": "CHE",
+	"homepage": "https://www.cherry-stake-pool.online",
+	"extended": "https://www.cherry-stake-pool.online/extended.json"
+}

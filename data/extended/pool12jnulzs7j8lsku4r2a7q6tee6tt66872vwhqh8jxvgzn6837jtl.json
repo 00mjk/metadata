@@ -1,0 +1,7 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/sakakibaraakio/a/master/poolMetaData.json",
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/sakakibaraakio/a/master/a.png",
+		"url_png_logo": "https://raw.githubusercontent.com/sakakibaraakio/a/master/1500x500.jpg"
+	}
+}

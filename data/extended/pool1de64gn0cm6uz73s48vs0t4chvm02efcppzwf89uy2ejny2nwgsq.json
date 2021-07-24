@@ -1,0 +1,22 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/asdfz7/conge/master/congeepool64x64.png",
+		"url_png_logo": "https://raw.githubusercontent.com/asdfz7/conge/master/congeepool.png",
+		"location": "Toronto, Canada",
+		"social": {
+			"twitter_handle": "congeepool",
+			"telegram_handle": "joinchat/eGSpIrw_zm45NmUx"
+		},
+		"about": {
+			"me": "A CPA with programming background",
+			"server": "Dedicated relay nodes (2) and block-producing node (1) hosted on Digital Ocean. A bare-metal backup node used when performing routine maintenance and updates on the block-producing node to maximize uptime. Digital Ocean provides a 99.99% uptime Service Level Agreement."
+		}
+	},
+	"my-pool-ids": {
+		"0": "49b7d9e2116ef05fbe1ee784391e31aecb360bbba2e979f389ae3d89",
+		"1": "6e75544df8deb82f46153b20f5d71766deaca701089c939784566532"
+	},
+	"when-satured-then-recommend": {
+		"0": "49b7d9e2116ef05fbe1ee784391e31aecb360bbba2e979f389ae3d89"
+	}
+}

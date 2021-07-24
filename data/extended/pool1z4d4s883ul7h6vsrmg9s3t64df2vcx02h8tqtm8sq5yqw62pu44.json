@@ -1,0 +1,20 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://postfiles.pstatic.net/MjAyMTA0MzBfNzEg/MDAxNjE5NzExMjM3NTUw.vMVRQ8lJsJdAscXl5CAtRO0soU3UEt1zO6-MJv7f8MYg.MzBVKdA_JV8hZ5_ZzqBuRdRKh4w8tNffWh5wBeSyy34g.PNG.shsfse/HBL.png?type=w773",
+		"location": "KOREA, SEOUL",
+		"social": {
+			"twitter_handle": "PoolSeoul",
+			"telegram_handle": "SEOULPOOL"
+		},
+		"about": {
+			"me": "Single Pool Operator",
+			"server": "HW configuration of servers <CPU:8core|RAM:32G|SSD:256G"
+		},
+		"my-pool-ids": {
+			"0": "155b581cf1e7fd7d3203da0b08af556a54cc19eab9d605ecf0050807"
+		},
+		"when-satured-then-recommend": {
+			"0": "small pools - support decentralization"
+		}
+	}
+}

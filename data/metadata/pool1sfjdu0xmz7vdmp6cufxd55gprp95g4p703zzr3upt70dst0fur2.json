@@ -1,0 +1,7 @@
+{
+	"name": "Sublayer Pool",
+	"description": "Providing marketing pages and educational content for stake pool operators.",
+	"ticker": "SBLYR",
+	"homepage": "https://pool.sublayer.io",
+	"extended": "https://cdn.sublayer.io/poolExtended.json"
+}

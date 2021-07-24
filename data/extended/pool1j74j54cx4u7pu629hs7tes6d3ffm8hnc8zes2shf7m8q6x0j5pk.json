@@ -1,0 +1,24 @@
+{
+	"info": {
+		"location": "Singapore",
+		"social": {
+			"twitter_handle": "taufinmax",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"about": {
+			"me": "Grow your ADA wealth with the stake pool with 1% margin. Forever! Managed by Taufin Rusli",
+			"server": "Cloud based server for 99.99% Up-time Server and higher performance"
+		}
+	},
+	"my-pool-ids": {
+		"0": "97ab2a5706af3c1e6945bc3cbcc34d8a53b3de7838b30542e9f6ce0d"
+	},
+	"when-satured-then-recommend": {
+		"0": "97ab2a5706af3c1e6945bc3cbcc34d8a53b3de7838b30542e9f6ce0d"
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"name": "The DIY pool",
+	"description": "We make it easy for anyone to run a high-quality stake pool",
+	"ticker": "DIY",
+	"homepage": "https://diypool.dev",
+	"extended": "https://diypool.dev/.well-known/adapools.json"
+}

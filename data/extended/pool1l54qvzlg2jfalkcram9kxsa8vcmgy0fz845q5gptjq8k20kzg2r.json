@@ -1,0 +1,32 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://user-images.githubusercontent.com/81721934/116167028-60f35b80-a6cd-11eb-9371-025d8d5bed42.jpg",
+		"url_png_logo": "https://user-images.githubusercontent.com/81721934/116167028-60f35b80-a6cd-11eb-9371-025d8d5bed42.jpg",
+		"location": "East Coast, United States",
+		"social": {
+			"twitter_handle": "RADARstakepool",
+			"telegram_handle": "SullyatRadar",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Radar Stake Pool",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "...",
+			"server": "Quad Core x86x64 server with 16GB RAM",
+			"company": "..."
+		}
+	},
+	"my-pool-ids": {
+		"0": "fd2a060be85493dfdb03eecb6343a76636823d223d680a202b900f65"
+	}
+}

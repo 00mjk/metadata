@@ -1,0 +1,37 @@
+{
+	"how-to-implement": "",
+	"info": {
+		"url_png_icon_64x64": "https://giskardpool.com/giskardpool_64x64.png",
+		"url_png_logo": "https://giskardpool.com/giskardpool_big.png",
+		"location": "Frankfurt, Germany",
+		"social": {
+			"twitter_handle": "giskardpool",
+			"telegram_handle": "giskardpool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "I am a professional software developer with more than 10 years of experience. I have decided to start a stake pool on my own, because I really believe that cardano team is on the right path to make our future better. They have created a much more inclusive community with the Proof of Stake protocol, than the Proof of Work was before. Virtually anybody with a small investment and dedication to learn how to operate a pool can be involved. Which I think is simply amazing. People from all around the world with different financial backgrounds can join easily.I would like to be part of this and to see how it will grow in the future. That's why I am here.",
+			"server": "",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "c792e4c0af1a99a1505925ecebdbe9c45b8c613ca45beb416d898f59"
+	},
+	"when-satured-then-recommend": {},
+	"telegram-admin-handle": {},
+	"adapools_ext": {}
+}

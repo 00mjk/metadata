@@ -1,0 +1,8 @@
+{
+	"name": "Halo Stake Pool",
+	"ticker": "HALO",
+	"description": "Sustainable decentralization with new single pool. Always low fees on a Raspberry Pi cluster! 😇",
+	"homepage": "https://www.halostake.com",
+	"extended": "https://raw.githubusercontent.com/reignxx/m/master/Xmeta.json",
+	"nonce": "1620699514"
+}

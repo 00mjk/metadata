@@ -1,0 +1,47 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://lophre.net/images/logo64x64.png",
+		"url_png_logo": "https://lophre.net/images/logo35k.png",
+		"location": "Canada",
+		"social": {
+			"twitter_handle": "LophreNet",
+			"telegram_handle": "lophre",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "lophre"
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "I am Philippe from Canada. I have 24 years of experience in Unix/Linux system administration and i've been working in Kubernetes devops since 2016; I know how to run a reliable enterprise grade infrastructure.",
+			"server": "Multiple geographically separated Kubernetes clusters powered by non-carbonated renewable energy.",
+			"company": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "6aef3925b53d98084e8a9ec0145c1770e7eb57f84cd2d2613bb4c19a"
+	},
+	"when-satured-then-recommend": {
+		"0": ""
+	},
+	"telegram-admin-handle": {
+		"0": "yatoharlock"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "",
+				"type": "",
+				"key": ""
+			}
+		}
+	}
+}

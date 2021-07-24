@@ -1,0 +1,13 @@
+{
+	"adapools": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/digitalassetnews/_/main/icon.png",
+		"url_png_logo": "https://raw.githubusercontent.com/digitalassetnews/_/main/logo.jpg",
+		"social": {
+			"twitter_handle": "newsasset",
+			"youtube_handle": "DigitalAssetNewsDAN"
+		},
+		"about": {
+			"me": "The Top cryptocurrency and digital asset news...in bite-sized pieces. I’m just a small business owner who firmly believes in cryptocurrency and digital assets. Proceeds generated from the DNEWS stakepool are given every epoch to help the global unbanked through kiva.org - for more information see https://youtu.be/8XATq0QJLoA"
+		}
+	}
+}

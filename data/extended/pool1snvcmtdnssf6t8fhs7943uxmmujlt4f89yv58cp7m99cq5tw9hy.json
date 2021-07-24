@@ -1,0 +1,33 @@
+{
+	"info": {
+		"url_png_icon_64x64": "",
+		"url_png_logo": "",
+		"location": "Indianapolis, IN",
+		"social": {
+			"twitter_handle": "IndysPool",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "1st Cardano Stake Pool of Indiana",
+			"addr": "",
+			"city": "Indianapolis",
+			"country": "IN",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Single pool operater. Helping charities and decentralization of Cardano.",
+			"server": "",
+			"company": ""
+		},
+		"my-pool-ids": {
+			"0": "84d98dadb38413a59d37878b58f0dbdf25f5d527291943e03ed94b80",
+			"1": ""
+		}
+	}
+}

@@ -1,0 +1,36 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://m1crypto.co/assets/pool-metadata/icon-64x64.png",
+		"url_png_logo": "https://m1crypto.co/assets/pool-metadata/eagle-pool-logo.png",
+		"location": "Vienna, VA, USA",
+		"social": {
+			"twitter_handle": "m1Crypto1",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "M1 Crypto LLC",
+			"addr": "",
+			"city": "Vienna ",
+			"country": "USA",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "We are a team of AWS-certified DevOps professionals who enjoy contributing to the Cardano ecosystem. We are single pool operators (SPOs).",
+			"server": "Amazon Web Service (AWS cloud) hosted for maximum up-time.",
+			"company": "M1 Crypto LLC is a software development company focused on crypto solutions. A portion of our earnings are donated to Charity (fighting hunger in Africa)."
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "2cdc5cef88f1c15e19c33fd8f47d9bd89c3d7ee4fa09512fbd44a126"
+	},
+	"when-satured-then-recommend": {},
+	"telegram-admin-handle": {},
+	"adapools_ext": {}
+}

@@ -1,0 +1,7 @@
+{
+	"name": "CoinBevy",
+	"description": "The CoinBevy ADA Pool",
+	"ticker": "CNBVY",
+	"homepage": "https://coinbevy.com",
+	"extended": "https://coinbevy.com/poolMetaData-extended.json"
+}

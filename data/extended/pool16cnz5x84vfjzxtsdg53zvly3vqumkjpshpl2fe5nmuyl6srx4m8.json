@@ -1,0 +1,31 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://poemstakepool.com/wp-content/uploads/2021/03/PoemLogo64x64.png",
+		"url_png_logo": "https://poemstakepool.com/wp-content/uploads/2021/03/PoemLogo900x900.png",
+		"location": "California, United States",
+		"social": {
+			"twitter_handle": "PoemStakePool",
+			"telegram_handle": "PoemStakePool",
+			"facebook_handle": "PoemStakePool",
+			"youtube_handle": "PoemStakePool"
+		},
+		"company": {
+			"name": "Poem Stake Pool",
+			"addr": "Street, Number",
+			"city": "California",
+			"country": "United States"
+		},
+		"about": {
+			"me": "John York lives in Northern California and has been a Cardano enthusiast for over three years. Our team of techs keep Poem Stake Pool running 24/7/365. John's goal is to serve the Cardano community by reliably minting blocks on the Ouroboros proof-of-stake protocol, while also educating the community through social media and educational videos.",
+			"server": "We are a secure stake pool. All secret & private keys are created on an air-gapped system, NEVER connected to the Internet and redundantly backed up to encrypted USB drives using AES-XTS Military Grade Encryption.",
+			"company": "Poem Stake Pool (Ticker: POEM) is run by a sole owner with a healthy investment pledge. You can trust our security protocols; any of your staked ADA will receive optimal rewards and never miss a slot opportunity."
+		},
+		"rss": "http(s) url to valid RSS feed"
+	},
+	"my-pool-ids": [
+		"pool16cnz5x84vfjzxtsdg53zvly3vqumkjpshpl2fe5nmuyl6srx4m8"
+	],
+	"telegram-admin-handle": [
+		"johnyork1968"
+	]
+}

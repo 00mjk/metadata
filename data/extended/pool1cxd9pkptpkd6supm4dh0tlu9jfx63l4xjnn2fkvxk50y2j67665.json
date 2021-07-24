@@ -1,0 +1,41 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://carlworks.com/carl-icon64x64.png",
+		"url_png_logo": "https://carlworks.com/carl-logo.png",
+		"location": "Singapore",
+		"social": {
+			"twitter_handle": "carlstakepool",
+			"telegram_handle": "carlworks",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "Carlâ­#9027",
+			"github_handle": "carlworks"
+		},
+		"company": {
+			"name": "Carlworks Solutionsâ¢",
+			"addr": "https://carlworks.com",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "My name is Carl and I believe that Cardano is the future. Please help to support my future projects by staking in my stakepool.",
+			"server": "I'm using HA Servers with build-in failover to ensure 99.999% uptime.",
+			"company": "Carlworks Solutionsâ¢ supports CARDANO blockchain."
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "c19a50d82b0d9ba8703bab6ef5ff85924da8fea694e6a4d986b51e45",
+		"1": ""
+	},
+	"when-satured-then-recommend": {
+		"0": "c19a50d82b0d9ba8703bab6ef5ff85924da8fea694e6a4d986b51e45",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": "carlworks"
+	}
+}

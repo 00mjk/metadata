@@ -1,0 +1,13 @@
+{
+	"itn": {
+		"owner": "ed25519_pk1rvp4jpqvxaxhhqe66fawtutrsh7cpug0cvd909s0v8f5p4eg5hesn2rxq9",
+		"witness": "ed25519_sig1d9f72t3qu24d7ns4x5p2k3els8p39nz2meh8na8qdxep9cncwqat27y49ypqzk7sgu6leqrk3pddt0fqzsjqvly232xmh2vegplh7zgyru5mp"
+	},
+	"info": {
+		"social": {
+			"twitter_handle": "ArcadiaCardano",
+			"telegram_handle": "arcadia_cardano",
+			"youtube_handle": "channel/UCWqGjUWIu2ZPmztGHJ568ow"
+		}
+	}
+}

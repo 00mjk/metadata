@@ -1,0 +1,40 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://github.com/stake3741/pool/raw/main/logo264.png",
+		"url_png_logo": "https://github.com/stake3741/pool/raw/main/logo.png",
+		"location": "Graz, Austria",
+		"social": {
+			"twitter_handle": "https://twitter.com/picoberryADA",
+			"telegram_handle": "picoberry",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "stake3741"
+		},
+		"company": {
+			"name": "PicoBerry",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Single Pool Operator with 6 Years Experience in Maintaining Linux-based Servers",
+			"server": "Raspberry Pi Node with 2 seperately located Relays and 100% Renewable Energy",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "pool1m2vhhprqwktsxldpgqdw0n88m7gw4fgcux2ttx9jsczxy0tvux4"
+	},
+	"when-satured-then-recommend": {
+		"0": "pool19f6guwy97mmnxg9dz65rxyj8hq07qxud886hamyu4fgfz7dj9gl"
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	}
+}

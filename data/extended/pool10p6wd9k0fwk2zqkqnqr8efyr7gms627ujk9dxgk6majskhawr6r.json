@@ -1,0 +1,28 @@
+{
+	"itn": {
+		"owner": "ed25519_pk1p79uyvy0x8mxfdt5qdsqcsap267ux7fv389c60pamdrjpzs928lqu7see7",
+		"witness": "ed25519_sig153h8rspshfglrshmejtvggt5zc6guygd9gfju77rz4c38uu3fzhnxc4vem8pk35aufnvhntd3fs0rdcy3588vh9uca3gw5g7dq8kgrgww7390"
+	},
+	"adapools": {
+		"string": "9e3b2c2afde92b58a98a14aeba677f80"
+	},
+	"info": {
+		"url_png_icon_64x64": "https://www.bbhmm.net/assets/bbhmm_logo_64_64.png",
+		"url_png_logo": "https://www.bbhmm.net/assets/BBHMM_logo.png",
+		"location": "USA",
+		"social": {
+			"twitter_handle": "BBHMM_Stake",
+			"telegram_handle": "BBHMM_Stake_Pool",
+			"facebook_handle": "BBHMMStakePool",
+			"youtube_handle": "channel/UCq8FRB9Q6JOYR1C7ne8Li1Q"
+		},
+		"company": {
+			"name": "BBHMM"
+		},
+		"about": {
+			"me": "BBHMM Stake Pool",
+			"server": "Multi cloud infrastrucutre, hardend OS, optimal uptime",
+			"company": "BBHMM"
+		}
+	}
+}

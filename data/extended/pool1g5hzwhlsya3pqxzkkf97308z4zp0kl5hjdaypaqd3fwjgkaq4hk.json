@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://storage.googleapis.com/spain-pool/spain-64x64.png",
+		"url_png_logo": "https://storage.googleapis.com/spain-pool/spain.png",
+		"location": "",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Soy Director de fotografia y Academico de bellas artes y me facina mundo crypto y a esta manera puedo participar en la red Cardano aprendedor  deseo crear este pool pa publico de Espana y para castellano parlantes que aprenden un poco mas sobre Cardano y hacer que nuestra ADA conocida en todas partes de mundo! I am Director of Photography and Academic of Fine Arts and I am fascinated by the crypto world and in this way I can participate in the Cardano learner network I wish to create this pool for the public of Spain and for Spanish speakers who learn a little more about Cardano and make our ADA known in all over the world !",
+			"server": "",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"telegram-admin-handle": [
+		""
+	],
+	"my-pool-ids": [
+		"452e275ff02762101856b24be8bce2a882fb7e97937a40f40d8a5d24"
+	],
+	"when-satured-then-recommend": [
+		"452e275ff02762101856b24be8bce2a882fb7e97937a40f40d8a5d24"
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://vicepool.com/images/logo_64x64.png",
+		"url_png_logo": "https://vicepool.com/images/logo_1500.png",
+		"location": "Moscow, Russia",
+		"social": {
+			"twitter_handle": "vicestakepool",
+			"telegram_handle": "vicepool",
+			"github_handle": "vicepool"
+		},
+		"company": {
+			"name": "VicePool",
+			"city": "Moscow",
+			"country": "Russia"
+		},
+		"about": {
+			"me": "Software engineer with over 15 years experience.",
+			"server": "Multiple powerful servers in different datacenters for redundancy.",
+			"company": "VicePool"
+		},
+		"rss": "https://vicepool.com/rss.xml"
+	},
+	"my-pool-ids": {
+		"0": "0880d4856cfd12765d47e8a3e9750a7593b008a63b759e27e723c450"
+	},
+	"telegram-admin-handle": {
+		"0": "vicepool"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "VicePool Relay DC1",
+				"type": "relay",
+				"key": "cfa4f3f8efeda989523ffb8a577a551a"
+			},
+			"1": {
+				"name": "VicePool Relay DC2",
+				"type": "relay",
+				"key": "13d9e2dabaf23a40c96a5fbcdc3bc906"
+			},
+			"2": {
+				"name": "VicePool BP Node",
+				"type": "bp",
+				"key": "43e7862b8b899f142a9cbb4a674cf205"
+			}
+		}
+	}
+}

@@ -1,0 +1,37 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://adafrog.io/img/adafrog-logo2-64x64.png",
+		"url_png_logo": "https://adafrog.io/img/adafrog-logo.png",
+		"location": "United States",
+		"social": {
+			"twitter_handle": "ADAfrog_Pool",
+			"telegram_handle": "adosiawolf",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "adosiawolf"
+		},
+		"company": {
+			"name": "Adosia LLC",
+			"country": "Unites States of America"
+		},
+		"about": {
+			"me": "I am a multidisciplined engineer working to bring value to the Cardano ecosystem",
+			"server": "18 node cloud configuration designed for high connectivity and rapid migration",
+			"company": "ADAfrog supports the Adosia IoT project's efforts to tokenize on Cardano"
+		}
+	},
+	"my-pool-ids": {
+		"0": "000001b844f4e4c900ae0dfdc84a8845f71090b82fb473e6c70a31ee",
+		"1": "00000110093effbf3ce788aebd3e7506b80322bd3995ad432e61fad5",
+		"2": "00000368a25a58d3c46bea611ddabf77679b8d1fd854c75a41ea399c"
+	},
+	"when-satured-then-recommend": {
+		"0": "00000110093effbf3ce788aebd3e7506b80322bd3995ad432e61fad5",
+		"1": "00000368a25a58d3c46bea611ddabf77679b8d1fd854c75a41ea399c"
+	},
+	"telegram-admin-handle": {
+		"0": "adosiawolf"
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://adaverse.com/css/images/vs1_logo64.png",
+		"url_png_logo": "https://adaverse.com/css/images/vs1_logo.png",
+		"location": "Sydney, Australia",
+		"social": {
+			"twitter_handle": "AdaversePools",
+			"telegram_handle": "adaversecom",
+			"github_handle": "fangio10"
+		},
+		"about": {
+			"me": "IT and Web professional with more than 2 decades of experience aiming to provide the best value and easiest staking experience into the Cardano world. Our website adaverse.com provides rewards, saturation and pool tracking straight to your inbox, there is no need to wonder, we'll keep you updated every epoch.",
+			"server": "Mix of bare metal and cloud servers across multiple providers and geographical locations to ensure 100% availablity, all services are redundantly supplied and monitored 24/7. Our mixed infrastructure setup also enables us to instantly and easily scale up to meet any spikes in demands - When Goguen?",
+			"company": "Adaverse.com"
+		},
+		"my-pool-ids": {
+			"0": "4c15ba0f7f36b581e1ce18e095070695d96f584de0f00e41b16511bd",
+			"1": "17111382071c508d881306c86b0a3511228c178e886742a2884c9d83"
+		}
+	}
+}

@@ -1,0 +1,35 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://alizeb.com/metadata/uk007-64x64.png",
+		"url_png_logo": "https://alizeb.com/metadata/uk007.png",
+		"location": "UK",
+		"social": {
+			"twitter_handle": "AliKhan666",
+			"facebook_handle": "",
+			"youtube_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "I'm Ali Zeb, Cardano stake pool operator, Information Cybersecurity Consultant and Board Level Executive with over 20 years of strong leadership plus hands-on experience providing expertise in information cybersecurity and data protection. A proven track record of delivering international security programmes and complete security transformation for FTSE 100 organisations. Member of the Financial Conduct Authority (FCA) Cyber Security Board for Financial Services and Insurance Sector Cyber Coordination Group (ISCCG), Lloyds of London Market Cyber Risk Board (LMCRB), Advisory Council Member for Info Security Europe, and Global Advisory Board Member for the EC-Council",
+			"server": "We use state of the art datacenter to keep our pools running 24/7 with focus on security, uptime and performance monitoring.",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"1": "878b802dd6a4155fe216cf9f5c58deb283d44cf7c168333091325bdd"
+	},
+	"when-satured-then-recommend": {
+		"0": ""
+	},
+	"telegram-admin-handle": {
+		"0": "StakePool247"
+	}
+}

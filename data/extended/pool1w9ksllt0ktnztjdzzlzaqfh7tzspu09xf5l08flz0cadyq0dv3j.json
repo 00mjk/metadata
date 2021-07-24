@@ -1,0 +1,33 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://i.imgur.com/AiLQPKo.png",
+		"url_png_logo": "https://i.imgur.com/AiLQPKo.png",
+		"location": "Auckland, New Zealand",
+		"social": {
+			"twitter_handle": "AnkerPool",
+			"telegram_handle": "AnkerPool",
+			"youtube_handle": "UCsQTmh1dCLtj6RJi-8Je1Tw",
+			"github_handle": "viajandee"
+		},
+		"about": {
+			"me": "I'm an Experienced Security and Systems Engineer, Stock Market Trader, Crypto Technology Enthusiast, and a World Traveller.",
+			"server": "Cloud-based nodes with the highest standards of hardware resources and security measures.",
+			"country": "Made with <3 in New Zealand"
+		}
+	},
+	"my-pool-ids": {
+		"0": "716d0ffd6fb2e625c9a217c5d026fe58a01e3ca64d3ef3a7e27e3ad2"
+	},
+	"telegram-admin-handle": {
+		"0": "ViajanDee"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "Relay 01",
+				"type": "relay",
+				"key": "4f3adac480ec8177652bf83d52a0cd33"
+			}
+		}
+	}
+}

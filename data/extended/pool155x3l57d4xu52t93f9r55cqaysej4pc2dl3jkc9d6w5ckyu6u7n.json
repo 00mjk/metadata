@@ -1,0 +1,35 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://sproutpool.ca/images/64px.png",
+		"url_png_logo": "https://sproutpool.ca/images/400px.png",
+		"location": "Vancouver | BC | Canada",
+		"social": {
+			"twitter_handle": "SproutPool",
+			"telegram_handle": "SproutPool",
+			"facebook_handle": "",
+			"youtube_handle": "channel/UCOt0K62r-7XweqlJXVt9gPA",
+			"twitch_handle": "",
+			"discord_handle": "epvegTbE",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Sprout Pool",
+			"addr": "",
+			"city": "Vancouver",
+			"country": "Canada",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "10% of pool profits used to plant trees through our partner OneTreePlanted.org. Built on a secure and reliable enterprise level infrastructure. 100% Canadian owned & operated.",
+			"server": "AWS",
+			"company": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "a50d1fd3cda9b9452cb149474a601d24332a870a6fe32b60add3a98b"
+	},
+	"telegram-admin-handle": {
+		"0": "GruniTheThird"
+	}
+}

@@ -1,0 +1,8 @@
+{
+	"name": "CardanoSwiss",
+	"ticker": "SWITZ",
+	"description": "Cardano Swiss Bank",
+	"homepage": "https://cardanoswiss.ch",
+	"extended": "https://cardanoswiss.ch/metadata/extended.json",
+	"nonce": "1613387225"
+}

@@ -1,0 +1,22 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://gateway.pinata.cloud/ipfs/QmY2mqj3pCJB3Mx77JdA4St3HVAjSsLRkp12myZ9Sd3APZ",
+		"url_png_logo": "https://github.com/thinkgrowcrypto/SPO/blob/main/21ADA%20Logo.png",
+		"location": "Canada",
+		"social": {
+			"twitter_handle": "https://twitter.com/21ADApool",
+			"telegram_handle": "https://t.me/stakepool_21ADA",
+			"youtube_handle": "https://www.youtube.com/c/ThinkGrowCrypto"
+		},
+		"company": {},
+		"about": {
+			"me": "Spreading Cardano in a creative & helpful way",
+			"server": "Google Premium Network Tier fully redundant & scalable"
+		}
+	},
+	"telegram-admin-handle": [],
+	"my-pool-ids": [
+		"f3efb842c77895dde51e95e54d9c309da599631ef31216bcfea11083"
+	],
+	"when-satured-then-recommend": []
+}

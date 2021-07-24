@@ -1,0 +1,38 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://nizi-stake-pool.com/NIZIicon.png",
+		"url_png_logo": "https://nizi-stake-pool.com/NIZI32.png",
+		"location": "Tokyo, Japan",
+		"social": {
+			"twitter_handle": "NiziStake",
+			"telegram_handle": "",
+			"facebook_handle": "Nizi-Stake-Pool-104418315074971",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "T9WqaYmT",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "Yamagata",
+			"country": "Japan",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Nizi Stake Poolï¼NIZIï¼ ã¯ãæ¥æ¬äººãªãã¬ã¼ã¿ã¼ãéå¶ããã«ã«ããã¨ã¤ãï¼ADAï¼ã®ã¹ãã¼ã¯ãã¼ã«ã§ããå®å¨ãä¿¡é ¼æ§ãé«ããä½ã³ã¹ãã®ã«ã«ããã¹ãã¼ã¯ãã¼ã«ãæä¾ããã«ã«ãããããã¯ã¼ã¯ã¨ADAä¿æèã®çæ§ã®è¹ã®æ¶ãæ©ã¨ãªãã¹ãã¼ã­ã³ã°ããµãã¼ããããã¾ãã/ Nizi Stake Pool (NIZI) is a Cardano Aida (ADA) stake pool run by a Japanese operator. Providing a safe, reliable and low cost Cardano stake pool, We will support staking as a rainbow bridge between the Cardano network and ADA holders."
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "cfb6ee1de1dc2406a4ffe78704b65487dbd85e1fffdf70cbc3b9a2ed"
+	},
+	"when-satured-then-recommend": {
+		"0": "cfb6ee1de1dc2406a4ffe78704b65487dbd85e1fffdf70cbc3b9a2ed"
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	}
+}

@@ -1,0 +1,25 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/cybershaman73/grow/main/Grow-ICON.png",
+		"url_png_logo": "https://raw.githubusercontent.com/cybershaman73/grow/main/GROW600.png",
+		"location": "USA",
+		"social": {
+			"twitter_handle": "PoolGrow",
+			"telegram_handle": "growstakepools",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"discord_handle": ""
+		},
+		"company": {},
+		"about": {
+			"me": "20+ yr IT Veteran, educator, father & Cardano SPOCRA board member with a passion for making Cardano the best! My mission is to help build the Cardano ecosystem & contribute to decentralization.",
+			"server": "AZURE TIER4 Hosted, Fully Redundant & Scalable",
+			"company": ""
+		}
+	},
+	"telegram-admin-handle": [],
+	"my-pool-ids": [
+		"95954fa839905a201d8d97cc31be8bbd4ac2ad0df1d201accce3a23e"
+	],
+	"when-satured-then-recommend": []
+}

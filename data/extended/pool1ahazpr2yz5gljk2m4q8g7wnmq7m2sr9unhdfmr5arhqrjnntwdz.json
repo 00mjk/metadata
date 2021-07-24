@@ -1,0 +1,59 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://adavault.com/prximg/icon_64x64.png",
+		"url_png_logo": "https://adavault.com/prximg/logo.png",
+		"location": "UK",
+		"social": {
+			"twitter_handle": "adavaultops",
+			"telegram_handle": "adavaultops",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "ADAvault.com",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "3116c834a09b0060aef7284f63d3275456364e3309b3c19ec328af60",
+		"1": "3b3327c0a885ba7c1ebeec8b44158aab79c32148d45b4c701344cd97"
+	},
+	"when-satured-then-recommend": {
+		"0": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "",
+				"type": "",
+				"key": ""
+			},
+			"1": {
+				"name": "",
+				"type": "",
+				"key": ""
+			},
+			"2": {
+				"name": "",
+				"type": "",
+				"key": ""
+			}
+		}
+	}
+}

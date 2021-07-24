@@ -1,0 +1,7 @@
+{
+	"name": "Insalada Stake Pool",
+	"description": "Independent stake pool helping to define the future of society. Stake with us, you won't regret it. The more the merrier :)",
+	"ticker": "SALAD",
+	"homepage": "https://insalada.io/",
+	"extended": "https://insalada.io/.well-known/SALAD.extended-metadata.json"
+}

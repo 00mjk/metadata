@@ -1,0 +1,16 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://blackpearlpool.com/logos/pb_logo_64x64_small.png",
+		"url_png_logo": "https://blackpearlpool.com/logos/ada-pools-logo.png",
+		"social": {
+			"twitter_handle": "BlackPearl_Pool",
+			"telegram_handle": "BlackPearlPoolChat",
+			"github_handle": "olegandreyev"
+		},
+		"about": {
+			"me": "Humble stake pool operating by experienced software engineer from Ukraine.",
+			"server": "AWS EC2 infrastructure | BP: 2 cores, 8GB RAM, 100GB SSD | Relays: 2 cores, 8GB RAM, 100GB SSD (for each)"
+		},
+		"validator": "a6e82c90215800dfebe3967486486127"
+	}
+}

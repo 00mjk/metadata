@@ -1,0 +1,19 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://frescopool.cc/src/fresco_64.png",
+		"url_png_logo": "https://frescopool.cc/src/fresco_logo_black.png",
+		"social": {
+			"twitter_handle": "PoolVenus",
+			"telegram_handle": "frescopool",
+			"github_handle": "filip4428",
+			"verification": "2e4cd21b666d310e9f82bc8185cb9cb0"
+		},
+		"about": {
+			"me": "I'm a software developer from Croatia. I have been ADA HODLer since 2017. In March 2020 I decided to have a more active role in Cardano community so I deployed Fresco pool on ITN with a friend.  Get in touch with me via LinkedIn: https://www.linkedin.com/in/filip-strelec ",
+			"server": "1 block producer and 3 relays"
+		}
+	},
+	"my-pool-ids": [
+		"19cb138eab81d3559e70094df2b6cb1742bf275e920300d5c3972253"
+	]
+}

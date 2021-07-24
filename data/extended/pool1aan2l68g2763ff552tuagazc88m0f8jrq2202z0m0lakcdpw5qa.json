@@ -1,0 +1,48 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://prostaker.io/resources/images/logorgb-09-64.png",
+		"url_png_logo": "https://prostaker.io/resources/images/logorgb-09.png",
+		"location": "Montreal, Canada",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "ProStaker",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "...",
+			"server": "Hosted on AWS",
+			"company": "ProStaker"
+		}
+	},
+	"my-pool-ids": {
+		"0": "ef66afe8e857b514a69452f9d4745839f6f49e430294f509fb7ffb6c"
+	},
+	"when-satured-then-recommend": {},
+	"telegram-admin-handle": {},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "relay 1 eu",
+				"type": "relay",
+				"key": "example_get_own_on_adapools.org/connect"
+			},
+			"2": {
+				"name": "block producer home",
+				"type": "bp",
+				"key": "example_get_own_on_adapools.org/connect"
+			}
+		}
+	}
+}

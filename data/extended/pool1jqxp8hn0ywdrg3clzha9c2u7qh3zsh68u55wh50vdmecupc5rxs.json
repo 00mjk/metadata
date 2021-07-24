@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://stakemana.com/logo-64x64-nontransparent.png",
+		"url_png_logo": "",
+		"location": "Singapore, Singapore",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "",
+			"facebook_handle": "https://www.facebook.com/stakemana/",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "https://github.com/stakemana"
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Jibrail Idris",
+			"server": "",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"telegram-admin-handle": [
+		""
+	],
+	"my-pool-ids": [
+		"900c13de6f239a34471f15fa5c2b9e05e2285f47e528ebd1ec6ef38e"
+	],
+	"when-satured-then-recommend": [
+		"900c13de6f239a34471f15fa5c2b9e05e2285f47e528ebd1ec6ef38e"
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://git.io/JstNO",
+		"url_png_logo": "https://git.io/JstNO",
+		"location": "Madrid, Spain",
+		"social": {
+			"twitter_handle": "TribePoolRocks",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Tribe Pool Rocks",
+			"addr": "",
+			"city": "Madrid",
+			"country": "Spain",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "We are a group of passionate about blockchain and cryptocurrency. We would like to be able to change the world by contributing our active presence in the community.",
+			"server": "Maintain a 24/7 pool to be active into the cardano network community.",
+			"company": ""
+		},
+		"my-pool-ids": {
+			"0": "69e9c9861cdc0db056c9611e11cb91994f16063d973acdad43a2c827"
+		}
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"name": "The Cardano Forge (pool 1)",
+	"description": "Getting closer to our public release",
+	"ticker": "TCF1",
+	"homepage": "https://cardanoforge.io",
+	"extended": "https://pool01.cardanoforge.io/extendedMetaData.json"
+}

@@ -1,0 +1,24 @@
+{
+	"info": {
+		"url_png_icon_64x64": "http://www.ita50pool.com/pool/ita50-64.png",
+		"url_png_logo": "http://www.ita50pool.com/pool/ita50-512.png",
+		"location": "Italy",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "https://www.youtube.com/watch?v=bz8KLvME_q4",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"about": {
+			"me": "",
+			"server": "2 Relay Nodes and 1 Block Producer (8 GB RAM each) from an italian provider.",
+			"company": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "c8567f630284a3efe9dc7677acb5ebcf394cb69f90756fb79004cde3"
+	}
+}

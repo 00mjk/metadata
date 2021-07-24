@@ -1,0 +1,26 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://cryptocolony.cz/wp-content/uploads/2021/04/cc_icon_64.png",
+		"url_png_logo": "https://cryptocolony.cz/wp-content/uploads/2021/04/cc_logo_280.png",
+		"location": "Klatovy, Czech Republic",
+		"social": {
+			"twitter_handle": "cryptocolonycz",
+			"telegram_handle": "cryptocolonypool",
+			"facebook_handle": "CryptoColony",
+			"youtube_handle": "CryptoColony",
+			"discord_handle": "tkTytSBgPU"
+		},
+		"company": {
+			"name": "Crypto Colony s.r.o.",
+			"city": "Klatovy",
+			"country": "Czech Republic"
+		},
+		"about": {
+			"me": "We are cryptocurrencies enthusiasts from Czech Republic who create educational animated videos and tutorials through YouTube channel Crypto Colony. We are constantly looking for ways to expand our colony to gain bigger public impact as well as satisfy the needs of our community. Our goal as pool operators is to become reliable part of the Cardano network. Each delegator can become in addition a part of the Colony and get access to our community. We have chosen to stake ADA as the most promising decentralized alternative to the FIAT system. We are fully transparent and you can contact us through the social networks.",
+			"company": "Crypto Colony s.r.o."
+		}
+	},
+	"my-pool-ids": {
+		"0": "6381c4d5cbaea9fbdb2bc1152f49c1153fafbf19d77c547624ab91e4"
+	}
+}

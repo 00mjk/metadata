@@ -1,0 +1,21 @@
+{
+	"info": {
+		"url_png_icon_64x64": "http://fixedvalue.com/icon.png",
+		"url_png_logo": "http://fixedvalue.com/logo.png",
+		"location": "Amsterdam, The Netherlands",
+		"social": {
+			"telegram_handle": "FIXEDVALUE"
+		},
+		"about": {
+			"me": "Information Technologist since 1984",
+			"server": "Fully duplicated infrastructure, Dual ISP, Six 4vCPU/16GB/5GBpsSSD servers, Total system nominal power usage 30 watts",
+			"company": "Sustainable ADA enthusiasts and friends"
+		}
+	},
+	"my-pool-ids": {
+		"0": "cf7ea146bc448fd7e2c4b37463568d16a4e6a055c719c5da2a7e0357"
+	},
+	"telegram-admin-handle": {
+		"0": "JoebaJoub"
+	}
+}

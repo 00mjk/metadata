@@ -1,0 +1,47 @@
+{
+	"adapool": "13ce445815cf7b5842548c46d39fd0b4",
+	"itn": {
+		"owner": "ed25519_pk1dysa9ztkekt6je66rgmnynhgt3lzqaqrup8dnsm02g3w6hc669ssk5xnws",
+		"witness": "ed25519_sig1wlkup8avdtuvkzus3s64y6etxw4d5u69p3alnxvmx8k6zwvd9vgderty3ex5vcrlfrcy7v2tt5qsxuh2l5t0fynmcquvyhmdgss8spgpnz7yf"
+	},
+	"info": {
+		"keybase.io": "75120b28eb2cb3869d75833786afec0a2eb34700",
+		"url_png_icon_64x64": "https://ada.dual.systems/favicon-32x32.png",
+		"url_png_logo": "https://ada.dual.systems/android-chrome-192x192.png",
+		"location": "Mariupol, Ukraine",
+		"social": {
+			"telegram_handle": "dualsystems",
+			"github_handle": "dualsystems",
+			"twiter_handle": "SystemsDual"
+		},
+		"about": {
+			"server": "Google Cloud, AWS and DigitalOcean used in different regions for relay nodes."
+		}
+	},
+	"my-pool-ids": {
+		"0": "46a3e0738585587cc5f03915241c49cca13c9607da0a7a034a21e49e"
+	},
+	"pledge_address": "addr1q837s4wqt7nk3tc8pma6qt7mh0r28aq9d39h4lrkafzl0sw8258ehx5kfnh00866fc87r0nc78j89xgq3gfyx8l4ue3q65tly8",
+	"telegram-admin-handle": {
+		"0": "dualsystems_noc"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "Europe relay",
+				"type": "relay",
+				"key": "a88e0508999f86cdb25695c15d1b4366"
+			},
+			"1": {
+				"name": "North America relay",
+				"type": "relay",
+				"key": "f82dd9fa0ed068c310b7766ad8f041c2"
+			},
+			"2": {
+				"name": "BP node",
+				"type": "bp",
+				"key": "a9ea3adec3cb03d67168161bb4088c01"
+			}
+		}
+	}
+}

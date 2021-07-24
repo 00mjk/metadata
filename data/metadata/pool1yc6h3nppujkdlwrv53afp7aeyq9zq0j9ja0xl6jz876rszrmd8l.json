@@ -1,0 +1,7 @@
+{
+	"name": "Z3ldaPool",
+	"description": "An ADA pool named after a rescue mutt named Zelda.",
+	"ticker": "Z3LDA",
+	"homepage": "https://www.facebook.com/z3ldastakingpool",
+	"extended": "https://raw.githubusercontent.com/zeldapool-ada-pool/zeldaconfig/main/extended-metadata.json"
+}

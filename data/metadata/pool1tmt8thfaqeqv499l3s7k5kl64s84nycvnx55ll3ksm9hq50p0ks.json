@@ -1,0 +1,8 @@
+{
+	"name": "WAFFLE",
+	"ticker": "WFFL",
+	"description": "Stake your ADAs with Waffle Pool for high and consistent rewards",
+	"homepage": "https://wafflepool.org",
+	"nonce": "1626691662",
+	"extended": "https://wafflepool-cardano.github.io/poolmeta/extended-meta.json"
+}

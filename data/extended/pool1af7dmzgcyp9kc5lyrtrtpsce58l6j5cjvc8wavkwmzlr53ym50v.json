@@ -1,0 +1,37 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://sharepool-crypto.github.io/share/share.png",
+		"url_png_logo": "https://sharepool-crypto.github.io/share/share.png",
+		"location": "Goguen, Cardano",
+		"social": {
+			"twitter_handle": "share_pool",
+			"telegram_handle": "share_pool",
+			"instagram_handle": "share.pool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Finance & Economics professional with a passion for Blockchain tech. and Social Entrepreneurship",
+			"server": "We maintain a set of cloud-based systems with high reliability to assure a close to a 24/7/365 up-time of our servers.",
+			"company": "Our Mission is sharing, as we thrive to provide optimal rewards to our delegators, we are giving away to charity and we share knowledge around the Cardano blockchain ecosystem."
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "ea7cdd8918204b6c53e41ac6b0c319a1ffa95312660eeeb2ced8be3a"
+	},
+	"when-satured-then-recommend": {},
+	"telegram-admin-handle": {},
+	"adapools_ext": {}
+}

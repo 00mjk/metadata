@@ -1,0 +1,7 @@
+{
+	"name": "LIGHT",
+	"ticker": "LIGHT",
+	"description": "LIGHT ON CARDANO ADA",
+	"homepage": "https://twitter.com/LightStakePool",
+	"extended": "https://raw.githubusercontent.com/Adalight/m/main/extended.json"
+}

@@ -1,0 +1,8 @@
+{
+	"name": "Zetetic Stake Pool",
+	"ticker": "ZETIC",
+	"description": "Pool saturated, please delegate to Zetetic Pools 2, 3 or 4, all with ticker [ZETIC]",
+	"homepage": "https://zeteticstakepool.com",
+	"nonce": "1613810124",
+	"extended": "https://zeteticstakepool.com/poolmeta-extended.json"
+}

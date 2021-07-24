@@ -1,0 +1,60 @@
+{
+	"info": {
+		"url_png_icon_64x64": "http://www.cardano.best/assets/img/gtech-64x64.png",
+		"url_png_logo": "http://www.cardano.best/assets/img/gtech-200x200.png",
+		"location": "France",
+		"social": {
+			"twitter_handle": "@Grousset_Techno",
+			"telegram_handle": "474470859",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "regis#2403",
+			"github_handle": "grousset-technologies"
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Atlantis Cardano Staking Pool",
+			"server": "Our infrastructure is hosted on green energy efficient and highly optimized industry grade servers. It's running in temperature controlled room provided with reliable high-speed fiber internet connection and stable power. This enables us to provide with a 24/7 service continuity.",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "901365128eb65b5848262c0069e9bbe2cf702a6507c7926c0b09b98a",
+		"1": ""
+	},
+	"when-satured-then-recommend": {
+		"0": "34a89f77c5fcf0563d129bde9b255f20b269a2dda1561c65d418ec40",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "Atlantis Block Producer",
+				"type": "bp",
+				"key": "343755b1805b13a6d72872792f1049d8"
+			},
+			"1": {
+				"name": "Atlantis Relay France",
+				"type": "relay",
+				"key": "77336b42ded3916e855222be1c4da906"
+			},
+			"2": {
+				"name": "Atlantis Relay Germany",
+				"type": "relay",
+				"key": "881373ffb7414cba623ba1b2665758eb"
+			}
+		}
+	}
+}

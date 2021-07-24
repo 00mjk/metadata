@@ -1,0 +1,7 @@
+{
+	"name": "Yoda Pool",
+	"ticker": "YODA",
+	"description": "Built on a secure and reliable enterprise level infrastructure. 10% of the profits will be donated to projects to save native fauna or promote a sustainable energy model, https://donantambiental.cat/projectes",
+	"homepage": "https://aferranc.github.io/yodapool",
+	"extended": "https://raw.githubusercontent.com/aferranc/yodapool/main/pool/meta_extended.json"
+}

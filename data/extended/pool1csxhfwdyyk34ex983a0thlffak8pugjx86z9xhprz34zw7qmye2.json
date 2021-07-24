@@ -1,0 +1,28 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/ibnbd/ada/main/mywire-64.png",
+		"url_png_logo": "https://raw.githubusercontent.com/ibnbd/ada/main/mywire.png",
+		"location": "Atlanta, USA",
+		"social": {
+			"twitter_handle": "ahstanin",
+			"telegram_handle": "ahstanin",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"about": {
+			"me": "I am a computer programmer and server admin, I believe in decentralized finance and power to the people.",
+			"server": "Instead of hosting servers at cloud platforms (which limits the idea of decentralizing), my servers are hosted in-house with power and internet backup. These high-end servers are actively cooling and the UPS system shares power with 3 solar arrays to save energy."
+		},
+		"rss": "http(s) url to valid RSS feed"
+	},
+	"my-pool-ids": {
+		"0": "pool1csxhfwdyyk34ex983a0thlffak8pugjx86z9xhprz34zw7qmye2"
+	},
+	"telegram-admin-handle": {
+		"0": "ahstanin"
+	}
+}

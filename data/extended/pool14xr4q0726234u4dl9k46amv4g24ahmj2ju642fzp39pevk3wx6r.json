@@ -1,0 +1,22 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/mjarurun/ATMRPOOL/main/ATMR_Icon.png",
+		"url_png_logo": "https://raw.githubusercontent.com/mjarurun/ATMRPOOL/main/ATMR_Icon.png",
+		"location": "Bangkok, Thailand",
+		"social": {
+			"twitter_handle": "atmr_stakepool",
+			"telegram_handle": "joinchat/YvGH2_kURo5hZGNl",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"about": {
+			"server": "ATMR Pool operates with high performance and low fee. Operated by an experienced team from Thailand."
+		}
+	},
+	"my-pool-ids": {
+		"0": "a987503fcad2a35e55bf2dabaeed9542abdbee4a9735552441894396"
+	}
+}

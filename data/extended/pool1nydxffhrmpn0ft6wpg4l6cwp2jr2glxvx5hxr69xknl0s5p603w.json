@@ -1,0 +1,25 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://whirlpool.sentor.org/cardano/wrlp-logo-64.png",
+		"url_png_logo": "https://whirlpool.sentor.org/cardano/wrlp-logo.png",
+		"location": "Solar System, Earth",
+		"social": {
+			"twitter_handle": "wrlpc",
+			"telegram_handle": "wrlpc",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": ""
+		},
+		"about": {
+			"me": "We are a team of software, network and financial engineers who have been involved in crypto-currencies since 2015",
+			"server": "16 GB RAM 8 CPU hosted in European data center"
+		}
+	},
+	"my-pool-ids": [
+		"991a64a6e3d866f4af4e0a2bfd61c15486a47ccc352e61e8a6b4fef8"
+	],
+	"telegram-admin-handle": [
+		"wrplc"
+	]
+}

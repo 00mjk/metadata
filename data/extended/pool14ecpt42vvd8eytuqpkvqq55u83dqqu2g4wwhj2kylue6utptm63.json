@@ -1,0 +1,58 @@
+{
+	"info": {
+		"url_png_icon_64x64": "http://pool.atdt.io/img/atdt-icon.png",
+		"url_png_logo": "http://pool.atdt.io/img/atdt24x7.png",
+		"__location": "London, England",
+		"social": {
+			"twitter_handle": "atdtpool",
+			"__telegram_handle": "adapools_ops",
+			"__facebook_handle": "",
+			"__youtube_handle": "",
+			"__twitch_handle": "",
+			"__discord_handle": "",
+			"__github_handle": ""
+		},
+		"__company": {
+			"name": "Company Name",
+			"addr": "Street, Number",
+			"city": "London",
+			"country": "England",
+			"company_id": "123456789",
+			"vat_id": "GB123456789"
+		},
+		"about": {
+			"me": "Crusty sysadmin with a penchant for uptime.",
+			"server": "24x7 professionally hosted servers.",
+			"__company": "..."
+		}
+	},
+	"my-pool-ids": {
+		"0": "ae7015d54c634f922f800d9800529c3c5a007148ab9d792ac4ff33ae"
+	},
+	"__when-satured-then-recommend": {
+		"0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
+		"1": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
+	},
+	"__telegram-admin-handle": {
+		"0": "mnmnmnmnnmn"
+	},
+	"__adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "relay 1 eu",
+				"type": "relay",
+				"key": "example_get_own_on_adapools.org/connect"
+			},
+			"1": {
+				"name": "relay 2 usa",
+				"type": "relay",
+				"key": "example_get_own_on_adapools.org/connect"
+			},
+			"2": {
+				"name": "block producer home",
+				"type": "bp",
+				"key": "example_get_own_on_adapools.org/connect"
+			}
+		}
+	}
+}

@@ -1,0 +1,46 @@
+{
+	"itn": {
+		"owner": "ed25519_pk1casu8vhsy79au9qt32v930g2rktw902r0g3wqv2g9y0hgs3k6a2srx53cd",
+		"witness": "ed25519_sig1nhfxhc7f5t6xq9accyugvyz577xljq7yfv0hw5a9axr4szsgd0fku3tmu8qlynnzdnf0hl3wpxsg9gj438yn0279y2d4aunn3wkpxpc4sdhq2"
+	},
+	"info": {
+		"url_png_icon_64x64": "https://letzbake.com/images/letzbake-logo64.png",
+		"url_png_logo": "https://letzbake.com/images/letzbake-logo256.png",
+		"location": "Switzerland",
+		"social": {
+			"twitter_handle": "LetzBake1",
+			"telegram_handle": "letzbake",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "LetzBake!",
+			"addr": "",
+			"city": "",
+			"country": "Switzerland",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "Both our BAKE1 validator and backup validator run on an Intel Xeon Hexa-Core server with 64 GB DDR4 ECC RAM, and two 1 TB NVMe SSDs (mirrored) in Tier IV, DIN ISO/IEC 27001 certified data centers in Europe with redundant UPS, climate control, fire protection, 24/7 monitoring and DDoS protection. We also run four relay nodes in separate data centers in Europe that shield the validators from the Internet. Generally, all connections between our servers are encrypted and only established via our private overlay network across data centers. While three of these relays are public and published on chain, we run a fourth relay that is only shared in a private peering agreement with ISPPA operators, of which LetzBake! is a member. In order to prevent downtime, we also implement rigorous metrics and log monitoring and alerting so that we are made aware of problems in the system before they become serious.",
+			"company": "We are an experienced staking service that is active in the crypto staking scene since 2018. LetzBake! stands for reliability, security and transparency, which are not just words, but our living culture. We believe that staking protocols are the future of cryptocurrencies, given their low energy footprint and better scalability than proof-of-work currencies. We want these networks to thrive and thus contribute in securing them by providing a professional, reliant and secure staking service for everyone."
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "849e1f8a602ce6de1827577a7c0f174e564f58581900ddcf47d3ccc7",
+		"1": ""
+	},
+	"when-satured-then-recommend": {
+		"0": "40183423c226189d508db4b21bf94b790cf4d096134a9afbc2bd5318",
+		"1": "000006d97fd0415d2dafdbb8b782717a3d3ff32f865792b8df7ddd00",
+		"2": "d69b6b16c6a135c4157365ded9b0d772d44c7628a05b49741d3ae25c"
+	},
+	"telegram-admin-handle": {
+		"0": "cryptodad77"
+	}
+}

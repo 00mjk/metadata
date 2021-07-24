@@ -1,0 +1,60 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://elitestakepool.com/pools/elite1/elitelogosmall.png",
+		"url_png_logo": "https://elitestakepool.com/pools/elite1/elitelogolarge.png",
+		"location": "",
+		"social": {
+			"twitter_handle": "EliteStakePool",
+			"telegram_handle": "elitestakepool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "IT specialists in devops and netsec with over 50 years combined experience. We are both long-time crypto enthusiasts dating back to 2014.",
+			"server": "Producer Nodes are protected by multiple Relays, further secured with Hardware and Software firewalls ensuring Stability and Maximum up-time across our node infrastructure.",
+			"company": "At Elite Stake Pool we want to help build a future where each of us controls our own financial destiny.  Cardano enables opportunities for every person on the planet to realise this vision and achieve independence from legacy banking systems.   Beyond the financial advantages, we want to be part of the community that will bring a positive change for the world, delivering the incredible possibilities Cardano and Blockchain can bring."
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "03ba735795ea8294bccd63efd305168ac8367e9d6fd5f0a6225e12b0",
+		"1": "b6bbf5a7b34420b56f6641fa5731116842480b87c59226c78cd74487"
+	},
+	"when-satured-then-recommend": {
+		"0": "b6bbf5a7b34420b56f6641fa5731116842480b87c59226c78cd74487",
+		"1": "03ba735795ea8294bccd63efd305168ac8367e9d6fd5f0a6225e12b0"
+	},
+	"telegram-admin-handle": {
+		"0": "elitestakepool"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "",
+				"type": "",
+				"key": ""
+			},
+			"1": {
+				"name": "",
+				"type": "",
+				"key": ""
+			},
+			"2": {
+				"name": "",
+				"type": "",
+				"key": ""
+			}
+		}
+	}
+}

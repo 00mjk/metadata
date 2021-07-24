@@ -1,0 +1,7 @@
+{
+	"name": "FanceePool",
+	"description": "The fanciest Cardano stake pool! Created by Tobias Fancee, FanceePool utilizes a bare-metal server for optimal performance and uptime on the Cardano network.",
+	"ticker": "FANCY",
+	"homepage": "https://fanceepool.com",
+	"extended": "https://raw.githubusercontent.com/TobiasFancee/a/master/f.json"
+}

@@ -1,0 +1,33 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://github.com/MnMcharityPool/MnMPoolData/blob/main/200x200.png?raw=true",
+		"url_png_logo": "https://github.com/MnMcharityPool/MnMPoolData/blob/main/200x200.png?raw=true",
+		"location": "Auckland, New Zealand",
+		"social": {
+			"twitter_handle": "MnMcharityPool",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "channel/UC_HxO6r2xNrCnBxABZ4qWkA",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": ""
+		},
+		"my-pool-ids": {
+			"0": "a932273ab880015990a677eb4cc598b306df0ece54aa98d1eefab600",
+			"1": ""
+		}
+	}
+}

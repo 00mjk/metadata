@@ -1,0 +1,7 @@
+{
+	"name": "SPORT Pool",
+	"ticker": "SPORT",
+	"description": "Our pool is dedicated to empower kids through sports",
+	"homepage": "https://sportadapool.github.io",
+	"extended": "https://raw.githubusercontent.com/sportadapool/metadata/main/ext.json"
+}

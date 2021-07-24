@@ -1,0 +1,40 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://psyada.com/psyada.png",
+		"url_png_logo": "https://psyada.com/psyada_logo.png",
+		"location": "Czech Republic, Germany",
+		"social": {
+			"twitter_handle": "@psyadapool",
+			"telegram_handle": "joinchat/XnFFH4uVU1RjMjlk",
+			"facebook_handle": "psychedelicadapool ",
+			"youtube_handle": "channel/UCRVtkRVKIQ3voNPpcUfvUAQ",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "PsyADA | Psychedelic Cardano Stake Pool | Pool supporting psychedelic research & plant medicine projects",
+			"server": "BP 6CPUs, 16GB Ram, SSD | 3 Relays - Germany & Czech Republic",
+			"company": ""
+		},
+		"rss": "http(s) url to valid RSS feed"
+	},
+	"my-pool-ids": {
+		"0": "111646b0848804b1c0ff51888432c9c4b0b0aa3b55f11ecbd0e36624"
+	},
+	"when-satured-then-recommend": {
+		"0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
+		"1": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
+	},
+	"telegram-admin-handle": {
+		"0": "@lukas_psya"
+	}
+}

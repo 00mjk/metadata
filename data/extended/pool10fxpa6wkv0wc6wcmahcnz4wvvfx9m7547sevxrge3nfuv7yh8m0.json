@@ -1,0 +1,57 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/granada-pool/ADA/main/l_64.png",
+		"url_png_logo": "https://raw.githubusercontent.com/granada-pool/ADA/main/l.png",
+		"location": "Zurich, Switzerland",
+		"social": {
+			"twitter_handle": "GranAdaSwiss",
+			"telegram_handle": "granada_staking_pool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "granada-pool/ADA"
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "I'm a young software engineer from Venezuela who firmly believes that we can use the power of blockchain and decentralization to change the world forever. I run GranADA as a single pool operator a we monthly contribute to the WFP to help refugee families in countries with humanitarian crisis.",
+			"server": "Hosted at my home in Switzerland | Internet: 1GB up/down | Powered with 100% renewable energy.",
+			"company": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "7a4c1ee9d663dd8d3b1bedf13155cc624c5dfa95f432c30d198cd3c6"
+	},
+	"when-satured-then-recommend": {
+		"0": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "relay 1 CH",
+				"type": "relay",
+				"key": ""
+			},
+			"1": {
+				"name": "relay 2 DE (backup)",
+				"type": "relay",
+				"key": ""
+			},
+			"2": {
+				"name": "block producer CH",
+				"type": "bp",
+				"key": ""
+			}
+		}
+	}
+}

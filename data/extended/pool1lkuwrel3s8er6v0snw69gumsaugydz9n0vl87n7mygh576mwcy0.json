@@ -1,0 +1,61 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://git.io/JOXW5",
+	"info": {
+		"url_png_icon_64x64": "https://git.io/JGrIv",
+		"url_png_logo": "https://git.io/JGrkx",
+		"location": "Obervogau, Austria",
+		"social": {
+			"twitter_handle": "AtfFpool",
+			"telegram_handle": "ATFFpool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "ATFFpool"
+		},
+		"company": {
+			"name": "ATFFpool",
+			"addr": "",
+			"city": "Obervogau",
+			"country": "Austria",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"sustainability": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "fdb8e1e7f181f23d31f09bb4547370ef104688b37b3e7f4fdb222f4f",
+		"1": ""
+	},
+	"when-satured-then-recommend": {
+		"0": "f66a36de855d53b9d5110bd46640f48dbab1c848c9e2f5c36d8c12dc",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "relay 1",
+				"type": "relay",
+				"key": "example_get_own_on_adapools.org/connect"
+			},
+			"1": {
+				"name": "relay 2",
+				"type": "relay",
+				"key": "example_get_own_on_adapools.org/connect"
+			},
+			"2": {
+				"name": "block producing node",
+				"type": "bp",
+				"key": "example_get_own_on_adapools.org/connect"
+			}
+		}
+	}
+}

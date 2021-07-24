@@ -1,0 +1,8 @@
+{
+	"name": "EveryBlock Studio",
+	"ticker": "EBS",
+	"description": "A Brazilian interactive media startup building on Cardano.",
+	"homepage": "https://everyblock.studio",
+	"nonce": "1599415230",
+	"extended": "https://everyblock.studio/pool/extended-poolmeta.json"
+}

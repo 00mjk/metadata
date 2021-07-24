@@ -1,0 +1,35 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://git.io/JZwAX",
+		"url_png_logo": "https://git.io/JZwAX",
+		"location": "Guangzhou, China",
+		"social": {
+			"twitter_handle": "CardanoVoting",
+			"telegram_handle": "joinchat/OjyCDpjBcUNlYmU0",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "3 relay nodes at US, UK and China",
+			"company": ""
+		}
+	},
+	"telegram-admin-handle": {
+		"0": "Yan"
+	},
+	"my-pool-ids": {
+		"0": "e7dfac5c0621b9f8a4b59522b1c9955d090b59b1e2d76f1eb4708110"
+	}
+}

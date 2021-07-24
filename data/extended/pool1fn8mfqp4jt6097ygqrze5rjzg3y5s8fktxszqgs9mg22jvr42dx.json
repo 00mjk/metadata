@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.ada-darkpool.com/dark_64x64.png",
+		"url_png_logo": "https://www.ada-darkpool.com/dark_64x64.png",
+		"location": "USA",
+		"social": {
+			"twitter_handle": "AdaDarkpool",
+			"telegram_handle": "ADADARKPOOL",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "W27gw4wgQP",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "DarkPool",
+			"addr": "",
+			"city": "",
+			"country": "USA",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": ""
+		},
+		"rss": "http(s) url to valid RSS feed"
+	},
+	"telegram-admin-handle": [
+		""
+	],
+	"my-pool-ids": [
+		"4ccfb4803592f4f2f88800c59a0e424449481d3659a0202205da14a9"
+	],
+	"when-satured-then-recommend": [
+		"4ccfb4803592f4f2f88800c59a0e424449481d3659a0202205da14a9"
+	]
+}

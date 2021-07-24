@@ -1,0 +1,8 @@
+{
+	"name": "One Community ADA",
+	"ticker": "1COMM",
+	"description": "Provider of Cardano/crypto news & updates on Twitter (OneCommunityAda). Relays in N. America and Europe for redundancy and best network synchronization across the globe - Alerts, monitoring and automatic failover in place!",
+	"homepage": "https://www.onecommunityada.com",
+	"nonce": "1598384546",
+	"extended": "https://onecommunityada.com/public/poolmeta_extended.json"
+}

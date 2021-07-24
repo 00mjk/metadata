@@ -1,0 +1,28 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://eguard.io/poolmeta/eguard_logo_grey64.png",
+		"url_png_logo": "https://eguard.io/poolmeta/eguard_textlogo_grey512.png",
+		"location": "Quebec, Canada",
+		"social": {
+			"telegram_handle": "eguard_staking"
+		},
+		"company": {
+			"name": "EGuard",
+			"country": "Canada"
+		},
+		"about": {
+			"me": "We love crypto, especially Cardano amd stakable crypto. We are selling metal crypto seed storage and crypto merch. Vist our website to see our different products and pools",
+			"server": "VPS hosted in Germany and USA. 7$ for 4 vCPU, 8G RAM, 200G SSD. Find more here https://eguard.io/affiliates/",
+			"company": "https://eguard.io"
+		}
+	},
+	"my-pool-ids": {
+		"0": "e9caf54e90a08f8466e1b8a47e49ccd393e693131b4d5cd9222e1db7"
+	},
+	"when-satured-then-recommend": {
+		"0": "e9caf54e90a08f8466e1b8a47e49ccd393e693131b4d5cd9222e1db7"
+	},
+	"telegram-admin-handle": {
+		"0": "Matt_EGuard"
+	}
+}

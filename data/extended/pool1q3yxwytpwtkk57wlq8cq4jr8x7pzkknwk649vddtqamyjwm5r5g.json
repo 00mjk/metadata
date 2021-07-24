@@ -1,0 +1,60 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://ebonkitty.com/ekp-64x64-ico.png",
+		"url_png_logo": "https://ebonkitty.com/ekp-128x128.png",
+		"location": "NYC/Toronto/Virginia/The Cloud",
+		"social": {
+			"twitter_handle": "EbonKitty_ops",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Ebon Kitty Pool",
+			"addr": "",
+			"city": "",
+			"country": "USA",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Professionally operated following best practices and recommendations from IOHK and guild ops.",
+			"server": "Running on a multiple data center Digital Ocean environment with AWS backup.",
+			"company": "Managed by a black cat, but don't tell anyone."
+		},
+		"rss": "nope"
+	},
+	"my-pool-ids": {
+		"0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
+		"1": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
+	},
+	"when-satured-then-recommend": {
+		"0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
+		"1": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "relay 1 eu",
+				"type": "relay",
+				"key": "example_get_own_on_adapools.org/connect"
+			},
+			"1": {
+				"name": "relay 2 usa",
+				"type": "relay",
+				"key": "example_get_own_on_adapools.org/connect"
+			},
+			"2": {
+				"name": "block producer home",
+				"type": "bp",
+				"key": "example_get_own_on_adapools.org/connect"
+			}
+		}
+	}
+}

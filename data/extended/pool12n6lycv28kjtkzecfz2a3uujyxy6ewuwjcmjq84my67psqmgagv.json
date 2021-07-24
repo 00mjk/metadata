@@ -1,0 +1,59 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://mantispool.net/assets/img/icons/logo-60x60.png",
+		"url_png_logo": "https://mantispool.net/assets/img/icons/logo-60x60.png",
+		"location": "United States and Germany",
+		"social": {
+			"twitter_handle": "MantisPool",
+			"telegram_handle": "mantispool_net",
+			"facebook_handle": "mantiscardano",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "MANTIS 1PERCENT",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "The best 1 percent pool alternative available today. Top quality staking services.",
+			"server": "Low latency high speed servers and 24/7 uptime.",
+			"company": "..."
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "54f5f2618a3da4bb0b384895d8f3922189acbb8e9637201ebb26bc18"
+	},
+	"when-satured-then-recommend": {
+		"0": "54f5f2618a3da4bb0b384895d8f3922189acbb8e9637201ebb26bc18"
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "",
+				"type": "",
+				"key": ""
+			},
+			"1": {
+				"name": "",
+				"type": "",
+				"key": ""
+			},
+			"2": {
+				"name": "",
+				"type": "",
+				"key": ""
+			}
+		}
+	}
+}

@@ -1,0 +1,33 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://storage.googleapis.com/meroada-public/MeroLogo64x64.png",
+		"url_png_logo": "https://storage.googleapis.com/meroada-public/MeroLogo.png",
+		"location": "Canada",
+		"social": {
+			"twitter_handle": "MeroAda",
+			"telegram_handle": "meroada",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "Mero - [MERO]#0713",
+			"github_handle": "MeroAda"
+		},
+		"company": {
+			"name": "MERO",
+			"addr": "",
+			"city": "",
+			"country": "Canada",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Run by an operator with over 15 years of experience in system administration and software development. I will strive my best to keep these server up all the time provide the best support possible",
+			"server": "100% cloud based servers",
+			"company": "With strong beliefs in the Cardano eco system and helping to improve the Cardano network, Mero is dedicated to providing the best support possible and keeping servers running!"
+		},
+		"my-pool-ids": {
+			"0": "72770c5d9dbf120676a6293d921fd7eeee454409620c3fdb671a405a",
+			"1": ""
+		}
+	}
+}

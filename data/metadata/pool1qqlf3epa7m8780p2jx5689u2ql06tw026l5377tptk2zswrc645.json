@@ -1,0 +1,7 @@
+{
+	"name": "Create Planets Stakepool",
+	"description": "CPS is a Cardano stake pool.",
+	"ticker": "CPS",
+	"homepage": "https://createplanets.com/",
+	"extended": "https://createplanets.com/CPS-em-mn.json"
+}

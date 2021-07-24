@@ -1,0 +1,33 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://github.com/goadapool/goada/blob/511aa5d214ece5d19d9ff4cc65c1d4cf2c728d6e/logo.png?raw=true",
+		"url_png_logo": "https://github.com/goadapool/goada/blob/511aa5d214ece5d19d9ff4cc65c1d4cf2c728d6e/logo.png?raw=true",
+		"location": "Australia",
+		"social": {
+			"twitter_handle": "AdaMessengers",
+			"telegram_handle": "Danica_Ada_Music_Messengers",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Australia",
+			"addr": "",
+			"city": "Gold Coast",
+			"country": "AU",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "I'm a Single pool operator trying to bring the beauty of Music and ADA to the World ",
+			"server": "Powered by Linode in Sydney Australia",
+			"company": ""
+		},
+		"my-pool-ids": {
+			"0": "ef36ad98ed852950a775a67ea74e3f1fbf0986ff420c2bda20f87f4d",
+			"1": ""
+		}
+	}
+}

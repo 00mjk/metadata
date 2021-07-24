@@ -1,0 +1,59 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://redbike.asia/assets/images/image05.png?v=1cb84208",
+		"url_png_logo": "https://redbike.asia/assets/images/image04.png?v=2c279e84g",
+		"location": "Singapore, Singapore",
+		"social": {
+			"twitter_handle": "https://twitter.com/redbikeasia",
+			"telegram_handle": "@finclout",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Red Bike Asia",
+			"addr": "Prinsep St, 128",
+			"city": "Singapore",
+			"country": "Singapore",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": " Make Mobility Decentralized ",
+			"server": "Linode VPS",
+			"company": " Red Bike Asia"
+		}
+	},
+	"my-pool-ids": {
+		"0": "42850eb2d0c386213d60039c4b5888ecc996fc48063514cf20d4d82c",
+		"1": ""
+	},
+	"when-satured-then-recommend": {
+		"0": "",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": "finclout"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "Relay Red Bike",
+				"type": "relay",
+				"key": ""
+			},
+			"1": {
+				"name": "",
+				"type": "",
+				"key": ""
+			},
+			"2": {
+				"name": "Producer Red Bike",
+				"type": "bp",
+				"key": ""
+			}
+		}
+	}
+}

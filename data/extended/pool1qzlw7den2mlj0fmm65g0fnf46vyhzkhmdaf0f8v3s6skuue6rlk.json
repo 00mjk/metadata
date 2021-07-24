@@ -1,0 +1,26 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://bluecheesestakehouse.com/apple-icon-60x60.png",
+		"url_png_logo": "https://bluecheesestakehouse.com/android-icon-192x192.png",
+		"location": "Oregon, USA",
+		"social": {
+			"twitter_handle": "amw7",
+			"telegram_handle": "blue_cheese_stake_house",
+			"youtube_handle": "andrewwestberg",
+			"github_handle": "AndrewWestberg"
+		},
+		"company": {
+			"name": "BCSH, LLC."
+		},
+		"about": {
+			"server": "EPYC - Bare Metal",
+			"company": "BCSH, LLC."
+		}
+	},
+	"telegram-admin-handle": [
+		"andrewwestberg"
+	],
+	"my-pool-ids": [
+		"00beef373356ff27a77bd510f4cd35d309715afb6f52f49d9186a16e"
+	]
+}

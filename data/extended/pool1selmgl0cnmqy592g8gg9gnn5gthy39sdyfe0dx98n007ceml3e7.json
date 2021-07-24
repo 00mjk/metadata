@@ -1,0 +1,22 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/givadaio/metadata/main/yellowOnBlackSmall.png",
+		"url_png_logo": "https://github.com/givadaio/metadata/raw/main/currencyBlackOnWhiteSmall.png",
+		"location": "Cardano Network",
+		"social": {
+			"twitter_handle": "givadaio",
+			"github_handle": "givadaio"
+		},
+		"about": {
+			"me": "Security researcher and decentralization enthusiast",
+			"server": "A plethora of Gibsons",
+			"company": "https://www.givada.io"
+		}
+	},
+	"my-pool-ids": {
+		"0": "867fb47df89ec04a15483a10544e7442ee48960d2272f698a79bdfec"
+	},
+	"when-satured-then-recommend": {
+		"0": "Decentralize more"
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"info": {
+		"url_png_icon_64x64": "http://acidpools.com/wp-content/uploads/2020/12/smiley64-64.png",
+		"url_png_logo": "http://acidpools.com/wp-content/uploads/2020/12/smiley300-300.png",
+		"location": "France",
+		"social": {
+			"twitter_handle": "AcidStakePool",
+			"telegram_handle": "ACIDpools",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"about": {
+			"me": "I am a tech enthusiast with unconditional love for Cardano",
+			"server": "Cloud and Bare metal servers",
+			"company": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "pool14a39gegmmc0xp7u3vr2lxggpphjm97nef6d35ytrukfwqvavj8j"
+	}
+}

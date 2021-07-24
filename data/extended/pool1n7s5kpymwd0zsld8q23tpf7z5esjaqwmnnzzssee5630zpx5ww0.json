@@ -1,0 +1,25 @@
+{
+	"info": {
+		"social": {
+			"twitter_handle": "rabbitholepools",
+			"telegram_handle": "Rabbitholepools",
+			"youtube_handle": "channel/UC1_T_adN8v-PDqaiJ0dYXLg",
+			"github_handle": "adrem1"
+		},
+		"company": {
+			"name": "Rabbitholepools",
+			"city": "Townsville",
+			"country": "Australia",
+			"vat_id": "ABN37447403966"
+		},
+		"about": {
+			"company": "We are an Australian Cardano Stake Pool, committed to security, decentralisation and always running one pool only. Our fees are 1% now and going forward, and our focus for community outreach is centred on local recycling and clean transport projects."
+		},
+		"my-pool-ids": {
+			"0": "9fa14b049b735e287da702a2b0a7c2a6612e81db9cc4284339a6a2f1"
+		},
+		"when-satured-then-recommend": {
+			"0": "c94e6fe1123bf111b77b57994bcd836af8ba2b3aa72cfcefbec2d3d4"
+		}
+	}
+}

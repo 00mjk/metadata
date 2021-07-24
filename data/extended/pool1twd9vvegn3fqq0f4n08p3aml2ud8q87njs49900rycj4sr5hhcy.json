@@ -1,0 +1,28 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://aoaus.s3-ap-southeast-2.amazonaws.com/adaoceanaustralia_icon_64.png",
+		"url_png_logo": "https://aoaus.s3-ap-southeast-2.amazonaws.com/adaoceanaustralia_180.png",
+		"location": "Brisbane, Australia",
+		"social": {
+			"twitter_handle": "ADAOceanAus",
+			"telegram_handle": "adaoceanaustralia",
+			"codingame": [
+				{
+					"handle": "cd3c409e5643d12aef362aef5f1909601538604"
+				}
+			]
+		},
+		"about": {
+			"me": "Australian Owned and Operated Cardano Pool. All our servers are located in Australia which improves decentralisation of the Cardano network and reduces the risk of network outages.",
+			"server": "Operating System live patches, virtual machine live migration and auto start are just a few things we use to make sure our servers always stay up and running smoothly.",
+			"company": "ADA Ocean Australia"
+		},
+		"rss": "https://adaocean.com.au/feed/"
+	},
+	"my-pool-ids": {
+		"0": "5b9a5633289c52003d359bce18f77f571a701fd3942a52bde3262558"
+	},
+	"telegram-admin-handle": {
+		"0": "adaoceanaustralia"
+	}
+}

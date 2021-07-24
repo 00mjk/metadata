@@ -1,0 +1,60 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/bitm4ster/metadata/master/logo-64.png",
+		"_url_png_logo": "https://raw.githubusercontent.com/bitm4ster/metadata/master/logo.png",
+		"location": "Earth",
+		"social": {
+			"twitter_handle": "MajorPool1",
+			"_telegram_handle": "bitm4ster",
+			"_facebook_handle": "MajorPool",
+			"_youtube_handle": "",
+			"_twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "bitm4ster"
+		},
+		"_company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"_company": ""
+		},
+		"_rss": ""
+	},
+	"my-pool-ids": {
+		"0": "a37460a9b761e67b18f0262ad18f80263f6b6d143c33a9873965ecd3"
+	},
+	"_when-satured-then-recommend": {
+		"0": "abacadaba9f12a8b5382fc370e4e7e69421fb59831bb4ecca3a11d9b",
+		"1": "c6fbd4e484a28211695206e1b53f1409e7cef8c62d3f6b24bab2f600"
+	},
+	"_telegram-admin-handle": {
+		"0": "bitm4ster",
+		"1": "Edm0nd"
+	},
+	"_adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "relay 1 eu",
+				"type": "relay",
+				"key": "example_get_own_on_adapools.org/connect"
+			},
+			"1": {
+				"name": "relay 2 usa",
+				"type": "relay",
+				"key": "example_get_own_on_adapools.org/connect"
+			},
+			"2": {
+				"name": "block producer home",
+				"type": "bp",
+				"key": "example_get_own_on_adapools.org/connect"
+			}
+		}
+	}
+}

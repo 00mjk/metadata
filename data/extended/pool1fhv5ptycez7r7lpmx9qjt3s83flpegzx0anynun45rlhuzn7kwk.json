@@ -1,0 +1,36 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://git.io/JYyHQ",
+		"url_png_logo": "https://git.io/JYyHy",
+		"location": "Barcelona, Spain",
+		"social": {
+			"twitter_handle": "tofupool",
+			"telegram_handle": "tofupool",
+			"facebook_handle": "tofupool",
+			"youtube_handle": "tofupool",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "tofupool"
+		},
+		"company": {
+			"name": "Tofu Pool",
+			"addr": "Tofu Street, 23",
+			"city": "Barcelona",
+			"country": "Spain",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "We donate our profits to sustainability and animal welfare projects, chosen by our delegators in our website",
+			"server": "Reliable VPS with 99,99% uptime guaranteed."
+		}
+	},
+	"my-pool-ids": {
+		"0": "4dd940ac98c8bc3f7c3b314125c6078a7e1ca0467f6649f275a0ff7e"
+	},
+	"when-satured-then-recommend": {},
+	"telegram-admin-handle": {
+		"0": "tofupool"
+	}
+}

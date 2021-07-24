@@ -1,0 +1,40 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://crypto-loops.com/htdocs/wp-content/Logo64x64.png",
+		"url_png_logo": "https://crypto-loops.com/htdocs/wp-content/Adapools.png",
+		"location": "Missouri, USA",
+		"social": {
+			"twitter_handle": "LoopsCrypto",
+			"telegram_handle": "LOOPS_StakePool",
+			"facebook_handle": "crypto.loops",
+			"youtube_handle": "channel/UCM136aKwYA47qJVWGKjCBbw",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Crypto Loops LLC",
+			"addr": "",
+			"city": "",
+			"country": "USA",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "A bare-metal stake pool through Crypto Loops to help grow your investment. Our goal is to help educate on Cardano and cryptocurrencies, and to help promote financial freedom in this new financial era.",
+			"server": "",
+			"company": "Our mission is to provide information to help guide the public through the world of Cardano, cryptocurrencies, and blockchain technologies. Our goal is to make you feel more confident navigating digital currencies in this new financial era. We aim to help promote financial freedom by providing you with the knowledge you need to make informed decisions within the crypto-sphere."
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735"
+	},
+	"when-satured-then-recommend": {
+		"0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735"
+	},
+	"telegram-admin-handle": {
+		"0": " CryptoLoops"
+	}
+}

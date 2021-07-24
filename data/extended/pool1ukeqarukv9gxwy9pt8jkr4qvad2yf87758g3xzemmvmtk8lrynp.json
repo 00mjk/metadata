@@ -1,0 +1,31 @@
+{
+	"itn": {
+		"owner": "ed25519_pk1rdtd4lpdutde8480m45gtngr6gvms7r2qkygd0t0uausxqdtwmxs363a39",
+		"witness": "ed25519_sig17q63yjldvltays52pmqsv7aakk87nsd249qj4xt7wt73epzs8xkfhudk6s5d4ewul0p465v0cnl5y6wnpakdv463y07tww3fjdsjuzsl3r8n7"
+	},
+	"info": {
+		"url_png_icon_64x64": "https://cardanians.io/_storage/meta/crdns-ticker.png",
+		"social": {
+			"twitter_handle": "Cardanians_io",
+			"telegram_handle": "stakewithcardanians"
+		},
+		"company": {
+			"name": "Cardanians s.r.o. ",
+			"addr": "Å lapanickÃ¡ 1352/14",
+			"city": "Brno",
+			"country": "Czech Republic",
+			"company_id": "29269580",
+			"vat_id": "CZ29269580"
+		}
+	},
+	"when-satured-then-recommend": {
+		"0": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510",
+		"1": "e5b20e8f9661506710a159e561d40ceb54449fdea1d1130b3bdb36bb",
+		"2": "397f04eb0ae0497d8c4d691844c8c6b026bc942e3f406f26b8e24f48"
+	},
+	"rss": "https://cardanians.io/rss.xml",
+	"telegram-admin-handle": [
+		"mnmnmnmnnmn",
+		"lukas_barta"
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://p3lol.de/logo.png",
+		"location": "Germany",
+		"social": {
+			"matrix_handle": "#p3lol:matrix.org"
+		},
+		"about": {
+			"me": "Single Pool Operator â Community Owned Pool",
+			"server": "Dedicated, hardened and encrypted (FDE) Servers hosted in Germany"
+		}
+	},
+	"my-pool-ids": {
+		"0": "bb236318e9fe9f7b2e287dd388f9cbd32cb2e3ead404684c720c91b6"
+	}
+}

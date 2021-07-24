@@ -1,0 +1,36 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://muggy-pool.github.io/muggy/muggy.png",
+		"url_png_logo": "https://muggy-pool.github.io/muggy/muggy.png",
+		"location": "Goguen, Cardano",
+		"social": {
+			"twitter_handle": "Muggy_Pool",
+			"telegram_handle": "Muggy_Pool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "714292195649126414",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Single Pool Operator and Blockchain SysOps Developer",
+			"server": "We maintain a mixture of Cloud and Bare Metal systems on the Cardano MainNet and TestNet Blockchains",
+			"company": "Systems Solutions Developer with professional experience maintaining 24/7 critical Linux Nodes. The Pool was named in memory of our GrandMother. Her spirit continues on the Blockchain checking slots and minting blocks. 0% fees for the rest of 2020."
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "4044aa415dec3609dcab41faa19b643719b9521ef16eb35945a64bd9"
+	},
+	"when-satured-then-recommend": {},
+	"telegram-admin-handle": {},
+	"adapools_ext": {}
+}

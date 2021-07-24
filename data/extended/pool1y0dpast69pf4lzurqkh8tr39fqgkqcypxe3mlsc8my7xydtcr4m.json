@@ -1,0 +1,40 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://i.ibb.co/mhv6YPB/64x64-logo-01.png",
+		"url_png_logo": "",
+		"location": "Netherlands, Europe",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "nautiluscryptostakepool",
+			"facebook_handle": "",
+			"youtube_handle": "NautilusCrypto",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "This stake pool focusses on adding value to the Cardano ecosystem, by creating educational content on the Nautilus Crypto Youtube Channel. We are here for the long term. Let's go for number one."
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "",
+		"1": ""
+	},
+	"when-satured-then-recommend": {
+		"0": "",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	}
+}

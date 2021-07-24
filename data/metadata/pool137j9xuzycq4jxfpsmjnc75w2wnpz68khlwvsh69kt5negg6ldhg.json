@@ -1,0 +1,7 @@
+{
+	"name": "The White Project",
+	"description": "Non-Profit pool",
+	"ticker": "WHITE",
+	"homepage": "https://white.topopool.com",
+	"extended": "https://storage.googleapis.com/topo-pool/white-extra.json"
+}

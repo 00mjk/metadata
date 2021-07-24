@@ -1,0 +1,17 @@
+{
+	"itn": {
+		"owner": "ed25519_pk1uh7r2z8aypk0gywd34pkvnyksjhkwjhaxsu6mq5n2pk8v09va6xs0amd9h",
+		"witness": "ed25519_sig1nw8phsk0xrqehku8wc3gk7ncd93khfy8wrnx95cvwepl38fg49z54czgxnhvmtmzfltg2r9y03jpa63f0urqk4fw399t7cyygzfykrsmdpvv9"
+	},
+	"info": {
+		"url_png_icon_64x64": "https://asnakep.github.io/repo/Snake-icon_64x64.png",
+		"url_png_logo": "https://asnakep.github.io/repo/Snake-icon.png",
+		"social": {
+			"twitter_handle": "adasnakepool",
+			"telegram_handle": "channel_adasnakepool"
+		},
+		"about": {
+			"server": "Cardano Stake Pool Infrastructure Running 24/7/365 on Highly Reliable and Secured NixOS Servers. Providing 20 Years Tech Expertise (SysAdmin, DBAdmin) and Transparency to Delegators - Ask me anything on SN₳KE Telegram Channel"
+		}
+	}
+}

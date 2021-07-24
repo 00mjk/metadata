@@ -1,0 +1,33 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://static.wixstatic.com/media/b243b0_f03299ef1aa348ac9fac65ea670e2786~mv2.png",
+		"url_png_logo": "https://static.wixstatic.com/media/b243b0_a6d1e1197e7f4e6caf564aca426030e5~mv2.png",
+		"location": "",
+		"social": {
+			"twitter_handle": "@plantacrypto",
+			"telegram_handle": "",
+			"instagram_handle": "plantacrypto",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Planta Crypto",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": ""
+		},
+		"my-pool-ids": {
+			"0": "6bd9b29295a7e24520a1eecd5a5ab9a94f3ffeed3b89551cac71f6bf"
+		}
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"name": "Medium Rare Stake Pool",
+	"description": "Good Stake. Run on a hybrid solution, we run our own block node hardware, and use cloud relays. We will not use extremely large providers such as AWS, Azure or Google, as we believe these contribute to centralization. Visit our homepage for more details. ",
+	"ticker": "MRSP",
+	"homepage": "https://mediumrarestake.mitchjonesengineering.us",
+	"extended": "https://mitchjonesengineering.us/files/extended_details.json"
+}

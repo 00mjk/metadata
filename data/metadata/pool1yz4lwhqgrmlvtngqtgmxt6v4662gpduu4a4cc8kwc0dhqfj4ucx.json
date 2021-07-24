@@ -1,0 +1,7 @@
+{
+	"name": "CashBack Pool",
+	"description": "The first staking pool sharing its own rewards with delegators: cashback for the community!",
+	"ticker": "CBACK",
+	"homepage": "https://cashbackpool.net",
+	"extended": "https://cashbackpool.net/meta/extended.json"
+}

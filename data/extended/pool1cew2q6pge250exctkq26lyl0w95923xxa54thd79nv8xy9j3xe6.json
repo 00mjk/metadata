@@ -1,0 +1,33 @@
+{
+	"info": {
+		"url_png_icon_64x64": "",
+		"url_png_logo": "",
+		"location": "Romania",
+		"social": {
+			"twitter_handle": "ArrakisPool",
+			"telegram_handle": "sirpickelhaupt",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "abracadaniel"
+		},
+		"company": {
+			"name": "Beanstalk SRL",
+			"city": "Cluj Napoca",
+			"country": "Romania",
+			"company_id": "42389826",
+			"vat_id": "42389826"
+		},
+		"about": {
+			"me": "",
+			"server": "Running in Google Cloud"
+		}
+	},
+	"my-pool-ids": {
+		"0": "c65ca06828caa8fc9b0bb015af93ef71685544c6ed2abbb7c59b0e62"
+	},
+	"telegram-admin-handle": {
+		"0": "sirpickelhaupt"
+	}
+}

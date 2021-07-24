@@ -1,0 +1,43 @@
+{
+	"itn": {
+		"owner": "ed25519_pk1cjfww64anjr34pjprq0pjlmuks6a5mzm7mc57h9edfmukzw8annsfug9xd",
+		"witness": "ed25519_sig16m8crk5sscl355qjlelf3wphgs9ps2pzv7hhkp5qvpmvrnxt8qxn0a5flh8jfu2fwfymagj9hkjxwrr54seeqa0l04st0atvly6vsqqg5cu4j"
+	},
+	"info": {
+		"url_png_icon_64x64": "",
+		"url_png_logo": "",
+		"location": "USA",
+		"social": {
+			"twitter_handle": "RealSaidov",
+			"telegram_handle": "SkyLightPool",
+			"facebook_handle": "",
+			"youtube_handle": "channel/UCV-jYdTwY5x5MptlZIvJIvw",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "skylightpool"
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "SkyLightPool has been operational since ITN. We strives to give back to its stakeholders through research and analysis of Cardano and its ecosystem. SKY2 will provide its stakeholders with basic free research.We are working on making these functionalities available soon.",
+			"server": "Our network architecture includes a dedicated high-end bare-metal server (32 cores, 128GB, 1Gbps Network) and a number of geographically distributed cloud servers. We actively monitor our network and constantly improve upon our infrastructure/tooling.",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"telegram-admin-handle": {
+		"0": "SkyLightPool"
+	},
+	"my-pool-ids": {
+		"0": "675304517e38e66880714b3c4816f47866c302edafceb96945fd056f"
+	},
+	"when-satured-then-recommend": {
+		"0": "4511bcca3896bcb6d43b66fb89fe079f00f44bed505c9ca232704dc9"
+	}
+}

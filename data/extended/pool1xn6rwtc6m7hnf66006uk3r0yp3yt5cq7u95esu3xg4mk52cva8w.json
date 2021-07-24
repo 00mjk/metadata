@@ -1,0 +1,20 @@
+{
+	"itn": {
+		"owner": "",
+		"witness": ""
+	},
+	"info": {
+		"url_png_icon_64x64": "/datas.cardanaut.com/pic/cardanaut_fusee_icon01_64px.png",
+		"url_png_logo": "/datas.cardanaut.com/pic/cardanaut_fusee_icon01_512px.png",
+		"location": "Antsiranana, Madagascar",
+		"social": {
+			"twitter_handle": "cardanaut",
+			"telegram_handle": "cardanauts",
+			"github_handle": "cardanaut"
+		}
+	},
+	"when-satured-then-recommend": {
+		"0": "",
+		"1": ""
+	}
+}

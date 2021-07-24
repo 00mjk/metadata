@@ -1,0 +1,22 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://cardinos.io/static/64x64.png",
+		"url_png_logo": "https://cardinos.io/static/logo.png",
+		"location": "London, England",
+		"social": {
+			"twitter_handle": "CardinosNFT",
+			"discord_handle": "EsDhG6PDUK",
+			"telegram_handle": "cardinosnft"
+		},
+		"about": {
+			"me": "LegiionOfBrad and przcntn - NFT Creators from the UK",
+			"server": "A mix of bare metal and virtual servers across the globe."
+		}
+	},
+	"my-pool-ids": {
+		"0": "0a9db4326c331c435c9ebe91c14b3003831b70eba5a16c73fa2cd56f"
+	},
+	"when-satured-then-recommend": {
+		"0": "b92012c1afbd6c7ffcf034fefb4500eada5e98529f4d0f54e7db8a81"
+	}
+}

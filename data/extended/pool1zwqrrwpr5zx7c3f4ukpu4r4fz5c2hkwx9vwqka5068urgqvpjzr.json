@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://storage.googleapis.com/vroom-pool/vroom-64x64.png",
+		"url_png_logo": "https://storage.googleapis.com/vroom-pool/vroom.png",
+		"location": "",
+		"social": {
+			"twitter_handle": "CarPoolCrypto",
+			"telegram_handle": "CarPoolCryptoVROOM",
+			"facebook_handle": "",
+			"youtube_handle": "UC4uuYnysV6jddWBgxvBmbxg",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "CarPool Crypto",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "The mission for CarPool Crypto is to help further the spread and adoption of crypto and blockchain technology through education and the demonstration of tangible, everyday benefits of the technology. One of the primary ways CarPool works to achieve this mission is through a Cardano Stake Pool, a portion of the stake pool operator rewards will go to support select non-profits when the stake pool does work for the ecosystem. As a temporary benefactor, CarPool works to build a relationship with each non-profit; providing education and support toward the adoption of crypto for the long-term benefit and sustainability of their organization. As donation goals are achieved; CarPool delegators are invited to collectively identify and vote to support new non-profits through this model. Additionally, as the channel grows stake pool delegators will also receive loyalty benefits to future health and well-being products and services.",
+			"server": "",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"telegram-admin-handle": [
+		""
+	],
+	"my-pool-ids": [
+		"138031b823a08dec4535e583ca8ea91530abd9c62b1c0b768fd1f834"
+	],
+	"when-satured-then-recommend": [
+		"138031b823a08dec4535e583ca8ea91530abd9c62b1c0b768fd1f834"
+	]
+}

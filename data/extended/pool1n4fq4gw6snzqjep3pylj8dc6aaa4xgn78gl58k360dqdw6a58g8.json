@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://rarepepes.com/wp-content/uploads/2021/04/pepe-rarepepes.png",
+		"url_png_logo": "https://rarepepes.com/wp-content/uploads/2021/04/rare-pepe-150-compressed.png",
+		"location": "Country, Continent",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": ""
+		},
+		"rss": "http(s) url to valid RSS feed"
+	},
+	"telegram-admin-handle": [
+		""
+	],
+	"my-pool-ids": [
+		"9d520aa1da84c4096431093f23b71aef7b53227e3a3f43da3a7b40d7"
+	],
+	"when-satured-then-recommend": [
+		"9d520aa1da84c4096431093f23b71aef7b53227e3a3f43da3a7b40d7"
+	]
+}

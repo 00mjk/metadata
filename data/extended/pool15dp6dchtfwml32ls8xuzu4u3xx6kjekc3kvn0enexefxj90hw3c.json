@@ -1,0 +1,29 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://cryptopool.dev/brand/icon-64x64.png",
+		"url_png_logo": "https://cryptopool.dev/brand/logo-1024x1024.png",
+		"location": "Amsterdam, The Netherlands",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "HofmannZ"
+		},
+		"about": {
+			"me": "I'm a tech entrepreneur, with more than 10 years experience developing cutting edge software, and building scalable enterprises.",
+			"server": "1GB WAN connection, UniFi Dream Machine Pro, UniFi Switch Pro 24 PoE, 4x Raspberry Pi (8Gb, PoE+)",
+			"company": ""
+		},
+		"my-pool-ids": {
+			"0": "a343a6e2eb4bb7f8abf039b82e579131b56966d88d9937e679365269"
+		},
+		"when-satured-then-recommend": {
+			"0": "2a748e3885f6f73320ad16a8331247b81fe01b8d39f57eec9caa5091",
+			"1": "8264de3cdb1798dd8758e24cda5101184b44543e7c4421c7815f9ed8",
+			"2": "406a08532d2ca8dd08ea39e082dc8acdc2a3b34d0c517bd0e40af5e1"
+		}
+	}
+}

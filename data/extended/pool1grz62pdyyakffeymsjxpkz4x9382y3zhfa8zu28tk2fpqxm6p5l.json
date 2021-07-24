@@ -1,0 +1,32 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://i.ibb.co/30KKbw2/KAWANUACARDANOLOGO.png",
+		"url_png_logo": "https://i.ibb.co/30KKbw2/KAWANUACARDANOLOGO.png",
+		"location": "Manado, Indonesia",
+		"social": {
+			"twitter_handle": "KawanuaP",
+			"telegram_handle": "KawanCardano",
+			"facebook_handle": "kawanua.cardano",
+			"youtube_handle": "channel/UCQrPaVOW90XpxZy2cOHzUVA",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Single pool operator. Member of CSPA, Mission Driven and F2LB community. Bring the cardano World into Indonesia and the world",
+			"server": "Linode could & Contabo cloud 24/7 uptime, secured. We have 6 Servers: 1 BP Server, 2 public relay, 3 private relay that can be switch as backup BP anytime. To improve our performance, we tried every provider and the best among them while we establish our own baremetal server",
+			"company": "Kawanua Pool"
+		},
+		"my-pool-ids": {
+			"0": "pool1grz62pdyyakffeymsjxpkz4x9382y3zhfa8zu28tk2fpqxm6p5l"
+		}
+	}
+}

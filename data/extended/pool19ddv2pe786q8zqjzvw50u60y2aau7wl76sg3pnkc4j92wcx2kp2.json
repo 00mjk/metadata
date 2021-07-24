@@ -1,0 +1,36 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://nexuspool.org/icon64.png",
+		"url_png_logo": "https://nexuspool.org/icon.png",
+		"location": "Lisbon, Portugal",
+		"social": {
+			"twitter_handle": "NexusStake",
+			"telegram_handle": "NEXUSCardanoStakePool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "IT engineer with 15 years experience with enterprise solutions and financial services support and development.",
+			"server": "VPS infrastructure with high availability architecture and air-gapped offline instance.",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "2b5ac5073e3e8071024263a8fe69e4577bcf3bfed41110ced8ac8aa7"
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"name": "Southtyrolpool",
+	"description": "A stable pool from South tyrol.",
+	"ticker": "sudti",
+	"homepage": "https://southtyrolpool.it",
+	"extended": "https://raw.githubusercontent.com/fisch192/southtyrolpool.github.io/main/extended.json"
+}

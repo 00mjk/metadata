@@ -1,0 +1,7 @@
+{
+	"name": "CheapStaking #2 - PublicPrivate",
+	"description": "Set and forget with our private/public hybrid pool! At 90% saturation we remove our metadata to hide from the wallets meaning you never have to worry about losing rewards due to over saturation!",
+	"ticker": "CHEAP",
+	"homepage": "https://cheapstaking.com",
+	"extended": "https://cardanometa.blob.core.windows.net/cheap2/meta-ext.json"
+}

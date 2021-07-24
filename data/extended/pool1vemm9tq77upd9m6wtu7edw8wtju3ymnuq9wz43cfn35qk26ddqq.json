@@ -1,0 +1,25 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/AntonieGeerts/CoinTourage/master/logo64.png",
+		"url_png_logo": "https://raw.githubusercontent.com/AntonieGeerts/CoinTourage/master/CNT-Big.png",
+		"location": "Global",
+		"social": {
+			"twitter_handle": "CoinTourage",
+			"telegram_handle": "cointourage"
+		},
+		"company": {
+			"name": "CoinTourage Inc."
+		},
+		"about": {
+			"me": "We are an team of experienced network operators with a vast knowledge in creating stable, reliable and secure staking Pools",
+			"server": "Our infrastructure has a number of public relay nodes across the globe with a number of private backup nodes and a ring fenced BP",
+			"company": "We use a combination of EC2 , Google Cloud and Private Servers"
+		}
+	},
+	"my-pool-ids": {
+		"0": "6677b2ac1ef702d2ef4e5f3d96b8ee5cb9126e7c015c2ac7099c680b"
+	},
+	"telegram-admin-handle": {
+		"0": "CoinTourageCNT"
+	}
+}

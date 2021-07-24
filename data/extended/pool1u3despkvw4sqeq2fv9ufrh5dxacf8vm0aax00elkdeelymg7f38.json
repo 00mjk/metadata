@@ -1,0 +1,42 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/maxleo1/alf/main/awfah-xpto5-001_5.png",
+		"url_png_logo": "",
+		"location": "Austria",
+		"social": {
+			"instagram_handle": "",
+			"discord_handle": "",
+			"reddit_handle": "",
+			"twitter_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "channel/UCtYQ91Juz5eE31bDKuxobjQ",
+			"twitch_handle": "",
+			"telegram_handle": "maxleo3",
+			"github_handle": "maxleo1"
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Gordon Shumway",
+			"server": "3x Ubuntu 20.04 LTS servers",
+			"company": "Melmac Inc."
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "e45b9806cc75600c8149617891de8d377093b36fef4cf7e7f66e73f2"
+	},
+	"when-satured-then-recommend": {
+		"0": "e45b9806cc75600c8149617891de8d377093b36fef4cf7e7f66e73f2"
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	}
+}

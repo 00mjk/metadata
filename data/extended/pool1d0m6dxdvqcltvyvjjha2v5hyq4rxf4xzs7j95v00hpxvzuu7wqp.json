@@ -1,0 +1,27 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://bulpr-meta.s3.amazonaws.com/BULPR_c64x64.png",
+		"url_png_logo": "https://bulpr-meta.s3.amazonaws.com/BULPR_c.png",
+		"location": "Thailand, Bangkok",
+		"social": {
+			"twitter_handle": "Ticker_BULPR",
+			"facebook_handle": "CardanoTH",
+			"telegram_handle": "CardanoBULPR"
+		},
+		"company": {
+			"name": "BULPR"
+		},
+		"about": {
+			"server": "Our server are up in the cloud"
+		}
+	},
+	"my-pool-ids": {
+		"0": "f37a8ad3edc8598b01a6630217349571c181404feb97c580925045d8"
+	},
+	"when-satured-then-recommend": {
+		"0": "f37a8ad3edc8598b01a6630217349571c181404feb97c580925045d8"
+	},
+	"telegram-admin-handle": {
+		"0": "lukenum"
+	}
+}

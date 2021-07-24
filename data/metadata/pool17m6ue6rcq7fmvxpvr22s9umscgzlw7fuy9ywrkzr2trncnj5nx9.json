@@ -1,0 +1,7 @@
+{
+	"name": "Finanovate ADA Staking Pool",
+	"ticker": "FIADA",
+	"description": "Pool operated by finanovate.com",
+	"homepage": "https://ada.finanovate.com",
+	"extended": "https://ada.finanovate.com/extended.json"
+}

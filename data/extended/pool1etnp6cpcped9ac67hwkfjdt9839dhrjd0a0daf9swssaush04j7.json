@@ -1,0 +1,25 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://trackyour.finance/static/img/64x64.png",
+		"url_png_logo": "https://trackyour.finance/static/img/200x200.png",
+		"location": "Kyiv, Ukraine",
+		"social": {
+			"twitter_handle": "trackyour_fin",
+			"telegram_handle": "trackyourfinance",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "cae61d60380e5a5ee35ebbac9935653c4adb8e4d7f5edea4b07421de"
+	},
+	"when-satured-then-recommend": {
+		"0": "cae61d60380e5a5ee35ebbac9935653c4adb8e4d7f5edea4b07421de"
+	},
+	"telegram-admin-handle": {
+		"0": "Malysh3v"
+	}
+}

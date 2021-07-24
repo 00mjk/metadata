@@ -1,0 +1,15 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://mystakingpool.com/images/logo/logo64.png",
+		"url_png_logo": "https://mystakingpool.com/images/logo/logo.png",
+		"about": {
+			"server": "MyStakingPool.com is an independent and sustainable cardano stake pool."
+		}
+	},
+	"my-pool-ids": [
+		"d22bd5db44ecbd7364c3fdc892e90b32e11b4a147404c36c0f0f5d13"
+	],
+	"when-satured-then-recommend": [
+		"d22bd5db44ecbd7364c3fdc892e90b32e11b4a147404c36c0f0f5d13"
+	]
+}

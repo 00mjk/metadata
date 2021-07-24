@@ -1,0 +1,7 @@
+{
+	"name": "Swell Pool",
+	"description": "We are dedicated to offering reliable staking services at a low margin.",
+	"ticker": "SWELL",
+	"homepage": "https://swell-pool.com",
+	"extended": "https://raw.githubusercontent.com/swell-pool/node/main/poolMetaExtended.json"
+}

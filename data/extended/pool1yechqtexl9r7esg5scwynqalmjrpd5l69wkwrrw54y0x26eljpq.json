@@ -1,0 +1,21 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://icryp.net/android-icon-72x72.png",
+		"url_png_logo": "https://icryp.net/apple-icon.png",
+		"location": "Jakarta, Indonesia",
+		"social": {
+			"twitter_handle": "icrypnet",
+			"telegram_handle": "icrypnet",
+			"facebook_handle": "icryp.net",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"about": {
+			"me": "My name is Dan, I'm from Indonesia. I love new tech, reading, and Linux",
+			"server": "IBM X3650 with Dual Xeon, 32GB Memory, 512GB SSD.",
+			"company": "AWESOMENESS LLC."
+		}
+	}
+}

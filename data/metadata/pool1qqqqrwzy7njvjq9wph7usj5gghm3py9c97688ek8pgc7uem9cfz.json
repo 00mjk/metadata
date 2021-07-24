@@ -1,0 +1,7 @@
+{
+	"name": "ADAfrog 2 🐸",
+	"description": "ADAfrog is an Adosia pool - FROG supports Adosia development efforts to tokenize on Cardano",
+	"ticker": "FROG2",
+	"homepage": "https://adafrog.io",
+	"extended": "https://raw.githubusercontent.com/adosiawolf/m/master/nx.json"
+}

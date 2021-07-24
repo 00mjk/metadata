@@ -1,0 +1,47 @@
+{
+	"adapools_verification": "acdcc0c8ce667608fe537000814aa640",
+	"info": {
+		"url_png_icon_64x64": "https://stoicpool.com/wp-content/uploads/2020/09/Copy-of-STOIC-Pool-Logo.png",
+		"url_png_logo": "https://stoicpool.com/wp-content/uploads/2020/09/STOIC-Pool-Logo.png",
+		"location": "London, England",
+		"social": {
+			"twitter_handle": "StoicPool",
+			"telegram_handle": "StoicPool",
+			"facebook_handle": "",
+			"youtube_handle": "Stoic Pool",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"about": {
+			"me": "Stoic Pool - Vice & Virtue",
+			"server": "Hosted at my Home in London 100% Uptime"
+		},
+		"rss": "http(s) url to valid RSS feed"
+	},
+	"my-pool-ids": {
+		"0": "099d512b6ffedd552ae38a9ae2123c116b1d20e1f01bb42a1f539fba"
+	},
+	"telegram-admin-handle": {
+		"0": "StoicPool"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "relay 1 eu",
+				"type": "relay",
+				"key": "05a28eab23003013613d6aeaf818bcca"
+			},
+			"1": {
+				"name": "relay 2 eu",
+				"type": "relay",
+				"key": "6ca27e03b8bb14e0512d8e8319cf85f6"
+			},
+			"2": {
+				"name": "block producer home",
+				"type": "bp",
+				"key": "5611dea364b308056a76e942eb1b7b3e"
+			}
+		}
+	}
+}

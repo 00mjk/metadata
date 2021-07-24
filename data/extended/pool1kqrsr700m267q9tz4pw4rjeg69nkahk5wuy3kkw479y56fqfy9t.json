@@ -1,0 +1,25 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://github.com/strikepool-cardano/strike-pool/blob/main/StrikePool.png?raw=true",
+		"url_png_logo": "https://github.com/strikepool-cardano/strike-pool/blob/main/strikepoolbanner.jpg?raw=true",
+		"location": "Ljubljana, Slovenia",
+		"social": {
+			"twitter_handle": "stakestrike",
+			"telegram_handle": "cardanostrikepool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"discord_handle": "gxyqUVUK25"
+		},
+		"about": {
+			"me": "A 24/7 stake pool ran by two cardano enthusiasts. Feel free to ask us any questions on our social media!",
+			"server": "Block producer is running on a Contabo VPS cloud instance. We will be running 2 relay nodes soon on seperate locations for redundancy. We guarantee a 99.9% uptime with 200Mb/s internet."
+		}
+	},
+	"my-pool-ids": {
+		"0": "pool1kqrsr700m267q9tz4pw4rjeg69nkahk5wuy3kkw479y56fqfy9t"
+	},
+	"telegram-admin-handle": {
+		"0": "cardano_strike_pool",
+		"1": "bureksasir123"
+	}
+}

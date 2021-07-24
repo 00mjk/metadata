@@ -1,0 +1,7 @@
+{
+	"name": "Da VINCI pool",
+	"description": "Powered by VINCE pool",
+	"ticker": "VINCI",
+	"homepage": "https://www.vincepool.com",
+	"extended": "https://www.vincepool.com/extended_vinci.json"
+}

@@ -1,0 +1,43 @@
+{
+	"itn": {
+		"owner": "ed25519_pk1y9z582ksxrnkp0scgvjh29jytqestde4aqde2r8xmv9kezfzhnqsm2jvrk",
+		"witness": "ed25519_sig12z7e6cdt75expvtmjxmrk4dsx7v2n39gpwz48lrxs0n53l0ph6g934vu4sx67wr2uh8688rvsvtdqa5v4g9xtc9tzfx54sn26qs0upg2ztrgd"
+	},
+	"info": {
+		"url_png_icon_64x64": "https://bekindstakepools.online/Coin_Ada.png",
+		"url_png_logo": "https://bekindstakepools.online/bg.png",
+		"location": "The Netherlands, Europe",
+		"social": {
+			"twitter_handle": "gertjanBKIND",
+			"telegram_handle": "gs_tgg_sso",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "BeKind (BKIND) is dedicated to Cardano and its delegators, resulting in high ROI for investors.",
+			"server": "Four HP Proliant Microservers, Redundant configuration, Hardware firewalls, Fiber lines, Solar powered.",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"telegram-admin-handle": {
+		"0": "gs_tg_sso"
+	},
+	"my-pool-ids": {
+		"0": "d9e2d181dfe21ab2ca7e95847b9a219e691ee1366d22569712390655"
+	},
+	"when-satured-then-recommend": {
+		"0": "d9e2d181dfe21ab2ca7e95847b9a219e691ee1366d22569712390655"
+	}
+}

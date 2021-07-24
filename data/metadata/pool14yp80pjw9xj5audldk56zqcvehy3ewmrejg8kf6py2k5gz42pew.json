@@ -1,0 +1,8 @@
+{
+	"name": "AMPERE POOL",
+	"ticker": "AMP",
+	"description": "The ampere is the constant current producing force.",
+	"homepage": "https://amperepool.com",
+	"nonce": "1613315634",
+	"extended": "https://raw.githubusercontent.com/amperep/1/main/amperemetaextended.json"
+}

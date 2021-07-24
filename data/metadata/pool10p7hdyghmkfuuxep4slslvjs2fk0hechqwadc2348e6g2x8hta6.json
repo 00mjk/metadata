@@ -1,0 +1,6 @@
+{
+	"name": "StandardBlockProducer",
+	"description": "A standard block producer",
+	"ticker": "SBPIO",
+	"homepage": "https://cardanostakepoolops.github.io"
+}

@@ -1,0 +1,43 @@
+{
+	"itn": {
+		"owner": "ed25519_pk1jx7nn36qv6vek8x84prd5atdya2cx3l760uq4jph9pt6ynfkfrzq70p0d8",
+		"witness": "ed25519_sig1ml2nuz35522wmwa2j84rxmh2urtjv45trmh6hv26flcqxscfutjuc4xyn5jkmtvsra38yu49anxpvnvsn8uupt20tqmautxxwvmgurs37mjj0"
+	},
+	"info": {
+		"url_png_icon_64x64": "https://www.stakepool247.eu/metadata/sp247-64x64.png",
+		"url_png_logo": "",
+		"location": "Latvia, Europe",
+		"social": {
+			"twitter_handle": "stakepool247",
+			"telegram_handle": "stakepool247",
+			"facebook_handle": "",
+			"youtube_handle": "stakepool247",
+			"twitch_handle": "",
+			"discord_handle": "stakepool247",
+			"github_handle": "stakepool247"
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Hi, I'm Lauris (@StakePool247) from Latvia. I have been with Cardano Project since 2018 and was running this pool already on the ITN testnet. I'm a member of the 'Friends & Family' group as well as a board member of SPOCRA. I believe that Cardano will have a huge impact on the blockchain industry.",
+			"server": "We use state of the art data centers to keep the pools and relays running 24/7 with a focus on security and monitoring to prevent any downtime.",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"telegram-admin-handle": [
+		"stakepool247"
+	],
+	"my-pool-ids": [
+		"76e80e1b3f622c7051f222453497b0667e12892f5d94ee565d17dc52"
+	],
+	"when-satured-then-recommend": [
+		"76e80e1b3f622c7051f222453497b0667e12892f5d94ee565d17dc52"
+	]
+}

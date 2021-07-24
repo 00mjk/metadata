@@ -1,0 +1,7 @@
+{
+	"name": "EZStaking.io",
+	"description": "EZStaking.io Cardano Pool",
+	"ticker": "XEZ",
+	"homepage": "https://www.ezstaking.io",
+	"extended": "https://www.ezstaking.io/cardano/poolMetadata-extended.json"
+}

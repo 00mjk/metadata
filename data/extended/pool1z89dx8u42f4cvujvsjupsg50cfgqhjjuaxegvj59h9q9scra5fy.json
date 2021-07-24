@@ -1,0 +1,61 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/CO2-Pool/Website/master/logo.png",
+		"url_png_logo": "https://raw.githubusercontent.com/CO2-Pool/Website/master/logobig.png",
+		"location": "Göttingen, Germany",
+		"social": {
+			"twitter_handle": "@Co2Pool",
+			"telegram_handle": "co2pgroup",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "8811",
+			"github_handle": "CO2-Pool"
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "We are a Cardano stakepool that cares about climate change. Therefore we donate half of our margin fees (2.3%) to climate protection initiatives. If you want to learn more about us and our goals, visit our website: https://co2pool.com/ | Wir sind ein Cardano Stake Pool dem Umweltschutz am Herzen liegt. Deswegen spenden wir die Hälfte unserer Pool Gebühr (2,3%) an Klimaschutzinitiativen. Wenn ihr mehr über uns erfahren wollt schaut gerne mal auf unserer Webseite vorbei: https://co2pool.de/",
+			"server": "Fast Servers running with 100% green energy. Located in Germany | Schnelle Server die mit 100% erneuerbarer Energie betrieben sind. Mit Standtort in Deutschland",
+			"company": ""
+		},
+		"rss": "http(s) url to valid RSS feed"
+	},
+	"my-pool-ids": {
+		"0": "11cad31f95526b86724c84b818228fc2500bca5ce9b2864a85b94058",
+		"1": ""
+	},
+	"when-satured-then-recommend": {
+		"0": "",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": "CO2Pool"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "relay 1 eu",
+				"type": "relay",
+				"key": "example_get_own_on_adapools.org/connect"
+			},
+			"1": {
+				"name": "relay 2 usa",
+				"type": "relay",
+				"key": "example_get_own_on_adapools.org/connect"
+			},
+			"2": {
+				"name": "block producer home",
+				"type": "bp",
+				"key": "example_get_own_on_adapools.org/connect"
+			}
+		}
+	}
+}

@@ -1,0 +1,59 @@
+{
+	"info": {
+		"url_png_icon_64x64": "http://astorpool.net/img/favicon-univ.png",
+		"url_png_logo": "http://astorpool.net/img/astor-logo.png",
+		"location": "Bavaria, Germany",
+		"social": {
+			"twitter_handle": "AstorPool",
+			"_telegram_handle": "",
+			"_facebook_handle": "",
+			"_youtube_handle": "",
+			"_twitch_handle": "",
+			"discord_handle": "#8620",
+			"github_handle": "tdiesler/nessus-cardano"
+		},
+		"_company": {
+			"name": "Company Name",
+			"addr": "Street, Number",
+			"city": "London",
+			"country": "England",
+			"company_id": "123456789",
+			"vat_id": "GB123456789"
+		},
+		"about": {
+			"me": "ASTOR's main focus is to provide high quality multiarch Docker images. We donate 100% of the pool's margin to charity and reward loyal delegators through monthly dividends.",
+			"server": "Relay: Intel, 4 CPU, 8GB RAM, 200 Mbit/s, Docker. Block Producer: ARM64, 4 CPU, 8GB RAM, 200 Mbit/s, Docker.",
+			"_company": "..."
+		},
+		"_rss": "http(s) url to valid RSS feed"
+	},
+	"my-pool-ids": {
+		"0": "9e8009b249142d80144dfb681984e08d96d51c2085e8bb6d9d1831d2"
+	},
+	"_when-satured-then-recommend": {
+		"0": "",
+		"1": ""
+	},
+	"_telegram-admin-handle": {
+		"0": ""
+	},
+	"_adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "relay 1 eu",
+				"type": "relay",
+				"key": "example_get_own_on_adapools.org/connect"
+			},
+			"1": {
+				"name": "relay 2 usa",
+				"type": "relay",
+				"key": "example_get_own_on_adapools.org/connect"
+			},
+			"2": {
+				"name": "block producer home",
+				"type": "bp",
+				"key": "example_get_own_on_adapools.org/connect"
+			}
+		}
+	}
+}

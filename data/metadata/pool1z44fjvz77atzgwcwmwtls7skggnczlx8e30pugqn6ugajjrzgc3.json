@@ -1,0 +1,7 @@
+{
+	"name": "Pea Farm",
+	"ticker": "PEA",
+	"description": "Stake Farming on Cardano. https://peafarm.io",
+	"homepage": "https://peafarm.io",
+	"extended": "https://peafarm.io/poolmetaextended.json"
+}

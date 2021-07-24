@@ -1,0 +1,13 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://get-ada.net/wp-content/uploads/2021/04/three-wise-monkey_10316-49-1-e1618136910205.png",
+		"url_png_logo": "https://get-ada.net/wp-content/uploads/2021/04/three-wise-monkey_10316-49-e1618136576242.png",
+		"location": "Switzerland"
+	},
+	"my-pool-ids": {
+		"0": "0f8c53d63eecfc1d63d24944db35f9b6dcff7815ec7111c7fd1186fc"
+	},
+	"when-satured-then-recommend": {
+		"0": "0f8c53d63eecfc1d63d24944db35f9b6dcff7815ec7111c7fd1186fc"
+	}
+}

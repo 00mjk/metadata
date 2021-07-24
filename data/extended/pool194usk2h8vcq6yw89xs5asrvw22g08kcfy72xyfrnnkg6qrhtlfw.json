@@ -1,0 +1,20 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://blockngine.io/ada/64x64.png",
+		"url_png_logo": "https://blockngine.io/ada/blockengine-full.jpg",
+		"location": "London, England",
+		"social": {
+			"twitter_handle": "BlockNgine",
+			"telegram_handle": "BlockNgine"
+		},
+		"about": {
+			"server": "Low-fee | Secure | Reliable stake pools backed by enterprise-grade infrastructure powered by Infrastructure-as-Code technology which is a self-healing; auto-scaling; anti-fragile cluster which can self-repair and automatically grow with demand."
+		}
+	},
+	"my-pool-ids": {
+		"0": "2d790b2ae76601a238e53429d80d8e5290f3db0927946224739d91a0"
+	},
+	"when-satured-then-recommend": {
+		"0": "2656fab6a4b043ede4fcc2a46523e6198e7b2cbcbed9a966fe35b6be"
+	}
+}

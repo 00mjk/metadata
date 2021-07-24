@@ -1,0 +1,15 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://lungurazvan.ro/cardano/icon_toshz_64.png",
+		"url_png_logo": "https://lungurazvan.ro/cardano/toshz_logo_512.png",
+		"location": "Bucharest, Romania",
+		"social": {
+			"telegram_handle": "toshz",
+			"facebook_handle": "cardanotoshz"
+		},
+		"about": {
+			"me": "25+ years of messing around with computers. 10+ years of working as a web developer. 5+ years of photography.",
+			"server": "Mix of Cloud Computing and bare metal relays."
+		}
+	}
+}

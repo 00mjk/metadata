@@ -1,0 +1,28 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/arnonmstyh/ada-th/main/logo1.png",
+		"url_png_logo": "https://raw.githubusercontent.com/arnonmstyh/ada-th/main/logo2.png",
+		"location": "BKK, Thailand",
+		"social": {
+			"twitter_handle": "ADAThPool",
+			"telegram_handle": "adathailand",
+			"facebook_handle": "groups/adathailand",
+			"youtube_handle": "ADATHAILAND",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "ADA Thailand Pool"
+		},
+		"about": {
+			"me": "ADATH, ADA Thailand group",
+			"server": "1-BP Single pool operation(TH) and 2-Relay (ASIA ,SG) running on Ubuntu 20.04 LTS Server each CPU:2cores RAM:16GB SSD:128GB High bandwidth  - High restrict firewall and hardening security rules and DDoS Protection with Microsoft Google Cloud",
+			"company": "15% of pool fees will be used to support homeless animal donate societys,Contant and Cardano Ecosystem Projects. ADA Thailand community group for make good and kindly all life society in the world we trust cardano😊"
+		}
+	},
+	"my-pool-ids": {
+		"0": "pool139ffqrvyqu9sgsekk3pu9t7jxx872w655vses7d4q4sxxyd257a",
+		"1": "8952900d84070b044336b443c2afd2318fe53b54a3219879b5056063"
+	}
+}

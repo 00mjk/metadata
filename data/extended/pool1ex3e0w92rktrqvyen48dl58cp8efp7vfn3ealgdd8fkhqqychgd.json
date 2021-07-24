@@ -1,0 +1,15 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://adasquirrel.com/meta/logo_ico.png",
+		"url_png_logo": "https://adasquirrel.com/meta/logo_stake.png",
+		"location": "Pompei, Italy",
+		"social": {
+			"twitter_handle": "AdaSquirrel",
+			"telegram_handle": "Adasquirrel",
+			"facebook_handle": "Adasquirrel"
+		},
+		"my-pool-ids": {
+			"0": "c9a397b8aa1d963030999d4edfd0f809f290f9899c73dfa1ad3a6d70"
+		}
+	}
+}

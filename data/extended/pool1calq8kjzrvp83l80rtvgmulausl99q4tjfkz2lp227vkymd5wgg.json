@@ -1,0 +1,48 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://odin.baselinux.net/icon_ship.png",
+		"url_png_logo": "https://odin.baselinux.net/icon_ship_small.png",
+		"location": "Germany",
+		"social": {
+			"twitter_handle": "@ODIN_StakePool",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"about": {
+			"me": "Operated by an experienced system administrator and software developer, with many years of experience in blockchain technology and Linux server management.  The Operator and most of the servers are located in northern Europe. Meanwhile Odin is of course keeping an watchful eye on the whole operation from Valhalla. Follow us on twitter for the latest news about the pool.",
+			"server": "The pool is running on several powerful VPSes (Virtual Private Servers) located in professional data centers, all with redundant internet connections and backup power. The servers are spread over several data centers for increased safety and redundancy. See our web page for a more complete description of our setup.",
+			"company": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "c77e03da421b0278fcef1ad88df3fde43e5282ab926c257c2a579962"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "Block producer",
+				"type": "bp",
+				"key": "328e04a115dbe2bc956d30c11b8d7cd0"
+			},
+			"1": {
+				"name": "Relay #1",
+				"type": "relay",
+				"key": "0782319f3164f4922ce6c3d51d54a266"
+			},
+			"2": {
+				"name": "Relay #2",
+				"type": "relay",
+				"key": "640d0ee899755ea5c54e314419912cce"
+			},
+			"3": {
+				"name": "Relay #3",
+				"type": "relay",
+				"key": "833ff38e4f0949a291d8b02c217ac17b"
+			}
+		}
+	}
+}

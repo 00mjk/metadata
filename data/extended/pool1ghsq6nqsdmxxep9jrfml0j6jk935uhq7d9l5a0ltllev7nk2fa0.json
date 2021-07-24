@@ -1,0 +1,28 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.plotcardano.com/images/logo_64.png",
+		"url_png_logo": "https://www.plotcardano.com/images/logo.png",
+		"location": "Seattle, USA",
+		"social": {
+			"twitter_handle": "plotcardano",
+			"telegram_handle": "plotcardano",
+			"facebook_handle": "Plot-Cardano-Stake-pool-103749598506160",
+			"youtube_handle": "UCMJHRgaMgUwnxjRIYmk4kfA",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "bemnet4u"
+		},
+		"about": {
+			"me": "We are group of Seattle based software developers and IT professionals.",
+			"server": "Professionally managed in cloud datacenters.",
+			"company": "PLOT Cardano"
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "45e00d4c106ecc6c84b21a77f7cb52b1634e5c1e697f4ebfebfff2cf"
+	},
+	"telegram-admin-handle": {
+		"0": "plotcardano_seattledev"
+	}
+}

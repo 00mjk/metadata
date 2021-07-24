@@ -1,0 +1,16 @@
+{
+	"adapools": {
+		"url_png_icon_64x64": "http://triton-pool.net/pic/Triton_sm64.png",
+		"url_png_logo": "http://triton-pool.net/pic/Triton_logo_sm.jpg",
+		"about": {
+			"me": "This pool is operated by experienced IT people with mostly sys-admin and database backgrounds and was established on 1st March 2021. It is set to provide reliable operation with lowest fees making your staking experience as seamless and rewarding as possible. Same as Triton, the mythical god of all seas, we also plan to span the oceans by adding Africa and South America to our current three locations in EU, US and Asia to contribute to the Cardano network stability and to improve our block propagation within the network. ",
+			"server": "Cloud based, multiple locations"
+		}
+	},
+	"my-pool-ids": [
+		"3c3784c2477fbb805d60661cbf4fa472fdd6d3cface961cb26e31733"
+	],
+	"when-satured-then-recommend": [
+		"3c3784c2477fbb805d60661cbf4fa472fdd6d3cface961cb26e31733"
+	]
+}

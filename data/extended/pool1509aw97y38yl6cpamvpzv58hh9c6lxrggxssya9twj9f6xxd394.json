@@ -1,0 +1,33 @@
+{
+	"info": {
+		"url_png_icon_64x64": "",
+		"url_png_logo": "",
+		"location": "Hong Kong",
+		"social": {
+			"twitter_handle": "HKBeyondr",
+			"telegram_handle": "",
+			"facebook_handle": "HKBeyondr",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "Hong Kong",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": ""
+		},
+		"my-pool-ids": {
+			"0": "pool1509aw97y38yl6cpamvpzv58hh9c6lxrggxssya9twj9f6xxd394",
+			"1": ""
+		}
+	}
+}

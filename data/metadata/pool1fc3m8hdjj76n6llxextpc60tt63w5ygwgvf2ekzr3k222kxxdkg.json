@@ -1,0 +1,7 @@
+{
+	"name": "Bunny Pool",
+	"description": "It keeps going and going and going and ... well maybe not but bunnies still rock!",
+	"ticker": "BUNNY",
+	"homepage": "https://bunniesrock.io",
+	"extended": "https://raw.githubusercontent.com/adosiawolf/m/master/bx.json"
+}

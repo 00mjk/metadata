@@ -1,0 +1,40 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://solia.inmanencia.org/meta/solia_pool_icon.png",
+		"url_png_logo": "https://solia.inmanencia.org/meta/solia_pool_logo.png",
+		"location": "Paris, France",
+		"social": {
+			"twitter_handle": "PoolSolia",
+			"telegram_handle": "Soliapool",
+			"facebook_handle": "",
+			"youtube_handle": "UCL4TPvTZr5J5quSIEtu4pVg",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "Paris",
+			"country": "France",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "IT Experts with around 20 years, by the community for the community",
+			"server": "2 VPS 8 VCore 16GB 400GB SSD FIBER",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": [
+		"eeb180952144eaf1aa5ff27a19322a5560e027ca1510bae10ec2e76a"
+	],
+	"when-satured-then-recommend": [
+		"fb2ef0b6933e23890ae8ca4a4d3137f61991aab76b33a2426e0f6aa2",
+		"96553a437b99271fdcaa30c279e432224342e88147741db73872f03c"
+	],
+	"telegram-admin-handle": [
+		"Soliapool"
+	]
+}

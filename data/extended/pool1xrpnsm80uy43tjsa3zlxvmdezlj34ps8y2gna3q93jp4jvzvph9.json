@@ -1,0 +1,11 @@
+{
+	"adapools": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/poolhash/meta/main/64.png",
+		"url_png_logo": "https://raw.githubusercontent.com/poolhash/meta/main/logo.png",
+		"social": {
+			"twitter_handle": "hashoshi4",
+			"telegram_handle": "hashoshi4",
+			"youtube_handle": "hashoshi4"
+		}
+	}
+}

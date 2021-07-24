@@ -1,0 +1,36 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://ada-swing.net/icon64.png",
+		"url_png_logo": "https://ada-swing.net/icon.png",
+		"location": "Madrid, Spain",
+		"social": {
+			"twitter_handle": "AdaSwing",
+			"telegram_handle": "adaswing",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "Madrid",
+			"country": "Spain",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Passionate and experienced SPO contributing to the decentralization, scalability and security of the Cardano blockchain ",
+			"server": "Geographically distributed relays (EU/USA), high availability 24/7/365 running on bare-metal servers",
+			"company": "Single stake pool operator"
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "0f2a5e0daf7812510b28b8ed07c56c8084c1b459c3b552f5146b9aff"
+	},
+	"telegram-admin-handle": {
+		"0": "@xivaj"
+	}
+}

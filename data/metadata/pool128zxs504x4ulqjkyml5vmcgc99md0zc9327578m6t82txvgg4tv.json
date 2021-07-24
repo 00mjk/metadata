@@ -1,0 +1,7 @@
+{
+	"name": "Capybara Stake Pool",
+	"description": "Mission driven pool. We want to contribute with the decentralization by keeping a single pool and donate part of our profits to South American NGOs.",
+	"ticker": "CAPYB",
+	"homepage": "https://capybara-pool.org/",
+	"extended": "https://raw.githubusercontent.com/wfelipe/capyb-pool/master/poolMetadataExtended.json"
+}

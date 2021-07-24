@@ -1,0 +1,14 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://pools-united.github.io/pools/PROTO/assets/proto_64.png",
+		"url_png_logo": "https://pools-united.github.io/pools/PROTO/assets/proto_logo.png",
+		"social": {
+			"twitter_handle": "Proto_Pool",
+			"telegram_handle": "cpoolsunited",
+			"github_handle": "miha2010"
+		},
+		"about": {
+			"me": "I'm a React developer from Croatia. ICO investor and trader since 2015. Forever fascinated by blockchain, now playing a active role in Cardano community with a Proto Pool. Feel free to send me a message via LinkedIn: https://www.linkedin.com/in/mihovil-santek-9087a4170/"
+		}
+	}
+}

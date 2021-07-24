@@ -1,0 +1,23 @@
+{
+	"info": {
+		"location": "Düsseldorf, Germany",
+		"social": {
+			"twitter_handle": "CardanoBrain",
+			"telegram_handle": "",
+			"facebook_handle": "CardanoBrainpower",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"about": {}
+	},
+	"my-pool-ids": {
+		"0": "90caf0211fec868e9c295857ace58b184d314e564790c18279bef550",
+		"1": "348138a2f05c360a707358983bb2c6f0a4ba4b885c6109debbe4fa6b"
+	},
+	"when-satured-then-recommend": {
+		"0": "90caf0211fec868e9c295857ace58b184d314e564790c18279bef550",
+		"1": "348138a2f05c360a707358983bb2c6f0a4ba4b885c6109debbe4fa6b"
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://xreactx.github.io/XRX-logo.png",
+		"location": "Jacksonville, North Carolina",
+		"social": {
+			"twitter_handle": "vjrubens",
+			"telegram_handle": "xreactx",
+			"github_handle": "xreactx"
+		},
+		"about": {
+			"me": "My name is Vince Rubens, message me on telegram or twitter for more information about Reaction pool and where it's going.",
+			"server": "Reaction Pool runs on multiple secure DigitalOcean nodes."
+		}
+	}
+}

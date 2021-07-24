@@ -1,0 +1,24 @@
+{
+	"itn": {
+		"owner": "ed25519_pk1870t283g3e55h7czk47fhmvx9j0uxatrgvmp53tzmdr96fnsw06qmgamqu",
+		"witness": "ed25519_sig1z6q69u35mul9cufkj3fmsysj2z87mj8gdvprsyzjaftcnuap0ds3neykwdkky6tjy5jlk9x5cyptkt4tux792nd6ktu5r2fz992nvpssczqfp"
+	},
+	"adapools": {
+		"url_png_icon_64x64": "https://lunarpool.io/lunarpool_64x64.png",
+		"url_png_logo": "https://lunarpool.io/images/adapools_image.jpg",
+		"social": {
+			"twitter_handle": "lunarpool_io",
+			"telegram_handle": "lunarpool_io"
+		},
+		"about": {
+			"me": "Our Stake Pool Cluster was established in November 2019, couple of weeks before the ITN launch and named lunarpool.io, because most of the proposed names we were able to come up with were connected to space or directly to the Moon. Our pool is operated by a group of IT professionals with over 20 years of experience who started running it for fun, later like a challege they will not let go and finally fell in love with the Cardano project. We all quickly dived in, built a pool in testnet and prepared for the start of ITN in 2 weeks. Whole ITN, was a source of priceless experience. Our skills, luck and enthusiasm brought us more than 1000 blocks minted during ITN and super-high slot battle success ratio (TOP 50).",
+			"server": "Cloud based, Fully monitored for 24/7 availability, managed by IT professionals. lunarpool.io is a successful ITN network Stake Pool Operator with over 1000 blocks minted via pools [MOON9] and [MOON1]."
+		}
+	},
+	"my-pool-ids": [
+		"8253f8a94044070ddb196884eb3e912e9b6dca9a0e3210325a09a335"
+	],
+	"when-satured-then-recommend": [
+		"8253f8a94044070ddb196884eb3e912e9b6dca9a0e3210325a09a335"
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://gizmopool.com/icon.png",
+		"url_png_logo": "https://gizmopool.com/logo.png",
+		"location": "Jaipur, India",
+		"social": {
+			"twitter_handle": "GizmoPool_",
+			"telegram_handle": "GizmoPool",
+			"facebook_handle": "GizmoPool",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "5nnvD7pU",
+			"github_handle": "GizmoPool"
+		},
+		"about": {
+			"me": "Pankaj Jangid",
+			"server": "All Relays and BP running on dedicated server grade hardware with at least 16GB RAM."
+		}
+	},
+	"my-pool-ids": {
+		"0": "b8e25baf77c6387d155cc2f11b1ba4cc652c697e8eb4bf41755b311f"
+	},
+	"telegram-admin-handle": {
+		"0": "jangid"
+	}
+}

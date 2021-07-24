@@ -1,0 +1,21 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://user-images.githubusercontent.com/85638021/122804470-eb89bd00-d302-11eb-8670-213951220ac1.png",
+		"url_png_logo": "https://user-images.githubusercontent.com/85638021/122866242-95e4fd00-d362-11eb-9b66-d1bdf22fcabb.png",
+		"location": "Kyoto, Japan",
+		"social": {
+			"twitter_handle": "sakepool_ada"
+		},
+		"about": {
+			"me": "総額2,650₳プレゼントキャンペーン中 → https://bit.ly/3qgoxTe / We are running a total of ₳2,650 gift special deal → https://bit.ly/3jcR3Uo",
+			"server": "Relay: AWS 2core CPU / 8G memory /360G SSD, BP:AWS 2core CPU / 8G memory /360G SSD"
+		}
+	},
+	"my-pool-ids": {
+		"0": "37d2b23f574680a88198e99cc884b6cf9292ce3500467584cb5093f2"
+	},
+	"when-satured-then-recommend": {
+		"0": "788898a81174665316af96880459dcca053f7825abb1b0db9a433630"
+	},
+	"adapool": "fbf60bc913f391ea05ea9642c9013b1f"
+}

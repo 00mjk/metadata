@@ -1,0 +1,24 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/maximapool/pool/main/168034388_473672663776194_9195558102457403525_n.png",
+		"url_png_logo": "https://raw.githubusercontent.com/maximapool/pool/main/168847806_3028110407419434_1135397534138657277_n.png",
+		"location": "San Jose, CA",
+		"social": {
+			"twitter_handle": "MaximaPool",
+			"youtube_handle": "channel/UC3dfRkURDGy2nrJnd2DnnNA"
+		},
+		"company": {
+			"name": "Maxima Pool"
+		},
+		"about": {
+			"me": "...",
+			"server": "Frankfurt and Santa Clara based servers."
+		}
+	},
+	"my-pool-ids": {
+		"0": "67811343a5e5722eae70e4f8471f55d27114c192970bda1a278d1bae"
+	},
+	"telegram-admin-handle": {
+		"0": "long_only"
+	}
+}

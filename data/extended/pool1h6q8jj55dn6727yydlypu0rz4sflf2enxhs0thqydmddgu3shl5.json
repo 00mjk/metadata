@@ -1,0 +1,23 @@
+{
+	"info": {
+		"url_png_icon_64x64": "http://info.hazelpool.com/icon.png",
+		"url_png_logo": "http://info.hazelpool.com/logo.png",
+		"location": "Germany + Finland",
+		"social": {
+			"twitter_handle": "NilsCodes",
+			"telegram_handle": "nilscodes",
+			"youtube_handle": "Oerlien",
+			"twitch_handle": "NilsCodes"
+		},
+		"about": {
+			"me": "We are experienced cat/kitten foster parents, animal shelter supporters and have been active in the tech industry since 1998. ",
+			"server": "Hetzner.de - Bare-Metal hosted in Germany/Finland"
+		}
+	},
+	"my-pool-ids": {
+		"0": "be80794a946cf5e578846fc81e3c62ac13f4ab3335e0f5dc046edad4"
+	},
+	"telegram-admin-handle": {
+		"0": "nilscodes"
+	}
+}

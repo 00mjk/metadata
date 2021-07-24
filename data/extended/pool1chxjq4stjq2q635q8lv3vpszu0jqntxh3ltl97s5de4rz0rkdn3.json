@@ -1,0 +1,38 @@
+{
+	"info": {
+		"url_png_icon_64x64": "",
+		"url_png_logo": "",
+		"location": "",
+		"social": {
+			"twitter_handle": "cortexpool_io",
+			"telegram_handle": "cortexpool_io",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "Main node running on a bare metal server powered by renewable energy. 2 relays hosted on the Amazon cloud.",
+			"company": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "c5cd20560b90140d46803fd9160602e3e409acd78fd7f2fa146e6a31"
+	},
+	"when-satured-then-recommend": {
+		"0": ""
+	},
+	"telegram-admin-handle": {
+		"0": "antoncrtx"
+	}
+}

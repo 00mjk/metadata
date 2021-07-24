@@ -1,0 +1,38 @@
+{
+	"info": {
+		"url_png_icon_64x64": "",
+		"url_png_logo": "https://nasec.co.uk/pool_logo.png",
+		"location": "London, United Kingdom",
+		"social": {
+			"twitter_handle": "NASECstakepool",
+			"youtube_handle": "channel/UCv-eePQ0EpSV-jf-nJUPeeA"
+		},
+		"company": {
+			"name": "NASEC"
+		},
+		"about": {
+			"me": "Operated by two systems engineers providing educational Cardano content.",
+			"server": "Hosted in a data centre in the UK, always online. Margin 0.01."
+		}
+	},
+	"my-pool-ids": {
+		"0": "aa8b94010cd3c7199be1d619079c184a59e6f1ad930926bc2bd38579"
+	},
+	"when-satured-then-recommend": {
+		"0": "b8d2cf0a94b576a06917cef94d0e22b3bcd5d1cda1ba4a11deecfc1f",
+		"1": "bdc9e0311857f72fb9071689d46bc4913e307085ba0ce25d018532ff"
+	},
+	"votes": {
+		"https://spovotes.com/votes/change-min-fixed-fee-to-variable/": {
+			"vote": "Yes",
+			"comment": "Small pools cannot compete when put at such a massive disadvantage. Encourage decentralisation!"
+		},
+		"https://spovotes.com/votes/reduce-min-fee/": {
+			"vote": "No",
+			"comment": "The cost of people's time should be accounted for."
+		},
+		"https://spovotes.com/votes/remove-min-fee/": {
+			"vote": "No"
+		}
+	}
+}

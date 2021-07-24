@@ -1,0 +1,33 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://images.squarespace-cdn.com/content/v1/60d201216b25286932395c89/1d18c0d8-9b00-4dd7-96e4-6b3159477af7/favicon.ico?format=100w",
+		"url_png_logo": "https://images.squarespace-cdn.com/content/v1/60d201216b25286932395c89/1624375850919-YE9OAY03N0J0X0EMRC7R/Blue+Gold+Gavel+Attorney+%26+Law+Logo+%281%29.png?format=1500w",
+		"location": "Atlanta, USA",
+		"social": {
+			"twitter_handle": "abobolaispool",
+			"reddit_handle": "abobolaispool",
+			"telegram_handle": "abobolaispool"
+		},
+		"about": {
+			"me": "We are Reliable, Secure, and High performance staking nodes for providing maximum returns for long term ADA investors and Holders.With Abobolais Pool we will grow and secure Cardano Network Together. Check us out at http://abobolaispool.com",
+			"server": "As a Single-pool Stake Pool Operator , I am aiming for Cardano Decentralization and The Growth of the community"
+		}
+	},
+	"my-pool-ids": {
+		"0": "ba27c7f34b8e0233ff7aaabb07974725fa2dd12805e879f90f68b05c"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": " Clifton Relay",
+				"type": "relay",
+				"key": ""
+			},
+			"1": {
+				"name": "Santa Clara Relay",
+				"type": "relay",
+				"key": ""
+			}
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"info": {
+		"url_png_icon_64x64": "",
+		"url_png_logo": "https://sapiopool.com/wp-content/uploads/2020/12/cropped-Logo_owl4.png",
+		"location": "Greece",
+		"social": {
+			"twitter_handle": "sapiopool",
+			"telegram_handle": "Sapiopoolglobal"
+		},
+		"company": {
+			"name": "SAPIO"
+		},
+		"about": {
+			"me": "Greek Stake Pool. Operated by Greek Systems Engineers.",
+			"server": "Multinationally resilient relays. Professionally run. Secure."
+		}
+	},
+	"my-pool-ids": {
+		"0": "pool1c0xj2fa97zuz4phld87atg6yphz3hju409fm5xgnwuuvqww25qj"
+	}
+}

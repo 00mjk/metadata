@@ -1,0 +1,36 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.stakemyada.net/pool/logo_wx64.png",
+		"url_png_logo": "https://www.stakemyada.net/pool/logo_yzz_icon.png",
+		"location": "Upton, MA, USA",
+		"social": {
+			"twitter_handle": "LegaSystems",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"LinkedIN_page": "https://www.linkedin.com/showcase/cardano-stake-pool-lega",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "LEGASystems",
+			"addr": "admin@StakeMyADA.net",
+			"city": "Headquartered in Upton, MA",
+			"country": "United States",
+			"company_id": "LegaSystems",
+			"Phone": "+18555342797"
+		},
+		"about": {
+			"me": "LegaSystems USA Cardano Stake pool - LEGA - Come stake with us! I hold a biweekly delegators call where we discuss market trends, rewards and pool metric. E-mail me for an invite",
+			"server": "Hybrid server infrastructure distributed throughout the world.",
+			"company": "LegaSystems Follow us on LinkedIn https://www.linkedin.com/showcase/cardano-stake-pool-lega/"
+		},
+		"rss": "https://www.stakemyada.net/pool/feed.html"
+	},
+	"my-pool-ids": {
+		"0": "22e020d0ea6ecbca727ade58b2e048c4f80ba7ee48cbf257960e418e"
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	}
+}

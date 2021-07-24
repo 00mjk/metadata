@@ -1,0 +1,19 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/Zebra-Danio/meta/main/icon64.png",
+		"url_png_logo": "https://raw.githubusercontent.com/Zebra-Danio/meta/main/logo.png",
+		"location": "London, UK",
+		"social": {
+			"twitter_handle": "Armadillo_Pool",
+			"discord_handle": "Zebra Danio#2501",
+			"github_handle": "Zebra-Danio"
+		},
+		"my-pool-ids": {
+			"0": "2730ca79a60b3b3f29b709bd39c21d66cb2c83e5441c479f755d0a3d"
+		},
+		"when-satured-then-recommend": {
+			"0": "c825168836c5bf850dec38567eb4771c2e03eea28658ff291df768ae",
+			"1": "2a748e3885f6f73320ad16a8331247b81fe01b8d39f57eec9caa5091"
+		}
+	}
+}

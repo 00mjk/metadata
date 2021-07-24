@@ -1,0 +1,16 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://earnestpool.github.io/EarnestPool.png",
+		"url_png_logo": "https://earnestpool.github.io/EarnestPool.png",
+		"location": "Montreal, Canada",
+		"social": {
+			"twitter_handle": "PoolEarnest",
+			"github_handle": "EarnestPool"
+		},
+		"about": {
+			"me": "One of us is a McGill University Computer Science final year student with a Masters in Linguistics and Translation and another stake pool owner is an aspiring Engineer!",
+			"server": "Running two servers that have all of the recommended processing power ",
+			"company": "McGill University, Concordia University in Montreal!"
+		}
+	}
+}

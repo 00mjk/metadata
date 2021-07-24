@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://luv1stakepool.decryptcrypto.me/icon.png",
+		"url_png_logo": "https://luv1stakepool.decryptcrypto.me/logo.png",
+		"location": "United States",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "decryptcrypto",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": ""
+		},
+		"rss": "http(s) url to valid RSS feed"
+	},
+	"telegram-admin-handle": [
+		""
+	],
+	"my-pool-ids": [
+		"a56d74c1b0504c2cf6565fcf1a6e4a3a5b2c6d3fbaa428798e4f66bb"
+	],
+	"when-satured-then-recommend": [
+		"a56d74c1b0504c2cf6565fcf1a6e4a3a5b2c6d3fbaa428798e4f66bb"
+	]
+}

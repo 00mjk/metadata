@@ -1,0 +1,49 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://peterspace.de/wp-content/uploads/2021/03/Profil-quadratisch_weiss_miniicon_bg-Kopie.png",
+		"url_png_logo": "https://peterspace.de/wp-content/uploads/2021/03/Profil-quadratisch_weiss_miniicon_bg-Kopie.png",
+		"location": "Falkenstein, Germany",
+		"social": {
+			"twitter_handle": "wutzebaer1",
+			"telegram_handle": "wutzebaer",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Peter",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Hi i'm peter and i love technology so i was curious about running a staking pool. Every epoch i sit here and generate leader logs to predict when this pool is elected to mint a block to observe the pool operation in this timeframe with belt and braces.",
+			"server": "AMD Ryzen 5 3600 hexacore with 12 threads, 2 TB SSDs und 64 GB DDR4 RAM",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "3bd3996595321d951291b11e1331061c5d8659d9e69390536dfc922c"
+	},
+	"when-satured-then-recommend": {
+		"0": "aa1c56d0973268bd5b4758181e96971f51cf1c9c20fdfd95022b4ad3"
+	},
+	"telegram-admin-handle": {
+		"0": "wutzebaer"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "EURO Pool Core",
+				"type": "bp",
+				"key": "a7435d5c994fbf4a2d4f9598943f2d84"
+			}
+		}
+	}
+}

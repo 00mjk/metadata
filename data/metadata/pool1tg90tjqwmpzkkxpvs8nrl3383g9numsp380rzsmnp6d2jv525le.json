@@ -1,0 +1,16 @@
+{
+	"name": "TADAVN - TADA Pools Vietnam",
+	"description": "TADA Staking Pools. Please join our Telegram channel https://t.me/tadapools",
+	"ticker": "TADA",
+	"homepage": "https://adapools.asia/tadapools",
+	"info": {
+		"url_png_logo": "https://bit.ly/3dSHM0Z",
+		"social": {
+			"telegram_handle": "https://t.me/cardano247",
+			"youtube_handle": "http://bit.ly/2Oc2ga3"
+		},
+		"about": {
+			"server": "Dedicate Server(s), Dual Xeon Platform, 1Gbit backbone, 10Gbit upgrade possible, BackupServer(s), 365/24/7 monitoring."
+		}
+	}
+}

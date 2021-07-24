@@ -1,0 +1,44 @@
+{
+	"itn": {
+		"owner": "ed25519_pk19nly0cd0awsy7kvfh0xqetxf5a36qcjfknywxu3d2lymp0z7dsgqnlmydc",
+		"witness": "ed25519_sig1x2r8j75fhsh992g2jteqr7e25frkgwwa6j33062x0prsyu0r8zfuhhk3thgywn6zfztsvsc0yxazlelpl6mcgna3mx2cj6c3edmh7rsjdhz5d"
+	},
+	"info": {
+		"url_png_icon_64x64": "https://metadata.sunshinestakepool.com/pool-logo-64.png",
+		"url_png_logo": "https://metadata.sunshinestakepool.com/pool-logo.png",
+		"location": "USA",
+		"social": {
+			"twitter_handle": "sunnycardano",
+			"telegram_handle": "sunnycardano",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Thank you for choosing Sunshine Stake Pool! We are Verified Award Winning Veterans of the ITN and look forward to continuing to deliver the highest quality staking services at the most competitive rates!",
+			"server": "We are running 10 Cardano Nodes hosted on 5 Enterprise Grade VPS servers with dedicated cores and 24/7 monitoring and alerts.",
+			"company": ""
+		},
+		"rss": "f16bea837c192869cb73ee880865ddef "
+	},
+	"telegram-admin-handle": {
+		"0": "sunnycardano"
+	},
+	"my-pool-ids": {
+		"0": "2d10d9ee5a86c5cedb75cacd033a2945cfd80315eb978858244cec1c",
+		"1": "09d372205e474b745eeedd87aa86295cfdef9b85991ad640101756bc"
+	},
+	"when-satured-then-recommend": {
+		"0": "2d10d9ee5a86c5cedb75cacd033a2945cfd80315eb978858244cec1c"
+	}
+}

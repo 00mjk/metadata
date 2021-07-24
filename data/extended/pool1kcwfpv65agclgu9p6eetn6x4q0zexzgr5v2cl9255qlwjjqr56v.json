@@ -1,0 +1,25 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://ikarospool.files.wordpress.com/2021/01/transparent-logo-low-1-e1611399065586.png",
+		"url_png_logo": "https://ikarospool.files.wordpress.com/2021/01/grayscale-title-low-e1611360078324.png",
+		"location": "Greece",
+		"social": {
+			"twitter_handle": "IkarosPool",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"about": {
+			"me": "We are true believers of Cardano vision. We want to be part of the new era where transparency, equality and economic freedom will be the new normality. Our mission is to contribute to a fully decentralised blockchain network.",
+			"server": "",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "b61c90b354ea31f470a1d672b9e8d503c5930903a3158f9554a03ee9"
+	}
+}

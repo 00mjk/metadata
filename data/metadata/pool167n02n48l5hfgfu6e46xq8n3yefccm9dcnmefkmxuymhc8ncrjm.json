@@ -1,0 +1,7 @@
+{
+	"name": "StakeOps",
+	"description": "A platform for non-technical people to run their own stakepool",
+	"ticker": "OPS",
+	"homepage": "https://stakeops.com",
+	"extended": "https://meta.stakeops.com/extended.json"
+}

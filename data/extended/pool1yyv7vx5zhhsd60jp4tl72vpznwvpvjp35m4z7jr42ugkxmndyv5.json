@@ -1,0 +1,37 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://aztecstaking.com/img/serp_64x64.png",
+		"url_png_logo": "https://aztecstaking.com/img/serp_400x400.png",
+		"location": "Mexico & ATX",
+		"social": {
+			"twitter_handle": "AztecStaking",
+			"telegram_handle": "ToraM3",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "Mexico",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "I'm a SSE for a Fortune 30 Company contributing my skills and passion to see Cardano become the #1 Global Blockchain. Also, I have a toddler and newborn that are going to require a college fund ;)",
+			"server": "Each node and relay have 2 vCPUs, 16 GB memory, fault tolerant redundancy, hourly uptime checks, daily snapshots and DR playbooks. Processing, Storage and Memory can be instantly incremented as needed.",
+			"company": ""
+		}
+	},
+	"my-pool-ids": [
+		"2119e61a82bde0dd3e41aaffe530229b98164831a6ea2f4875571163"
+	],
+	"when-satured-then-recommend": [
+		"2119e61a82bde0dd3e41aaffe530229b98164831a6ea2f4875571163"
+	],
+	"telegram-admin-handle": [
+		"ToraM3"
+	]
+}

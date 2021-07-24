@@ -1,0 +1,20 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://pbs.twimg.com/profile_images/1395385509879369729/xZFy-wpc_400x400.jpg",
+		"location": "Wiltshire, UK",
+		"social": {
+			"twitter_handle": "ESGpool",
+			"github_handle": "ESGpool"
+		},
+		"about": {
+			"me": "Family farm business looking for a sustainable future",
+			"server": "Server  + Relays located in Germany (cloud) | To be updated to Bare Metal ASAP | CPU:4core|RAM:8G|SSD:200G"
+		},
+		"my-pool-ids": {
+			"0": "0089edb03016268a135babbbe8fb1f12f5789fc7718e67255bfbe570"
+		},
+		"when-satured-then-recommend": {
+			"0": "small pools - support decentralization"
+		}
+	}
+}

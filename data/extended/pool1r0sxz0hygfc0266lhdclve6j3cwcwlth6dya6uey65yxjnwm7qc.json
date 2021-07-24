@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://reservoir.network/sun64.png",
+		"url_png_logo": "",
+		"location": "",
+		"social": {
+			"twitter_handle": "RSVNODE",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Experienced system administrators running a stake pool and participating in Catalyst",
+			"server": "Bare metal servers distributed globally",
+			"company": "Our core infrastructure runs on 100% solar energy"
+		},
+		"rss": ""
+	},
+	"telegram-admin-handle": [
+		""
+	],
+	"my-pool-ids": [
+		""
+	],
+	"when-satured-then-recommend": [
+		""
+	]
+}

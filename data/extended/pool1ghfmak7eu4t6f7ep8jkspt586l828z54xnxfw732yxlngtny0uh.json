@@ -1,0 +1,21 @@
+{
+	"info": {
+		"url_png_logo": "https://stakenoble.com/images/noble_social_icon.png",
+		"location": "Dallas, Texas",
+		"social": {
+			"twitter_handle": "stakenoble",
+			"telegram_handle": "stakenoble",
+			"github_handle": "stakenoble-ben"
+		},
+		"about": {
+			"me": "Long time crypto enthusiast, dedicated to running 24/7 on the best network out there.",
+			"server": "Raspberry Pi Relays with higher performance x86 block producer. Hosted at home on 100% renewables."
+		}
+	},
+	"my-pool-ids": {
+		"0": "45d3bedbd9e557a4fb213cad00ae87d7cea38a9534cc977a2a21bf34"
+	},
+	"telegram-admin-handle": {
+		"0": "stakenoble"
+	}
+}

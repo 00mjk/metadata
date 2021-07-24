@@ -1,0 +1,8 @@
+{
+	"name": "SOLAR Raspberry PI",
+	"ticker": "SOLRP",
+	"description": "Our goal is to create a fully solar powered raspberry pi for cardano staking",
+	"homepage": "https://solarcardano.com/",
+	"nonce": "1623102206",
+	"extended": "https://solarcardano.com/ext_metadata.json"
+}

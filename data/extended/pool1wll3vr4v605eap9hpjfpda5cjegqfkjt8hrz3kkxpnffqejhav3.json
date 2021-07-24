@@ -1,0 +1,43 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://otakupool.com/img/icon_totoro_logo.png",
+		"url_png_logo": "https://otakupool.com/img/totoro_logo.png",
+		"location": "MX",
+		"social": {
+			"twitter_handle": "otaku_pool",
+			"telegram_handle": "Otaku_pool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Hi, my name is Jovany, Experienced Incentive Test Network (ITN) Operator, low fees, we take Cardano seriously and want to stay here for a long time.",
+			"server": "The infrastructure is based on 4 relays around the world. all with Google cloud. constant monitoring.",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	},
+	"my-pool-ids": {
+		"0": "77ff160eacd3e99e84b70c9216f698965004da4b3dc628dac60cd290"
+	},
+	"when-satured-then-recommend": {
+		"0": "70e483a5702e3907e4079113470209ceab93ad83070c84a62b20b350"
+	},
+	"itn": {
+		"owner": "ed25519_pk1v35nvrm3wvezp7f4qkz54h72vjkmlffafrszznyhp2g9cspqputq0hc4ar",
+		"witness": "ed25519_sig1xvqxlmlfczfxe2u06cs3e7g6veszu7qs6rd9sfav6yghz0ay0vxzpsca3062vptud0sjrlg4zjk352aq3npnp6zmfc63nu4x0gxpzqgvh99m2"
+	}
+}

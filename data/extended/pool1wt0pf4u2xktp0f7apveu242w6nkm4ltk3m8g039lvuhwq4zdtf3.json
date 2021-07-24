@@ -1,0 +1,58 @@
+{
+	"info": {
+		"url_png_icon_64x64": "http://ecopool.io/ECO_Pool_logo64.png",
+		"url_png_logo": "http://ecopool.io/ECO_Pool_logo300.png",
+		"location": "New Zealand",
+		"social": {
+			"twitter_handle": "@ECOpool_io",
+			"telegram_handle": "@ECOpool_io",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Hi, I'm Mat. ECO Pool combines two of my loves â nature and technology! Stake with ECO Pool and make the world a better place! We donate 30% of our pool fees to fight climate change and environmental challenges. Our mission is to support a variety of trusted charities, to sustain and regenerate nature and the diversity of life on earth. More details about our donations on ECOpool.io",
+			"server": "Our bare metal servers are based on a reliable, low power infrastructure powered by 100% renewable energy! We are committed to a 100% uptime for our servers to provide the best returns for our delegators! ",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "72de14d78a359617a7dd0b33c5554ed4edbafd768ece87c4bf672ee0"
+	},
+	"when-satured-then-recommend": {
+		"0": "72de14d78a359617a7dd0b33c5554ed4edbafd768ece87c4bf672ee0"
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "",
+				"type": "",
+				"key": ""
+			},
+			"1": {
+				"name": "",
+				"type": "",
+				"key": ""
+			},
+			"2": {
+				"name": "",
+				"type": "",
+				"key": ""
+			}
+		}
+	}
+}

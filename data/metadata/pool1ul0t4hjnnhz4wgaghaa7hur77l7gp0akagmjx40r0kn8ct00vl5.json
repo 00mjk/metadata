@@ -1,0 +1,8 @@
+{
+	"name": "Thankyou Pool",
+	"ticker": "THNKS",
+	"description": "A stakepool based in Oceania",
+	"homepage": "https://www.xiexiecrypto.io",
+	"nonce": "1620821599",
+	"extended": "https://raw.githubusercontent.com/degendan/c/main/ext.json"
+}

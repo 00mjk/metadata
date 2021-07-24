@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "",
+		"url_png_logo": "",
+		"location": "The Netherlands, Europe",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "De Bosberg accommodation supplies excellent services for individuals, families and businesses. We decided to invest in Cardano and also to run a Cardano stake pool. This to open the doors for giving our customers the possibility to pay with ada in the near future.",
+			"server": "",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	},
+	"my-pool-ids": {
+		"0": "3d81f6a805117b2ecd758589d2091fff769c28088be4387a99c0345e"
+	},
+	"when-satured-then-recommend": {
+		"0": "3d81f6a805117b2ecd758589d2091fff769c28088be4387a99c0345e"
+	}
+}

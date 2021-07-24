@@ -1,0 +1,38 @@
+{
+	"extended": "https://www.cryptostakehouse.com/poolinfo/extended-poolmeta.json",
+	"info": {
+		"url_png_icon_64x64": "https://www.cryptostakehouse.com/poolinfo/crypto-stakehouse-icon.png",
+		"url_png_logo": "https://www.cryptostakehouse.com/poolinfo/crypto-stakehouse-logo.png",
+		"location": "United States, TX",
+		"social": {
+			"twitter_handle": "cryptoranchers",
+			"facebook_handle": "cryptostakehouse",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Crypto Stakehouse",
+			"addr": "",
+			"state": "Texas",
+			"country": "United States of America"
+		},
+		"about": {
+			"me": "Crypto Stakehouse is a group of professional crypto-ranchers helping others herd their coins and tokens together for financial gains. Crypto Stakehouse currently (or will soon be allowing) staking the following crypto-currencies: Cardano ADA, Tezos XTZ, Kusama KSM, Polkadot DOT, COSMOS, Algorand ALGO, Ethereum 2.0 ETH2 and Zilliqa ZIL.  Don't just buy and HODL... buy your crypto and stake with us in order to create an ongoing return on your own crypto. You keep control of your coins/tokens and just delegate to us and we'll help you make more crypto with your crypto.",
+			"server": "4cVPU, 8192MB RAM, 160 GB SSD, 4TB",
+			"company": "Crypto Stakehouse Ranchers"
+		}
+	},
+	"my-pool-ids": {
+		"0": "28e31e89ea8a27199c2a3469703df2534d83b1df9be7d98709e3307f",
+		"1": "f49ab3d905832835d10aaa49ed0f11caa5221e1754d64f529ee263c9"
+	},
+	"when-satured-then-recommend": {
+		"0": "28e31e89ea8a27199c2a3469703df2534d83b1df9be7d98709e3307f",
+		"1": "f49ab3d905832835d10aaa49ed0f11caa5221e1754d64f529ee263c9"
+	},
+	"telegram-admin-handle": {
+		"0": "https://t.me/cryptostakehouse"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://cardano-pool.parakoopa.de/64.png",
+		"url_png_logo": "https://cardano-pool.parakoopa.de/full.png",
+		"location": "Frankfurt, Germany",
+		"about": {
+			"me": "Hi! I'm a DevOps engineer from Germany. Thanks for your interest in my small independent staking pool.",
+			"server": "Currently hosted in Frankfurt on 2 relays to minimize downtime; I plan to distribute it globally."
+		}
+	}
+}

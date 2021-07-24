@@ -1,0 +1,40 @@
+{
+	"info": {
+		"url_png_logo": "https://www.alascardanopool.com/favicon.ico",
+		"location": "Berlin, Germany",
+		"social": {
+			"twitter_handle": "AlasStake",
+			"telegram_handle": "alascardanopool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Alas Cardano pool",
+			"addr": "",
+			"city": "Berlin",
+			"country": "Germany",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "We are the singer and guitar player of the band The Ocean Collective we spend most of our time travelling the world bringing our music to as many people as we can. Traveling and learning about different cultures has helped us to understand how important is to aim for a world where everybody has the right to achieve their dreams, this is the motivartion behind Alas Cardano Pool.",
+			"server": "Powered by digital ocean",
+			"company": "At Alas Cardano pool we have developed a free Online Ear Tranning platform called Learn by Ear , there you can bring your ear skills to next level in a fun and intercative way, our app contains more than 50 different exercises, from interval recognition, interval comparasion or notes identification. You are also able to keep track of the progress that you make and you can build your way up by going through ever single exercise and also we help by giving our best tips to go through the exersice"
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "657a108e48baf24539e8760152a66b58c4dd02878a83e41ba5c590c8",
+		"1": ""
+	},
+	"when-satured-then-recommend": {
+		"0": "",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": "alascardanopool"
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://bit.ly/3mGxp2h",
+		"url_png_logo": "https://bit.ly/3clz08Z",
+		"location": "Budapest, Hungary",
+		"social": {
+			"twitter_handle": "adastarnode",
+			"telegram_handle": "adastarnode",
+			"youtube_handle": "adastarnode"
+		}
+	},
+	"about": {
+		"me": "Cardano enthusiasts from the beautiful Budapest. Come and join us on our journey to the moon! <3",
+		"server": "optical connection at Budapest 1000MB up/down, 1ms ping, SSD read 860Mb/s"
+	},
+	"my-pool-ids": {
+		"0": "f1263e0885fb00f352968294c5a6bf18da372b98236f55a457416d62"
+	},
+	"telegram-admin-handle": {
+		"0": "rtibor"
+	}
+}

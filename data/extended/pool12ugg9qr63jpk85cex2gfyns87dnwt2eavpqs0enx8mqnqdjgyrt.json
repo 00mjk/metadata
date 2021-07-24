@@ -1,0 +1,33 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://static.moonstake.io/logo/moonstake_glyph_64x64.png",
+		"url_png_logo": "https://static.moonstake.io/logo/moonstake_glyph_64x64.png",
+		"location": "Cayman Islands",
+		"social": {
+			"twitter_handle": "moonstake",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Moonstake Limited",
+			"addr": "4th Floor, Harbour Place, 103 South Church Street, P.O.Box 10240, Grand Cayman KY1-1002, Cayman Islands",
+			"city": "Grand Cayman",
+			"country": "Cayman Islands",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": "",
+	"when-satured-then-recommend": "",
+	"telegram-admin-handle": ""
+}

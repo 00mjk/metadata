@@ -1,0 +1,7 @@
+{
+	"name": "MyADAnode staking pool",
+	"description": "This pool is managed by the myadanode.com team",
+	"ticker": "MADA1",
+	"homepage": "https://www.myadanode.com",
+	"extended": "https://www.myadanode.com/metadata/mada1.extended-metadata.json"
+}

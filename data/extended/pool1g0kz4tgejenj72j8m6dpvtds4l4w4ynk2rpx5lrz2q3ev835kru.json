@@ -1,0 +1,21 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://github.com/pi4Pool/meta/blob/main/pIcon.png",
+		"location": "Valencia, Spain",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "",
+			"github_handle": ""
+		},
+		"about": {
+			"me": "Single Pool Operator",
+			"server": "Low energy SoCs. BP, relays & monitor located in Spain"
+		},
+		"my-pool-ids": {
+			"0": "43ec2aad1996672f2a47de9a162db0afeaea927650c26a7c62502396"
+		},
+		"when-satured-then-recommend": {
+			"0": "small pools - support decentralization"
+		}
+	}
+}

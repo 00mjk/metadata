@@ -1,0 +1,22 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://groot.earth/images/logo.png",
+		"url_png_logo": "https://groot.earth/images/logo3x1.png",
+		"location": "Worldwide",
+		"social": {
+			"telegram_handle": "@cristian_groot",
+			"discord_handle": "crixu#2238"
+		},
+		"company": {
+			"name": "GROOT",
+			"addr": "Earth"
+		},
+		"about": {
+			"me": "Handsome and talented gardener.",
+			"server": "1-16 cores, 4-32GB"
+		},
+		"my-pool-ids": {
+			"0": "4687b887da2d05e326e1d28b7c424f2ce5c9a933809f10c870bb8e34"
+		}
+	}
+}

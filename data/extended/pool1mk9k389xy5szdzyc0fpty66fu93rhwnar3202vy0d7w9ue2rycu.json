@@ -1,0 +1,24 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://legopool.io/lego-64x64.png",
+		"url_png_logo": "https://legopool.io/lego-150x150.png",
+		"location": "Stuttgart, Germany",
+		"social": {
+			"twitter_handle": "legostakepool"
+		},
+		"company": {
+			"name": "LEGOPOOL"
+		},
+		"about": {
+			"me": "",
+			"server": "LEGO POOL is a highly performant, resilient and secure stake pool for the Cardano network that has been up and running since the Cardano Shelley testnet in 2020."
+		}
+	},
+	"my-pool-ids": {
+		"0": "dd8b689ca625202688987a42b26b49e1623bba7d1c54f5308f6f9c5e"
+	},
+	"when-satured-then-recommend": {
+		"0": "pool1nudasuv0lljpe0tswcverqvlh0v4226vgnpsuxn0e9nkvnvcvne",
+		"1": "pool147en6w8f9cplnn5x7qt4ese7fpacmmcwuffrtu0yqxpaz4agppr"
+	}
+}

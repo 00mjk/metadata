@@ -1,0 +1,30 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://git.io/JY88n",
+		"url_png_logo": "https://git.io/JY84v",
+		"location": "Hamilton, Ontario, Canada",
+		"social": {
+			"twitter_handle": "@CDNCardano",
+			"telegram_handle": "@jthomson1",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "CDNC",
+			"addr": "",
+			"city": "Hamilton, ON",
+			"country": "Canada"
+		},
+		"about": {
+			"me": "We're a team of experienced and dedicated IT professionals who are exited to help decentralize and secure the Cardano Network.",
+			"server": "Enterprise Class Large Instances in the cloud with redundant fail-safe distributed relays in Canada.",
+			"company": ""
+		}
+	},
+	"my-pool-ids": [
+		"22531954c0bef931e312836efe14061ba1e33417ea246a7c165dbee9"
+	]
+}

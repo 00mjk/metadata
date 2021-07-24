@@ -1,0 +1,58 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://target-pool.com/target-bullseye_64x64.ico",
+		"url_png_logo": "https://target-pool.com/target-bullseye.png",
+		"location": "Amsterdam, Netherlands",
+		"social": {
+			"twitter_handle": "StakeTarget",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "channel/UCUer0rbmkoy-4WNj4wWd0sg",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Target is a group of experienced network engineers with degrees in Computer Science and Mathematics and over 20 years of experience (each) in the IT industry. For good rewards and releability with 99.9% uptime - Stake with Target!",
+			"server": "We use state of the art data centers to keep the pools and relays running 24/7 with a focus on security and monitoring to prevent any downtime.",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "317a33b89efc9c788439d10a1d5d448587b4d1a9ebd6d8e881b698b4"
+	},
+	"when-satured-then-recommend": {
+		"0": "317a33b89efc9c788439d10a1d5d448587b4d1a9ebd6d8e881b698b4"
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "relay1a",
+				"type": "relay",
+				"key": "87a2317a302366f064806d4b8418be7a"
+			},
+			"1": {
+				"name": "relay1b",
+				"type": "relay",
+				"key": "9b565986ed5406b85ecb4925fc346719"
+			},
+			"2": {
+				"name": "block producer home",
+				"type": "bp",
+				"key": "9eb7c7d8a07dec5e2a4077671ed43516"
+			}
+		}
+	}
+}

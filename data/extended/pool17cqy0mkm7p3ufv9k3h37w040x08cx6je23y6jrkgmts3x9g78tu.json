@@ -1,0 +1,34 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/adosiawolf/m/master/lotto_logo_64.png",
+		"url_png_logo": "https://raw.githubusercontent.com/adosiawolf/m/master/lotto_logo.png",
+		"location": "Australia",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "lottoPool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"country": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": ""
+	},
+	"when-satured-then-recommend": {
+		"0": ""
+	},
+	"telegram-admin-handle": {
+		"0": "lottoPool"
+	}
+}

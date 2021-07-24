@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.froge.world/frog.png",
+		"url_png_logo": "https://www.froge.world/logo.png",
+		"location": "Australia",
+		"social": {
+			"twitter_handle": "@FrogeWorld",
+			"telegram_handle": "Froge_World",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "FrogeWorld",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"telegram-admin-handle": [
+		""
+	],
+	"my-pool-ids": [
+		"889a3be6dadd665af903b8f6ff79425bcbf1ed4c1592987faaa67c40"
+	],
+	"when-satured-then-recommend": [
+		"889a3be6dadd665af903b8f6ff79425bcbf1ed4c1592987faaa67c40"
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"itn": {
+		"owner": "ed25519_pk1u2dpyx0pjsl0ywpyhp9u0lkjy00ld2thsu4snyrpdx0x4cgmz9fqgq5l9w",
+		"witness": "ed25519_sig14phxuh9q9kcn2x8cj3v5pj4dmx2xkelscpazhtggzq0wem7r2cunghd79fkr7c7q6p7m96k8jyvnp8pvx4l7099pn2k8j7m7juufuqqxx0cfc"
+	},
+	"info": {
+		"url_png_icon_64x64": "https://www.kaizencrypto.com/kaizen.crypto.logo.png",
+		"url_png_logo": "https://www.kaizencrypto.com/kaizen.crypto.logo.png",
+		"location": "United States, North America",
+		"social": {
+			"twitter_handle": "KaizenCrypto",
+			"telegram_handle": "KaizenCrypto_KAIZN",
+			"facebook_handle": "",
+			"youtube_handle": "Kaizen Crypto",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Cardano Stakepool Operator and Content Creator",
+			"server": "High Performance Bare Metal Server With Enterprise Grade Backups",
+			"company": "Kaizen Crypto LLC"
+		},
+		"rss": ""
+	},
+	"telegram-admin-handle": [
+		"KaizenCrypto_KAIZN"
+	],
+	"my-pool-ids": [
+		"9679eaa0fa242a9cdae4b030e714b66c0119fc9b3f7564b8f03a5316"
+	],
+	"when-satured-then-recommend": [
+		"163cc36624d9332f6ae7770e8df8b8bad7e71711eb6c2ed7971c99d4"
+	]
+}

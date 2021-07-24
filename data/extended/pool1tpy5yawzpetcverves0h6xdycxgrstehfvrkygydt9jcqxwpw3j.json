@@ -1,0 +1,13 @@
+{
+	"itn": {
+		"owner": "ed25519_pk13m09v2mnxk524hdahvzp26j7wam83cq7n27yyd6trlfa456wd7kq2uf82d",
+		"witness": "ed25519_sig16dpnctnvf4fyrgje3a3l42t5mrkvlf5aguex368z44lu7gmtzt75ur7c4cv6sc9xtpgagsnklzreg9g67qnkru0rg094l6w64l5k5zg0n8f6h"
+	},
+	"adapools": {
+		"url_png_icon_64x64": "https://mine-ada.com/logo-pool-64x64.png",
+		"url_png_logo": "https://mine-ada.com/logo-pool.png",
+		"social": {
+			"telegram_handle": "mineada"
+		}
+	}
+}

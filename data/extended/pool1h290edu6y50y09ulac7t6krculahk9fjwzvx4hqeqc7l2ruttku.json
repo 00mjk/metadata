@@ -1,0 +1,19 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://lionstakingpool.com/poolmeta/lion_icon_64.png",
+		"url_png_logo": "",
+		"location": "Germany",
+		"social": {
+			"twitter_handle": "@lionstakingpool",
+			"telegram_handle": "lionstakingpool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "ba8afcb79a251e47979fee3cbd5878e7fb7b153270986adc19063df5"
+	}
+}

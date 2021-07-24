@@ -1,0 +1,40 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://cardistack.cryptoconnect.uk/logo64.png",
+		"url_png_logo": "https://cardistack.cryptoconnect.uk/fulllogo.png",
+		"location": "Earth",
+		"social": {
+			"twitter_handle": "cardistack",
+			"telegram_handle": "cardistack",
+			"facebook_handle": "",
+			"youtube_handle": "cardistack",
+			"twitch_handle": "",
+			"discord_handle": "cardistack",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Passionate about Cardano and cryptocurrencies",
+			"server": "servers on dedicated hardware and monitored and secured 24/7 so you can have peace of mind / Join our telegram channel for latest information at https://t.me/cardistack and discord at https://discord.gg/ac56yvuN",
+			"company": "https://cardistack.cryptoconnect.uk"
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "f510658bb80e3657f5b20b3f796d219552b57622e0208dd287ba620f"
+	},
+	"when-satured-then-recommend": {
+		"0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
+		"1": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://divpools.github.io/imgs/dp_64x64.png",
+		"url_png_logo": "https://divpools.github.io/imgs/dp_large.png",
+		"location": "USA",
+		"social": {
+			"twitter_handle": "divpoolsDP",
+			"telegram_handle": "divpoolsgroup"
+		},
+		"about": {
+			"me": "We are a group of hardware and software engineers with many years of experience in IT and semiconductor business. We are interested in developing dapps on Cardano.",
+			"server": "A cloud-based secure staking pool and committed to providing reliable staking services. We are currently based in the USA."
+		}
+	},
+	"my-pool-ids": {
+		"0": "206292eab4479f3c24724baa877bc80cd27783c6089dfc64a7f22a7b"
+	},
+	"telegram-admin-handle": {
+		"0": "DivPools"
+	}
+}

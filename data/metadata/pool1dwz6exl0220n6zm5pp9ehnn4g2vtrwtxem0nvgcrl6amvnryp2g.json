@@ -1,0 +1,7 @@
+{
+	"name": "Troutpool",
+	"description": "Trout pool Is a Veteran owned stake pool whose objective is to donate the first 1% of pool profits to Project Healing Waters Fly Fishing - A NPO disabled Veterans organization. Low fees and experienced pool management team.",
+	"ticker": "TROUT",
+	"homepage": "https://troutpool.io",
+	"extended": "https://raw.githubusercontent.com/adosiawolf/m/master/tx.json"
+}

@@ -1,0 +1,33 @@
+{
+	"info": {
+		"url_png_icon_64x64": "",
+		"url_png_logo": "",
+		"location": "",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "https://t.me/vertpool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Vertica",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Focused On Operating Secure, Reliable and Stable ADA Pools",
+			"server": "",
+			"company": ""
+		},
+		"my-pool-ids": {
+			"0": "33c5796b7d62d5d5b13526662d03f1d94e16f4ffd236386137e17ec1",
+			"1": ""
+		}
+	}
+}

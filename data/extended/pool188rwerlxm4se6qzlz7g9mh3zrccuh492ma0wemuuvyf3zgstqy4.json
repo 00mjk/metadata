@@ -1,0 +1,26 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://poolhome.zlatkoportfolio.com/logostake.png",
+		"url_png_logo": "https://poolhome.zlatkoportfolio.com/logostake.png",
+		"location": "London, England",
+		"social": {
+			"telegram_handle": "https://t.me/OneEquity",
+			"twitter_handle": "OneequityP",
+			"discord_handle": "https://discord.gg/HwPsqmvz5B"
+		},
+		"company": {
+			"name": "One Equity"
+		},
+		"about": {
+			"me": "A team dedicated to balancing out the network. We strive to be eye-to-eye with our delegators. In the process we try to establish a community. You no longer have to be alone in the world of Cardano and Ada, let alone Crypto. We offer way more than just staking-pools. Fee will be put up to 1% after 1m total stake.",
+			"server": "99.98% uptime from reliable hosts."
+		}
+	},
+	"my-pool-ids": {
+		"0": "39c6ec8fe6dd619d005f17905dde221e31cbd4aadf5eecef9c611311"
+	},
+	"when-satured-then-recommend": {
+		"0": "39c6ec8fe6dd619d005f17905dde221e31cbd4aadf5eecef9c611311",
+		"1": "39c6ec8fe6dd619d005f17905dde221e31cbd4aadf5eecef9c611311"
+	}
+}

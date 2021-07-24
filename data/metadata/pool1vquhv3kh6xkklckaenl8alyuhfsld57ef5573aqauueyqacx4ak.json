@@ -1,0 +1,8 @@
+{
+	"name": "KIWI by Kiwipool Staking",
+	"ticker": "KIWI",
+	"description": "KIWI. Baremetal with Cloud Backup. Low Fees. Est 2019. Together, WE are Kiwipool Staking",
+	"homepage": "https://www.kiwipool.org",
+	"nonce": "1601980159",
+	"extended": "https://raw.githubusercontent.com/kiwipool/stn/e/kiwie.json"
+}

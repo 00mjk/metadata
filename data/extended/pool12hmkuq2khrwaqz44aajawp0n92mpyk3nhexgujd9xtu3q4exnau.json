@@ -1,0 +1,32 @@
+{
+	"info": {
+		"url_png_icon_64x64": "",
+		"url_png_logo": "",
+		"location": "Rome, Italy",
+		"social": {
+			"twitter_handle": "PoolItalian",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "https://discord.gg/wTG7gRvn",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Italian Crazy ADA Pool",
+			"addr": "",
+			"city": "Rome",
+			"country": "Italy",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "We are a team of developers with a passion for technology. We are technical, we are versatile always attentive to new technologies. We want to give security, professionalism and precision in doing things, obviously we try to improve more and more... :-)",
+			"server": "Mini server Quad-core 2.42GHz. UPS for current stabilization and backup. We have an hour and 30 of autonomy. Optical fiber",
+			"company": "This is not a company(at the moment) is something more is a team of guys with a passion for technology"
+		}
+	},
+	"my-pool-ids": {
+		"0": "55f76e0156b8ddd00ab5ef65d705f32ab6125a33be4c8e49a532f910"
+	}
+}

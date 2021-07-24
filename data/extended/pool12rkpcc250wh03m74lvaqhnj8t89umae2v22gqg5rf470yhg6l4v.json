@@ -1,0 +1,18 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/Testernode/i/master/logoslo.png",
+		"url_png_logo": "https://raw.githubusercontent.com/Testernode/i/master/zadnjas.png",
+		"location": "Slovenia",
+		"social": {
+			"twitter_handle": "GosloPool",
+			"youtube_handle": "channel/UC3ddCa4-HM3v4ndt5tknIjw",
+			"telegram_handle": "JanGOSLOPool"
+		},
+		"about": {
+			"me": "Hi everyone. We are Cardano believers from Slovenia with IT knowledge. We believe that Cardano will have a huge impact on the crypto industry."
+		}
+	},
+	"my-pool-ids": {
+		"0": "50ec1c61547baef8efd5fb3a0bce4759cbcdf72a62948022834d7cf2"
+	}
+}

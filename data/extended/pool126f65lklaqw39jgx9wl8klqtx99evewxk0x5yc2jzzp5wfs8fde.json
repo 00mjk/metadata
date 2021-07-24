@@ -1,0 +1,23 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://git.io/Jc9vw",
+		"url_png_logo": "https://git.io/Jc9vM",
+		"location": "London, England",
+		"social": {
+			"twitter_handle": "xPR0PH3Tx"
+		},
+		"company": {
+			"city": "London",
+			"country": "England"
+		},
+		"about": {
+			"me": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "5693aa7edfe81d12c9062bbe7b7c0b314b9665c6b3cd426152108347"
+	},
+	"when-satured-then-recommend": {
+		"0": ""
+	}
+}

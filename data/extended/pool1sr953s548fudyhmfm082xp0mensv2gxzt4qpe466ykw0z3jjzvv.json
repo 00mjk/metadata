@@ -1,0 +1,41 @@
+{
+	"how-to-implement": "",
+	"info": {
+		"url_png_icon_64x64": "https://i.ibb.co/BLWG0Db/brd-64.png",
+		"url_png_logo": "https://i.ibb.co/zfD47Yv/ADABREATHES-c.png",
+		"location": "Lisbon, Portugal",
+		"social": {
+			"twitter_handle": "ADABreathes",
+			"telegram_handle": "ADABreathes",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "An activist stake pool. Giving back to support humanitarian and environmental causes - Love is in the AIR!",
+			"server": "Cloud environment",
+			"company": ""
+		},
+		"rss": "",
+		"Adapool": "a23ad40e2bcaccffa4a503b838b8ff04"
+	},
+	"my-pool-ids": {
+		"0": "80cb48c2953a78d25f69dbcea305fbcce0c520c25d401cd75a259cf1"
+	},
+	"when-satured-then-recommend": {
+		"0": "80cb48c2953a78d25f69dbcea305fbcce0c520c25d401cd75a259cf1"
+	},
+	"telegram-admin-handle": {
+		"0": "ADABreathes"
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"name": "LEAF pool",
+	"description": "a reliable and independent pool",
+	"ticker": "LEAF",
+	"homepage": "https://leaf-pool.com/",
+	"extended": "https://leaf-pool.com/metadata_extended.json"
+}

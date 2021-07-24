@@ -1,0 +1,8 @@
+{
+	"name": "Adaliens Prize Pool",
+	"ticker": "ADAPP",
+	"description": "Any ADA holder can stake their ADA into our stake pool. In the stake pool, fees will be set to 100%. After every epoch we will randomly select a winner to receive the rewards from that epoch. (Assuming we minted a few blocks during those 5 days)",
+	"homepage": "https://adaliens.com/",
+	"nonce": "1626053182",
+	"extended": "https://adaliens.com/poolmeta_extended.json"
+}

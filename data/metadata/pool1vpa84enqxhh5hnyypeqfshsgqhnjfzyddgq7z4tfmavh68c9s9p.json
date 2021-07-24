@@ -1,0 +1,7 @@
+{
+	"name": "Chaos",
+	"description": "Life is chaotic. We're ready for it.",
+	"ticker": "CHAOS",
+	"homepage": "https://chaos-staking.com",
+	"extended": "https://raw.githubusercontent.com/not-tacos/CHAOS/main/extended.json"
+}

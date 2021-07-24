@@ -1,0 +1,23 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://cardano.gratis/assets/img/logo/grada_64x64.png",
+		"url_png_logo": "https://cardano.gratis/assets/img/logo/grada-logo.svg",
+		"location": "MalmÃ¶, Sweden",
+		"social": {
+			"twitter_handle": "tommiegold",
+			"telegram_handle": "tommiegoldhammer",
+			"youtube_handle": "tommiegoldhammer",
+			"discord_handle": "Tommie [GRADA]"
+		},
+		"about": {
+			"me": "Tommie Goldhammer - Single Pool Operator",
+			"server": "HP DL380, 384 GB RAM, SSD, Hosted in MalmÃ¶ | HW configuration of servers <CPU:32core|RAM:384GB|SSD:4096GB>"
+		},
+		"my-pool-ids": {
+			"0": "424fdaea5abb2fd69f353df22abcf5346b09879d3dbcb8d8442baaa0"
+		},
+		"when-satured-then-recommend": {
+			"0": "small pools - support decentralization"
+		}
+	}
+}

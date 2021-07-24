@@ -1,0 +1,49 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://adapool.jed.id.au/jedlogo64x64.png",
+		"url_png_logo": "https://adapool.jed.id.au/jedlogo.png",
+		"location": "Brisbane, Australia",
+		"social": {
+			"instagram_handle": "",
+			"discord_handle": "84E99xT25j",
+			"reddit_handle": "JED_Stakepool",
+			"twitter_handle": "JStakepool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"telegram_handle": "jedstackingpool",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "JED Stakepool"
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": ""
+		},
+		"my-pool-ids": {
+			"0": "pool1mukzsec605hfk2tsx4r4xd2rjfjytua8puge5pa0g82rgqm0kt9",
+			"1": "df2c28671a7d2e9b29703547533543926445f3a70f119a07af41d434"
+		},
+		"adapools_ext": {
+			"prometheus": {
+				"0": {
+					"name": "relay 1",
+					"type": "relay",
+					"key": ""
+				},
+				"1": {
+					"name": "relay 2",
+					"type": "relay",
+					"key": ""
+				},
+				"2": {
+					"name": "block producer",
+					"type": "bp",
+					"key": ""
+				}
+			}
+		}
+	}
+}

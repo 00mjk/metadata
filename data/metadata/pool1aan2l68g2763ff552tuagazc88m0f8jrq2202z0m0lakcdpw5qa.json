@@ -1,0 +1,7 @@
+{
+	"name": "ProStaker",
+	"description": "Secure and reliable staking, maintained by Pros.",
+	"ticker": "PRO",
+	"homepage": "https://prostaker.io/",
+	"extended": "https://prostaker.io/resources/poolMetaData-extended.json"
+}

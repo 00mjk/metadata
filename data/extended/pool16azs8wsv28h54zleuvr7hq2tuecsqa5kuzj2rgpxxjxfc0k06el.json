@@ -1,0 +1,58 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://wildada.com/assets/img/wildAda-64x64.png",
+		"url_png_logo": "https://wildada.com/assets/img/wildAda-400x400.png",
+		"location": "Wyoming, America",
+		"social": {
+			"twitter_handle": "a0WildAda",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Wild Ada LLC",
+			"addr": "",
+			"city": "Wyoming",
+			"country": "America",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Wild Ada LLC home in Wyoming, the crypto capital of America.",
+			"server": "",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "d74503ba0c51ef4a8bf9e307eb814be671007696e0a4a1a026348c9c"
+	},
+	"when-satured-then-recommend": {
+		"0": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "",
+				"type": "",
+				"key": ""
+			},
+			"1": {
+				"name": "",
+				"type": "",
+				"key": ""
+			},
+			"2": {
+				"name": "",
+				"type": "",
+				"key": ""
+			}
+		}
+	}
+}

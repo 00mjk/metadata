@@ -1,0 +1,59 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://goldcoastpool.org/wp-content/uploads/2021/04/cropped-cardano_ada-512-1-1.png",
+		"url_png_logo": "https://goldcoastpool.org/wp-content/uploads/2021/04/cropped-cardano_ada-512-1-1.png",
+		"location": "Gold Coast, Australia",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "Gold Coast",
+			"country": "Australia",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Karl",
+			"server": "Hosted on private server infrastructure in a small indipendant commerical datacentre on the Gold Coast, Australia",
+			"company": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "103023896563fc4449fa10d47fbb67a414f4e9ca0370dfae446bddcb",
+		"1": ""
+	},
+	"when-satured-then-recommend": {
+		"0": "",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "",
+				"type": "",
+				"key": ""
+			},
+			"1": {
+				"name": "",
+				"type": "",
+				"key": ""
+			},
+			"2": {
+				"name": "",
+				"type": "",
+				"key": ""
+			}
+		}
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"name": "BeBoss",
+	"description": "De Bosberg accommodation supplies excellent services for individuals, families and businesses.",
+	"ticker": "BBOSS",
+	"homepage": "https://www.debosberg.nl",
+	"extended": "https://raw.githubusercontent.com/Bosberg/BBOSS/main/BB_ext.json"
+}

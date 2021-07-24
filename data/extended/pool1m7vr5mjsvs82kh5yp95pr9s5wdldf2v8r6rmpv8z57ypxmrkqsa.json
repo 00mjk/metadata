@@ -1,0 +1,26 @@
+{
+	"info": {
+		"url_png_icon_64x64": "http://brothsoup.co.uk/Pool/icon2.png",
+		"url_png_logo": "http://brothsoup.co.uk/Pool/image.png",
+		"location": "England, United Kingdom",
+		"social": {
+			"twitter_handle": "@poolbroth",
+			"telegram_handle": "broth_pool",
+			"facebook_handle": "brothpool",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": ""
+		},
+		"about": {
+			"me": "25 years IT experience with the passion and fire to boot!!",
+			"server": "AMD EYPC - enterprise VPS. Consisting of.... One block producer, One redundant block producer, Four relays in Europe / USA."
+		}
+	},
+	"my-pool-ids": {
+		"0": "df983a6e50640eab5e840968119614737ed4a9871e87b0b0e2a78813"
+	},
+	"telegram-admin-handle": {
+		"0": "Spindlyoxtail"
+	},
+	"verification": ""
+}

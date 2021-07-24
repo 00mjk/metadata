@@ -1,0 +1,56 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://vgmd.com.br/logo-64.png",
+		"url_png_logo": "https://vgmd.com.br/logo777.png",
+		"location": "Sao Paulo, Brazil",
+		"social": {
+			"twitter_handle": "vgmdpool",
+			"telegram_handle": "vgmdpool",
+			"facebook_handle": "vgmdpool",
+			"youtube_handle": "/channel/UCs2mWsOKwpkLbD-2Ioa3vfw",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "VGMD",
+			"addr": "",
+			"city": "",
+			"country": "Brazil",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Stake with us! We are the only and unique pool hosted physically on the Amazon Forest, we use clean solar energy to maintain our servers. Help us evolving forest protection and to keep one Cardano node dot near the center of the planet",
+			"server": "Brazilian Amazon Forest hosted servers, our company relays only on solar energy.",
+			"company": "VGMD Company"
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "82bc9685ac388c74feddebef6b9ff06f166f9ac816a72c388750894c",
+		"1": ""
+	},
+	"when-satured-then-recommend": {
+		"0": "82bc9685ac388c74feddebef6b9ff06f166f9ac816a72c388750894c",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "Relay South",
+				"type": "relay",
+				"key": "relay.vgmd.com.br"
+			},
+			"1": {
+				"name": "Relay North",
+				"type": "relay",
+				"key": "relay-rainforest.vgmd.com.br"
+			}
+		}
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"name": "The Lotus ADA Pool",
+	"description": "We run our pool on top of Microsoft Azure infrastructure, to ensure reliability and durability of the pool's operation.",
+	"ticker": "LOTUS",
+	"homepage": "https://lotusada.z23.web.core.windows.net/",
+	"extended": "https://lotusada.z23.web.core.windows.net/extendedMetaData.json"
+}

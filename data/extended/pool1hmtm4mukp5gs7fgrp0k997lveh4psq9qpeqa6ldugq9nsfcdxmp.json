@@ -1,0 +1,13 @@
+{
+	"info": {
+		"url_png_icon_32x32": "https://adaly.io/static/favicon-32x32.png",
+		"url_png_logo": "https://adaly.io/static/android-chrome-512x512.png",
+		"location": "Tallinn, Estonia"
+	},
+	"my-pool-ids": [
+		"bed7baef960d110f25030bec52fbeccdea1800a00e41dd7dbc400b38"
+	],
+	"when-satured-then-recommend": [
+		"bed7baef960d110f25030bec52fbeccdea1800a00e41dd7dbc400b38"
+	]
+}

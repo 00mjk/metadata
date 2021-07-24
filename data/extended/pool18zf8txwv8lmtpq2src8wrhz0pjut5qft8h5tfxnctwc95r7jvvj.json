@@ -1,0 +1,40 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://i.ibb.co/h9KH38V/MP-logo.png",
+		"url_png_logo": "https://i.ibb.co/LZTS0Fq/Maluiin.png",
+		"location": "Brisbane, Australia",
+		"social": {
+			"twitter_handle": "Cryptofly777",
+			"telegram_handle": "MaluiinPool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "Cryptofly777",
+			"github_handle": "Maluiin"
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Linda! AKA Cryptofly777. Single owner pool. Mission based to try and bring reliable and uncensored internet to mountainous regions in West Papua.",
+			"server": "Cloud based relays distributed worldwide. Secured behind multiple layers of security.",
+			"company": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "pool18zf8txwv8lmtpq2src8wrhz0pjut5qft8h5tfxnctwc95r7jvvj",
+		"1": "38927599cc3ff6b081501e0ee1dc4f0cb8ba012b3de8b49a785bb05a"
+	},
+	"when-satured-then-recommend": {
+		"0": "pool1vev8z03vh7jwx3mfrgzrt9fltt97nupaxv8ffj4r5r8mgwts5ze",
+		"1": "6658713e2cbfa4e347691a0435953f5acbe9f03d330e94caa3a0cfb4"
+	},
+	"telegram-admin-handle": {
+		"0": "Maluiin777"
+	}
+}

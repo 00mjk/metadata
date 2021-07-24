@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "http://vrits.nl/vrits-logo-64x64.png",
+		"url_png_logo": "http://vrits.nl/vrits-logo.png",
+		"location": "Netherlands",
+		"social": {
+			"twitter_handle": "ThaiTheoVRITS",
+			"telegram_handle": "ThaiTheo",
+			"facebook_handle": "groups/760881408000350",
+			"youtube_handle": "channel/UCOy3Rl7EtDRNu98VcHpjC9g",
+			"twitch_handle": "",
+			"discord_handle": "JneXTjn",
+			"github_handle": "ThaiTheo"
+		},
+		"company": {
+			"name": "VRITS",
+			"addr": "",
+			"city": "",
+			"country": "Netherlands",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "I'm an IT professional with over 30 years of IT experience in various fields.",
+			"server": "Stakepool VRITS uses Virtual Private Servers in 3 different datacenters to achieve high performance, low latency and optimal connectivity whilst maintaining maximum flexibility.",
+			"company": "VRITS ensures that stakepool VRITS keeps operating at the highest level possible."
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "f137e6702bb09babf88cc93c93dffd64379d5d43bdbe3ce870ff5c54"
+	},
+	"when-satured-then-recommend": {
+		"0": ""
+	},
+	"telegram-admin-handle": {
+		"0": "ThaiTheo"
+	}
+}

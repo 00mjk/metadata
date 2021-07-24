@@ -1,0 +1,33 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/blocksensus/cardano-stakepool/main/BlockSensus_favicon.png",
+		"url_png_logo": "https://raw.githubusercontent.com/blocksensus/cardano-stakepool/main/BlockSensus_Logo_BG_Colour.png",
+		"location": "London, England",
+		"social": {
+			"twitter_handle": "blocksensuspool",
+			"telegram_handle": "blocksensus_cardano",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "BlockSensus",
+			"addr": "",
+			"city": "London",
+			"country": "UK",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": "Our aim is to contribute to the blockchain industry by promoting and providing reliable and secure stacking services and in this way keep blockchains projects, we engaged with, more secured and decentralised"
+		},
+		"my-pool-ids": {
+			"0": "45118342a7e0ca4d5984c12b5c966774d54aa7eb64adfc2545919215",
+			"1": ""
+		}
+	}
+}

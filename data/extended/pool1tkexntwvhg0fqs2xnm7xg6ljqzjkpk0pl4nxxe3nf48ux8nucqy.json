@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "http://defi-authority.github.io/data/artano_logo.jpg",
+		"url_png_logo": "http://defi-authority.github.io/data/artano_logo150.jpg",
+		"location": "Germany",
+		"social": {
+			"twitter_handle": "artano__io",
+			"telegram_handle": "artanonftmarketplace",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "artano-io"
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Developer with years of experience, CEO of Artano and a software consultant for world-famous companies (automotive, IOT, insurance industry)",
+			"server": "VPS-based, hosted at multiple locations, multiple providers scattered around the world, highest security standards",
+			"company": "Artano is a startup that aims to build the first user, art-driven NFT platform"
+		},
+		"rss": "http(s) url to valid RSS feed"
+	},
+	"my-pool-ids": {
+		"0": "5db269adccba1e9041469efc646bf200a560d9e1fd666366334d4fc3"
+	},
+	"when-satured-then-recommend": {
+		"0": ""
+	},
+	"telegram-admin-handle": {
+		"0": "matt_artano"
+	}
+}

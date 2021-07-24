@@ -1,0 +1,40 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://storage.googleapis.com/carn-pool/carn-64x64.png",
+		"url_png_logo": "https://storage.googleapis.com/carn-pool/carn.png",
+		"location": "",
+		"social": {
+			"twitter_handle": "CarnegiePool",
+			"telegram_handle": "CarnegieStakePool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "I have been a crypto & blockchain enthusiast for a number of years and invested in Cardano in 2018. I decided to set up the Carnegie stakepool in 2021 to support the vision of being more in control of our lives including being our own banks. The global ethical values of Charles Hoskinson and Cardano support equitable access to economic growth, particularly in underdeveloped countries, through decentralisation of finance and governance. My goal is to increase awareness of the benefit this disruptive technology can bring to communities, and empower others to confidently invest. By giving back a proportion of my profit to charity I commit to building on this ethos of improving our communities.",
+			"server": "",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"telegram-admin-handle": [
+		"@Floyd1973"
+	],
+	"my-pool-ids": [
+		"df0d1b70945b0c4d6560ee64837ca54e025eabbe710e256f6836273e"
+	],
+	"when-satured-then-recommend": [
+		"df0d1b70945b0c4d6560ee64837ca54e025eabbe710e256f6836273e"
+	],
+	"adapools_auth": "97cfcf62e113155caa75880c4026d7b5"
+}

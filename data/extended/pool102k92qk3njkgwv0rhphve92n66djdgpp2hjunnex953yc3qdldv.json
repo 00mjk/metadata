@@ -1,0 +1,36 @@
+{
+	"info": {
+		"url_png_icon_64x64": "",
+		"url_png_logo": "",
+		"location": "Brasilia, BRL",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "feu_franco",
+			"youtube_handle": "",
+			"github_handle": "karnagge"
+		},
+		"company": {
+			"name": "PIEBR",
+			"addr": "",
+			"city": "",
+			"country": "Brazil",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"telegram-admin-handle": {
+		"0": "feu_franco"
+	},
+	"my-pool-ids": [
+		"7aac5502d19cac8731e3b86ecc9553d69b26a02155e5c9cf262d224c"
+	],
+	"when-satured-then-recommend": [
+		"b8d8742c7b7b512468448429c776b3b0f824cef460db61aa1d24bc65"
+	]
+}

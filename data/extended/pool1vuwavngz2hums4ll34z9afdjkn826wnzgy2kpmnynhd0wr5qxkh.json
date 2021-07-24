@@ -1,0 +1,21 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/Lalkul/pooldata/main/Logo64.png",
+		"url_png_logo": "https://raw.githubusercontent.com/Lalkul/pooldata/main/Logo.png",
+		"location": "Amman, Jordan",
+		"social": {
+			"twitter_handle": "lalkulpool"
+		},
+		"about": {
+			"me": "We are a diverse team of young professionals aiming to educate and involve people in the Cardano community. Our belief is that everyone should be given the opportunity to take part in this revolution.",
+			"server": "Digital Ocean servers running Ubuntu 20.04",
+			"company": "We believe that an even playing field is the best playing field. Thus, L₳LKUL is committed to facilitating the adoption of decentralized systems in places that need it most. By providing a comprehensive, free and dynamic environment our team is confident that you’ll be familiarized with the Cardano blockchain in no time. Together we can help form an inclusive world where opportunity is available for everyone (لَلكُلْ)."
+		}
+	},
+	"my-pool-ids": {
+		"0": "671dd64d0255f9b857ff8d445ea5b2b4cead3a62411560ee649ddaf7"
+	},
+	"when-satured-then-recommend": {
+		"0": "0d8fb11358f653adc406c1508d27f9c1741c4eb06b75bef6d676489a"
+	}
+}

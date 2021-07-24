@@ -1,0 +1,35 @@
+{
+	"itn": {
+		"owner": "ed25519_pk1y7qtm0effehfhgpj0w90xhcy7pgkz3jehsftv62f3apu8lvupfpqul7tyr",
+		"witness": "ed25519_sig1qtz5429c3gg7qlauyltlrm6p83eh5je844gfl95uw23zrqqel5xqs2ay06wdmeafth7cqw20af250q9s00suy675h0ypuvja5kff6zq7j5uuz"
+	},
+	"info": {
+		"url_png_icon_64x64": "https://adanorthpool.com/wp-content/uploads/2020/10/anplogo_small.png",
+		"url_png_logo": "https://adanorthpool.com/wp-content/uploads/2020/10/anplogo.png",
+		"location": "Norway",
+		"social": {
+			"twitter_handle": "@adanorthpool",
+			"telegram_handle": "@Eysteinh",
+			"facebook_handle": "",
+			"youtube_handle": "ADA North Pool",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"about": {
+			"me": "video: https://www.youtube.com/watch?v=qrGaSI0XgQo",
+			"server": "video: https://www.youtube.com/watch?v=nj117hg3HUI",
+			"company": "As of now this pool is run privately by me."
+		},
+		"my-pool-ids": {
+			"0": "0000fc522cea692e3e714b392d90cec75e4b87542c5f9638bf9a363a"
+		},
+		"when-satured-then-recommend": {
+			"0": "0001a003afb844ce6d9409fc49e049db654a78dc77f1151cb6cd548f",
+			"1": "881e3af880ac65f96cbf9b85d3f054f72aa7bb9c77fe365bbf36f4c7"
+		},
+		"telegram-admin-handle": {
+			"0": "@Eysteinh"
+		}
+	}
+}

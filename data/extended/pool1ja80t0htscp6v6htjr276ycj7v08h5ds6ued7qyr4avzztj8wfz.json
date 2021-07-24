@@ -1,0 +1,37 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://octopool.tech/wp-content/uploads/octopool_64x.png",
+		"url_png_logo": "https://octopool.tech/wp-content/uploads/octopool_256x.png",
+		"location": "Helsinki, Finland",
+		"social": {
+			"telegram_handle": "octopool"
+		},
+		"about": {
+			"me": "Just some hardworking admin, that likes Cardano and Octopuses :)",
+			"server": "The pool runs on 3 hardened Unix type machines. Relays are linked with 1 gigabit connection. Ping latency below 0,4 ms :)",
+			"company": "We are a family business"
+		}
+	},
+	"my-pool-ids": {
+		"0": "974ef5beeb8603a66aeb90d5ed1312f31e7bd1b0d732df0083af5821"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "relay 1",
+				"type": "relay",
+				"key": "51226bac3ef7b10672114d04533bece9"
+			},
+			"1": {
+				"name": "relay 2",
+				"type": "relay",
+				"key": "4461794c4cd24fd2145465e425494cfe"
+			},
+			"2": {
+				"name": "block producer",
+				"type": "bp",
+				"key": "6608cf88c8d0c84abd093636b9855c66"
+			}
+		}
+	}
+}

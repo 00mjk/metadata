@@ -1,0 +1,16 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://cosd.com/meta/cosd-bleed-64.png",
+		"url_png_logo": "https://cosd.com/meta/cosd-bleed-400.png",
+		"location": "Global",
+		"social": {
+			"twitter_handle": "COSDpool",
+			"telegram_handle": "COSDpool",
+			"github_handle": "rphair"
+		},
+		"about": {
+			"me": "Supporting cryptocurrency security, online privacy, and progressive business through tools and tutorials for Cardano and Linux users.  Powered by 30 years experience in security, design & devops.",
+			"server": "Digital Ocean VPC firewalled networks, with cloud servers in New York & Singapore."
+		}
+	}
+}

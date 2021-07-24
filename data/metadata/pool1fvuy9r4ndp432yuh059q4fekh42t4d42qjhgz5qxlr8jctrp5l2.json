@@ -1,0 +1,7 @@
+{
+	"name": "CryptoRocket",
+	"description": "We provide regular ADA giveaways to all delegators on top of rewards! Please check out our website for more information.",
+	"ticker": "ROCKT",
+	"homepage": "https://cryptorocket.xyz/",
+	"extended": "https://raw.githubusercontent.com/thecryptorocket/cardano/main/meta.json"
+}

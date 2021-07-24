@@ -1,0 +1,21 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://i.ibb.co/tBPGZRJ/adaicon.png",
+		"url_png_logo": "https://i.ibb.co/bXVVtjJ/adalogo.png",
+		"social": {
+			"twitter_handle": "bot_boutique",
+			"telegram_handle": "botboutiqueEU",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": ""
+		},
+		"about": {
+			"me": "During the time I was an employee at GIN Platform, the first masternode hosting service, my responsibilities included monitoring, upgrading and troubleshooting thousands of masternodes. My experience at GIN allowed me to learn how to properly run and maintain a blockchain node and gave me the expertise to run my Cardano pool.",
+			"server": "One block producer and three relays distributed in Europe and US. Total resources allocated: 14 Intel cores and 28 GB of RAM."
+		}
+	},
+	"telegram-admin-handle": {
+		"0": "tts1521"
+	}
+}

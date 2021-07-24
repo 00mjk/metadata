@@ -1,0 +1,29 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://adavanz.com/images/ADVZ_icon.png",
+		"url_png_logo": "https://adavanz.com/images/ADVZ_logo.png",
+		"location": "USA",
+		"social": {
+			"twitter_handle": "@Adavanz1",
+			"telegram_handle": "@adavanz"
+		},
+		"company": {
+			"name": "Adavanz",
+			"country": "USA"
+		},
+		"about": {
+			"me": "Single pool operator involved in Cardano project since 2017. IT professsional with 15 years of experience designing and building cloud infrastructure for large organizations around the globe.",
+			"server": "Distributed cloud infrastructure.99.999% uptime.",
+			"company": "Adavanz"
+		}
+	},
+	"telegram-admin-handle": [
+		"@adavanz"
+	],
+	"my-pool-ids": [
+		"2f4e768d6769a2ee28b93d198f974e9424b2b3f3fca8b1d48d90007d"
+	],
+	"when-satured-then-recommend": [
+		"2f4e768d6769a2ee28b93d198f974e9424b2b3f3fca8b1d48d90007d"
+	]
+}

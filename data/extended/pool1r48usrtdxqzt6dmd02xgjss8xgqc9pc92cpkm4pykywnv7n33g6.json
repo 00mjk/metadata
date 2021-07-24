@@ -1,0 +1,37 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/eltontay/mylittlenftstorystakingpool/main/mylittlenftstoryIcon.png",
+		"url_png_logo": "https://raw.githubusercontent.com/eltontay/mylittlenftstorystakingpool/main/mylittlenftstoryLogo.png",
+		"location": "Singapore, Singapore",
+		"social": {
+			"twitter_handle": "littlenftstory",
+			"telegram_handle": "MyLittleNftStory",
+			"discord_handle": "MyLittleNftStory"
+		},
+		"about": {
+			"me": "A passionate team of Singaporean developers that want to help the Cardano artists :)",
+			"server": "Raspbery Pi because that is the sustainable way to go!"
+		}
+	},
+	"my-pool-ids": {
+		"0": "1d4fc80d6d3004bd376d7a8c894207320182870556036dd424b11d36"
+	},
+	"telegram-admin-handle": {
+		"0": "NFTAY"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "mylittlenftstory relay",
+				"type": "relay",
+				"key": "5edbb797494a1683d276d8efbc5372f7"
+			},
+			"1": {
+				"name": "mylittlenftstory block",
+				"type": "bp",
+				"key": "69af463f3ba4cdc1405c5385a3bcc330"
+			}
+		}
+	}
+}

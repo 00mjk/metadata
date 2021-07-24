@@ -1,0 +1,7 @@
+{
+	"name": "Aerospace Stake Pool",
+	"description": "Reliable staking on bare metal servers in Germany.",
+	"ticker": "AERO",
+	"homepage": "https://aeropool.org",
+	"extended": "https://aeropool.org/cardano/extendedMetaData.json"
+}

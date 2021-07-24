@@ -1,0 +1,7 @@
+{
+	"name": "Ikaros",
+	"description": "Ikaros pool",
+	"ticker": "IKRS",
+	"homepage": "https://ikarospool.com",
+	"extended": "https://raw.githubusercontent.com/ik46/fot/main/ext.json"
+}

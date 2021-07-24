@@ -1,0 +1,30 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.allnodes.com/ada/allnodes_logo_64x64.png",
+		"url_png_logo": "https://www.allnodes.com/ada/allnodes_logo_512x512.png",
+		"location": "Amsterdam, Netherlands",
+		"social": {
+			"twitter_handle": "Allnodes",
+			"telegram_handle": "allnodes",
+			"facebook_handle": "allnodescom"
+		},
+		"company": {
+			"name": "Allnodes Inc.",
+			"addr": "12655 W. Jefferson Blvd",
+			"city": "Los Angeles",
+			"country": "United States"
+		},
+		"about": {
+			"me": "Allnodes is a non-custodial platform for all of your Hosting and Staking needs. You can host Masternodes and Full Nodes as well as Stake coins in a few clicks, monitor the rewards and status of your currency and so much more!"
+		}
+	},
+	"my-pool-ids": {
+		"0": "6f223af7c6069f7428cf7605efba84ec410f5476550f83dbb3096238"
+	},
+	"when-satured-then-recommend": {
+		"0": "6f223af7c6069f7428cf7605efba84ec410f5476550f83dbb3096238"
+	},
+	"telegram-admin-handle": {
+		"0": "sephiroth"
+	}
+}

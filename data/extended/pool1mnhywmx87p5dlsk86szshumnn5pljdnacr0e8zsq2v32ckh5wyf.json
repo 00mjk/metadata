@@ -1,0 +1,49 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://poopool.org/metadata/poop64x64.png",
+		"url_png_logo": "https://poopool.org/metadata/poopbig.png",
+		"location": "Compton, CA",
+		"social": {
+			"instagram_handle": "",
+			"discord_handle": "cardano",
+			"reddit_handle": "",
+			"twitter_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"telegram_handle": "PooPoolChat",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "PooPool"
+		},
+		"about": {
+			"me": "",
+			"server": "3x6vcore/16gb/160gb+1x6core/18gb/1tb",
+			"company": "all good"
+		},
+		"my-pool-ids": {
+			"0": "pool1mnhywmx87p5dlsk86szshumnn5pljdnacr0e8zsq2v32ckh5wyf",
+			"1": "dcee476cc7f068dfc2c7d4050bf3739d03f9367dc0df938a005322ac"
+		},
+		"adapools_ext": {
+			"prometheus": {
+				"0": {
+					"name": "relay 1",
+					"type": "relay",
+					"key": ""
+				},
+				"1": {
+					"name": "relay 2",
+					"type": "relay",
+					"key": ""
+				},
+				"2": {
+					"name": "block producer",
+					"type": "bp",
+					"key": ""
+				}
+			}
+		}
+	}
+}

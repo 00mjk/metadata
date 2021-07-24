@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "http://www.eltrotamontes.com/fotos/matterhorn.png",
+		"url_png_logo": "http://www.eltrotamontes.com/fotos/alpen_cardano_m.jpg",
+		"location": "Switzerland, Europe",
+		"social": {
+			"twitter_handle": "Mikelalpch",
+			"telegram_handle": "mikelalpch",
+			"facebook_handle": "alpencardano/",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Alpen Cardano",
+			"addr": "",
+			"city": "Uetikon am See",
+			"country": "Switzerland",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Mikel",
+			"server": "2 x HP Proliant",
+			"company": "ALPCH"
+		},
+		"rss": "http(s) url to valid RSS feed"
+	},
+	"telegram-admin-handle": [
+		"mikelalpch"
+	],
+	"my-pool-ids": [
+		"38d44f2bbccd27b654e532e6937e3a60b900168082f5c1b4fe236974"
+	],
+	"when-satured-then-recommend": [
+		"38d44f2bbccd27b654e532e6937e3a60b900168082f5c1b4fe236974"
+	]
+}

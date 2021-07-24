@@ -1,0 +1,40 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/nocapstakepool/pool/main/NCLogo64.png",
+		"url_png_logo": "https://raw.githubusercontent.com/nocapstakepool/pool/main/NoCapStakepool.png",
+		"location": "California, United States",
+		"social": {
+			"twitter_handle": "nocapstakepool",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "No Cap Stakepool",
+			"addr": "",
+			"city": "Los Angeles",
+			"country": "United States",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "Hosted on AWS and on-prem in 4 US Regions. 2-4vCPU w/ 8 GB RAM. 120 GB+ Expandable Storage.",
+			"company": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "183583cd7f85d46fc7f97f168aa42605fa8f25bf089a4b63edf36e54",
+		"1": ""
+	},
+	"when-satured-then-recommend": {
+		"0": "183583cd7f85d46fc7f97f168aa42605fa8f25bf089a4b63edf36e54",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": "dangitsdavid"
+	}
+}

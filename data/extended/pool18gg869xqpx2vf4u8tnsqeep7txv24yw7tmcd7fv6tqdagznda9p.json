@@ -1,0 +1,21 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://block.surf/logo/block_surf_logo_64x64.png",
+		"url_png_logo": "https://block.surf/logo/block_surf_logo_128x128.png",
+		"location": "Budapest, Hungary, Planet Earth",
+		"social": {
+			"twitter_handle": "BLOCK_surf",
+			"telegram_handle": "BLOCK_surf",
+			"facebook_handle": "BLOCKdotSURF",
+			"instagram_handle": "BLOCK_surf"
+		},
+		"about": {
+			"me": "We truly believe in Cardano's outstanding technology and are highly passionate to operate our stake pool. Our mission is to do our best to deliver one of the best ADA stake pool performances to you and to contribute regular monthly amounts to charity organizations who really need the help. Let's build a better world together.",
+			"server": "Enterprise grade servers hosted in datacenters around the Globe",
+			"company": "BLOCK.surf"
+		}
+	},
+	"my-pool-ids": {
+		"0": "3a107d14c00994c4d7875ce00ce43e5998aa91de5ef0df259a581bd4"
+	}
+}

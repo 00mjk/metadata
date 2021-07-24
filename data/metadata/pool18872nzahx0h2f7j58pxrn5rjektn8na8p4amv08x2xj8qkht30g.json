@@ -1,0 +1,7 @@
+{
+	"name": "Chunky Monkey 🐵🐵🐵",
+	"description": "Chunky Monkey ADA Stake Pool",
+	"ticker": "MNKY",
+	"homepage": "https://www.chunkymonkey.us",
+	"extended": "https://raw.githubusercontent.com/clk-stack/cm/master/extended-poolmeta.json"
+}

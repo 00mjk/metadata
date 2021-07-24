@@ -1,0 +1,18 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://adapanda.de/AdaPandaLogoSmall.png",
+		"url_png_logo": "https://adapanda.de/AdaPandaLogoLarge.png",
+		"location": "Germany",
+		"social": {
+			"twitter_handle": "adapanda5",
+			"telegram_handle": "adapanda"
+		},
+		"about": {
+			"me": "My name is Alexander, I am a Cardano enthusiast and software developer with experience. I want to help decentralize Cardano as I think Cardano is the blockchain of the future. If you feel the same way, then join Adapanda.",
+			"server": "All servers have: \"6 vCores and 16 GB RAM\". The servers can be upgraded if necessary. The block producing node is secured via 2 relay nodes and one private node. A monitoring server is available to monitor the nodes. More nodes will be added later. All safety precautions have been taken."
+		},
+		"my-pool-ids": {
+			"0": "df6be519c6b621d4612989cec80582d3dbb857fc90d5e4bf7dacb280"
+		}
+	}
+}

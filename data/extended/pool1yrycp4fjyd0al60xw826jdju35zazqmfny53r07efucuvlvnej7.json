@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "http(s) url to pool icon",
+		"url_png_logo": "http(s) url to pool logo",
+		"location": "Australia, Australia",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "MyADANode",
+			"addr": "",
+			"city": "Brisbane",
+			"country": "Australia",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": ""
+		},
+		"rss": "http(s) url to valid RSS feed"
+	},
+	"telegram-admin-handle": [
+		""
+	],
+	"my-pool-ids": [
+		"20c980d532235fdfe9e671d5a9365c8d05d10369992911bfd94f31c6"
+	],
+	"when-satured-then-recommend": [
+		"20c980d532235fdfe9e671d5a9365c8d05d10369992911bfd94f31c6"
+	]
+}

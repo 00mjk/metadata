@@ -1,0 +1,40 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://cardano.fans/images/logo64_64.png",
+		"url_png_logo": "https://cardano.fans/images/logo.png",
+		"location": "Berlin, Germany",
+		"social": {
+			"twitter_handle": "matiwinnetou",
+			"telegram_handle": "matiwinnetou",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "matiwinnetou",
+			"adapools": "47df1446d14b319e3dc9558466a741bb"
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Enable finance for everybody including unbanked.",
+			"server": "Baremetal stakepool with 200 Mbit fiber running on i3 (8GB) and 2 x i7 servers (16 GB RAM) RAM",
+			"company": "..."
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "6C518B4861BB88B1395CEB116342CECBCFB8736282655F9A61C4C368"
+	},
+	"when-satured-then-recommend": {
+		"0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735"
+	},
+	"telegram-admin-handle": {
+		"0": "matiwinnetou"
+	}
+}

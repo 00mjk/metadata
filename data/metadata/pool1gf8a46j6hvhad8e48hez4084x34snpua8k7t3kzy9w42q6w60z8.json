@@ -1,0 +1,7 @@
+{
+	"name": "Gratis ADA",
+	"description": "A Cardano (ADA) stake pool in Sweden with reliable uptime on bare metal servers",
+	"ticker": "GRADA",
+	"homepage": "https://cardano.gratis",
+	"extended": "https://cardano.gratis/poolMetaDataExt.json"
+}

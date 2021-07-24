@@ -1,0 +1,6 @@
+{
+	"name": "2 Relays 1 Core",
+	"description": "We are running 2 Relays and 1 Core node. One of them will act as a backup Core for updates or unexpected down-time. We will continue to harden our servers based on current best-practices. We hope you will join us on this journey for ADA adoption.",
+	"ticker": "2R1C",
+	"homepage": "https://2Relays1Core.com"
+}

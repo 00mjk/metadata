@@ -1,0 +1,29 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://aymanstake.com/wp-content/uploads/2021/05/ayman-icon-64x64-1.png",
+		"url_png_logo": "https://aymanstake.com/wp-content/uploads/2021/05/ayman-logo-700x150-1.png",
+		"location": "Texas, US",
+		"social": {
+			"twitter_handle": "aymanstake",
+			"telegram_handle": "aymanstake",
+			"facebook_handle": "ayman.stake",
+			"github_handle": "aymanstake"
+		},
+		"company": {
+			"name": "Ayman Cardano Stake Pool",
+			"addr": "225 Matlage Way /# 1802",
+			"city": "Sugar Land",
+			"state": "Texas",
+			"zipcode": "77487",
+			"country": "US"
+		},
+		"about": {
+			"me": "Amin Master - Single Pool Operator",
+			"server": "1 Block Producer + 2 Relays - SPECS >> 6 vCPU Cores | 16 GB RAM | 400 GB SSD | 400 Mbit/s Port",
+			"company": "Ayman Cardano Stake Pool"
+		}
+	},
+	"my-pool-ids": {
+		"0": "pool1jug4sp78wkx4fd90vh2ljaq5xqvv6kksjg4ckz7c68ga6fllyvu"
+	}
+}

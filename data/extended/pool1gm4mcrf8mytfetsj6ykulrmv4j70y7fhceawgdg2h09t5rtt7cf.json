@@ -1,0 +1,19 @@
+{
+	"itn": {
+		"owner": "ed25519_pk16p88sp5402u0r0ry2hucyaxfkv8qtmpenk5ccf56qtg5w4gs6n0s6fvnq9",
+		"witness": "ed25519_sig16xj65uwanzq4gw52j9m8ffl3jfftyfkkj53ptcy0pzdw04ffzhucm2kx6h25aahutfs5engsajre0m8nk49zkzru825df75e2952krswgdp5g"
+	},
+	"info": {
+		"url_png_icon_64x64": "https://altzpool.com/altz_m/altz_icon_png_64x64.png",
+		"url_png_logo": "https://altzpool.com/altz_m/altz_logo_png.png",
+		"location": "Madrid, Spain",
+		"social": {
+			"twitter_handle": "AltzPool",
+			"telegram_handle": "ALTZ1",
+			"discord_handle": "QuQYEPG"
+		}
+	},
+	"my-pool-ids": [
+		"46ebbc0d27d9169cae12d12dcf8f6cacbcf27937c67ae4350abbcaba"
+	]
+}

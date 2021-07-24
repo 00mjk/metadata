@@ -1,0 +1,30 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://commerce.sleepingnatives.org/images/svrn_logo_sm.png",
+		"url_png_logo": "https://commerce.sleepingnatives.org/images/svrn_logo.png",
+		"social": {
+			"twitter_handle": "SleepingNatives",
+			"telegram_handle": "svrn_sleepingnatives",
+			"facebook_handle": "SleepingNatives",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "SleepingNatives",
+			"github_handle": "Sleeping-Natives-Productions"
+		},
+		"about": {
+			"us": "Endorsed by GreenPeace (US & UK), Friends of the Earth, & The Dian Fossey Gorilla Fund, Sleeping Natives is an environmental non-profit organization dedicated to inspire, inform, and accelerate the adoption of decentralized, alternative energy & financial technologies. Presently, we have 4 projects in total, of which SVRN, our Cardano Stake Pool Operation, is one of them. Please visit our sites to learn more!",
+			"hardware": "1 primary block producing node w/ online backup BP, plus 3 relays in as many continents (North + South America, & Europe)."
+		},
+		"my-pool-ids": {
+			"0": "5059d31b0c8c11d6d2404266844e31f13dab05eae77815db8994a598",
+			"1": ""
+		},
+		"when-satured-then-recommend": {
+			"0": "",
+			"1": ""
+		},
+		"telegram-admin-handle": {
+			"0": ""
+		}
+	}
+}

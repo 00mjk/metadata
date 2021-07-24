@@ -1,0 +1,8 @@
+{
+	"name": "Uno Stake Pool",
+	"ticker": "UNO",
+	"description": "Staking simplicity and a maximum of 1% margin for the lifetime of the pool - Currently 0% until saturation",
+	"homepage": "https://unostakepool.com",
+	"nonce": "1603038111",
+	"extended": "https://unostakepool.com/poolmeta-extended.json"
+}

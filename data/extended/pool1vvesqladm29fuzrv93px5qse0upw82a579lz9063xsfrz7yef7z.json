@@ -1,0 +1,54 @@
+{
+	"info": {
+		"location": "Vancouver, BC, Canada",
+		"social": {
+			"twitter_handle": "8sqrd",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "tEFCDRvZSp",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "8SQRD",
+			"city": "Vancouver",
+			"country": "Canada"
+		},
+		"about": {
+			"me": "Delegate to Stop Asian Hate with 8SQRD!",
+			"server": "Hosted on Cloud Platforms",
+			"company": "8SQRD"
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "6333007fadda8a9e086c2c426a02197f02e3abb4f17e22bf51341231"
+	},
+	"when-satured-then-recommend": {
+		"0": "",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "8SQRD Relay 0",
+				"type": "relay",
+				"key": "103faae927ab7b94b3b8ceecaa38b8c0"
+			},
+			"1": {
+				"name": "8SQRD Relay 1",
+				"type": "relay",
+				"key": "9e4cfb5274aefcc9960d6296df2ca549"
+			},
+			"2": {
+				"name": "8SQRD Core Node 0",
+				"type": "bp",
+				"key": "5a65f597a9a0304612f3e62303491ed7"
+			}
+		}
+	}
+}

@@ -1,0 +1,41 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/moomanchoo/KOALA/master/koala-logo-64x64.png",
+		"url_png_logo": "https://github.com/moomanchoo/KOALA/raw/master/koala-full-logo.PNG",
+		"location": "Sydney, Australia",
+		"social": {
+			"twitter_handle": "KOALA_Steve",
+			"telegram_handle": "KOALA_Steve",
+			"facebook_handle": "",
+			"youtube_handle": "Crypto Jerome",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Koala Pool",
+			"addr": "",
+			"city": "Sydney",
+			"country": "Australia",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Scientific technician in micro/nano fabrication & metrology, Caring for over $6 Million in scientific instruments. Passionate about Cardano, decentralisation and giving back.",
+			"server": " A mix of bare-metal and clould servers, balancing decentralisaiton & resilience. We use a small cloud provider and minimum 4 CPU 16GB ram servers",
+			"company": "At Koala pool we believe in giving back & decentralisation. As of epoch 236 35% of pool profit went to saving Koalas. We currenly run 2 pools with 1.3 pools ownership, the additional pool was taken on to support Crypto Jerome as we belive his content is good for the space. We gave up our single pool status under the agreement that Jerome would not spin up yet more pools and instead work on promoting other charity and worthy pools, under a paid promotion buissness model KOALA_steve persuaded him to persue."
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "9138b6f09e8e69c29fdee4e11b147b7ad351aab23fc73a9976907f10",
+		"1": ""
+	},
+	"when-satured-then-recommend": {
+		"0": "",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": "KOALA_Steve"
+	}
+}

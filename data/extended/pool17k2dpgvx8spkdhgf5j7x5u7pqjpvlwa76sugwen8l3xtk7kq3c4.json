@@ -1,0 +1,49 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "http://temecula.noip.me/poolMetadata/image/frsc.png",
+		"url_png_logo": "http://temecula.noip.me/poolMetadata/image/frscico.png",
+		"location": "Temecula, California",
+		"social": {
+			"twitter_handle": "FreedomSoCal",
+			"telegram_handle": "FreedomSocal",
+			"facebook_handle": "Freedom.Socal",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "hdpro4u"
+		},
+		"company": {
+			"name": "Freedom Socal",
+			"addr": "33539 Corte Figueroa",
+			"city": "Temecula",
+			"country": "USA",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "...",
+			"server": "Raspberry Pi 4, 10 Watts of Freedom in Sunny Southern California.",
+			"company": "..."
+		}
+	},
+	"my-pool-ids": {
+		"0": "f594d0a1863c0366dd09a4bc6a73c10482cfbbbed438876667fc4cbb"
+	},
+	"when-satured-then-recommend": {
+		"0": "f594d0a1863c0366dd09a4bc6a73c10482cfbbbed438876667fc4cbb",
+		"1": "pool1ju5tzz5jdszg47fcuhzjq5e3nk6mays73d5csskr4lfucg397c3"
+	},
+	"telegram-admin-handle": {
+		"0": "FreedomSocal"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "Temecula Relay 1",
+				"type": "relay",
+				"key": "716ea810ff10594bd3b6032ad8322eba"
+			}
+		}
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"name": "Axnosis Stake Pool",
+	"description": "Axnosis’s main aim is to support the Cardano network in Africa by running a public stake pool. We will achieve this by being a reliable operator as we have the knowledge and the resources to run the node on a consistent basis.",
+	"ticker": "AXNSA",
+	"homepage": "https://axnstakepool.co.za",
+	"extended": "https://raw.githubusercontent.com/AxnStakePool/AxnStakePool/main/extended.json"
+}

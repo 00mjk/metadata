@@ -1,0 +1,26 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://avenepool.com/assets/img/avenepool64.png",
+		"url_png_logo": "https://avenepool.com/assets/img/avenepool512.png",
+		"location": "Latvia, Europe",
+		"social": {
+			"twitter_handle": "avenepool",
+			"telegram_handle": "avenepool"
+		},
+		"about": {
+			"me": "We share 20% of the pool rewards to the West Africa Decentralized Alliance @wadalliance",
+			"server": "To ensure the highest performance, our servers are hosted in a secure Data Center in Germany.",
+			"company": "AVENE Stake Pool"
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "5e7ff9707b194d0a8abc37b35d6ca34112faaa777032e2268b2f8d07"
+	},
+	"when-satured-then-recommend": {
+		"0": "3dec052cf085697aa6c32a934527f7c5761165a6a6f02a9af30c9ed1"
+	},
+	"telegram-admin-handle": {
+		"0": "avenepool"
+	}
+}

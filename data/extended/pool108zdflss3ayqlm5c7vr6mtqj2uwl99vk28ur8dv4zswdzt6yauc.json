@@ -1,0 +1,35 @@
+{
+	"itn": {
+		"owner": "ed25519_pk130kk4m7vt4s7tflfdna784rqkajzz6lls60xgysltcmgcjqrkzjqm9mqng",
+		"witness": "ed25519_sig1pzld6fgp6laus7d9gs4vwmztuc82rlantcze6jgmctwcw4750pg8ezf4yzmu5xt7m85x6yej54pukp6jzsm4rrugsclwxca5seadvqgnyqy9q"
+	},
+	"info": {
+		"url_png_icon_64x64": "https://azureada.com/azur/AzureLogoOnly64x60.png",
+		"url_png_logo": "https://azureada.com/azur/AzureLogoOnly.png",
+		"location": "Washington, USA",
+		"social": {
+			"twitter_handle": "AzureADA",
+			"telegram_handle": "AzureADA",
+			"youtube_handle": "channel/UChJugsHkWSzkvxlk1AcHQMw",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": ""
+		},
+		"about": {
+			"server": "Microsoft Azure based array of at least 6 VMs distributed globally with 24/7/365 availability",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"telegram-admin-handle": [
+		"ericlong"
+	],
+	"my-pool-ids": [
+		"79c4d4fe108f480fee98f307adac12571df2959651f833b595141cd1"
+	],
+	"when-satured-then-recommend": [
+		"bdadf198bdc79d4f37c5dcd9ed0cdf402bdc2299c3ae4c87d688a6fe"
+	]
+}

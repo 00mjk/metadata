@@ -1,0 +1,7 @@
+{
+	"name": "QubitPool",
+	"description": "AWS Cardano Staking Pool",
+	"ticker": "QUBIT",
+	"homepage": "https://qubitpool.com",
+	"extended": "https://qubitpool.com/extended.json"
+}

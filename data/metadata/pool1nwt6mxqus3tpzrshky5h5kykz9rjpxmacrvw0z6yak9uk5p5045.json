@@ -1,0 +1,7 @@
+{
+	"name": "DigitalAssetNews Two",
+	"description": "The official StakePool#2 of Digital Asset News. Powered by Microsoft Azure making it Reliable, Trusted & Proven. Proceeds given every epoch to help the global unbanked through kiva.org",
+	"ticker": "DNEWS",
+	"homepage": "https://danteachescrypto.com/cardano-staking-pool/",
+	"extended": "https://raw.githubusercontent.com/digitalassetnews/_/main/e.json"
+}

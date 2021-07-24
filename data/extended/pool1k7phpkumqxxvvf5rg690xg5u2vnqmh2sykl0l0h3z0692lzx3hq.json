@@ -1,0 +1,49 @@
+{
+	"how-to-implement": "",
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/CXPA/Pool/master/icon.png",
+		"url_png_logo": "https://raw.githubusercontent.com/CXPA/Pool/master/logo.png",
+		"location": "",
+		"social": {
+			"twitter_handle": "CXPA0_Pool",
+			"telegram_handle": "CXPA0_StakePool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "[CXP₳0] SPO",
+			"server": "1 BP 4 vCPU, 8 GB RAM 160 GB SSD, 3 RL 4vCPU 8 GB RAM 160 GB SSD",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": [
+		"b78370db9b018cc62683468af3229c53260ddd5025beffbef113f455"
+	],
+	"when-satured-then-recommend": [
+		""
+	],
+	"telegram-admin-handle": [
+		""
+	],
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "",
+				"type": "",
+				"key": ""
+			}
+		}
+	}
+}

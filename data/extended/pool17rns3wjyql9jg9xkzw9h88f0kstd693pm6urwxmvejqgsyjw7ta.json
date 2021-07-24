@@ -1,0 +1,14 @@
+{
+	"adapools": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/0PCTPools/x/main/0PCT64x64.png",
+		"my-pool-ids": {
+			"0": "f0e708ba4407cb2414d6138b739d2fb416dd1621deb8371b6ccc8088",
+			"1": "5606dd286691c8323217da1d630bbee6e3cbf48173659cfca7fcec9a",
+			"2": "657adbe7f383bbe0b98a9ca74b9ebd5b9e7dff1e2ffeacbbeab20d76"
+		},
+		"when-satured-then-recommend": {
+			"1": "5606dd286691c8323217da1d630bbee6e3cbf48173659cfca7fcec9a",
+			"2": "657adbe7f383bbe0b98a9ca74b9ebd5b9e7dff1e2ffeacbbeab20d76"
+		}
+	}
+}

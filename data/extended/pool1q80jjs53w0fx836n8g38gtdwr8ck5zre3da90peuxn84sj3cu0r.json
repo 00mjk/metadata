@@ -1,0 +1,22 @@
+{
+	"itn": {
+		"owner": "ed25519_pk1qf52cmxncgwfkc4w6ejqla8qsy04yemgjzgzesaj042eguazg74qvuuwkw",
+		"witness": "ed25519_sig1pw6p8q5sef84sr9hfvduuqv76t2zv7l6z2j4vctfce9zz7jacfgnnu7u7g2drud8cnjf3r9swa5fctcyryrdmect2lgchthykkagszg99mvhs"
+	},
+	"info": {
+		"url_png_icon_64x64": "https://ispool.live/ISP_logo_s.png",
+		"url_png_logo": "https://ispool.live/wp-content/uploads/2020/09/ISP_logo.png",
+		"location": "ZÃ¼rich, Switzerland",
+		"social": {
+			"twitter_handle": "ISP_Cardano",
+			"telegram_handle": "investment_stake_pool"
+		},
+		"about": {
+			"me": "Team of 3 IT professionals. 15+ years of experience. Beta testing Cardano nodes since first public tests pre-ITN.",
+			"server": "IntelÂ® XeonÂ® Gold processors, NVMe SSD RAID, redundant 10 Gbit network connection. Our own bare-metal servers, plus cloud hosting: 1 Main stake pool node, 1 Backup stake pool node, 4 Private relays in undisclosed locations in Switzerland and world, 2 Public relays in Germany and Finland "
+		},
+		"my-pool-ids": {
+			"0": "01df29429173d263c7533a22742dae19f16a08798b7a57873c34cf58"
+		}
+	}
+}

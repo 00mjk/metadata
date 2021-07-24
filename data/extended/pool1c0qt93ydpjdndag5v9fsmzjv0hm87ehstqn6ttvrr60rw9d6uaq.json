@@ -1,0 +1,16 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/adafortress/pool/main/logo.jpg",
+		"url_png_logo": "https://raw.githubusercontent.com/ADA4TREES/ADAT/master/img/portfolio/9.png",
+		"location": "Ajaccio, Corsica",
+		"social": {
+			"twitter_handle": "Ada4T",
+			"telegram_handle": "ADAforTREES",
+			"facebook_handle": "cristela.pires"
+		},
+		"about": {
+			"me": "I'm Cris! From Sunny Mediterranean Corsica. With a Biotechnology background, Sustainability and Conservation are my main concerns. As a Technology enthusiast, I believe that by integrating an understanding between ecological impact and technological development, we can create solutions to mitigate our impact on major global issues like climate change and food scarcity. The blockchain technology creates the grounds needed to implement these ideas in a global prespective. It brings the transparency and security needed for a new generation of technological and social development, where our action are tracked and accounted for and our progress can be accurately measured. This is why I am invested in Cardano. The scientific aproach of the project and the sustainability values of the network made me commit to the community. Doing so by being an active member and efficiently running a stake pool.",
+			"server": "We operate a cluster of 3 nodes on separate dedicated servers ( 1 block producing node + 1 relay + 1 backup ) plus an additional 2 relays distributed geographically for performance and reliability. c8410d4789648706a72d7d1bf7d17757"
+		}
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://apexpool.info/img/icon.png",
+		"url_png_logo": "https://apexpool.info/img/logo.png",
+		"social": {
+			"twitter_handle": "cardanoapexpool",
+			"telegram_handle": "apexpool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "EY7JDK2Q53",
+			"github_handle": "cardano-apexpool"
+		}
+	},
+	"my-pool-ids": {
+		"0": "538299a358e79a289c8de779f8cd09dd6a6bb286de717d1f744bb357"
+	}
+}

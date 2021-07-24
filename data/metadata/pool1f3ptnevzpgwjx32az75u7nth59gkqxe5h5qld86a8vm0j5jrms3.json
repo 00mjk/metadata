@@ -1,0 +1,7 @@
+{
+	"name": "The Chicken Pool",
+	"description": "Cheap and reliable staking pool with 0% fees",
+	"ticker": "CHKN",
+	"homepage": "https://thechickenpool.space",
+	"extended": "https://chknpool.s3.eu-west-3.amazonaws.com/extended_meta.json"
+}

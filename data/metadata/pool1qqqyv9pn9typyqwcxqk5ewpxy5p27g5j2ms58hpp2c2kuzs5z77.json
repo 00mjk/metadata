@@ -1,0 +1,7 @@
+{
+	"name": "ANGEL stake pool",
+	"ticker": "ANGEL",
+	"extended": "https://angelstakepool.net/pool/angel-extended.json",
+	"homepage": "https://www.angelstakepool.net",
+	"description": "A Cardano Staking pool by ANGEL"
+}

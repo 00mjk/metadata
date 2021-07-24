@@ -1,0 +1,8 @@
+{
+	"name": "Dual Stacking",
+	"ticker": "DUAL",
+	"description": "Pool work on DualStack IPv4/IPv6 for really distributed blockchain. Google Cloud, AWS and DigitalOcean used in different regions for relay nodes.",
+	"homepage": "https://ada.dual.systems",
+	"extended": "https://ada.dual.systems/pmde.json",
+	"nonce": "1611425818"
+}

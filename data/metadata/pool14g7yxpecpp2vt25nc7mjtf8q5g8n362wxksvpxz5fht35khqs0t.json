@@ -1,0 +1,7 @@
+{
+	"name": "ETIRUCE POOL #1",
+	"description": "THIS POOL IS USE FOR ETIRUCE",
+	"ticker": "EPOOL",
+	"homepage": "https://set_your_webserver_url_here",
+	"extended": "http://stakepool.etiruce.com/xpool-testnet.extended.json"
+}

@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://cardano-stake.com/images/favicon.png",
+		"url_png_logo": "https://cardano-stake.com/images/favicon.png",
+		"location": "Germany, Europe",
+		"social": {
+			"twitter_handle": "stakecardano1",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "Germany",
+			"company_id": "BDB1",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Hosting secure Cardano staking is our mission. Visit our page to know more about us.",
+			"server": "We operate only energy-efficient servers on a 100% renewable electricity basis. To build the green blockchain of today and tomorrow.",
+			"company": "We have more than 10 years of experience in the IT security domain and a clear focus on security and uptime. We also focus on sustainability in our node infrastructure. In every step we strive to be as energy-efficient as possible while providing 99%+ uptime in our staking operations."
+		},
+		"rss": "http(s) url to valid RSS feed"
+	},
+	"telegram-admin-handle": [
+		""
+	],
+	"my-pool-ids": [
+		"82ca61eba3000e955e5068b5c19b329384195a58cf57397337b8ca6e"
+	],
+	"when-satured-then-recommend": [
+		"XXXXXX"
+	]
+}

@@ -1,0 +1,7 @@
+{
+	"name": "AdaStarNode",
+	"description": "We believe in Cardano",
+	"ticker": "ASN",
+	"homepage": "https://adastarnode.com",
+	"extended": "https://adastarnode.com/extendedPoolMetaData.json"
+}

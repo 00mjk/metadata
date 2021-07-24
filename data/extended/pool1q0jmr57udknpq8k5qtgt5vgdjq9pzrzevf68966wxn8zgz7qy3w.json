@@ -1,0 +1,23 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://EpochStakePool.com/images/fav/epoch-logo-64x64.png",
+		"url_png_logo": "https://EpochStakePool.com/images/fav/epoch-logo-150x150.png",
+		"location": "Fort Collins, Colorado",
+		"social": {
+			"twitter_handle": "EpochPool"
+		},
+		"company": {
+			"name": "EPOCH Stake Pool",
+			"city": "Fort Collins",
+			"country": "Colorado"
+		},
+		"about": {
+			"me": "Expert team of industry professionals who share a long term vision to provide high quality blockchain education and technology.",
+			"server": "Hosted on AWS EC2 instances",
+			"company": "EPOCH Stake Pool"
+		}
+	},
+	"my-pool-ids": {
+		"0": "03e5b1d3dc6da6101ed402d0ba310d900a110c59627472eb4e34ce24"
+	}
+}

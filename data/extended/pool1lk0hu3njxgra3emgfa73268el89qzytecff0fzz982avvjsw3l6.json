@@ -1,0 +1,16 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.mirabiliacrypto.com/impi64.png",
+		"url_png_logo": "https://www.mirabiliacrypto.com/impibanner.png",
+		"about": {
+			"me": "One of the first Cardano Stakepools in Southern Africa. Hosted in South Africa, by South Africans.",
+			"server": "Nodes running on AWS ECS containers. 99.9% update, secure and encrypted."
+		},
+		"social": {
+			"telegram_handle": "mirabiliaIMPI"
+		}
+	},
+	"my-pool-ids": {
+		"0": "fd9f7e46723207d8e7684f7d1568f9f9ca011179c252f488453abac6"
+	}
+}

@@ -1,0 +1,28 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://cardanostakehouse.com/muse/muse_64x64.png",
+		"url_png_logo": "https://cardanostakehouse.com/muse/muse_large.png",
+		"location": "",
+		"social": {
+			"twitter_handle": "TRyanJones_MUSE",
+			"telegram_handle": "MUSEPool",
+			"youtube_handle": "musestakepool",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": ""
+		},
+		"about": {
+			"server": "",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"telegram-admin-handle": [
+		""
+	],
+	"my-pool-ids": [
+		"926b65d00c21aa1fb19e44faa2293e342578ed6a80aca4a551191a70"
+	]
+}

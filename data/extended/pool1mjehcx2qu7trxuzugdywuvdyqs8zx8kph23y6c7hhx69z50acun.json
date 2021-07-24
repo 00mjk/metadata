@@ -1,0 +1,40 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://adaco.in/images/favicon.png",
+		"url_png_logo": "https://adaco.in/images/favicon.png",
+		"location": "India",
+		"social": {
+			"twitter_handle": "justkawal",
+			"telegram_handle": "ADA_charity",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "ADACO is a charity focused pool helping to feed children orphanage centers with healthy food🥗🍉🍲🍪 and fruits🍉🍓. Join us on Telegram and Twitter to see past donations and happy faces because of Cardano.",
+			"server": "Secure and reliable cloud and bare metal server running on AWS, ( 1 BP, 32 GB RAM, 8 Core, High Read-Write SSD ) and ( 2 Relays, 8 GB RAM, 4 Core, High Read-Write SSD )",
+			"company": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "pool1mjehcx2qu7trxuzugdywuvdyqs8zx8kph23y6c7hhx69z50acun"
+	},
+	"when-satured-then-recommend": {},
+	"telegram-admin-handle": {
+		"0": "justkawal",
+		"1": "justraman"
+	},
+	"adapools_ext": {
+		"prometheus": {}
+	}
+}

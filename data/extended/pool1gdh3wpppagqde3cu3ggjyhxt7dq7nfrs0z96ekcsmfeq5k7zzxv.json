@@ -1,0 +1,24 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://amigopool.github.io/amigopool/amigopool64x.png",
+		"url_png_logo": "https://amigopool.github.io/amigopool/amigopool200x.png",
+		"location": "Manzanillo, Mexico",
+		"social": {
+			"twitter_handle": "antoniosoloz",
+			"telegram_handle": "antoniosoloz",
+			"facebook_handle": "antoniosoloz",
+			"youtube_handle": "channel/UC9GyTwm2Z0yJ19ROCfv3qoQ",
+			"twitch_handle": "antoniosoloz",
+			"discord_handle": "antoniosoloz",
+			"github_handle": "amigopool"
+		},
+		"about": {
+			"me": "...",
+			"server": "...",
+			"company": "..."
+		}
+	},
+	"telegram-admin-handle": [
+		""
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"info": {
+		"company": {
+			"name": "MARIA POOL",
+			"country": "Cardano Blockchain"
+		},
+		"about": {
+			"server": "We’re currently utilizing VPS services to sustain a low-cost operation, each server having 2vCPU + 8GB RAM + 60GB HD.",
+			"company": "Support decentralization."
+		}
+	}
+}

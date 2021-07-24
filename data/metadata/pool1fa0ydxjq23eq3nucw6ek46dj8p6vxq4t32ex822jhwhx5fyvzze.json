@@ -1,0 +1,7 @@
+{
+	"name": "ZenPool",
+	"description": "A small-scale Cardano pool for friends and family",
+	"ticker": "ZAZEN",
+	"homepage": "http://zenen.space",
+	"extended": "https://raw.githubusercontent.com/ZenenTreadwell/zenentreadwell.github.io/master/extended-poolData.json"
+}

@@ -1,0 +1,33 @@
+{
+	"info": {
+		"url_png_icon_64x64": "http://piggy.trendingpools.com/images/piggy64.ico",
+		"url_png_logo": "http://piggy.trendingpools.com/images/piggy.png",
+		"location": "Scotland",
+		"social": {
+			"twitter_handle": "Ada_Piggy",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "Eddie[PIGGY]#8085",
+			"github_handle": "ada-piggy-bank"
+		},
+		"company": {
+			"name": "Eddie",
+			"addr": "",
+			"city": "UK",
+			"country": "Scotland",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Single pool operator based in Glasgow, Scotland ",
+			"server": "Germany",
+			"company": ""
+		},
+		"my-pool-ids": {
+			"0": "2595f0a5ff4145f3d6ee09e81c2488bdfe2079004eda635a6dce1515",
+			"1": ""
+		}
+	}
+}

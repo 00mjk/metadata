@@ -1,0 +1,7 @@
+{
+	"name": "PlebPool",
+	"ticker": "PLBPL",
+	"description": "Cardano staking pool for us plebeians",
+	"homepage": "https://plebpool.com",
+	"extended": "https://plebpool.com/ext_metadata.json"
+}

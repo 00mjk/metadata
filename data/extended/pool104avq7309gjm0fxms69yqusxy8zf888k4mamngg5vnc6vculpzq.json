@@ -1,0 +1,75 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://adalite.io/logo_64x64.png",
+		"url_png_logo": "https://adalite.io/logo.png",
+		"location": "Bratislava, Slovakia",
+		"social": {
+			"twitter_handle": "AdaLiteWallet",
+			"telegram_handle": "AdaLite",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "vacuumlabs/adalite"
+		},
+		"company": {
+			"name": "Vacuumlabs s.r.o.",
+			"addr": "Digital Park I, Einsteinova 3692/21",
+			"city": "Bratislava",
+			"country": "Slovakia",
+			"company_id": "48207497",
+			"vat_id": "SK2120112962"
+		},
+		"about": {
+			"me": "Adalite (ADLT) - We are an open-source client-side interface for direct interaction with the Cardano blockchain.",
+			"company": "We are Vacuumlabs. Since 2012, helping more than 60 clients from around the world build digital products, move fast and iterate by providing flexible and reliable engineering teams and product designers as a service."
+		},
+		"rss": ""
+	},
+	"telegram-admin-handle": {
+		"0": "pepo6969",
+		"1": "hrafn97"
+	},
+	"my-pool-ids": {
+		"0": "04c60c78417132a195cbb74975346462410f72612952a7c4ade7e438",
+		"1": "ce19882fd62e79faa113fcaef93950a4f0a5913b20a0689911b6f62d",
+		"2": "92229dcf782ce8a82050fdeecb9334cc4d906c6eb66cdbdcea86fb5f",
+		"3": "d785ff6a030ae9d521770c00f264a2aa423e928c85fc620b13d46eda",
+		"4": "936f24e391afc0738c816ae1f1388957b977de3d0e065dc9ba38af8d",
+		"5": "cf69a3eca039d537acd46d5864a54dd8953f0c14be957350905834aa",
+		"6": "d5e0f919debe82e4447cf0f0089188ae212f7efbc065a3d819daa17a",
+		"7": "03fbee96b84daa1bf91c44b51d2e1cbdda53fd504c98aeb6fd4a55b6",
+		"8": "481d305a21bbbaa85177413676ba350b1e2d7b7456b8008e72b96386",
+		"9": "c779f67a0f3a1f2985626e345013015f71cf245dbcc8ac8457f42e56",
+		"10": "a0fc643d831b144e1dd289f5acf4274aedc331b6a0e4257ef5376520",
+		"11": "e5c947f0a4f6a6dd0946d8971dafaf263c88a1b086527fdf24223c21",
+		"12": "7d7ac07a2f2a25b7a4db868a40720621c4939cf6aefbb9a11464f1a6",
+		"13": "c7dcc439ec02a8410d18741baf1402770b17274c1317eee6e9268a8f",
+		"14": "e908924a3d410aa9622a23d7775445a3b1e009eb7a93e210144a74ab",
+		"15": "92a36ae59d6311ceb8d1e89210f07802bb1e2595f2680649a24357f8",
+		"16": "d200f410346204cead1b202addfa250c3e16b263e8dd47a432a57258",
+		"17": "ce152385550030afd66b25f7d3df8487f2b981eef219f1892d86be70",
+		"18": "a4f0682fb0748cd4c271643c975a209b1a9a665f5185b535936a5f5f"
+	},
+	"when-satured-then-recommend": {
+		"0": "04c60c78417132a195cbb74975346462410f72612952a7c4ade7e438",
+		"1": "ce19882fd62e79faa113fcaef93950a4f0a5913b20a0689911b6f62d",
+		"2": "92229dcf782ce8a82050fdeecb9334cc4d906c6eb66cdbdcea86fb5f",
+		"3": "d785ff6a030ae9d521770c00f264a2aa423e928c85fc620b13d46eda",
+		"4": "936f24e391afc0738c816ae1f1388957b977de3d0e065dc9ba38af8d",
+		"5": "cf69a3eca039d537acd46d5864a54dd8953f0c14be957350905834aa",
+		"6": "d5e0f919debe82e4447cf0f0089188ae212f7efbc065a3d819daa17a",
+		"7": "03fbee96b84daa1bf91c44b51d2e1cbdda53fd504c98aeb6fd4a55b6",
+		"8": "481d305a21bbbaa85177413676ba350b1e2d7b7456b8008e72b96386",
+		"9": "c779f67a0f3a1f2985626e345013015f71cf245dbcc8ac8457f42e56",
+		"10": "a0fc643d831b144e1dd289f5acf4274aedc331b6a0e4257ef5376520",
+		"11": "e5c947f0a4f6a6dd0946d8971dafaf263c88a1b086527fdf24223c21",
+		"12": "7d7ac07a2f2a25b7a4db868a40720621c4939cf6aefbb9a11464f1a6",
+		"13": "c7dcc439ec02a8410d18741baf1402770b17274c1317eee6e9268a8f",
+		"14": "e908924a3d410aa9622a23d7775445a3b1e009eb7a93e210144a74ab",
+		"15": "92a36ae59d6311ceb8d1e89210f07802bb1e2595f2680649a24357f8",
+		"16": "d200f410346204cead1b202addfa250c3e16b263e8dd47a432a57258",
+		"17": "ce152385550030afd66b25f7d3df8487f2b981eef219f1892d86be70",
+		"18": "a4f0682fb0748cd4c271643c975a209b1a9a665f5185b535936a5f5f"
+	}
+}

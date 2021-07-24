@@ -1,0 +1,43 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://wavespool.io/cover.png",
+		"url_png_logo": "https://wavespool.io/cover-min.png",
+		"location": "Decentralized , Headquarters",
+		"social": {
+			"twitter_handle": "WavesPoolOP",
+			"telegram_handle": "WavesPoolOP",
+			"github_handle": "WavesPoolOP"
+		},
+		"about": {
+			"me": "Cardano blockchain enthusiast, one for all & all for one.",
+			"server": "Hosted with a Failproof, Multi-Core,High Speed RAM, 250gb NVMe SSD storage server! From speeds above and beyond 100MB up/down, always online 24 Hours A day 7 Days a week 52 Weeks a year. %0 margin till April"
+		}
+	},
+	"my-pool-ids": {
+		"0": "7cf8850b077af4b16abd7006f8e9564c2fa23259d184aeeba108ae27"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "ams-relay",
+				"type": "relay",
+				"key": "15cf5d20da6257708998a28924fc5da7"
+			},
+			"1": {
+				"name": "lon1-relay",
+				"type": "relay",
+				"key": "6e7d1cca82a9c59b5c8755cece656773"
+			},
+			"2": {
+				"name": "lon2-relay",
+				"type": "relay",
+				"key": "565c53d5f92361cf073f4e34acb3a1cd"
+			},
+			"3": {
+				"name": "lon3-relay",
+				"type": "relay",
+				"key": "3bd22b39277ffe3da7b105f44f1d5995"
+			}
+		}
+	}
+}

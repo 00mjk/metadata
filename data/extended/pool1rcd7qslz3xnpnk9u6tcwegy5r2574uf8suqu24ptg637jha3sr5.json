@@ -1,0 +1,32 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/public-service/adapool/master/NINI_logo.PNG",
+		"url_png_logo": "",
+		"location": "Copenhagen, Denmark",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "NINI_stakepool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "1e1be043e289a619d8bcd2f0eca0941aa9eaf1278701c5542b46a3e9"
+	},
+	"when-satured-then-recommend": {
+		"0": "1649d50e9181b60bab868c20980c191e4689b95791b61d44678cd6e6"
+	},
+	"telegram-admin-handle": {
+		"0": "NINI_stakepool"
+	}
+}

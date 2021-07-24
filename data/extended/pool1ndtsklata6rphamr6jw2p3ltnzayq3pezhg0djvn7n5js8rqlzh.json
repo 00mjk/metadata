@@ -1,0 +1,36 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://everyblock.studio/pool/ebs-icon.png",
+		"url_png_logo": "https://everyblock.studio/pool/ebs-logo.png",
+		"location": "Rio de Janeiro, Brazil",
+		"social": {
+			"twitter_handle": "everyblockstd",
+			"telegram_handle": "EveryBlockStudio",
+			"instagram_handle": "everyblockstudio",
+			"youtube_handle": "channel/UCSmftpazwrzEWcILmaCN8LQ",
+			"github_handle": "EveryBlockStudio"
+		},
+		"company": {
+			"name": "EveryBlock Studio",
+			"city": "Rio de Janeiro",
+			"country": "Brazil"
+		},
+		"about": {
+			"server": "Weâre currently utilizing VPS services to sustain a low-cost operation, a total of 4 servers hosted in Canada and Singapore for better connectivity, each server having 4vCPU + 8GB RAM + 160GB SSD.",
+			"company": "A Brazilian startup exploring interactive media through smart contracts. Founded on solid values: community benefit>individuals; purpose>profit; open innovation>patents; trust on tech>stamps. We consider our pool as a business operation to support the network, not our core business."
+		},
+		"rss": "https://everyblock.studio/feed/"
+	},
+	"my-pool-ids": {
+		"0": "9b570b7fabee861bf763d49ca0c7eb98ba40443915d0f6c993f4e928"
+	},
+	"when-satured-then-recommend": {
+		"0": "7095ee942c6aa5d594f08fa9f377b2f00c4abe96dd58209e2e9d18b7",
+		"1": "7862852ab4afc9ecf783ff074760ad2f3bf52669713dd6d7d6794512",
+		"2": "92fcdd76d1d9d13910cbe1930765543984e6f4ef9b7efed3cc6536a1",
+		"3": "51588318f3e0309016945846d10f8949a1da232551c4dec42641b150"
+	},
+	"telegram-admin-handle": {
+		"0": "linconvidal"
+	}
+}

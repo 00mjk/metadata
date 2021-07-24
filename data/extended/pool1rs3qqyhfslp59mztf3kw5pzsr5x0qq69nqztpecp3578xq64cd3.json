@@ -1,0 +1,35 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/SkiLov3/AliceStakePool/2db1216b627b62fea9e5d5aed02052dc29db651b/logo64x64.png",
+		"url_png_logo": "https://raw.githubusercontent.com/SkiLov3/AliceStakePool/main/received_912168092669193.jpeg",
+		"location": "Reno , NV, USA",
+		"social": {
+			"twitter_handle": "StakeAlice",
+			"telegram_handle": "AliceStakePool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "SkiLov3"
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "5-Year IT Veteran and Nevada Local who is 100% committed to the Cardano Ecosystem",
+			"server": "AWS us-west-2 EC2s runnning on t3a.large instances.",
+			"company": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "1c220012e987c342ec4b4c6cea04501d0cf003459804b0e7018d3c73"
+	},
+	"telegram-admin-handle": {
+		"0": "alice_ops"
+	}
+}

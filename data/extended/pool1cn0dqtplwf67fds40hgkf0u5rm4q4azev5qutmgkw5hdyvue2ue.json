@@ -1,0 +1,41 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://nedscave.io/logo64.png",
+		"url_png_logo": "https://nedscave.io/fulllogo.png",
+		"location": "Planet Earth",
+		"social": {
+			"twitter_handle": "nedscave",
+			"telegram_handle": "nedscave",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "Advanced staking on one of the leading infrastructures in the world / Multiple relays with 99.95% uptime SLA hardware and network backbone powered by Amazon Web Services / Realtime monitoring provided at http://monitor.nedscave.io / Join our telegram channel for latest information at https://t.me/nedscave",
+			"company": "https://nedscave.io"
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "024dcb42f0aa6d81a7e26ccdd525a2ed3e9665d126b38ba0f8b77b50",
+		"1": "c4ded02c3f7275e4b6157dd164bf941eea0af4596501c5ed16752ed2"
+	},
+	"when-satured-then-recommend": {
+		"0": "024dcb42f0aa6d81a7e26ccdd525a2ed3e9665d126b38ba0f8b77b50",
+		"1": "c4ded02c3f7275e4b6157dd164bf941eea0af4596501c5ed16752ed2"
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	}
+}

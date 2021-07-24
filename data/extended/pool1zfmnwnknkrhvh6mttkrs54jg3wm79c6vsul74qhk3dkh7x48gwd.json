@@ -1,0 +1,21 @@
+{
+	"info": {
+		"url_png_icon_64x64": "",
+		"url_png_logo": "https://cardanoqueen.io/media/Cardanoqueen.png",
+		"location": "Copenhagen, Denmark",
+		"social": {
+			"twitter_handle": "CardanoQ",
+			"youtube_handle": "channel/UCegqamHRa1VmYYsgeHV9otg"
+		},
+		"company": {
+			"name": "CDQ"
+		},
+		"about": {
+			"me": "The mission of this pool is to help me create high quality information about Cardano to all who are interested in this amazing project. Some of the rewards will go directly to charities that I personally know make a difference in this world.",
+			"server": "Hosted in a datacenter in Denmark"
+		}
+	},
+	"my-pool-ids": {
+		"0": "1277374ed3b0eecbeb6b5d870a56488bb7e2e34c873fea82f68b6d7f"
+	}
+}

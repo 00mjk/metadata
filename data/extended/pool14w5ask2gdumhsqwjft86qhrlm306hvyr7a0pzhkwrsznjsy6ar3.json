@@ -1,0 +1,25 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://github.com/kadway/kadway.github.io/raw/master/logo_icon.png",
+		"url_png_logo": "https://raw.githubusercontent.com/kadway/kadway.github.io/master/logo-normal-500.png",
+		"location": "Portugal",
+		"social": {
+			"twitter_handle": "pooltugal",
+			"telegram_handle": "pooltugal"
+		},
+		"about": {
+			"me": "We're blockchain enthusiasts, we're all about bringing awareness of the Carano project while educating about blockchain technology and cryptocurrency. We are still young but we have already many ideas which we will try to bring about to incentivise the usage of ADA and the cardano ecosystem.",
+			"server": "We are located in Lisbon, Portugal. We try to keep an uptime of 24/7 of our two relays and blockproducer so that we don't miss any blocks.",
+			"company": "https://www.pooltugal.com"
+		}
+	},
+	"my-pool-ids": {
+		"0": "aba9d859486f377801d24acfa05c7fdc5fabb083f75e115ece1c0539"
+	},
+	"when-satured-then-recommend": {
+		"0": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	}
+}

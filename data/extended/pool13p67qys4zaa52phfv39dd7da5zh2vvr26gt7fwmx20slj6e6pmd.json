@@ -1,0 +1,17 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://astropool.io/logo_astropool_64x64.png",
+		"url_png_logo": "https://astropool.io/logo_astropool_black_512x512.png",
+		"location": "Spain",
+		"social": {
+			"twitter_handle": "AstropoolO",
+			"facebook_handle": "astropool.io",
+			"youtube_handle": "channel/UC29XbBd-_O4-PgPIDmXPRcQ",
+			"telegram_handle": "astropoolIO"
+		},
+		"about": {
+			"me": "Welcome to ASTROPOOL. We are a group of IT profesionals, DevOps, Software Developers, Systems Engineers and Blockchain Evangelists, that run a Stake Pool following highests industry standards. At the same time, we are passionate about science, astronomy, astrophotogray and nature, and we spend much of our time on associations and groups, enjoying all this and teaching others.",
+			"server": "50K+ Pledge | 99.99% Uptime | Hybrid Platform (cloud + baremetal) | Highend Automation Techniques | Multi-layer Security | DDoS Mitigation | 24/7 Monitoring | Server Redundancy"
+		}
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"adapools": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/itcpool/meta/main/icon64x64.jpg",
+		"url_png_logo": "https://raw.githubusercontent.com/itcpool/meta/main/icon.jpg",
+		"social": {
+			"twitter_handle": "intocryptoverse",
+			"telegram_handle": "intocryptoverse",
+			"youtube_handle": "channel/UCRvqjQPSeaWn-uEx-w0XOIg"
+		},
+		"about": {
+			"me": "Welcome Into The Cryptoverse, I am Benjamin Cowen, PhD in Engineering with a background in Computational Mathematics and Programming. I create video analysis publicly available via my Youtube channel and exclusive Premium content for a list of enthusiasts and market participants. The Premium newsletter is out every week and you can buy access to the list here."
+		}
+	}
+}

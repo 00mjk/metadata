@@ -1,0 +1,23 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://knuggies.io/static/KNuggies-64.png",
+		"url_png_logo": "https://knuggies.io/static/KNuggies.png",
+		"location": "United States",
+		"social": {
+			"twitter_handle": "KNuggies3",
+			"reddit_handle": "KNuggies3"
+		},
+		"company": {
+			"name": "KNuggies",
+			"country": "United States"
+		},
+		"about": {
+			"me": "...",
+			"server": "Hosted on Google Cloud Compute",
+			"company": "..."
+		}
+	},
+	"my-pool-ids": {
+		"0": "c5c17e9e1e9fb8044b0215ce9b121f1b8a63723dbfa81c14b7a308ba"
+	}
+}

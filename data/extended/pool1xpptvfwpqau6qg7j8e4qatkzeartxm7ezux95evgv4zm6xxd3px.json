@@ -1,0 +1,47 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://cryptogrow.me/images/logo-cryptogrow-me-64x64.png",
+		"url_png_logo": "https://cryptogrow.me/images/logo-cryptogrow-me-40kb.png",
+		"location": "",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "3042b625c10779a023d23e6a0eaec2cf46b36fd9170c5a65886545bd"
+	},
+	"when-satured-then-recommend": {
+		"0": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "Relay 1 AWS EC2 - Ashburn, US",
+				"type": "relay",
+				"key": "febaff08391d204674862452759987d8"
+			}
+		}
+	}
+}

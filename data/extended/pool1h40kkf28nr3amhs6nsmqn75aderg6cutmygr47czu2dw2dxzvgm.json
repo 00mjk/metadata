@@ -1,0 +1,37 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.tangocrypto.com/images/logo64.png",
+		"url_png_logo": "https://www.tangocrypto.com/images/logo.png",
+		"location": "London, England",
+		"social": {
+			"twitter_handle": "tango_crypto",
+			"telegram_handle": "tangocrypto",
+			"facebook_handle": "",
+			"youtube_handle": "channel/UCmBDcgWgk3SOQA91s-rAFZg",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Tango Crypto",
+			"addr": "",
+			"city": "London",
+			"country": "England",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "Digital Ocean ",
+			"company": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "bd5f6b254798e3ddde1a9c3609fa9d6e468d638bd9103afb02e29ae5",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": "mozart_89",
+		"1": "javiertc86"
+	}
+}

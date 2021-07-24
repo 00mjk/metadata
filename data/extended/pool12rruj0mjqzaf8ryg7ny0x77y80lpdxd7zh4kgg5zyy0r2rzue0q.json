@@ -1,0 +1,31 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://ada-infinitum.github.io/ADA-Infinitum-icon.png",
+		"url_png_logo": "https://ada-infinitum.github.io/ADA-Infinitum-transparent.png",
+		"location": "Fort Smith, Arkansas, USA",
+		"company": {
+			"name": "ADA Infinitum"
+		},
+		"about": {
+			"server": "Bare metal server with 1 Gbit fiber connection",
+			"company": "ADA Infinitum"
+		}
+	},
+	"my-pool-ids": {
+		"0": "pool12rruj0mjqzaf8ryg7ny0x77y80lpdxd7zh4kgg5zyy0r2rzue0q"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "relay 1",
+				"type": "relay",
+				"key": "0d0cc9e7df5c87a52c25819cda9b7d8d"
+			},
+			"1": {
+				"name": "block producer",
+				"type": "bp",
+				"key": "e754d0a6a903b8c42f724e2e468b72a5"
+			}
+		}
+	}
+}

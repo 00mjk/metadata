@@ -1,0 +1,29 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://plushpool.com/plush-icon.png",
+		"url_png_logo": "",
+		"location": "Perfectoid Space",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "kushfulton",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"about": {
+			"me": "I am a unix admin/dev ops engineer who loves ADA",
+			"server": "Pool is on high capacity elastic hardware and is actively montoried, data center hosted, low latency"
+		}
+	},
+	"my-pool-ids": {
+		"0": "14cb7963696b6f80abb2298dc60bc2abc7d813abb23ac19c6420bca0"
+	},
+	"when-satured-then-recommend": {
+		"0": "699c814b5a0f3bf2d35b9b0adcfed9fa0fe891881a9ad3c15e2edf73"
+	},
+	"telegram-admin-handle": {
+		"0": "kushfulton"
+	}
+}

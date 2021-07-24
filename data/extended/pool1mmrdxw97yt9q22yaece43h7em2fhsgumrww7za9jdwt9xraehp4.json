@@ -1,0 +1,60 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://loop-pool.one/wp-content/uploads/2021/05/LoopPool_white_64x64.png",
+		"url_png_logo": "https://loop-pool.one/wp-content/uploads/2021/05/LoopPool_white_200x200.png",
+		"location": "",
+		"social": {
+			"twitter_handle": "LoopStaking",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Welcome ! Thank you for visiting. Take a seat and stay with us. Please consider delegating to a small community pool to help decentralization. ",
+			"server": "",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "dec6d338be22ca05289dce3358dfd9da9378239b1b9de174b26b9653"
+	},
+	"when-satured-then-recommend": {
+		"0": "00000110093effbf3ce788aebd3e7506b80322bd3995ad432e61fad5",
+		"1": "000022b3f0b748a43239c5024c58f852c05593cd0a77a798f0bb3a14"
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "",
+				"type": "",
+				"key": ""
+			},
+			"1": {
+				"name": "",
+				"type": "",
+				"key": ""
+			},
+			"2": {
+				"name": "",
+				"type": "",
+				"key": ""
+			}
+		}
+	}
+}

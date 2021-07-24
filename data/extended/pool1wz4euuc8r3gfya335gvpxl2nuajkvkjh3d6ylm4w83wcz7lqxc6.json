@@ -1,0 +1,36 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://github.com/link78/fasopooldata/blob/main/cover.png",
+		"url_png_logo": "https://github.com/link78/fasopooldata/blob/main/cover.png",
+		"location": "Lincoln Nebraska, United States",
+		"social": {
+			"twitter_handle": "kad1212",
+			"telegram_handle": "https://t.me/fasopool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "FasoStakePool",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Professionals with years of experience building Apps",
+			"server": "Nodes are running on Bare Metal server with latest equipments",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "pool1wz4euuc8r3gfya335gvpxl2nuajkvkjh3d6ylm4w83wcz7lqxc6"
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	}
+}

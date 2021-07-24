@@ -1,0 +1,37 @@
+{
+	"itn": {
+		"owner": "ed25519_pk1qlnjs0623x8nxlrg7pgdt6ha5qx2rne0hgglacnz4set4kvzlgcszanmlk",
+		"witness": "ed25519_sig1lmmrysa56nmn3stqpy5k9zhfh8nha08gkrs0dzqtmhf0zu4pylyeglyphg0yt5jp80wdvxd0ewlp568uvde2rgpts6kndn543tpesrqdrms4t"
+	},
+	"info": {
+		"url_png_icon_64x64": "https://blueskystaking.com/blue-icon_64x64.png",
+		"url_png_logo": "https://blueskystaking.com/blue-icon_175x175.png",
+		"location": "Netherlands, Europe",
+		"social": {
+			"twitter_handle": "BlueCardano",
+			"telegram_handle": "blueskystakepool",
+			"youtube_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Blueskystakepool."
+		},
+		"about": {
+			"server": "OVH Global Infrastructure",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"telegram-admin-handle": [
+		"Blue"
+	],
+	"my-pool-ids": [
+		"730978fb63da87837a886054ac3470251d17bfb23fd1f98886125579",
+		"d154d3001887584db84a3bab55aa5724a7db3255fc50e129a01f47bc"
+	],
+	"when-satured-then-recommend": [
+		"730978fb63da87837a886054ac3470251d17bfb23fd1f98886125579",
+		"d154d3001887584db84a3bab55aa5724a7db3255fc50e129a01f47bc"
+	]
+}

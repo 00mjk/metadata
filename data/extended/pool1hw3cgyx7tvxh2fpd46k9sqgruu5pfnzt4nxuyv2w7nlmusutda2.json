@@ -1,0 +1,11 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://threepool.info/url_png_icon_64x64.png",
+		"url_png_logo": "https://threepool.info/url_png_logo.png",
+		"location": "3rd Rock From The Sun."
+	},
+	"about": {
+		"me": "I built Three Pool for the people.",
+		"server": "Multiple servers in multiple datacenters on multiple continents for excellent uptime."
+	}
+}

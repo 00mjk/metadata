@@ -1,0 +1,22 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://ibanx.io/cardano-pool-icon.png",
+		"url_png_logo": "https://ibanx.io/cardano-pool-icon.png",
+		"location": "Arizona, USA",
+		"social": {
+			"twitter_handle": "IbanxStaking"
+		},
+		"company": {
+			"name": "iBanx",
+			"city": "Phoenix",
+			"country": "US"
+		},
+		"about": {
+			"me": "iBanx Stake Pool is an advocate for decentralized finance and is a single pool operator.",
+			"adapool": "05b132627b39de0332b9c73f05bf2eb4"
+		},
+		"my-pool-ids": {
+			"0": "d8cb476e181ba4fad925f5750352250652994768a4db91506261ed4c"
+		}
+	}
+}

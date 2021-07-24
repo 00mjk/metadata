@@ -1,0 +1,35 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://trexstaking.de/images/logo_64x64.png",
+		"url_png_logo": "https://trexstaking.de/images/logo_50kb.png",
+		"location": "Aachen, Germany",
+		"social": {
+			"twitter_handle": "MetinCelik15",
+			"telegram_handle": "trexstaking",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Metin Celik",
+			"addr": "Hollandstr. 68",
+			"city": "Dortmund",
+			"country": "Germany",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "I'm a Software Developer and I believe Cardano will change the world.",
+			"server": "Server is located in Aachen with 200 Mbit/s up and down. Currently I'm running two relays, located in Aachen and Dortmund.",
+			"company": "This is an independent pool that is not connected to any company."
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "ae7c8a9b72f7a1e8129cec9cc6ed9996e5865ec9ad4abec011588ef4"
+	},
+	"when-satured-then-recommend": {},
+	"telegram-admin-handle": {}
+}

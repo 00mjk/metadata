@@ -1,0 +1,66 @@
+{
+	"itn": {
+		"owner": "",
+		"witness": ""
+	},
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/crmy/m/e/army1a_64x64.png",
+		"url_png_logo": "https://raw.githubusercontent.com/crmy/m/e/army1a.png",
+		"location": "",
+		"social": {
+			"twitter_handle": "CardanoArmy",
+			"telegram_handle": "joinchat/G373FWjMUtPfFqQ8",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Cardano Army Stakepool. Join the Crypto Revolution! Run by IT Pro on Baremetal with Cloud Backup",
+			"server": "Baremetal with Cloud Backup",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "061ae3f2d469737fb6f8c10aad70e7d02e37f8dd8d2a41dbbb6b72f0"
+	},
+	"when-satured-then-recommend": {
+		"0": "921dc3fc11681ad9ccde08c9bc23041808f4b7e8ba231be557db8ab5",
+		"1": "2523d71a1bd6376804e0bace048289a63455eb6340db81e616a11f9c",
+		"3": "60397646d7d1ad6fe2ddccfe7efc9cba61f6d3d94d29e8f41de73240",
+		"4": "f059ed9ef469a045d29c0f48799fb6cab08c0abbc0fd1f736a5fced5",
+		"5": "e00ff546b17eb7ed726411edc74eccdad9d176d0d338c21a3d8daf34"
+	},
+	"telegram-admin-handle": {
+		"0": "Callum"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "",
+				"type": "",
+				"key": ""
+			},
+			"1": {
+				"name": "",
+				"type": "",
+				"key": ""
+			},
+			"2": {
+				"name": "",
+				"type": "",
+				"key": ""
+			}
+		}
+	}
+}

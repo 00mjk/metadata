@@ -1,0 +1,43 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://eztero.github.io/TricahuePool/images/tchp_adapools.png",
+		"url_png_logo": "",
+		"location": "Chile",
+		"social": {
+			"twitter_handle": "TCHPool",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Hi, I'm Eztero, I'm from Chile. I am a committed and experienced operator, I started managing the pool from the beginning of the ITN (Incentived Testnet Network) and I intend to continue supporting the network for a long time. The name of my pool Tricahue refers to a species of parrot endemic to my country that is in danger of extinction",
+			"server": "My Relay server is located in Canada and has the following characteristics: 2 vCores,4GB RAM,80GB NVMe SSD,500 Mbit/s.",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	},
+	"my-pool-ids": {
+		"0": "70e483a5702e3907e4079113470209ceab93ad83070c84a62b20b350"
+	},
+	"when-satured-then-recommend": {
+		"0": "bb224ee756ce73c513d9e43323560e6ab644db83fb57eff613503953"
+	},
+	"itn": {
+		"owner": "ed25519_pk18jzwyct034naacwkwagdcdx3y22ayj3ht43s80wthh8a9p8hze0q20prdf",
+		"witness": "ed25519_sig1gqr6chklq9ut2mkwvvkqmz7kgsk7t3gqawcrurcgka3t8fgvdp6lnxd25kgfc874w8dmkgefly6vcf320e94n3y536kxfec79rc5jrsgarkq6"
+	}
+}

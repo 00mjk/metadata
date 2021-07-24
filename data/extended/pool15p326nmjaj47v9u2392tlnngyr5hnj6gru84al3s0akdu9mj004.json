@@ -1,0 +1,13 @@
+{
+	"itn": {
+		"owner": "ed25519_pk1xx40s9ycxyvv5d90kh8vqee0pm5rvwr3nl5wdx4v7m2xuf6nkraq46qmdq",
+		"witness": "ed25519_sig1hl2hx07sktt9stj4jnnhkrxm3ydrhe3tczqxnsxwtx8fsvsyyxcxm8ty9rledv2uh3z9ywkx2z3re890l00mgekthg22qcp7u9pngrq4hw36c"
+	},
+	"adapools": {
+		"url_png_icon_64x64": "http://walletinfo.plutus-staking.com/pltus/icon.png",
+		"url_png_logo": "http://walletinfo.plutus-staking.com/pltus/banner.jpg",
+		"social": {
+			"twitter_handle": "PlutusPool"
+		}
+	}
+}

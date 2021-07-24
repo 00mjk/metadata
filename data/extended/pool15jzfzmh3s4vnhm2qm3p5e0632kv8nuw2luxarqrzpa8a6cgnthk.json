@@ -1,0 +1,26 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://balkanopool.com/img/bclogo64x64.png",
+		"url_png_logo": "https://balkanopool.com/img/bclogo500x500.png",
+		"location": "Balkan",
+		"social": {
+			"twitter_handle": "Mihaylo_A",
+			"telegram_handle": "BalkanoPool",
+			"facebook_handle": "BalkanoPool",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"about": {
+			"me": "We are a small group of software developers from Serbia and Bulgaria. Our goal is to provide a professional stake pool service and bring together the Cardano community on the Balkan",
+			"server": "Virtual Private Server with 8gb of RAM and dedicated vCPUs"
+		}
+	},
+	"my-pool-ids": {
+		"0": "a484916ef185593bed40dc434cbf51559879f1caff0dd180620f4fdd"
+	},
+	"when-satured-then-recommend": {
+		"0": "a484916ef185593bed40dc434cbf51559879f1caff0dd180620f4fdd"
+	}
+}

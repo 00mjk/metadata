@@ -1,0 +1,60 @@
+{
+	"info": {
+		"url_png_icon_64x64": "http://staykpool.com/wp-content/uploads/2021/04/Stayk_Antraciet_Icon_64x64.jpg",
+		"location": "Den Haag, Holland",
+		"social": {
+			"instagram_handle": "",
+			"discord_handle": "",
+			"reddit_handle": "https://www.reddit.com/user/STAYK_Pool/",
+			"twitter_handle": "STAYKPool",
+			"facebook_handle": "https://www.facebook.com/StaykPool",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"telegram_handle": "https://msng.link/o/?ST%E2%82%B3YK%20Pool=tg",
+			"github_handle": "BaasMons"
+		},
+		"company": {
+			"name": "Stayk Pool",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "...",
+			"server": "1x Cloudbased Block producer, 2x Bare Metal relays and 1 x Cloud relay",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "fd6049e6058460efa683a0e090e5b98d0ea1d6db539a5a9b0bc649de"
+	},
+	"when-satured-then-recommend": {
+		"0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
+		"1": "79219df8a6919aa5443f301d07a6f9eb9be38a6388215baaf55291b3"
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "",
+				"type": "",
+				"key": ""
+			},
+			"1": {
+				"name": "",
+				"type": "",
+				"key": ""
+			},
+			"2": {
+				"name": "",
+				"type": "",
+				"key": ""
+			}
+		}
+	}
+}

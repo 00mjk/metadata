@@ -1,0 +1,16 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.starfishstakepool.com/wp-content/uploads/2021/02/starfish_logo.png",
+		"location": "Amsterdam, Netherlands",
+		"social": {
+			"twitter_handle": "PoolStarfish",
+			"telegram_handle": "starfishstakepool"
+		},
+		"about": {
+			"me": "We are a passionate crypto duo, who strongly believe in the technology behind Cardano. For us, âhodlingâ was not enough and we wanted to do more for the Cardano community. That is why we started theÂ StarfishÂ stake pool. With our background in Artificial Intelligence, programming and marketing, we have joined forces to set up a very well-functioning stake pool. In this way, we hope to be able to add value to Cardanoâs decentralized network. And not unimportantly: We strive for the highest possible Return Of Assets percentage for our delegators."
+		},
+		"my-pool-ids": {
+			"0": "4741e34732657d8259ca70f04594a98a3048f484e1a09d200c69e4a9"
+		}
+	}
+}

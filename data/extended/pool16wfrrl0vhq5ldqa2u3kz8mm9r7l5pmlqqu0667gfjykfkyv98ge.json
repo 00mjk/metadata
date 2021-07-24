@@ -1,0 +1,23 @@
+{
+	"itn": {
+		"owner": "ed25519_pk1tkzwsq9cqvrkjcc3cfmsfalhrf4zlrvl86806s36yas6tmhaxxzq58jkvk",
+		"witness": "ed25519_sig1ex57pyscxmm8kg4m2k35hxt5tkr63su2n3nsrlwhede0ucesu2qlnkgvxccx0yu9rrupnvmxmsk5gm8e4u95tec36kjeq8pw7zgtyzq55gu83"
+	},
+	"info": {
+		"url_png_icon_64x64": "https://caesar44.github.io/testreg1/adapool64.png",
+		"url_png_logo": "https://caesar44.github.io/testreg1/adapool200.png",
+		"location": "Acapulco, Mexico",
+		"social": {
+			"twitter_handle": "AdaMXPool",
+			"telegram_handle": "cesar44"
+		},
+		"about": {
+			"me": "Amante de cardano apoyando la descentralizacion. | Cardano lover supporting decentralization.",
+			"server": "adaMX Pools",
+			"company": "ada lovers"
+		}
+	},
+	"telegram-admin-handle": [
+		""
+	]
+}

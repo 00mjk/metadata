@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "",
+		"url_png_logo": "",
+		"location": "",
+		"social": {
+			"twitter_handle": "IoMaasai",
+			"telegram_handle": "maasaidotio",
+			"facebook_handle": "maasai.io",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "MASAI",
+			"addr": "www.maasai.io",
+			"city": "Nairobi",
+			"country": "Kenya",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "AWS Server located in Africa",
+			"company": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "pool1zcdwn5z04gw7m0n7qzwx9gqn8a9l3wfcvejc3wrdxfuhc88usua"
+	},
+	"when-satured-then-recommend": {
+		"0": "",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"name": "Cryptofay",
+	"description": "AWS hosted automated and monitored pool with best industry practices, see more at: cryptofay.io",
+	"ticker": "FAY",
+	"homepage": "https://cryptofay.io",
+	"extended": "https://raw.githubusercontent.com/cryptofay/m/master/af.json"
+}

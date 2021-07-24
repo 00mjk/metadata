@@ -1,0 +1,43 @@
+{
+	"itn": {
+		"owner": "ed25519_pk14y46wcenxf2w5vppcu5kt3fh6juu9m8d080ar5m0fqnnueuvfykqwrdujz",
+		"witness": "ed25519_sig1qact0t004se6kq3x6a976gj5vc58rjedygq6znf4tkzt3fwm8z292pm6nt3a5kt8l367f4e8krehg0zzrd727nqmyw3eewpg95rg2zgj26yf9"
+	},
+	"info": {
+		"url_png_icon_64x64": "https://kficz.github.io/output-onlinepngtools.png",
+		"url_png_logo": "https://kficz.github.io/test.png",
+		"location": "Southampton, England",
+		"social": {
+			"twitter_handle": "theswimpool",
+			"telegram_handle": "joinchat/LoL2ehvyv8uuecE083lPGw",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Cardano enthusiast and welder-fabricator :)",
+			"server": "...",
+			"company": "..."
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "31af0509d4376a8a55b40e952aea7f009c13cadf0338c57512ff42e9"
+	},
+	"when-satured-then-recommend": {
+		"0": "fbc3b43604dedb35f09d9d61391ce03cf65e9b3b7653ca1376e0150d"
+	},
+	"telegram-admin-handle": {
+		"0": "adaswim"
+	}
+}

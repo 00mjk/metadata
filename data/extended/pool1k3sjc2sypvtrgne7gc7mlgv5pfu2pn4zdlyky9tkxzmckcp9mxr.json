@@ -1,0 +1,18 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://lfepool.com/img/logo_64.png",
+		"url_png_logo": "https://lfepool.com/img/twitter.png",
+		"location": "Hamburg, Germany",
+		"social": {
+			"twitter_handle": "lfepool",
+			"telegram_handle": "lfepool",
+			"discord_handle": "3S23dZD"
+		}
+	},
+	"my-pool-ids": [
+		"b4612c2a040b16344f3e463dbfa1940a78a0cea26fc962157630b78b"
+	],
+	"when-satured-then-recommend": [
+		"b4612c2a040b16344f3e463dbfa1940a78a0cea26fc962157630b78b"
+	]
+}

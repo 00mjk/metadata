@@ -1,0 +1,46 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://adakailabs.com/assets/img/logo64.png",
+		"url_png_logo": "https://adakailabs.com/assets/img/1x.png",
+		"location": "San Jose, Costa Rica",
+		"social": {
+			"twitter_handle": "adakailabs",
+			"telegram_handle": "adakailabs",
+			"github_handle": "adakailabs"
+		},
+		"company": {
+			"name": "Adakailabs",
+			"addr": "Escazu",
+			"city": "San Jose",
+			"country": "Costa Rica",
+			"company_id": "0",
+			"vat_id": "0"
+		},
+		"about": {
+			"me": "We are Electrical and Computer Sciences engineers with 20+ years of experience in the IT industry. We have been through several technology evolution cycles since the 1990s and understand how to scale our systems and anticipate new requirements. Passion for advancing and democratizing technology is what drives us. Rocinante is one of the very few Cardano nodes in Latin America, so believe we have an important role in the decentralization effort. Please consider this when you decide where to stake.",
+			"server": "We use a mix of 1 cloud server for backup and multiple raspberry pie 4 servers for minimal power consumption and carbon footprint. Our raspberry pie servers run in Costa Rica which guarantees that on top of minimal power usage, 99%  of the energy used is renewable energy.",
+			"company": "Adakailabs, evangelizing blockchain technology and Cardano in Costa Rica and the rest of Latin America"
+		}
+	},
+	"my-pool-ids": {
+		"0": "e28f147e344364afeb14c6d05c0f88497a0f3b4aaa82339d9accc67e"
+	},
+	"when-satured-then-recommend": null,
+	"telegram-admin-handle": {
+		"0": "adakailabs"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "relay0",
+				"type": "relay",
+				"key": "example_get_own_on_adapools.org/connect"
+			},
+			"1": {
+				"name": "relay1",
+				"type": "relay",
+				"key": "example_get_own_on_adapools.org/connect"
+			}
+		}
+	}
+}

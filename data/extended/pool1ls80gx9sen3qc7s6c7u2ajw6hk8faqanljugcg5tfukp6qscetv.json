@@ -1,0 +1,20 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://lgbtqpool.com/wp-content/uploads/2021/04/heart.png",
+		"url_png_logo": "https://lgbtqpool.com/wp-content/uploads/2021/06/cardano-lgbtq-logo.png",
+		"location": "London, UK",
+		"social": {
+			"twitter_handle": "lgbtqstakepool"
+		},
+		"company": {
+			"name": "LGBTQ"
+		},
+		"about": {
+			"me": "A pride pool supporting LGBTQ+ causes. Follow the Rainbow!",
+			"server": "24/7/365 Secure Up-to-date hardware and Multiple relays."
+		}
+	},
+	"my-pool-ids": {
+		"0": "fc0ef418b0cce20c7a1ac7b8aec9dabd8e9e83b3fcb88c228b4f2c1d"
+	}
+}

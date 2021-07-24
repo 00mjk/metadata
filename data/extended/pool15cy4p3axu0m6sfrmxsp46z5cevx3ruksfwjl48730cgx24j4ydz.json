@@ -1,0 +1,48 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/bjarnekvae/tech-pool/main/techpool_64x64_padding_v2.png",
+		"url_png_logo": "https://github.com/bjarnekvae/tech-pool/raw/main/techpool_medium.png",
+		"location": "Norway",
+		"social": {
+			"twitter_handle": "CardanoTech",
+			"telegram_handle": "CardanoTech",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "M.Sc Cybernetics and Robotics, B.Sc Industiral Automation and Computer Scinence",
+			"server": "Intel NUC",
+			"company": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "pool15cy4p3axu0m6sfrmxsp46z5cevx3ruksfwjl48730cgx24j4ydz"
+	},
+	"when-satured-then-recommend": {
+		"0": "pool1pu5jlj4q9w9jlxeu370a3c9myx47md5j5m2str0naunn2q3lkdy"
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "",
+				"type": "",
+				"key": ""
+			}
+		}
+	}
+}

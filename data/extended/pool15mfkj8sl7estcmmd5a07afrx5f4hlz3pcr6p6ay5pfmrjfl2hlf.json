@@ -1,0 +1,43 @@
+{
+	"itn": {
+		"owner": "ed25519_pk1han247dkvq953t2zgqsgyvcay4huz985c4nstrv8lkvyyfhcwx6qqalu8l",
+		"witness": "ed25519_sig1sdm5evemk9gvnnedg6j06ggg89rz9yx7pqlnqe0zlfdl7a8c4zfdq59tm5l4ldk9vjq5euv824hvkxqgm45m549l6jd2gfr7jlp9yzszj5ezq"
+	},
+	"info": {
+		"url_png_icon_64x64": "https://doxapool.com/doxa64.png",
+		"url_png_logo": "https://doxapool.com/doxa_logo.png",
+		"location": "Stoke-on-Trent, UK",
+		"social": {
+			"twitter_handle": "DoxaCrypto",
+			"telegram_handle": "doxaPool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Doxa Stake Pool",
+			"addr": "...",
+			"city": "Stoke-on-Trent",
+			"country": "UK",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "...",
+			"server": "Doxa Pool Nodes run on VPS and Bare Metal servers in Europe and across the globe.",
+			"company": "..."
+		},
+		"rss": "http(s) url to valid RSS feed"
+	},
+	"my-pool-ids": {
+		"0": "a6d3691e1ff660bc6f6da75feea466a26b7f8a21c0f41d74940a7639"
+	},
+	"when-satured-then-recommend": {
+		"0": ""
+	},
+	"telegram-admin-handle": {
+		"0": "PeterCarr"
+	}
+}

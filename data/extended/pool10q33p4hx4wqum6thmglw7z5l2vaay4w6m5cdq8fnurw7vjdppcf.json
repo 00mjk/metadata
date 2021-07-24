@@ -1,0 +1,36 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://sparklestatic.s3.ca-central-1.amazonaws.com/sparkle64x64.png",
+		"url_png_logo": "https://sparklestatic.s3.ca-central-1.amazonaws.com/sparkle150x150.png",
+		"location": "Gatineau, Canada",
+		"social": {
+			"twitter_handle": "spklpool",
+			"telegram_handle": "spklpool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "spklpool"
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "Gatineau",
+			"country": "Canada",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "IT Professional with over 25 years of experience",
+			"server": "",
+			"company": "Secure, Portable, Kick-Ass and Lucrative"
+		}
+	},
+	"my-pool-ids": {
+		"0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735"
+	},
+	"when-satured-then-recommend": {},
+	"telegram-admin-handle": {
+		"0": "spklpool"
+	}
+}

@@ -1,0 +1,8 @@
+{
+	"name": "Oyster_Pool",
+	"ticker": "OYSTR",
+	"description": "Single pool owner, first in Wales/Cymru. An independent pool run from an energy efficient and reliable network of Raspberry Pis. We are an ideas lab run by a long-term Cardanoista and one of the ‘unacknowledged legislators of the world’ (Shelley).",
+	"homepage": "https://twitter.com/OystrPool",
+	"nonce": "1620737313",
+	"extended": "https://raw.githubusercontent.com/OYSTERPOOL/GIT/main/ext.json"
+}

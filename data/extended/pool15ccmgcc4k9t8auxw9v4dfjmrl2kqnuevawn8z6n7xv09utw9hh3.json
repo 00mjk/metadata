@@ -1,0 +1,43 @@
+{
+	"itn": {
+		"owner": "ed25519_pk1c3kfun84ajvl42yrv4tuxe8up2hr063wt5d5vz69vk2ydezt0xhqsmrlzy",
+		"witness": "ed25519_sig1el3u7ha2gh7nezyfx74l2skj68zmufeuuf8gkfvpyqlv64px29d0fknhfu8slgymarh7ccnytlxqljme422752enm39z792hctrjxpsgkgk6h"
+	},
+	"info": {
+		"url_png_icon_64x64": "https://staking4ada.org/wp-content/uploads/4ADA/4ADA_icon.png",
+		"url_png_logo": "https://staking4ada.org/wp-content/uploads/4ADA/4ADA_85.png",
+		"location": "The Netherlands, Europe",
+		"social": {
+			"twitter_handle": "Staking4ADA",
+			"telegram_handle": "Staking4ADA",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Hello, ããã«ã¡ã¯ , Buon Giorno, Hallo, my name is Jos. I am based in the Netherlands (Amsterdam-area), Cardano-believer since 2017, ADA-hodler through good times and bad, and passionate about sustainably building and enjoying our new decentralized, equal-opportunity economy, together.",
+			"server": "Solar powered, bare-metal local servers, connected to a high-bandwidth, low-latency Internet connection. With the Amsterdam-IX, which is the world's 2nd largest Internet-Exchange, just around the corner, we are well positioned for fast and reliable block propagation.",
+			"company": "Backed by serious pledge from enthusiastic delegators from the ITN, who firmly believe in our sustainable, no-nonsense, Cloud-less approach to staking, Staking4ADA aims to help the Cardano network grow, and become the global financial operating system we all know it can be."
+		},
+		"rss": ""
+	},
+	"telegram-admin-handle": [
+		""
+	],
+	"my-pool-ids": [
+		"a631b46315b1567ef0ce2b2ad4cb63faac09f32ceba6716a7e331e5e"
+	],
+	"when-satured-then-recommend": [
+		"7e53c234d29f6037c5e5f82dfdc8a6edf816cc406d0a3a3412cdeab7"
+	]
+}

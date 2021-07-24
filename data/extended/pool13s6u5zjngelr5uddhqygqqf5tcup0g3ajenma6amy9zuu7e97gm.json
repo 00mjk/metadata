@@ -1,0 +1,34 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://cointradeledger.com/cardano/Pool1Icon_64.png",
+		"url_png_logo": "https://cointradeledger.com/cardano/Pool1Logo.png",
+		"location": "Vilnius, Lithuania",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Message Stick Software Pty Ltd",
+			"addr": "",
+			"city": "Sydney",
+			"country": "Australia",
+			"company_id": "18116557610"
+		},
+		"about": {
+			"me": "...",
+			"server": "Powerful Large VPS Server with high uptime",
+			"company": "..."
+		}
+	},
+	"my-pool-ids": {
+		"0": "8c35ca0a53467e3a71adb8088001345e3817a23d9667beebbb2145ce"
+	},
+	"when-satured-then-recommend": {},
+	"telegram-admin-handle": {},
+	"adapools_ext": {}
+}

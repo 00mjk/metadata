@@ -1,0 +1,28 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://stakewithpride.github.io/pride64.png",
+		"url_png_logo": "",
+		"location": "San Francisco, United States",
+		"social": {
+			"twitter_handle": "StakeWithPride",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": ""
+		},
+		"about": {
+			"me": "I'm a site reliability engineer that grew up in the Congo, where my family still lives. I've been involved with LGBTQ+ activism since I was a teenager and this pool is yet another opportunity to give back.",
+			"server": "1 block producer (main), 1 backup BP + 2 relays distributed around the US."
+		}
+	},
+	"when-satured-then-recommend": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	},
+	"verification": ""
+}

@@ -1,0 +1,8 @@
+{
+	"name": "Fair Pool #01",
+	"ticker": "FAIR",
+	"description": "Highly available pool with a fair margin of 0.5%",
+	"homepage": "https://fairpool.eu",
+	"extended": "https://fairpool.eu/fair01-extended.json",
+	"nonce": "1596230916"
+}

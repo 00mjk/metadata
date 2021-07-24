@@ -1,0 +1,49 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://oznode.ddns.net/img/oznode_logo.png",
+		"url_png_logo": "https://oznode.ddns.net/img/oznode_logo.png",
+		"location": "New South Wales, Australia",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "xevrac_",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "OzNode",
+			"addr": "",
+			"city": "",
+			"country": "Australia",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Experience in multiple fields such as INT, ICT, IST, and Telecommunications. (DevOps and other Operational Tasks)",
+			"server": "Aptly named OzNode, built for Australian's by Australians. For more information please visit our website.",
+			"company": "OzNode"
+		},
+		"my-pool-ids": {
+			"0": "2bd08fe7aa13127662f5aca7b0d85f9104cb4787aa03d957f5205d85"
+		},
+		"telegram-admin-handle": {
+			"0": "xevrac_"
+		},
+		"adapools_ext": {
+			"prometheus": {
+				"0": {
+					"name": "OzNode Relay",
+					"type": "relay",
+					"key": "oznode.ddns.net:3001"
+				},
+				"1": {
+					"name": "OzNode",
+					"type": "bp",
+					"key": "oznode.ddns.net:6000"
+				}
+			}
+		}
+	}
+}

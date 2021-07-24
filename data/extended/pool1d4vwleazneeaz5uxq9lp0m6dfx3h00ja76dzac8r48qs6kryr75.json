@@ -1,0 +1,57 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://equalstake.net/logo-small.png",
+		"url_png_logo": "https://equalstake.net/logo.svg",
+		"location": "Germany",
+		"social": {
+			"twitter_handle": "EqualStake",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "EqualStake",
+			"addr": "",
+			"city": "",
+			"country": "Germany",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "We are a team of two, an engineer and a computer scientist.",
+			"server": "Our servers are hosted in secure green datacenters in Germany.",
+			"company": "We have started EqualStake because we believe in the vision and future of Cardano as well as to increase the decentralization of Cardano network."
+		}
+	},
+	"my-pool-ids": {
+		"0": "pool1d4vwleazneeaz5uxq9lp0m6dfx3h00ja76dzac8r48qs6kryr75"
+	},
+	"when-satured-then-recommend": {
+		"0": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "relay 1 ger",
+				"type": "relay",
+				"key": "example_get_own_on_adapools.org/connect"
+			},
+			"1": {
+				"name": "relay 2 usa",
+				"type": "relay",
+				"key": "example_get_own_on_adapools.org/connect"
+			},
+			"2": {
+				"name": "block producer home",
+				"type": "bp",
+				"key": "example_get_own_on_adapools.org/connect"
+			}
+		}
+	}
+}

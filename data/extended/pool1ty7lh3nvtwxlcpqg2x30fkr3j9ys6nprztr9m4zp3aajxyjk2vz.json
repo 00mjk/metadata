@@ -1,0 +1,30 @@
+{
+	"itn": {
+		"owner": "ed25519_pk17stfxvy6gwylccmm2sfyuks4tmpjkw4aj5gh80r526azt5ujp7asxj3suh",
+		"witness": "ed25519_sig18ynjufkm6cfmxk8qyzzk7su2wd20dky8au4rpjcx3gveps7tc4js887w6nsve8npzz59py3j393gyk0ksewg8yfxtjzetgjfpu2akqsrv837c"
+	},
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/BeaverPool/c/master/beavr64.png",
+		"url_png_logo": "https://raw.githubusercontent.com/BeaverPool/c/master/beavr64.png",
+		"location": "Toronto, Canada",
+		"social": {
+			"twitter_handle": "PoolBeaver",
+			"telegram_handle": "beavrPool"
+		},
+		"company": {
+			"name": "BEAVR Cardano Stake Pool",
+			"city": "Toronto",
+			"country": "Canada"
+		},
+		"about": {
+			"me": "Software Engineering",
+			"server": "Securely designed infrastracture for maximum availability."
+		}
+	},
+	"my-pool-ids": [
+		"593dfbc66c5b8dfc040851a2f4d87191490d4c2312c65dd4418f7b23"
+	],
+	"telegram-admin-handle": [
+		"beavrPool"
+	]
+}

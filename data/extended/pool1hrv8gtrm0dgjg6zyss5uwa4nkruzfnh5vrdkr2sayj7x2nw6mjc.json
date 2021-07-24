@@ -1,0 +1,37 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://piada.io/piada64.png",
+		"url_png_logo": "https://piada.io/piadaFull.png",
+		"location": "Virginia, USA",
+		"social": {
+			"twitter_handle": "StakePiada",
+			"telegram_handle": "piadapool",
+			"youtube_handle": "channel/UCligunhcmbMYaBUMvONsKwg",
+			"github_handle": "armada-alliance"
+		},
+		"company": {
+			"name": "PIADA",
+			"addr": "",
+			"city": "",
+			"country": "United States",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "https://armada-alliance.gitbook.io/raspi-spo/",
+			"server": "3 x Raspberry Pi 4B 8GB",
+			"company": "piada.io is an education hub specializing in Raspberry Pi and ARM 64-bit SoC based stake pool operations."
+		},
+		"rss": ""
+	},
+	"telegram-admin-handle": {
+		"0": "eastpiada",
+		"1": "Qwailman"
+	},
+	"my-pool-ids": [
+		"b8d8742c7b7b512468448429c776b3b0f824cef460db61aa1d24bc65"
+	],
+	"when-satured-then-recommend": [
+		"8264de3cdb1798dd8758e24cda5101184b44543e7c4421c7815f9ed8"
+	]
+}

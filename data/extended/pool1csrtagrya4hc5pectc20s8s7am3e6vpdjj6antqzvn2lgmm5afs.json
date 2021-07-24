@@ -1,0 +1,42 @@
+{
+	"how-to-implement": "",
+	"info": {
+		"url_png_icon_64x64": "http://huatpool.com/wp-content/uploads/2021/03/rsz_logo_no_words.png",
+		"url_png_logo": "http://huatpool.com/wp-content/uploads/2021/03/cropped-logo-no-words.png",
+		"location": "Tropical Singapore, æ°å å¡",
+		"social": {
+			"twitter_handle": "huatpool_sg",
+			"telegram_handle": "huatpool_sg",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "SafeShield, Secure, Lightning speed= 24/7 Dependability",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "c406bea064ed6f8a07385e14f81e1eeee39d302d94b5d9ac0264d5f4",
+		"1": ""
+	},
+	"when-satured-then-recommend": {
+		"0": "",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": "huatpool_sg"
+	}
+}

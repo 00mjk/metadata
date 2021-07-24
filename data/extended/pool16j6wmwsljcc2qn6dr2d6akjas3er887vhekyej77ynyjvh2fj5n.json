@@ -1,0 +1,36 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://gotostaking.com/favicon.ico",
+		"url_png_logo": "https://gotostaking.com/logo.jpg",
+		"location": "Minneapolis, USA",
+		"social": {
+			"twitter_handle": "GotoStaking",
+			"telegram_handle": "gotopools",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "AFBdnhPh2b",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "GOTO Staking",
+			"addr": "",
+			"city": "Minneapolis",
+			"country": "USA",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Staking with us is easy! Talk to us on telegram (https://t.me/gotopools) or discord (https://discord.gg/AFBdnhPh2b)!",
+			"server": "Secure Kubernetes cluster with minimal attack vectors.",
+			"company": "We use industry proven techniques to ensure our pools are reliable and our entire infrastructure is efficient and scalable."
+		}
+	},
+	"my-pool-ids": {
+		"0": "d4b4edba1f9630a04f4d1a9baeda5d8472339fccbe6c4ccbde24c926"
+	},
+	"when-satured-then-recommend": {},
+	"telegram-admin-handle": {
+		"0": "achaiah777"
+	}
+}

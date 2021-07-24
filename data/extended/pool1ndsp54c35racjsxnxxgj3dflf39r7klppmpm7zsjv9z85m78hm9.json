@@ -1,0 +1,27 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.limepool.io/images/lime_logo.png",
+		"url_png_logo": "https://www.limepool.io/images/lime_logo.png"
+	},
+	"about": {
+		"me": "IT infrastructure specialist currently located in Switzerland.",
+		"server": "Cloud-based, deployed across multiple datacenters for high availability and site resilience."
+	},
+	"my-pool-ids": {
+		"0": "9b601a5711a0fb8940d3319128b53f4c4a3f5be10ec3bf0a1261447a"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "eur1.limepool.io",
+				"type": "relay",
+				"key": "cfda6c53e35341147d4f807cf9dc3d29"
+			},
+			"1": {
+				"name": "eur2.limepool.io",
+				"type": "relay",
+				"key": "78ef18aadd3e4159f6798fad71e1b4f2"
+			}
+		}
+	}
+}

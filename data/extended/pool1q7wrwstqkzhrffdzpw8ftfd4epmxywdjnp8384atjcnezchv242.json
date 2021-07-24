@@ -1,0 +1,36 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://spectrum-pool.services.kindstudios.gr/images/spec-logo-64.png",
+		"url_png_logo": "https://spectrum-pool.services.kindstudios.gr/images/spec-logo/spec-logo-4-256.jpg",
+		"location": "Global",
+		"social": {
+			"twitter_handle": "SpectrumPool",
+			"telegram_handle": "SpectrumPoolChat",
+			"discord_handle": "kiriakos#7475",
+			"github_handle": "SpectrumPool"
+		},
+		"company": {
+			"name": "KIND",
+			"addr": "https://kindstudios.gr",
+			"city": "London",
+			"country": "England"
+		},
+		"about": {
+			"me": "10+ Years in Web-Scale Software development, 20 Years in building organizations, 38 years full on nerd!",
+			"server": "Extremely diversified, Debian and Nix docker images running on Archlinux and Debian hosts from Linode, Digital Ocean and AWS. Block producers running on bare metal.",
+			"company": "KIND Studios is an independent Software Engineering firm specializing in Web-centric technologies. Linux, Java and Haskell are our strengths."
+		}
+	},
+	"my-pool-ids": {
+		"0": "079c374160b0ae34a5a20b8e95a5b5c8766239b2984f13d7ab962791"
+	},
+	"when-satured-then-recommend": {
+		"0": "bd24b3372791f401cc029455c44ea77f3c8750ce3b804a354af0ff16",
+		"1": "000006d97fd0415d2dafdbb8b782717a3d3ff32f865792b8df7ddd00",
+		"2": "80cb48c2953a78d25f69dbcea305fbcce0c520c25d401cd75a259cf1",
+		"3": "557fb2fa1a4d61d5ffc613f9f1211a5b22f5c2c3244589adc3168f3d"
+	},
+	"telegram-admin-handle": {
+		"0": "spectrumcrypto"
+	}
+}

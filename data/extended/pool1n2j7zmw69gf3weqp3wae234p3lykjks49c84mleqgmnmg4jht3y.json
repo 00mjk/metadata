@@ -1,0 +1,30 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://free-york.com/images/Logo64-FY.png",
+		"url_png_logo": "https://free-york.com/images/Banner-FY.png",
+		"location": "Jakarta, Indonesia",
+		"social": {
+			"twitter_handle": "fyorkpool",
+			"telegram_handle": "fyorkpool",
+			"facebook_handle": "freeyorkpool",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"about": {
+			"me": "Free York (YORK) provides a reliable and high-class performance of Cardano Stake Pool to support full decentralization of Cardano ecosystem. We offer staking services with high-performance return and low fees for delegator/investor as unsaturated pool. YORK's mission is (1) Broaden the Cardano ecosystem by making educational approach as a backbone and (2) Increasing financial inclusion level worldwide, together with Cardano ecosystem for supporting equitable development and economy around the world.",
+			"server": "Free York (YORK) Pool is cloud based enterprise-class stability with 99.9% uptime, multiple relays (1 Block Producer + 2 Relays) distributed from west to east around the world, multi-layer security with DDoS mitigation, 24/7 operational performance monitoring to ensure your rewards are secured. As a delegator to our stake pool, your ADA will be safe and keep grow with full protection. [2x 16GB RAM 8vCPUs 320GB SSD, 1x 8GB RAM 4vCPUs 160GB SSD]"
+		}
+	},
+	"my-pool-ids": {
+		"0": "9aa5e16dda2a131764018bbb9546a18fc9695a152e0f5dff2046e7b4"
+	},
+	"when-satured-then-recommend": {
+		"0": "9aa5e16dda2a131764018bbb9546a18fc9695a152e0f5dff2046e7b4"
+	},
+	"telegram-admin-handle": {
+		"0": "frmnadi"
+	},
+	"verification": "e9aaa199ec8aaec6689f1b6b1c7eb1f5"
+}

@@ -1,0 +1,58 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/Bez625/poolmeta/master/honey_pot_64x64.png",
+		"url_png_logo": "https://raw.githubusercontent.com/Bez625/poolmeta/master/honey_pot_250.png",
+		"location": "London, Europe",
+		"social": {
+			"twitter_handle": "honeypotlambda",
+			"telegram_handle": "lambda_honeypot",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "2 x NUC i5, 16GB RAM, 250GB NVMe servers\n 1 x NUC celeron, 8GB RAM, 250GB SSD\n\nConfigured with full monitoring, alerting, fallback internet and Uninteruptable Power Supply",
+			"company": "Lambda Honeypot"
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "5be57ce6d1225697f4ad4090355f0a72d6e1e2446d1d768f36aa118c"
+	},
+	"when-satured-then-recommend": {
+		"0": "5be57ce6d1225697f4ad4090355f0a72d6e1e2446d1d768f36aa118c"
+	},
+	"telegram-admin-handle": {
+		"0": "Bez625"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "Producer",
+				"type": "block",
+				"key": ""
+			},
+			"1": {
+				"name": "Relay 1",
+				"type": "relay",
+				"key": ""
+			},
+			"2": {
+				"name": "Relay 2",
+				"type": "relay",
+				"key": ""
+			}
+		}
+	}
+}

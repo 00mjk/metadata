@@ -1,0 +1,42 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://pbs.twimg.com/profile_images/1329275668383850497/BGx8Ngo3_400x400.jpg",
+		"url_png_logo": "https://i.ibb.co/tcYmR3q/download.png",
+		"location": "Detroit,Mi",
+		"social": {
+			"twitter_handle": "VapeAvenue_ADA",
+			"telegram_handle": "VapeAvenue",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"about": {
+			"me": "Stake pool focused on opening a vape shop that will accept Cardano as its main form of payment and delegate all profits to our stake pool.",
+			"server": "running on google cloud",
+			"company": "Vape Avenue"
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "6e8c50febc151bde603d07e35df55dcb8669fed81db9dba4bc5e87c3"
+	},
+	"when-satured-then-recommend": {
+		"0": "6e8c50febc151bde603d07e35df55dcb8669fed81db9dba4bc5e87c3"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "relay1",
+				"type": "relay",
+				"key": "a20c96afa85aea61af3d00efad37fda8"
+			},
+			"1": {
+				"name": "relay2",
+				"type": "relay",
+				"key": "b5c0006f9546bc678af2ec08700d5deb"
+			}
+		}
+	}
+}

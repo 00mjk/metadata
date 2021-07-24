@@ -1,0 +1,7 @@
+{
+	"name": "Rewards Notifications Bot Pool",
+	"description": "This pool allows us to sustain and improve Rewards Notifications Telegram Bot",
+	"ticker": "BOT",
+	"homepage": "https://t.me/AdaStatBot",
+	"extended": "https://adastat.net/bot.extended-metadata.json"
+}

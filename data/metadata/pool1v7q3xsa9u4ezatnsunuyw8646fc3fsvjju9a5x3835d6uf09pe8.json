@@ -1,0 +1,7 @@
+{
+	"name": "Maxima Pool",
+	"description": "MAX. We are a climate-positive pool. Our nodes are powered with 100% green energy, and we regularly plant hundreds of trees to fight climate change. We, as crypto enthusiasts, also operate a youtube channel about Cardano to help the community grow.",
+	"ticker": "MAX",
+	"homepage": "https://maximapool.com",
+	"extended": "https://raw.githubusercontent.com/maximapool/pool/main/adapools-meta.json"
+}

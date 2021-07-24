@@ -1,0 +1,41 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://ratpoison.io/ratpoisonlogo64.png",
+		"url_png_logo": "https://ratpoison.io/ratpoisonfull.png",
+		"location": "",
+		"social": {
+			"twitter_handle": "cardanorats",
+			"telegram_handle": "cardanorats",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "All server clusters operate on Amazon Web Service with 99.95% uptime | Multiple relay network architecture for redundnacy | Cluster monitoring dashboard https://monitor.ratpoison.io",
+			"company": "https://ratpoison.io/en/"
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "d073c1c581df6dac53c5c9b0307369116a7d09b4d4190bb71fb8f31c",
+		"1": "defdd6638e3b3493eb3002d7a31b43b750320d20528852d613cc0f15"
+	},
+	"when-satured-then-recommend": {
+		"0": "d073c1c581df6dac53c5c9b0307369116a7d09b4d4190bb71fb8f31c",
+		"1": "defdd6638e3b3493eb3002d7a31b43b750320d20528852d613cc0f15"
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	}
+}

@@ -1,0 +1,50 @@
+{
+	"info": {
+		"url_png_icon_64x64": "",
+		"url_png_logo": "",
+		"location": "Los Angeles, USA",
+		"social": {
+			"twitter_handle": "STORi_TRUST",
+			"telegram_handle": "https://t.me/TrustSTORi",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "mondonet"
+		},
+		"company": {
+			"name": "STORi.digital",
+			"city": "Los Angeles",
+			"country": "USA"
+		},
+		"about": {
+			"me": "TRUST is the official pool of STORI.digital. Our future mission is to migrate STORi Platform to the Cardano blockchain.",
+			"server": "Bare Metal Server Hosted at my Home in Los Angeles, 1gb/s upstream",
+			"company": "STORi is an AI-backed partnerships discovery tool. STORi helps build strategic partnerships across all platforms with the world's top storytellers. We go beyond product placement."
+		},
+		"rss": "http(s) url to valid RSS feed"
+	},
+	"my-pool-ids": {
+		"0": "b42ea10739065e30e388d4781a7f5a446c3a31343c87dcf26750f83d"
+	},
+	"when-satured-then-recommend": {
+		"0": "other SPO"
+	},
+	"telegram-admin-handle": {
+		"0": "In ADA we TRUST"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "relay 1 us",
+				"type": "relay",
+				"key": "example_get_own_on_adapools.org/connect"
+			},
+			"2": {
+				"name": "block producer home",
+				"type": "bp",
+				"key": "example_get_own_on_adapools.org/connect"
+			}
+		}
+	}
+}

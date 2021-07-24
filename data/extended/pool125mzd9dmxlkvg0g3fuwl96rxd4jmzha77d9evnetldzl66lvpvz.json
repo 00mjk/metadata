@@ -1,0 +1,10 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://cardano-arg-pool.s3.amazonaws.com/icon.png",
+		"url_png_logo": "https://cardano-arg-pool.s3.amazonaws.com/LogoArg.png",
+		"social": {
+			"twitter_handle": "StakeCardano",
+			"telegram_handle": "cardanoarg"
+		}
+	}
+}

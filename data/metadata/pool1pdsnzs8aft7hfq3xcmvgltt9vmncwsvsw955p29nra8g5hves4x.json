@@ -1,0 +1,7 @@
+{
+	"name": "Cargino Stake Pool",
+	"description": "The Cargino Stake Pool keeeps providing 24/7/365 availability for the support of Cardano Ada network and stable profits for my delegators. Blockproducer&Relay Nodes are on a separately virtualized server configured in a different cloud data center.",
+	"ticker": "GINO",
+	"homepage": "https://cardino-ada.netlify.app",
+	"extended": "https://udknow.github.io/gino_extend/cargino_extend.json"
+}

@@ -1,0 +1,39 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "http(s) url to pool icon; not animated; max 40kb",
+		"url_png_logo": "http(s) url to pool logo; not animated; max 50kb",
+		"location": "Mexico, EDO. MX.",
+		"social": {
+			"twitter_handle": "@stakemexico",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Stake Mexico",
+			"city": "CD MX",
+			"country": "Mexico",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "...",
+			"server": "Amazon WS.",
+			"company": "..."
+		}
+	},
+	"my-pool-ids": {
+		"0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735"
+	},
+	"when-satured-then-recommend": {
+		"0": "",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	}
+}

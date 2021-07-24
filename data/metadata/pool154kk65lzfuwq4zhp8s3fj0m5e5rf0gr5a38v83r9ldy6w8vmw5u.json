@@ -1,0 +1,7 @@
+{
+	"name": "Rainbow Pool",
+	"description": "Cardano Rainbow Pool",
+	"ticker": "CRBP",
+	"homepage": "https://rainbow-pool.com/",
+	"extended": "https://rainbow-pool.com/extendedPoolMetaData.json"
+}

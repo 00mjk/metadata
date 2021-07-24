@@ -1,0 +1,43 @@
+{
+	"itn": {
+		"owner": "ed25519_pk10w5h5hydm3c5754x4wm6g545fj248jfdnzqqm504ja2prnk2a43sh35nz2",
+		"witness": "ed25519_sig1fmtcy6zhdp89thgmw3c8u5skh2rqx30zpfhhp242kun9265cgju4ll2awe2wvnsxh8nrjcrg0mms26d5frj6qpmktua9q8age8xhjpczruzzc"
+	},
+	"info": {
+		"url_png_icon_64x64": "https://angelstakepool.net/pool/sion-logo-64.png",
+		"url_png_logo": "https://angelstakepool.net/pool/sion-logo.png",
+		"location": "USA",
+		"social": {
+			"twitter_handle": "angelstakepool",
+			"telegram_handle": "ANGELpool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "SION (ANGEL pool #2), running since the ITN, offers low fees (currently we have a 0% fee promotion) and reasonable pledge, as well as seriousness and commitment to our delegators and to Cardano as a project.",
+			"server": "Our pool relies on 5 geographically distributed servers [including monitoring/alerts] with competitive hardware specs.",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"telegram-admin-handle": {
+		"0": "ANGELpool"
+	},
+	"my-pool-ids": {
+		"0": "0000558092d1645b110130bb1b9d449dced79bfccf313e2880e6cf38"
+	},
+	"when-satured-then-recommend": {
+		"0": "00004614332ac81201d8302d4cb8262502af229256e143dc2156156e"
+	}
+}

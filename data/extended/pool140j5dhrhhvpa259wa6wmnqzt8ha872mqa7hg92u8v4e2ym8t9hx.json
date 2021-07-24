@@ -1,0 +1,23 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://istakeada.com/images/pool-icon.png",
+		"url_png_logo": "https://istakeada.com/images/gold.gif",
+		"location": "California, USA",
+		"social": {
+			"twitter_handle": "stake_i",
+			"facebook_handle": "istakeada",
+			"github_handle": "istakeada",
+			"discord_handle": "istakeada",
+			"telegram_handle": "istakeada"
+		},
+		"company": {
+			"name": "iStakeADA",
+			"city": "San Diego",
+			"state": "California",
+			"country": "United States"
+		}
+	},
+	"my-pool-ids": {
+		"0": "pool140j5dhrhhvpa259wa6wmnqzt8ha872mqa7hg92u8v4e2ym8t9hx"
+	}
+}

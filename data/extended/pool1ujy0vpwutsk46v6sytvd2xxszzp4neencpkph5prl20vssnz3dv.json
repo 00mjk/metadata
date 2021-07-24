@@ -1,0 +1,35 @@
+{
+	"info": {
+		"url_png_icon_64x64": "",
+		"url_png_logo": "https://www.adrawnarrow.io/wp-content/uploads/2021/06/ADRAWNARROW_150x100.png",
+		"location": "Oregon, United States",
+		"social": {
+			"twitter_handle": "ADrawnArrow",
+			"telegram_handle": "adrawnarrow",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "A Drawm Arrow",
+			"addr": "",
+			"city": "Sydney",
+			"country": "Australia",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "IT Professionals with many years experience working with Enterprise and Government clients. Reliable, Secure and Carbon Neutral Stake Pool. As a new pool that has committed to the Cardano Foundation mission it makes sense that we also contribute to making the world a better place. A Drawn Arrow will donate one third of our margin rewards to charities. We will be posting proof of payment as screenshots on our website every time a donation is made. It will be made clear exactly how much is being donated and to which charities.",
+			"company": "A Drawn Arrow"
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "e488f605dc5c2d5d335022d8d518d0108359e733c06c1bd023fa9ec8"
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	}
+}

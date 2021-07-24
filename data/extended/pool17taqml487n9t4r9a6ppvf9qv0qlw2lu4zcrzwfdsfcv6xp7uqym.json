@@ -1,0 +1,34 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://psilobyte.io/ada/psb-64x64.png",
+		"url_png_logo": "https://psilobyte.io/ada/psb-180x180.png",
+		"location": "Edmonton, Alberta, Canada",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "psilobyte_cardano",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Blockchain Enthusiast | Professional IT Service Provider | Stake Pool Operator | Always looking to improve processes and help the Cardano community. I have been in the IT field for 15 years, and specialize in Server Infrastructure, Disaster Recovery and Cyber Security ",
+			"server": "Security first, on-site servers in Edmonton, Alberta. Canada. Multi-Site redundancy and replication for fast disaster recovery. 2x AMD EPYC 8 Core servers 128GB RAM Primary, 64GB RAM Secondary, NVMe SSDs, Gigabit Fibre link with Failover internet. Server-grade EATON Lithium UPS units protecting the network racks. Also running a Japanese node in the Saitama Azure Cloud for geo-redundancy.",
+			"company": ""
+		}
+	},
+	"telegram-admin-handle": [
+		"reqlez"
+	],
+	"my-pool-ids": [
+		"f2fa0dfea7f4caba8cbdd042c4940c783ee57f9516062725b04e19a3"
+	]
+}

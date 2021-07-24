@@ -1,0 +1,7 @@
+{
+	"name": "Slottery Cardano Stake Pool",
+	"description": "Your chance to win even more ADA every epoch, through our lottery system.",
+	"ticker": "SLOTS",
+	"homepage": "https://slotterypool.com",
+	"extended": "https://slotterypool.com/extended.json"
+}

@@ -1,0 +1,25 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://3dwork.io/vega64.png",
+		"url_png_logo": "https://3dwork.io/vega.png",
+		"location": "Sevilla, Spain",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "vegapool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"about": {
+			"me": "[VEGA] Vega Cardano-Pool",
+			"server": "Vega, the brightest star in the northern constellation of Lyra and the name of our High-availability VPS Servers for our dedicated ADA Pool in Spain.",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "99c74ce1a5670c60738715c738fd611cfdcb2ac57cc8c9f59945b00b"
+	}
+}

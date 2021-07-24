@@ -1,0 +1,7 @@
+{
+	"name": "TEAM Staking",
+	"description": "We provide an inside look to the live and ongoing performance of our Stake Pool.",
+	"ticker": "TEAM",
+	"homepage": "https://teamstaking.com/",
+	"extended": "http://grafana.teamstaking.com:8080/team-ext-meta.json"
+}

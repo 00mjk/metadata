@@ -1,0 +1,7 @@
+{
+	"name": "CardanoProxy",
+	"description": "Distributed and Highly Available Stake Pool Managed by Professionals",
+	"ticker": "CPX",
+	"homepage": "https://cardanoproxy.com",
+	"extended": "https://github.com/CardanoProxy/CPX/raw/master/cardanoproxy-itn.json"
+}

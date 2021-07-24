@@ -1,0 +1,7 @@
+{
+	"name": "ADAPANDA",
+	"description": "German stake pool. Minimal pool costs. Zero margin until 1M stake and not more than 1%. All rewards will be pledged. Become a part of ADA[PANDA].",
+	"ticker": "PANDA",
+	"homepage": "https://adapanda.de",
+	"extended": "https://adapanda.de/extendedMetaData.json"
+}

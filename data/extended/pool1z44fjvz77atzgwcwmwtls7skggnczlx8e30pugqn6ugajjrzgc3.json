@@ -1,0 +1,16 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://peafarm.io/images/icon.png",
+		"url_png_logo": "https://peafarm.io/images/logo.png",
+		"about": {
+			"me": "We're the Pea Farm Stake Pool, introducing a new form of Yield Farming to Cardano called Stake Farming: Put your ADA to work and earn native asset PEA in addition to the regular staking rewards. The total supply is hard capped at 100 million, with a steady issuance rate of 1% per epoch. Funding of development and operations via stake pool revenues - allowing us to distribute the entire PEA supply without premining a single peatoshi."
+		},
+		"social": {
+			"github_handle": "PeaFarm"
+		},
+		"rss": "https://peafarm.io/rss.xml"
+	},
+	"my-pool-ids": {
+		"0": "156a99305ef756243b0edb97f87a164227817cc7cc5e1e2013d711d9"
+	}
+}

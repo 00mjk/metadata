@@ -1,0 +1,60 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://i.ibb.co/9ZQLPyq/High-icon.png",
+		"url_png_logo": "",
+		"location": "Frankfurt, Germany",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"": "Company Name",
+			"addr": "Street, Number",
+			"city": "Frankfurt",
+			"country": "Germany",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "...",
+			"server": "Professional hosted Server in German Datacenter. High Reliability, High Security. Mainained with passion.... ",
+			"company": "..."
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "",
+		"1": ""
+	},
+	"when-satured-then-recommend": {
+		"0": "",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "Relay-Alpha",
+				"type": "relay",
+				"key": ""
+			},
+			"1": {
+				"name": "relay 2 usa",
+				"type": "relay",
+				"key": ""
+			},
+			"2": {
+				"name": "block producer home",
+				"type": "bp",
+				"key": ""
+			}
+		}
+	}
+}

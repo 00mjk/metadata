@@ -1,0 +1,57 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://jinwon1choi.gabia.io/agg1/logoicon2.png",
+		"url_png_logo": "https://jinwon1choi.gabia.io/agg1/logo2.png",
+		"location": "Korea",
+		"social": {
+			"twitter_handle": "Jinwon1Choi",
+			"telegram_handle": "adagogo1",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Jinwon, More than 20 years of experienced electricial engineer.",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "Operated on Google internet data center(IDC), Security, Reliable, Powerful Networking and Maximum uptime! ",
+			"company": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "a47f708038dc2bdf47795e24dac4b73904cbad4424bfce75856260cf"
+	},
+	"when-satured-then-recommend": {
+		"0": "a47f708038dc2bdf47795e24dac4b73904cbad4424bfce75856260cf"
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "",
+				"type": "",
+				"key": ""
+			},
+			"1": {
+				"name": "",
+				"type": "",
+				"key": ""
+			},
+			"2": {
+				"name": "",
+				"type": "",
+				"key": ""
+			}
+		}
+	}
+}

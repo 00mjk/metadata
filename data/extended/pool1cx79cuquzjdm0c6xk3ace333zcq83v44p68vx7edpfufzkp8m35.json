@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://smart-node.com/cardano_pool_icon.png",
+		"url_png_logo": "https://smart-node.com/cardano_pool_logo.png",
+		"location": "Paris, France",
+		"social": {
+			"twitter_handle": "smartnodeFR",
+			"telegram_handle": "joinchat/AAAAAFhNIifhIQFy2lvARQ",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Smart-Node",
+			"addr": "12 Boulevard de SÃ©bastopol, 75001 Paris",
+			"city": "Paris",
+			"country": "France",
+			"company_id": "88513037700017",
+			"vat_id": "FR 41 885130377"
+		},
+		"about": {
+			"me": "Smart-Node is a staking service provider aimed at giving anyone the opportunity to grow their crypto assets.",
+			"server": "Kubernetes cluster with persisted data storage and self-healing to ensure high disponibility",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "c1bc5c701c149bb7e346b47b8cc631160078b2b50e8ec37b2d0a7891"
+	},
+	"when-satured-then-recommend": {
+		"0": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	}
+}

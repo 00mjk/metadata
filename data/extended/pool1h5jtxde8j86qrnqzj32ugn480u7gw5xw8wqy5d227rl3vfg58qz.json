@@ -1,0 +1,39 @@
+{
+	"info": {
+		"adapools_verify_hash": "317bada458ceeb6c5373b220eba92974",
+		"url_png_icon_64x64": "https://repsistance.github.io/home/static/logo-64x64.png",
+		"url_png_logo": "https://repsistance.github.io/home/static/logo.png",
+		"location": "Paris, France",
+		"social": {
+			"twitter_handle": "repsistance",
+			"telegram_handle": "rcmorano",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "repsistance"
+		},
+		"about": {
+			"me": "SysAdmins/DevOps team with more than 10 years of experience.",
+			"server": "Resilient and Highly-Available Kubernetes-backed cluster."
+		},
+		"rss": "http(s) url to valid RSS feed"
+	},
+	"my-pool-ids": {
+		"0": "bd24b3372791f401cc029455c44ea77f3c8750ce3b804a354af0ff16"
+	},
+	"when-satured-then-recommend": {
+		"0": "5271fc86fd9c25613c138c4aef6f8593b2952c95897b079facebbc9e",
+		"1": "c1cadab46b74defa9f79b59b617fe2a50bdbce6b367e472b6109a7bc",
+		"2": "90454dd6894d47a5cc1e9d16ed4536b876e8e08c3c274d15caa98ff9",
+		"3": "80cb48c2953a78d25f69dbcea305fbcce0c520c25d401cd75a259cf1",
+		"4": "6879ab43e837d11c606e37dbf3e743f13f303c9dff53be602f263d6d",
+		"5": "557fb2fa1a4d61d5ffc613f9f1211a5b22f5c2c3244589adc3168f3d",
+		"6": "70e483a5702e3907e4079113470209ceab93ad83070c84a62b20b350",
+		"7": "9dda57fac3474adbe8b64be48aafeff6aa31f59909231f202b642d33",
+		"8": "411926ea7159cff212e269e5c021e99880ab3bfb98d086d5c8ba4e3f"
+	},
+	"telegram-admin-handle": {
+		"0": "rcmorano"
+	}
+}

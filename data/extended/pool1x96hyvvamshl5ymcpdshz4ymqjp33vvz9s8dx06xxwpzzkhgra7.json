@@ -1,0 +1,37 @@
+{
+	"info": {
+		"location": "Kosice, Slovakia",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "bestpoolpro",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "Kosice",
+			"country": "Slovakia",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "We are crypto coin fans, which ones focus mainly on crypto-currency decentralised solutions worldwide.",
+			"server": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz 32GB RAM 1Gbps Uplink",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "317572319ddc2ffa13780b6171549b048318b1822c0ed33f46338221"
+	},
+	"when-satured-then-recommend": {
+		"0": ""
+	},
+	"telegram-admin-handle": {
+		"0": "bestpoolpro"
+	}
+}

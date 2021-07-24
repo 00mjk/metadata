@@ -1,0 +1,42 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://junostakepool.com/mainnet/juno_icon.png",
+		"url_png_logo": "http://junostakepool.com/mainnet/juno_logo.png",
+		"location": "Deventer, The Netherlands",
+		"social": {
+			"twitter_handle": "Juno_stakepool",
+			"telegram_handle": "juno_stakepool",
+			"facebook_handle": "",
+			"youtube_handle": "channel/UC66JQ0IKuTJUiVsZ-Xs-Dog",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "Deventer",
+			"country": "The Netherlands",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "We are dedicated to the Cardano ecosystem. Pool rewards are used for development on Cardano, for example delegationtracker.com",
+			"server": "Bare metal servers only, distributed over different data centers in Europe",
+			"company": "Single stakepool operator"
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "765e6963038b3152067bb8a08707d0306045f0ed5b1f02641b58fff6",
+		"1": ""
+	},
+	"when-satured-then-recommend": {
+		"0": "0f2a5e0daf7812510b28b8ed07c56c8084c1b459c3b552f5146b9aff",
+		"1": "b3291d8a4e04835ebaa71e0523b37abe64e4cd2eeea35c0886a2dd40"
+	},
+	"telegram-admin-handle": {
+		"0": "@ron_junostakepool"
+	}
+}

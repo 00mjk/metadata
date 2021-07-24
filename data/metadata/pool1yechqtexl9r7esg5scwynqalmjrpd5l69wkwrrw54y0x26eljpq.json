@@ -1,0 +1,10 @@
+{
+	"name": "ICRYP NETWORK",
+	"description": "Indonesian base Stake Pool Operator, Bare Metal Server. Support us to spread Cardano to Indonesian Community",
+	"ticker": "ICRYP",
+	"homepage": "https://icryp.net",
+	"url_png_icon_64x64": "https://icryp.net/android-icon-72x72.png",
+	"url_png_logo": "https://icryp.net/apple-icon.png",
+	"twitter_handle": "icrypnet",
+	"extended": "https://icryp.net/extended.json"
+}

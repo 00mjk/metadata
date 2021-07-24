@@ -1,0 +1,8 @@
+{
+	"name": "SargatxetPool",
+	"ticker": "SARGA",
+	"description": "@Sargatxet friends pool",
+	"homepage": "https://cardano.sargatxet.cloud",
+	"extended": "https://pool.sargatxet.cloud/extended.json",
+	"nonce": "1596213624"
+}

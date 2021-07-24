@@ -1,0 +1,59 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/MetaStakePool/meta/main/64logo.png",
+		"url_png_logo": "https://raw.githubusercontent.com/MetaStakePool/meta/main/profile.png",
+		"location": "Pennsylvania, USA",
+		"social": {
+			"twitter_handle": "theeccentricowl",
+			"telegram_handle": "MetaStakePool",
+			"facebook_handle": "",
+			"youtube_handle": "/channel/UCZ3F2jc14r9zF34BGSkJzoQ",
+			"twitch_handle": "",
+			"discord_handle": "https://discord.gg/ar5bqxQCk2",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "Pennsylvania",
+			"country": "US",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Mechanical Engineer turned IT Pro focused on Digital Transformation & Blockchain Tech.  I've been an avid Cardano-follower since 2017 and know good tech when I see it!  Would like to help engage new users to the Cardano Eco System and educate people on the next iteration of the Internet!",
+			"server": "Enterprise-grade hardware:  1 Core & 2 Relays",
+			"company": ""
+		},
+		"my-pool-ids": {
+			"0": "b75a65868d3fd3583e423833381d104c02bedd3a83c9392d92e421b1",
+			"1": ""
+		},
+		"when-satured-then-recommend": {
+			"0": "",
+			"1": ""
+		},
+		"telegram-admin-handle": {
+			"0": "MetaStakePool"
+		},
+		"adapools_ext": {
+			"prometheus": {
+				"0": {
+					"name": "",
+					"type": "",
+					"key": ""
+				},
+				"1": {
+					"name": "",
+					"type": "",
+					"key": ""
+				},
+				"2": {
+					"name": "",
+					"type": "",
+					"key": ""
+				}
+			}
+		}
+	}
+}

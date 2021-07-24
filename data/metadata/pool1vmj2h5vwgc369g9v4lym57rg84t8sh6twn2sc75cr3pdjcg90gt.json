@@ -1,0 +1,7 @@
+{
+	"name": "SEXY",
+	"ticker": "SEXY",
+	"description": "We merged with AAA stake pool. Past and new delegators, please delegate to AAA. This ticker is for private use only.",
+	"homepage": "https://stakelovelace.io/",
+	"extended": "https://raw.githubusercontent.com/stakelovelace/pub/main/sexy_extended.json"
+}

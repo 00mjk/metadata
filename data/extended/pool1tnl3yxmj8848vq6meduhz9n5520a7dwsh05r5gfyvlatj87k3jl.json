@@ -1,0 +1,16 @@
+{
+	"info": {
+		"location": "Utrecht, the Netherlands",
+		"social": {
+			"twitter_handle": "weebl2000",
+			"github_handle": "weebl2000"
+		},
+		"about": {
+			"me": "IT geek. Familiar with Haskell since 2009. In it for the long-haul.",
+			"server": "i7-7700T 32 gb ram, RAID1 w/ daily backups, 500/500 fiber. Block producing node not publicly available. IPv4 & IPv6."
+		}
+	},
+	"my-pool-ids": {
+		"0": "5cff121b7239ea76035bcb79711674a29fdf35d0bbe83a212467fab9"
+	}
+}

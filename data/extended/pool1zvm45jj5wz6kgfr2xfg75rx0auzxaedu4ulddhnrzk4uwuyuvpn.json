@@ -1,0 +1,14 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://pools-united.github.io/pools/ERA/assets/era_64.png",
+		"url_png_logo": "https://pools-united.github.io/pools/ERA/assets/era_logo_black.png",
+		"social": {
+			"twitter_handle": "NovaERA_pool",
+			"telegram_handle": "cpoolsunited"
+		},
+		"about": {
+			"me": "",
+			"server": "1 block producer and 3 cloud based relays"
+		}
+	}
+}

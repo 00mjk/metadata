@@ -1,0 +1,18 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://static.wixstatic.com/media/e10a31_e8128bbdc12e4562b85b32b4b1307612~mv2.png",
+		"url_png_logo": "https://static.wixstatic.com/media/e10a31_e1a90ada70554a51be118fdd762fcd9a~mv2.png",
+		"location": "Canada",
+		"social": {
+			"twitter_handle": "WaterbearThe",
+			"discord_handle": "TheWaterBearPool [WATER]#5574"
+		},
+		"about": {
+			"me": "IT professional with 15+ years experience in middleware and infrastructure.",
+			"server": "ELITE tier OVH VPS"
+		}
+	},
+	"my-pool-ids": {
+		"0": "0115102819d567aeb897189fd2fbf68d442c3101b2b3560377940fa8"
+	}
+}

@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://i.ibb.co/PcHybGy/cdanstakepool.png",
+		"url_png_logo": "https://i.ibb.co/PcHybGy/cdanstakepool.png",
+		"location": "Melbourne, Australia",
+		"social": {
+			"twitter_handle": "AdaCdan",
+			"telegram_handle": "chathudan",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "CDAN Stake Pool | Secure, independent & reliable stake pool operating from Melbourne, Australia",
+			"addr": "",
+			"city": "Melbourne",
+			"country": "Australia",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "https://cdanstakepool.com",
+			"server": "Dedicated set of servers 1BP running on 8 VCPU,16GB RAM, 240GB SSD and 2 relays are running on 2 VCPU, 8GB RAM, 80GB SSD in two different regions.",
+			"company": ""
+		},
+		"rss": "https://cdanstakepool.com/rss"
+	},
+	"telegram-admin-handle": [
+		""
+	],
+	"my-pool-ids": [
+		"95d5d55c02d51cd6e9be66ee622d4ae75fb543fc4022a510510620c8"
+	],
+	"when-satured-then-recommend": [
+		"95d5d55c02d51cd6e9be66ee622d4ae75fb543fc4022a510510620c8"
+	]
+}

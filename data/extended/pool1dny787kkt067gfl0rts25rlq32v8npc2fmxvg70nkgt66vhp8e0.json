@@ -1,0 +1,39 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://aeropool.org/cardano/space-shuttle-2.png",
+		"location": "Konstanz, Germany",
+		"social": {
+			"twitter_handle": "AERO_StakePool",
+			"telegram_handle": "AERO_StakePool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "Patrick [AERO]#3938",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Aerospace Stake Pool",
+			"addr": "",
+			"city": "",
+			"country": "Germany",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "I am an aerospace engineer with a strong background in computational fluid dynamics and high performance cluster administration.",
+			"server": "Bare metal block producer with buissiness grade ISP. 2 cloud based relays, 1 bare metal relay coming soon",
+			"company": "I want to provide a reliable and secure staking opportunity with a maximum of decentralization."
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "6cc9e3fad65bf5e427ef1ae0aa0fe08a9879870a4eccc479f3b217ad"
+	},
+	"when-satured-then-recommend": {
+		"0": "6d3f657a5fb765a69bd36e4d216da05ae979cc26a2955eb8478932f6"
+	},
+	"adapools": {
+		"str": "97bbd02f108da246c69e44cf47f6cb7a"
+	}
+}

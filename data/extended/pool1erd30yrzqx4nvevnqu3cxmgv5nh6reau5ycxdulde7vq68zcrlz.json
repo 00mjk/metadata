@@ -1,0 +1,54 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://cardano2changetheworld.org/url_png_icon.png",
+		"url_png_logo": "https://cardano2changetheworld.org/url_png_logo.png",
+		"location": "Sometimes, Colorado",
+		"social": {
+			"twitter_handle": "ADA_CarmaPool",
+			"telegram_handle": "ADA_Carma_Pool",
+			"facebook_handle": "",
+			"youtube_handle": "channel/UCKqjP1MHrRFaw_y5IWE9_uA",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Cardano 2 Change the World",
+			"addr": "P.O. Box 3426",
+			"city": "Crested Butte, Colorado",
+			"country": "USA"
+		},
+		"about": {
+			"me": "Jimmy - independent owner / operator of CARMA pool. Facilitating the worldwide movement of the Cardano ecosystem by donating 100% profits to childrens charity Homes of Promise in Uganda, Africa",
+			"server": "A secured cloud based platform running Linux Ubuntu 20.04 (64 Bit) OS on 8 vCPU Cores, 30 GB RAM, 800 GB SSD, and 600 Mbit/s each Port."
+		},
+		"my-pool-ids": {
+			"0": "c8db17906201ab3665930723836d0ca4efa1e7bca13066f3edcf980d"
+		},
+		"when-satured-then-recommend": {
+			"0": "00333b89543da962cc92e7ffa45848f42a98f7276780670728ce5256"
+		},
+		"telegram-admin-handle": {
+			"0": ""
+		},
+		"adapools_ext": {
+			"prometheus": {
+				"0": {
+					"name": "Relay 1 USA",
+					"type": "relay",
+					"key": "ca29b924bd6eba9132a4cfe4116ee823"
+				},
+				"1": {
+					"name": "relay 2 usa",
+					"type": "relay",
+					"key": "example_get_own_on_adapools.org/connect"
+				},
+				"2": {
+					"name": "block producer home",
+					"type": "bp",
+					"key": "example_get_own_on_adapools.org/connect"
+				}
+			}
+		}
+	}
+}

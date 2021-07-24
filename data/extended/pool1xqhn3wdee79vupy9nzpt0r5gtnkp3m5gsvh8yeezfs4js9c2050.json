@@ -1,0 +1,60 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "",
+		"url_png_logo": "",
+		"location": "Prague, Czech Republic",
+		"social": {
+			"twitter_handle": "KyokuPool",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "kyoku-pool"
+		},
+		"company": {
+			"name": "",
+			"addr": "Rybna",
+			"city": "Prague",
+			"country": "Czech Republic",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": "..."
+		}
+	},
+	"my-pool-ids": {
+		"0": "pool1xqhn3wdee79vupy9nzpt0r5gtnkp3m5gsvh8yeezfs4js9c2050",
+		"1": "302f38b9b9cf8ace04859882b78e885cec18ee88832e7267224c2b28"
+	},
+	"when-satured-then-recommend": {
+		"0": "",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "Relay 1 Prague",
+				"type": "relay",
+				"key": ""
+			},
+			"1": {
+				"name": "Relay 2 Prague",
+				"type": "relay",
+				"key": ""
+			},
+			"2": {
+				"name": "BR Prague",
+				"type": "bp",
+				"key": ""
+			}
+		}
+	}
+}

@@ -1,0 +1,36 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://lotusada.z23.web.core.windows.net/img/favicon.png",
+		"url_png_logo": "https://lotusada.z23.web.core.windows.net/img/favicon.png",
+		"location": "Viet Nam",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "lotusada",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "We are software engineers in Viet Nam. Being amazed by how the Cardano are built and its road ahead, we started this pool to support the project.",
+			"server": "We operate 2 relay nodes, one located in Singapore and one in West Europe, both are deployed on Azure infrastructure. Each machine has 8GB of RAM with 2CPUs.",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "pool1j22mzxf5x4gw9zltvey3g9nw2d99skasjcm0xl2mtesk54ffy77"
+	},
+	"when-satured-then-recommend": {},
+	"telegram-admin-handle": {},
+	"adapools_ext": {}
+}

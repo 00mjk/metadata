@@ -1,0 +1,17 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://spaas.org/img/sean-64x64.png",
+		"social": {
+			"twitter_handle": "SeanAlimov",
+			"telegram_handle": "AlimovSEAN",
+			"facebook_handle": "AlimovSEAN",
+			"youtube_handle": "channel/UCwywvWNCPD_QU7n6txXcp4Q",
+			"twitch_handle": "SeanAlimov1",
+			"discord_handle": "eeep4NnBGX",
+			"github_handle": "SeanAlimov"
+		}
+	},
+	"my-pool-ids": {
+		"0": "0b20cb881f1af70ca15bfdb4f7dc50f08025f01ba916626781ea9a49"
+	}
+}

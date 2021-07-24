@@ -1,0 +1,22 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://adafromafrica.com/thumb.png",
+		"location": "Southern Africa",
+		"social": {
+			"twitter_handle": "ADAfromAfrica",
+			"youtube_handle": "channel/UC14tH88bm2nj5tl3Xy_nxaw",
+			"telegram_handle": "ADAfromAfrica"
+		},
+		"about": {
+			"me": "African Pool Operator minting blocks in Africa",
+			"server": "1BP + 3Relays located in Zimbabwe, Johannesburg, USA <CPU:4core|RAM:4G|SSD:100G - we need more power!"
+		},
+		"my-pool-ids": {
+			"0": "b63e941d17e0a01f48d63581ec95f07ea69eb488ef89c93e10018ec3",
+			"1": "pool1kclfg8ghuzsp7jxkxkq7e90s06nfadyga7yuj0ssqx8vxd3htpg"
+		},
+		"when-satured-then-recommend": {
+			"0": "small pools - support decentralization"
+		}
+	}
+}

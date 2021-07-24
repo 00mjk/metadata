@@ -1,0 +1,26 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://cdn.sublayer.io/logo_64x64.png",
+		"url_png_logo": "https://cdn.sublayer.io/logo.png",
+		"location": "Sommelsdijk, The Netherlands",
+		"social": {
+			"telegram_handle": "sublayerio",
+			"twitter_handle": "sublayerio",
+			"youtube_handle": "channel/UCligunhcmbMYaBUMvONsKwg"
+		},
+		"company": {
+			"name": "Sublayer"
+		},
+		"about": {
+			"me": "As an independent stake pool operator it is my goal to educate people about Cardano and true decentralisation by providing educational content through the Armada Alliance platform (armada-alliance.com).",
+			"server": "Running on low power consuming ARM-based devices (Raspberry Pis & Apple SOC) with an average pool energy consumption of less than 40 Wattsð¡, always online, 100MB up/down, solar energy. Margin stays 1%."
+		}
+	},
+	"adapools": "ed6d9672a5ea74667cb0ca867d7479fb",
+	"my-pool-ids": [
+		"8264de3cdb1798dd8758e24cda5101184b44543e7c4421c7815f9ed8"
+	],
+	"when-satured-then-recommend": [
+		"b8d8742c7b7b512468448429c776b3b0f824cef460db61aa1d24bc65"
+	]
+}

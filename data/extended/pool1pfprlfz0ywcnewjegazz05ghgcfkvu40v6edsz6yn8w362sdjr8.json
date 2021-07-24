@@ -1,0 +1,27 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://fuadiansyah.github.io/cardanesia/icon.png",
+		"url_png_logo": "https://fuadiansyah.github.io/cardanesia/logo.png",
+		"location": "Jakarta, Indonesia",
+		"social": {
+			"twitter_handle": "cardanesia",
+			"telegram_handle": "cardanesian"
+		},
+		"company": {
+			"name": "Cardanesia",
+			"addr": "",
+			"city": "Jakarta",
+			"country": "Indonesia"
+		},
+		"about": {
+			"server": "We have 2 core/block producer nodes (main and backup) and 3 relays nodes all in separate locations. Each node is strategically located in different regions in the event an outage should occur in a particular geographic location. The main region is, of course, in Jakarta, Indonesia.",
+			"company": "We are an Indonesian stake pool operator. Our pool goal is aligned with Shelley's mission which is to promote True Decentralization for the Cardano blockchain. In addition, we want to spread the word and spirit of Cardano and the awareness of blockchain technology across our beloved country, Indonesia."
+		}
+	},
+	"my-pool-ids": [
+		"pool1pfprlfz0ywcnewjegazz05ghgcfkvu40v6edsz6yn8w362sdjr8"
+	],
+	"telegram-admin-handle": [
+		"cardanesia"
+	]
+}

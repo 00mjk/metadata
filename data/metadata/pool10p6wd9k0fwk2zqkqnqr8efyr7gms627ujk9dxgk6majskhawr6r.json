@@ -1,0 +1,7 @@
+{
+	"name": "BBHMM",
+	"description": "Stake with BBHMM",
+	"ticker": "BBHMM",
+	"homepage": "http://www.bbhmm.net/",
+	"extended": "https://chadle-git.github.io/Shelley/poolmeta_extended.json"
+}

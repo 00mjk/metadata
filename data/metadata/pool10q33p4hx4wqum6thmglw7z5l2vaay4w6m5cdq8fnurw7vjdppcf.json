@@ -1,0 +1,7 @@
+{
+	"name": "Sparkle",
+	"description": "Sparkle stake pool",
+	"ticker": "SPKL",
+	"homepage": "http://spklpool.com",
+	"extended": "https://sparklestatic.s3.ca-central-1.amazonaws.com/extendedMetaData.json"
+}

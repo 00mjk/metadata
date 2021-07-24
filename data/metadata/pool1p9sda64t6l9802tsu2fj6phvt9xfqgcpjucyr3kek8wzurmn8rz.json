@@ -1,0 +1,7 @@
+{
+	"name": "K8S Staking Pool",
+	"description": "Pool based on a high availability Kubernetes cluster managed and hosted in Switzerland.",
+	"ticker": "K8S",
+	"homepage": "https://k8s-pool.subnet.dev",
+	"extended": "https://k8s-pool.subnet.dev/pool-metadata/pool-extended.json"
+}

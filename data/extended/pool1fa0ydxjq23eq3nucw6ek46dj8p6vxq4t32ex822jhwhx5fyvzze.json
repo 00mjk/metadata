@@ -1,0 +1,32 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/ZenenTreadwell/zenentreadwell.github.io/3f97391f669120a5ffcfba7c201833d6fef33d35/static/enso-icon.png",
+		"url_png_logo": "https://raw.githubusercontent.com/ZenenTreadwell/zenentreadwell.github.io/3f97391f669120a5ffcfba7c201833d6fef33d35/static/enso-small.png",
+		"location": "Victoria, BC",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "zenent",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "zenentreadwell"
+		},
+		"company": {
+			"name": "Zazen Hosting",
+			"addr": "",
+			"city": "Victoria",
+			"country": "Canada",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Web Developer with a huge interest in riding the decentralisation wave",
+			"server": "Raspberry Pi Hosted at my Home in Victoria",
+			"company": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "4f5e469a40547208cf9876b36ae9b23874c302ab8ab263a952bbae6a"
+	}
+}

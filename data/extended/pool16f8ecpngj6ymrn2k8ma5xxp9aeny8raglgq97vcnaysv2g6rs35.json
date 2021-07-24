@@ -1,0 +1,29 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.michael-bauer.tech/cardanostakingpool/images/ADA-Pool_logo-64.png",
+		"location": "Spessart Germany",
+		"social": {
+			"twitter_handle": "@Michael45527188",
+			"telegram_handle": "",
+			"facebook_handle": "@cryptofieber",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "Heppe#9282",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Michael Bauer",
+			"addr": "Heppe 1",
+			"city": "Dammbach",
+			"country": "Germany"
+		},
+		"about": {
+			"me": "Crypto Enthusiast and Investor since 2014",
+			"server": "Vultr Cloud Compute",
+			"company": "Crypto Consult and Mining"
+		},
+		"my-pool-ids": {
+			"0": "d24f9c06689689b1cd563efb431825ee66438fa8fa005f3313e920c5"
+		}
+	}
+}

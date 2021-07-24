@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://vadapool.com/pool/vada/icon-vada.png",
+		"url_png_logo": "https://vadapool.com/pool/vada/logo-vada.png",
+		"location": "Council Bluffs, United States",
+		"social": {
+			"twitter_handle": "vadapool",
+			"telegram_handle": "vadapool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "We are the ones who love and trust in Cardano success, with love and passion that motivated We to become the pool operator to contribute to the project. Please Join us on the Cardano and delegate, earn ADA staking rewards, maximize your earnings with a 1% variable fee.",
+			"server": "Google Cloud firewalled networks, We have a Block Producer (+ One Backup) and Two (2) relays distributed.",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "bf6a228a7928bd7cd6204bd626142d01f0d96a2648e4782abae1cbfb"
+	},
+	"when-satured-then-recommend": {
+		"0": "bf6a228a7928bd7cd6204bd626142d01f0d96a2648e4782abae1cbfb"
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	}
+}

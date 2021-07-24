@@ -1,0 +1,38 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://cardanistas.files.wordpress.com/2021/05/logo_64x64.png",
+		"url_png_logo": "https://cardanistas.files.wordpress.com/2021/05/logo_cardanistas_circulo.png",
+		"location": "Brazil",
+		"social": {
+			"twitter_handle": "cardanistas",
+			"telegram_handle": "canalcardanistas",
+			"facebook_handle": "cardanistas",
+			"instagram_handle": "cardanistas",
+			"youtube_handle": "cardanistas",
+			"github_handle": "CardanistasTeam"
+		},
+		"company": {
+			"name": "Cardanistas StakePool",
+			"country": "Brazil"
+		},
+		"about": {
+			"server": "We’re currently utilizing VPS services to sustain a low-cost operation, a total of 4 servers hosted in Brazil, USA and Germany for better connectivity, each server having 2vCPU + 4GB RAM + 60GB HD. // Atualmente, estamos utilizando serviços VPS para sustentar uma operação de baixo custo, um total de 4 servidores hospedados no Brasil, EUA e Alemanha, para melhor conectividade, cada servidor com 2vCPU + 8GB RAM + 60GB HD.",
+			"company": "A stakepool, based in Brazil, that supports education and diversity on Cardano Community. // Uma stakepool, com sede no Brasil, que apoia a educação e a diversidade na Comunidade Cardano."
+		}
+	},
+	"my-pool-ids": {
+		"0": "92fcdd76d1d9d13910cbe1930765543984e6f4ef9b7efed3cc6536a1"
+	},
+	"when-satured-then-recommend": {
+		"0": "7095ee942c6aa5d594f08fa9f377b2f00c4abe96dd58209e2e9d18b7",
+		"1": "7862852ab4afc9ecf783ff074760ad2f3bf52669713ddd67d6794512",
+		"2": "76ce5348012e971dff93887b4870dd8aeb0a7ffc02a25ccdf337fc1c",
+		"3": "9b570b7fabee861bf763d49ca0c7eb98ba40443915d0f6c993f4e928",
+		"4": "51588318f3e0309016945846d10f8949a1da232551c4dec42641b150"
+	},
+	"telegram-admin-handle": {
+		"0": "aticomismana",
+		"1": "treseisnove",
+		"2": "boscox"
+	}
+}

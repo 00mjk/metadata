@@ -1,0 +1,27 @@
+{
+	"info": {
+		"url_png_icon_64x64": "http://glasspool.net/wp-content/uploads/2021/03/icon.png",
+		"url_png_logo": "http://glasspool.net/wp-content/uploads/2021/03/default.png",
+		"location": "Gotha, Germany",
+		"social": {
+			"twitter_handle": "glasspool2",
+			"telegram_handle": "glasspool"
+		},
+		"company": {
+			"name": "GlassPool",
+			"city": "Gotha",
+			"country": "Germany"
+		},
+		"about": {
+			"me": "Senior software engineer from germany.",
+			"server": "Dedicated server (32GB RAM) hosted at my home in germany 100MB up/down, 100% hydroelectric energy.",
+			"company": "GlassPool"
+		}
+	},
+	"my-pool-ids": {
+		"0": "5e5043308c2755f801be72a73ec6fa8a52d01e9f7b0eb456a4cf6def"
+	},
+	"telegram-admin-handle": {
+		"0": "glasspoolwolf"
+	}
+}

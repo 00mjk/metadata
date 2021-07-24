@@ -1,0 +1,59 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.stonestake.com/stonestake_64x64.png",
+		"url_png_logo": "https://www.stonestake.com/stonestake_250x250.png",
+		"location": "Bavaria, Germany",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "fb9e6df48b27018b7687851ebb7d4bde2802300a987e4042b84b59c6"
+	},
+	"when-satured-then-recommend": {
+		"0": "fb9e6df48b27018b7687851ebb7d4bde2802300a987e4042b84b59c6",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "",
+				"type": "",
+				"key": ""
+			},
+			"1": {
+				"name": "",
+				"type": "",
+				"key": ""
+			},
+			"2": {
+				"name": "",
+				"type": "",
+				"key": ""
+			}
+		}
+	}
+}

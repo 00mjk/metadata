@@ -1,0 +1,23 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.martestaking.eu/logo64",
+		"url_png_logo": "https://www.martestaking.eu/logo",
+		"location": "Italy",
+		"social": {
+			"twitter_handle": "MarteStaking",
+			"telegram_handle": "https://t.me/Martestakingofficial",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "BigG-DSC"
+		}
+	},
+	"my-pool-ids": {
+		"0": "9062e5b6e80e79a02691e05d41f03d0397ff044cc738424de93f2264",
+		"1": "pool1jp3wtdhgpeu6qf53upw5rupaqwtl7pzvcuuyyn0f8u3xgx5755y"
+	},
+	"telegram-admin-handle": {
+		"0": "@bigdsc"
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"name": "Slovenian pool",
+	"description": "Support Cardano network decentralization and delegate to Slovenian ada stakepool with 1% fee",
+	"ticker": "GOSLO",
+	"homepage": "https://testernode.github.io/testingpoolada/",
+	"extended": "https://raw.githubusercontent.com/9sc/i/o/exmetadata.json"
+}

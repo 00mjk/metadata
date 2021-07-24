@@ -1,0 +1,7 @@
+{
+	"name": "Orion Pool NL",
+	"description": "Cardano node from group of dutch cardano fans in it for the long-term. The server is located in Amsterdam with relay servers in Europe and US.",
+	"ticker": "ORION",
+	"homepage": "https://www.orion-pool.com",
+	"extended": "https://www.orion-pool.com/orion.extended-metadata.json"
+}

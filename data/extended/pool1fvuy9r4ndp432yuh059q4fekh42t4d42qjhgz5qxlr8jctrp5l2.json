@@ -1,0 +1,52 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://srv-store5.gofile.io/download/ifXSL3/icon.ico",
+		"url_png_logo": "https://i.ibb.co/tYZktLw/2.png",
+		"location": "Dubai, United Arab Emirates",
+		"social": {
+			"twitter_handle": "CryptoRocket12",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "/channel/UCMbJc6pP7q5phw5aHa73dng",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "thecryptorocket"
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Crypto and ADA Enthusiast dedicated to decentralization and the sharing of knowledge.",
+			"server": "The CryptoRocket Pool is a Cardano Stake Pool ran by Development and Security professionals who offer the highest quality services to its delegators.",
+			"company": ""
+		},
+		"rss": "http(s) url to valid RSS feed"
+	},
+	"my-pool-ids": {
+		"0": "4b38428eb3686b1513977d0a0aa736bd54bab6aa04ae815006f8cf2c"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "relay 1 eu",
+				"type": "relay",
+				"key": "example_get_own_on_adapools.org/connect"
+			},
+			"1": {
+				"name": "relay 2 usa",
+				"type": "relay",
+				"key": "example_get_own_on_adapools.org/connect"
+			},
+			"2": {
+				"name": "block producer home",
+				"type": "bp",
+				"key": "example_get_own_on_adapools.org/connect"
+			}
+		}
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://pools.pm/fika/metadatafiles/fika64.png",
+		"url_png_logo": "https://pools.pm/fika/metadatafiles/fika.png",
+		"social": {
+			"twitter_handle": "BullishDumpling"
+		},
+		"company": {},
+		"about": {
+			"me": "Hi, I am the SPO of FIKA: Dumpling. Based in the UK, I create high-quality Cardano content in Chinese language to drive more people into Cardano. I am also building a Chinese Cardano community. Chinese-speaking populations are all over the globe: China, America, Europe, Australia, and many more.   Delegate to FIKA to support this mission: make the world's largest population group be on Cardano's side. FIKA is also powered by clean hydro energy, so it is environmentally friendly.   What is FIKA, you may wonder? It is Swedish cultural slang for coffee cake and socialization. I love this concept! I want my delegators to enjoy the relaxation and socialization when delegating to my pool. That is why my pool has dedicated allocation in a data center, so delegators don't need to worry about the security and uptime of FIKA.   I am also very active and Youtube, Telegram, and Twitter, so feel free to check them out and connect with me!"
+		}
+	},
+	"telegram-admin-handle": [],
+	"my-pool-ids": [
+		"f423b19715cca49029ed13ff02a110b63de7d96ad7a0536dc5887a41"
+	]
+}

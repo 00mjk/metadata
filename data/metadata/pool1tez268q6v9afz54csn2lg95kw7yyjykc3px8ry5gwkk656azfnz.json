@@ -1,0 +1,8 @@
+{
+	"name": "Riverpool",
+	"description": "Promote the Cardano community through the Portuguese language.",
+	"ticker": "RIVER",
+	"homepage": "https://riverpool-crypto.com",
+	"AdaPools": "1156ac3aeadc34ef9fef4556513e3ab7",
+	"extended": "https://riverpool-crypto.com/extended-riverpool.json"
+}

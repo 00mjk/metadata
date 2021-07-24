@@ -1,0 +1,19 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://nivetha.dk/metadata/extlogo.png",
+		"location": "Copenhagen, Denmark",
+		"social": {
+			"telegram_handle": "Cardazio"
+		},
+		"about": {
+			"me": "Single Pool Operator",
+			"server": "BP  + Relays located in Germany (cloud) | HW configuration of servers <CPU:6core|RAM:16Gb|SSD:400GB"
+		},
+		"my-pool-ids": {
+			"0": "d1779777832efba4a5da315e6bca4f858b23939124c0253e577c5b25"
+		},
+		"when-satured-then-recommend": {
+			"0": "small pools - support decentralization"
+		}
+	}
+}

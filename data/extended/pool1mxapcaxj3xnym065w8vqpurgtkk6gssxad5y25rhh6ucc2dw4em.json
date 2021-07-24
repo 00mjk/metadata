@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://castpool.github.io/CASTPool/images/CASTPool-logo-64.png",
+		"url_png_logo": "https://castpool.github.io/CASTPool/images/CASTPool-logo.png",
+		"location": "FR",
+		"social": {
+			"twitter_handle": "CAST_Pool",
+			"telegram_handle": "CASTPool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "MokhFn"
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "CAST pool offers an ever increasing pledge for at least the next decade, with that, comes commitment to our delegators and Cardano as a project.",
+			"server": "Our pool will ultimately rely on 3 geographically and continentally distributed servers with competitive hardware specs and real-time monitoring.",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"telegram-admin-handle": {
+		"0": "CASTPool"
+	},
+	"my-pool-ids": {
+		"0": "d9ba1c74d289a64dbf5471d800f0685dada44206eb68455077beb98c"
+	},
+	"when-satured-then-recommend": {
+		"0": "d9ba1c74d289a64dbf5471d800f0685dada44206eb68455077beb98c"
+	}
+}

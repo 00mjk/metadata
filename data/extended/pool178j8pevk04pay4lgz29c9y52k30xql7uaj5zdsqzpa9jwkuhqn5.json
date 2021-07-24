@@ -1,0 +1,20 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://user-images.githubusercontent.com/77593287/124409119-b2dfdf80-dd15-11eb-9368-51145709243c.png",
+		"location": "USA",
+		"social": {
+			"twitter_handle": "CastleCardano"
+		},
+		"company": {
+			"name": "Castle Cardano",
+			"country": "USA"
+		},
+		"about": {}
+	},
+	"my-pool-ids": {
+		"0": "f1e470e5967d43d257e8128b82928ab45e607fdceca826c0020f4b27"
+	},
+	"when-satured-then-recommend": {},
+	"telegram-admin-handle": {},
+	"adapools_ext": {}
+}

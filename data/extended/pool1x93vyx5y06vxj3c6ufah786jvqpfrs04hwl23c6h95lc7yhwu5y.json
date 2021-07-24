@@ -1,0 +1,48 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://mambapool.org/wp-content/uploads/2021/05/Logo64x64.png",
+		"url_png_logo": "https://mambapool.org/wp-content/uploads/2021/05/bannerMamba.png",
+		"location": "La Habana, Cuba",
+		"social": {
+			"twitter_handle": "MambaPool",
+			"telegram_handle": "mambapool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Administrado por un ingeniero informÃ¡tico amante de las criptos y la filosofÃ­a de Cardano",
+			"server": "Hardware dedicado de gran potencia, alta fiabilidad y redundancia",
+			"company": ""
+		},
+		"rss": "https://mambapool.org/feed/"
+	},
+	"my-pool-ids": [
+		"3162c21a847e9869471ae27b7f1f52600291c1f5bbbea8e3572d3f8f"
+	],
+	"when-satured-then-recommend": [
+		""
+	],
+	"telegram-admin-handle": [
+		"ednonufix"
+	],
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "",
+				"type": "",
+				"key": ""
+			}
+		}
+	}
+}

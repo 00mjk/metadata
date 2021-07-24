@@ -1,0 +1,23 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.terostakepool.com/img/logo64.png",
+		"url_png_logo": "https://www.terostakepool.com/img/logo.png",
+		"location": "US East (N. Virginia), Uruguay",
+		"social": {
+			"twitter_handle": "terostakepool",
+			"telegram_handle": "terostakepool",
+			"github_handle": "terostakepool"
+		},
+		"about": {
+			"me": "My name is Guillermo. I was born in 1991 and I live in Uruguay and I work in the areas of DevOps and software development related to the traditional banking sector.  I like mountain climbing, speleology, swimming, and software troubleshooting.   My favorite programming language is Rust. I hope to contribute to the development community. I am very happy with the whole Cardano project and its community.",
+			"server": "Our work as a stake pool operator requires keeping several servers (nodes) running 24/7 at maximum performance, to keep the blockchain interconnected for this work we receive rewards, just as our participating delegates receive their rewards. In order to ensure maximum rewards for everyone, we designed a scalable, redundant and secure infrastructure with real-time monitoring and alerts.",
+			"company": "We donate 100% of our profits to organizations for the fight against COVID-19. We hope in the future to help other causes related to health and education in third world countries. We have a fixed cost of 340 ADA that we reserve for the maintenance and improvement of our stake pool but If we determine that it is not necessary to incur such maintenance or improvement, we will additionally donate these funds (340 ADA) to causes that intend to help the Cardano econosystem in equal development opportunities."
+		}
+	},
+	"my-pool-ids": {
+		"0": "07175f6efa70645146007138a4fdd00b9e8db2a73baecdd704ebccfd"
+	},
+	"telegram-admin-handle": {
+		"0": "devdertin"
+	}
+}

@@ -1,0 +1,23 @@
+{
+	"info": {
+		"about": {
+			"me": "",
+			"server": "The MEME stake pool runs on a trio of Raspberry Pi microcomputers with SSD hard drives and a gigabit fiber optic connection to the internet. Our servers consume about 0.2kWh per day, which is about the same as running one 9W (60W equivalent) LED light bulb."
+		},
+		"company": {
+			"city": "New York`",
+			"country": "USA"
+		},
+		"location": "Westchester, New York",
+		"rss": "https://meme.best/rss.xml",
+		"social": {
+			"telegram_handle": "sporke",
+			"twitter_handle": "meme_pool"
+		},
+		"url_png_icon_64x64": "https://meme.best/icons/apple-touch-icon.png",
+		"url_png_logo": "https://meme.best/icons/apple-touch-icon.png"
+	},
+	"my-pool-ids": {
+		"0": "c9aa8e864d5cc292f0e93669a79b41d67f8ea62481a0d85b14bea386"
+	}
+}

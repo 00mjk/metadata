@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://digitalarkpool.com/wp-content/uploads/logo64x64.png",
+		"url_png_logo": "https://digitalarkpool.com/wp-content/uploads/D-A_Hierarchy.MECH_masterfullsize.png",
+		"location": "League City, Texas",
+		"social": {
+			"twitter_handle": "DigitalArkPool",
+			"telegram_handle": "davedigitalarkpool",
+			"facebook_handle": "Digital-Ark-Pool",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "https://discord.gg/yZwscaSuDx",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Digital Ark Services LLC",
+			"city": "League City",
+			"country": "United States"
+		},
+		"about": {
+			"me": "Dave Patterson owner of Digital Ark a Self Made Entrepreneur, Telecommunication Field Engineer, Car Enthusiast.",
+			"server": "Digital Ark Pool is a mix of bare-metal and cloud servers to provide low latency and 24/7 uptime.",
+			"mission": "To bring adoption and provide value by creating a one on one educational environment for new investors.",
+			"company": "Digital Ark Services LLC"
+		},
+		"rss": "http(s) url to valid RSS feed"
+	},
+	"my-pool-ids": {
+		"0": "bb788f2b96ce42d300c27cf2e3e633b829825ad388476215c818a8b4",
+		"1": ""
+	},
+	"when-satured-then-recommend": {
+		"0": "",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	}
+}

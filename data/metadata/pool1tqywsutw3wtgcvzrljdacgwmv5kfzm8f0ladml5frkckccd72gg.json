@@ -1,0 +1,7 @@
+{
+	"name": "The FreeBSD Stake Pool",
+	"description": "Stake pool to promote the use of FreeBSD and further aid decentralization of Cardano blockchain.",
+	"ticker": "FBSD",
+	"homepage": "",
+	"extended": "https://raw.githubusercontent.com/swinful/csp/master/fbsd-extended.json"
+}

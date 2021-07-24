@@ -1,0 +1,36 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/SolidarityDeFi/SolidarityPool/main/solidarity-64x.png",
+		"url_png_logo": "https://raw.githubusercontent.com/SolidarityDeFi/SolidarityPool/main/solidarity-finance-logo.png",
+		"location": "Ohio, USA",
+		"social": {
+			"twitter_handle": "SolidarityDeFi",
+			"telegram_handle": "solidaritydefi",
+			"facebook_handle": "SolidarityDeFi",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "SolidarityDeFi"
+		},
+		"company": {
+			"name": "Solidarity DeFi",
+			"city": "Chicago",
+			"country": "United States"
+		},
+		"about": {
+			"me": "We are a volunteer team of developers, engineers, and other technologists from a variety of backgrounds and countries working to build mission-driven crypto financial services to fund progressive projects.",
+			"company": "Our goal is to make it easy for progressive minded individuals to earn revenue while supporting projects advocating for racial, economic, and gender justice.",
+			"server": "Hosted in the the midwest of the United States on secure servers. We offset electrical use through carbon credits."
+		}
+	},
+	"my-pool-ids": {
+		"0": "32f6df36b4625d51971dedb0cabd20a6c8577165d5f15530594dbc6b"
+	},
+	"when-satured-then-recommend": {
+		"0": "11cad31f95526b86724c84b818228fc2500bca5ce9b2864a85b94058",
+		"1": "fd16af916631bd29bf926d210da45d4aaa852242965ad06c124726f1"
+	},
+	"telegram-admin-handle": {
+		"0": "jbradach"
+	}
+}

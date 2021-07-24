@@ -1,0 +1,19 @@
+{
+	"itn": {
+		"owner": "ed25519_pk1kvjf8ypy4th2kczglv3s3hef0dztvwghyu537tveyl45uvg0hxxsmpvhll",
+		"witness": "ed25519_sig1npxwk6z5sdlen9dgsuse6lm447een6hge5qc2utq079wh9zj52l6r63grmm3whzllapuexjw9t4m692nzr28ulnhqu8ksmwtfssjkrscrle9u"
+	},
+	"info": {
+		"url_png_icon_64x64": "https://adastack.net/img/adastack64.png",
+		"url_png_logo": "https://adastack.net/img/adastack192.png",
+		"social": {
+			"twitter_handle": "ADA_STACK"
+		}
+	},
+	"telegram-admin-handle": [
+		"KnoZiggeh"
+	],
+	"my-pool-ids": [
+		"94864d27407c1dd0569e4acb9c7fa6ec2cc19a6193d9171f2d811232"
+	]
+}

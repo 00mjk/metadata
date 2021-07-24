@@ -1,0 +1,36 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://boba-pool.com/BOBA-64x64.png",
+		"url_png_logo": "https://boba-pool.com/BOBA-Logo.png",
+		"location": "Irvine, California",
+		"social": {
+			"twitter_handle": "BOBA_Stakepool",
+			"telegram_handle": "BOBA_Stakepool",
+			"discord_handle": "Jon [BOBA]",
+			"github_handle": "jon-BOBA"
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Single stakepool owner that's commited to keeping the Cardano network decentralized and secure.",
+			"server": "Bare metal node and relays running Ubuntu 20.04 LTS.",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"telegram-admin-handle": {
+		"0": "BOBA_Stakepool"
+	},
+	"my-pool-ids": {
+		"0": "6b3d0a2675d95b9c9e7861a97b2d3b84cdaea08dbcfc538d2d04ba2e"
+	},
+	"when-satured-then-recommend": {
+		"0": "6b3d0a2675d95b9c9e7861a97b2d3b84cdaea08dbcfc538d2d04ba2e"
+	}
+}

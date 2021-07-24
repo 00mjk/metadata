@@ -1,0 +1,7 @@
+{
+	"name": "Merovingian Cardano Stakepool",
+	"description": "Highly Sophisticated Cardano Stake Pool",
+	"ticker": "MERO",
+	"homepage": "https://merovingian-pool.com",
+	"extended": "https://storage.googleapis.com/meroada-public/extended.json"
+}

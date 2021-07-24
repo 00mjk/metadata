@@ -1,0 +1,31 @@
+{
+	"itn": {
+		"owner": "ed25519_pk1nd4yf4su66g3vgy4jsnntdqv8sw4kpsqyx62ud0exhzawewrlljswr09tp",
+		"witness": "ed25519_sig1f2n8hpns6la6ndfk7ah07lhqgn28xgavcmm4jheyq5z5hjyj82c2j9j6av6dc6efg5l5xrv3cksns46z2enqx5gzwvgj6ct98fg2ypqhadnr4"
+	},
+	"info": {
+		"url_png_icon_64x64": "https://timsahabutdinov.com/timlogo.png",
+		"url_png_logo": "https://timsahabutdinov.com/tim_logo.png",
+		"location": "Russia",
+		"social": {
+			"twitter_handle": "timsahabutdinov",
+			"telegram_handle": "timsahabutdinov",
+			"facebook_handle": "",
+			"youtube_handle": "timsahabutdinov",
+			"twitch_handle": "",
+			"discord_handle": ""
+		},
+		"about": {
+			"me": "ÐÑÐµÐ´Ð¿ÑÐ¸Ð½Ð¸Ð¼Ð°ÑÐµÐ»Ñ, ÐºÑÐ¸Ð¿ÑÐ¾ÑÐ½ÑÑÐ·Ð¸Ð°ÑÑ. ÐÐµÑÑ ÑÑÐ¾ Cardano, Ð¸ Ð»ÐµÐ¶Ð°ÑÑÑ Ð² ÐµÐµ Ð¾ÑÐ½Ð¾Ð²Ðµ ÑÐµÑÐ½Ð¾Ð»Ð¾Ð³Ð¸Ñ blockchain, Ð¸Ð·Ð¼ÐµÐ½ÑÑ Ð¼Ð¸Ñ, ÑÐ´ÐµÐ»Ð°ÑÑ Ð½Ð°Ñ ÑÐ²Ð¾Ð±Ð¾Ð´Ð½ÑÐ¼Ð¸ Ð¸ ÑÐ¸Ð½Ð°Ð½ÑÐ¾Ð²Ð¾ Ð½ÐµÐ·Ð°Ð²Ð¸ÑÐ¸Ð¼ÑÐ¼Ð¸. Let's decentralized world together.",
+			"server": "Home server, Intel Xeon CPU E5-2667 3.3 GHZ, 128 GB RAM, 2 TB SSD RAID, 1 GB fiber-optic cabel, featuring 24/7 monitoring and alert configurations.",
+			"company": "timsahabutdinov"
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "8be06c73a6ba898ae2f0d1f1594321ab3c24dd0d0717bd3e686b1658"
+	},
+	"telegram-admin-handle": {
+		"0": "timsahabutdinov"
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"name": "The Investor Accelerator Staking Pool",
+	"description": "The Official Staking Pool of Jason Pizzino's YouTube Channel. Your secure and trusted passive income vehicle in the Cardano eco-system",
+	"ticker": "TIA",
+	"homepage": "http://youtube.com/c/JasonPizzinoOfficial",
+	"extended": "https://raw.githubusercontent.com/TIApool/ada/main/extrabits.json"
+}

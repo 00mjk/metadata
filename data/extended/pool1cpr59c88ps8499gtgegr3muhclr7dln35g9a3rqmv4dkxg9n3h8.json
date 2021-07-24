@@ -1,0 +1,31 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://lacepool.com/images/lacepool_logo_adapools_64x64.png",
+		"url_png_logo": "https://lacepool.com/images/lacepool_logo_adapools.png",
+		"location": "Frankfurt, Germany",
+		"social": {
+			"twitter_handle": "lacepool_com",
+			"telegram_handle": "lacepool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "lacepool"
+		},
+		"company": {
+			"name": "Robin Böning",
+			"addr": "Belforter Str. 26",
+			"city": "Berlin",
+			"country": "Germany",
+			"vat_id": "DE323278624"
+		},
+		"about": {
+			"me": "Hi, I am Robin – a professional and passionate software developer with a strong background in system administration, for around 2 decades. I love building software that delights.",
+			"server": "Secure and scalable cloud server."
+		}
+	},
+	"my-pool-ids": {
+		"0": "c04742e0e70c0f52950b465038ef97c7c7e6fe71a20bd88c1b655b63"
+	},
+	"when-satured-then-recommend": {}
+}

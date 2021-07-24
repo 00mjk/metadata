@@ -1,0 +1,59 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://azullian.com/metadata_azp/logo.png",
+		"url_png_logo": "https://azullian.com/metadata_azp/logo_large.png",
+		"location": "Antwerp, Belgium",
+		"social": {
+			"twitter_handle": "AzullianOrg",
+			"telegram_handle": "azpools",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "DBITS BVBA",
+			"addr": "Frans Vosstraat 2",
+			"city": "Vosselaar",
+			"country": "Belgium",
+			"company_id": "BE0808869637",
+			"vat_id": "BE0808869637"
+		},
+		"about": {
+			"me": "We believe in a better world through decentralized finance. We aspire to be a fundamental contributor to the mission of the community to deliver better independence, transparency, flexibility, privacy and freedom through blockchain technology. We will focus on efficiency, redundancy, security and user-centricity in all our services.",
+			"server": "Hosted in the cloud and located in Neurenberg(DE), Missouri(US) and Singapore(SG) | Servers configuration: 6core CPU|16GB RAM|400GB SSD|400Mbit/s NET",
+			"company": "DBITS BVBA, also known under its trading name Azullian, is a software development company founded in 2009."
+		},
+		"my-pool-ids": {
+			"0": "b9f9c1e90c5e20e7e1b244d749cb118f6594a11ea68dffd9b5a3bc28"
+		},
+		"when-satured-then-recommend": {
+			"0": "b9f9c1e90c5e20e7e1b244d749cb118f6594a11ea68dffd9b5a3bc28"
+		},
+		"adapools_ext": {
+			"prometheus": {
+				"0": {
+					"name": "Relay 1 - Germany - Europe",
+					"type": "relay",
+					"key": "d9af16ad2848f3b659818546784456ad"
+				},
+				"1": {
+					"name": "Relay 2 - Missouri - North America",
+					"type": "relay",
+					"key": "b73868951963ec5dcb4218a114649f36"
+				},
+				"2": {
+					"name": "Relay 3 - Singapore - Asia",
+					"type": "relay",
+					"key": "4491d099db32a20a81553ed791ab6dae"
+				},
+				"3": {
+					"name": "Block Producer - Germany - Europe",
+					"type": "bp",
+					"key": "3d7780f134fe57eef04457bcba10dcad"
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"name": "ORKA Stakepool",
+	"ticker": "ORKA",
+	"description": "ORKA Stakepool",
+	"homepage": "http://orkastakepool.com",
+	"extended": "http://users.telenet.be/orkastaker/poolmeta_extended.json"
+}

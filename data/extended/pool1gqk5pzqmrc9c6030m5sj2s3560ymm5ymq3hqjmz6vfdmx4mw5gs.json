@@ -1,0 +1,22 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/bdonr/his/master/favicon-32x32.png",
+		"url_png_logo": "https://raw.githubusercontent.com/bdonr/his/master/android-chrome-192x192.png",
+		"location": "Hildesheim, Germany",
+		"social": {
+			"twitter_handle": "@l_am_julia",
+			"telegram_handle": "g_SChwyJ7GFiNWM6"
+		},
+		"company": {
+			"name": "HIST",
+			"country": "Germany"
+		},
+		"about": {
+			"server": "Hello whale, join us to get MAX rewards! Margin 0%"
+		},
+		"my-pool-ids": {
+			"0": "402d40881b1e0b8d3e2fdd21254234d3c9bdd09b046e096c5a625bb3",
+			"1": ""
+		}
+	}
+}

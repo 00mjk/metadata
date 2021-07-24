@@ -1,0 +1,20 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/swell-pool/node/main/swellpool64x64.png",
+		"url_png_logo": "https://raw.githubusercontent.com/swell-pool/node/main/swellpool.png",
+		"location": "United States",
+		"social": {
+			"twitter_handle": "swellpool"
+		},
+		"about": {
+			"me": "I have 13 years of IT Infrastructure support experience as well as investments and technical knowledge of cryptocurrencies since 2016.",
+			"server": "Dedicated relay nodes (2) and block-producing node (1) on Hetzner. A bare-metal backup node used when performing routine maintenance and updates on the block-producing node to maximize uptime. Hetzner provides a 99.99% uptime Service Level Agreement."
+		}
+	},
+	"my-pool-ids": {
+		"0": "7ff2b54f311b6774e82cbf780c413e49e37b7501afd30f154918f7ca"
+	},
+	"when-satured-then-recommend": {
+		"0": "7ff2b54f311b6774e82cbf780c413e49e37b7501afd30f154918f7ca"
+	}
+}

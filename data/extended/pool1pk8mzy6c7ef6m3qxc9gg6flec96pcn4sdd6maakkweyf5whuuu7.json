@@ -1,0 +1,22 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://cardanocanada.org/cardano-canada-logo-64x64.png",
+		"url_png_logo": "https://cardanocanada.org/cardano-canada-logo.png",
+		"location": "Toronto, Canada",
+		"social": {
+			"twitter_handle": "CardanoCanada"
+		},
+		"about": {
+			"me": "We are a group of young Cardano enthusiasts eager to spread the word about the benefits of blockchain and decentralization :)",
+			"server": "Digital Ocean servers running Ubuntu 20.04",
+			"company": "Cardano Canada is commited to offering the very best staking experience. Our fundamental goal is to promote the adoption of decentralized technology by supporting and raising awareness of the Cardano ecosystem. We believe blockchain will ultimately reinvent the architecture of society, creating a more equitable, sustainable and beautiful world."
+		}
+	},
+	"my-pool-ids": {
+		"0": "0d8fb11358f653adc406c1508d27f9c1741c4eb06b75bef6d676489a"
+	},
+	"when-satured-then-recommend": {
+		"0": "4deb0ba979fe7af5a5a4896ef68cdae029ad116542555cb422f46348",
+		"1": "f4762ca1dce3c32c0d7a7e6d9f8a54bf40338e99ae5f3ad0172c9a2f"
+	}
+}

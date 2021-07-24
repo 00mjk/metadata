@@ -1,0 +1,27 @@
+{
+	"info": {
+		"url_png_icon_64x64": "http://i.epvpimg.com/L2QWfab.png",
+		"url_png_logo": "http://i.epvpimg.com/KwACfab.png",
+		"location": "Country, Continent",
+		"social": {
+			"twitter_handle": "ada_pilot",
+			"telegram_handle": "pilotpool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "xxwBfFPveK",
+			"github_handle": ""
+		},
+		"rss": "http(s) url to valid RSS feed"
+	},
+	"telegram-admin-handle": [
+		"ada_pilot"
+	],
+	"my-pool-ids": [
+		"7d50b9c6ec097e2a7f4ecb2f2914f9ad21e1a7bda884cb143937a73f",
+		"c83beb18d532234c72a304ab935982be670c22e771b227a3febc3a82"
+	],
+	"when-satured-then-recommend": [
+		"c83beb18d532234c72a304ab935982be670c22e771b227a3febc3a82"
+	]
+}

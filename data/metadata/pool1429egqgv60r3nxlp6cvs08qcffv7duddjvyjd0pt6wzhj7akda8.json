@@ -1,0 +1,7 @@
+{
+	"name": "NASEC pool",
+	"description": "Hardware: London based data centre hosted dedicated server with RAID1 NVMe disks",
+	"ticker": "NASEC",
+	"homepage": "https://nasec.co.uk/cardano",
+	"extended": "https://nasec.co.uk/poolExtended.json"
+}

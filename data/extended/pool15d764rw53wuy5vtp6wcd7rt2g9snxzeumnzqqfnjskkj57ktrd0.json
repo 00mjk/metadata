@@ -1,0 +1,34 @@
+{
+	"info": {
+		"location": "USA, North America",
+		"social": {
+			"telegram_handle": "omahacardano",
+			"github_handle": "cardsfan7189"
+		}
+	},
+	"my-pool-ids": [
+		"a37daa8dd48bb84a3161d3b0df0d6a4161330b3cdcc400267285ad2a"
+	],
+	"when-satured-then-recommend": [
+		"bf082b24ce9ad72f0eb48beecf231466b62b7a8ce0890c7a9dcef87a"
+	],
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "Block producer node",
+				"type": "bp",
+				"key": "fad317e87333f860c140794a3448092a"
+			},
+			"1": {
+				"name": "Relay 1",
+				"type": "relay",
+				"key": "60c4b771be3c2c9b4417cf636f0968eb"
+			},
+			"2": {
+				"name": "Relay 2",
+				"type": "relay",
+				"key": "0f5fae287528bbcec15bb5f78a5021b9"
+			}
+		}
+	}
+}

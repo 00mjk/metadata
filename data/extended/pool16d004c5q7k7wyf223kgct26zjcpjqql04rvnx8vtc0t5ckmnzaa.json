@@ -1,0 +1,25 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://github.com/icoresearchgroup/pool-data/raw/master/icoresearchgroup_64x64.png",
+		"url_png_logo": "https://github.com/icoresearchgroup/pool-data/raw/master/icoresearchgroup_logo.png",
+		"location": "London, England",
+		"social": {
+			"twitter_handle": "ICOResearchGRP",
+			"telegram_handle": "icoresearchgroup",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "icoresearchgroup"
+		},
+		"company": {
+			"name": "ICO Research Group"
+		},
+		"about": {
+			"me": "ICORG Stakepool is run in-house by Finance and IT professionals with +10 years of experience. We offer anyone that delegates to us unrivaled information on how to position your crypto portfolio to maximise your gains whilst reducing downside risk."
+		}
+	},
+	"my-pool-ids": {
+		"0": "d35efae280f5bce2254a8d9185ab4296032003efa8d9331d8bc3d74c"
+	}
+}

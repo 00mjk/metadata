@@ -1,0 +1,8 @@
+{
+	"name": "The Princeton Pool",
+	"ticker": "PTON",
+	"description": "A Cardano Stake Pool Ran By Princeton U. Alums Promoting Freedom & Decentralization.",
+	"homepage": "https://princetonpool.github.io",
+	"nonce": "1598716470",
+	"extended": "https://princetonpool.github.io/validator.json"
+}

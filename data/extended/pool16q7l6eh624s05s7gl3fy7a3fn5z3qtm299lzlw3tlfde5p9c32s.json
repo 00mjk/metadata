@@ -1,0 +1,20 @@
+{
+	"info": {
+		"url_png_icon_64x64": "",
+		"url_png_logo": "",
+		"location": "Crypto City",
+		"social": {
+			"twitter_handle": "CardanoJoker"
+		},
+		"about": {
+			"me": "Join the Jokerz now! 0% fee, 340 ADA fixed fee split to the gang and many more rewards!",
+			"server": "24/7/365 extremely secure hideout"
+		}
+	},
+	"my-pool-ids": {
+		"0": "d03dfd66fa5560fa43c8fc524f76299d05102f6a297e2fba2bfa5b9a"
+	},
+	"when-satured-then-recommend": {
+		"0": "small pools - support decentralization"
+	}
+}

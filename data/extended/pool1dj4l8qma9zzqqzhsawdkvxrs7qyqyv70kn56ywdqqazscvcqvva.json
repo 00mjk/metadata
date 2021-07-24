@@ -1,0 +1,26 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/mjcislak/k9kimages/main/favicon.jpg",
+		"url_png_logo": "https://raw.githubusercontent.com/mjcislak/k9kimages/main/favicon.jpg",
+		"location": "Chicago, Illinois",
+		"social": {
+			"twitter_handle": "K9KStaking",
+			"facebook_handle": "CardanoMeetup",
+			"youtube_handle": "channel/UCpBkJF3T9VUjiPubcg0iTTg",
+			"discord_handle": "dBM2t7BZHh"
+		},
+		"company": {
+			"name": "K9K Staking Pool",
+			"city": "Chicago, IL",
+			"country": "United States"
+		},
+		"about": {
+			"me": "K9K LLC",
+			"server": "Cloud Hosted Servers. Primarily focused on low latency and no downtime.",
+			"company": "USA Cardano Ambassador | Family-Owned and Operated | Mission-Driven Pool"
+		}
+	},
+	"my-pool-ids": {
+		"0": "6cabf3837d2884000af0eb9b661870f0080233cfb4e9a239a007450c"
+	}
+}

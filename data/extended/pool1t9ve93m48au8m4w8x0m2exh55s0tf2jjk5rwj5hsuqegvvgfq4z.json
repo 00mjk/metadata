@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://yenami.com/img/shong64x64.png",
+		"url_png_logo": "https://yenami.com/img/shong360x360.png",
+		"location": "Country, Continent",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "yenami.com",
+			"addr": "538 Hannaru-Ro Michuhol-Gu",
+			"city": "Incheon",
+			"country": "Korea",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Gini Hong",
+			"server": "",
+			"company": "yenami.com"
+		},
+		"rss": "http(s) url to valid RSS feed"
+	},
+	"telegram-admin-handle": [
+		""
+	],
+	"my-pool-ids": [
+		"595992c7753f787dd5c733f6ac9af4a41eb4aa52b506e952f0e03286"
+	],
+	"when-satured-then-recommend": [
+		"595992c7753f787dd5c733f6ac9af4a41eb4aa52b506e952f0e03286"
+	]
+}

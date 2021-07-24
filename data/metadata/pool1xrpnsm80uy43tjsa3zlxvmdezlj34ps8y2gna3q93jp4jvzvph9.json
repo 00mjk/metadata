@@ -1,0 +1,7 @@
+{
+	"name": "Hashoshi",
+	"description": "The official Hashoshi stake pool, as seen on the YouTube series Crypto Over Coffee. Connect with Hashoshi on Twitter to chat about Cardano!",
+	"ticker": "H4SH",
+	"homepage": "https://hashoshi.com",
+	"extended": "https://raw.githubusercontent.com/poolhash/meta/main/extended.json"
+}

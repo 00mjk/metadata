@@ -1,0 +1,42 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "http://huths0lostakepool.com/deathstarsmall.PNG",
+		"url_png_logo": "http://huths0lostakepool.com/deathstar.PNG",
+		"location": "Los Angeles",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"about": {
+			"me": "Help Keep Cardano 100% Decentralized!.",
+			"server": "Only the Best Servers Used!",
+			"company": "Been in Crypto Since 2013"
+		},
+		"rss": "http(s) url to valid RSS feed"
+	},
+	"my-pool-ids": {
+		"0": "183334ab61d5af1ffbdb3b350e95d0afc09290013c30c4581a209ffe"
+	},
+	"when-satured-then-recommend": {
+		"0": "de7f214056fa551217d6ed21203bb09e7f479b34e8f4740bcf87f6f9",
+		"1": "8fdf253d44c9817d7dfd72f392a234aaab546d22cbcbc5984f84fc1f"
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "Relay 1",
+				"type": "relay",
+				"key": "1f7c31b4a7913f1a036f82943363700d"
+			}
+		}
+	}
+}

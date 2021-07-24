@@ -1,0 +1,7 @@
+{
+	"name": "BitBlance",
+	"description": "BitBlance Pool",
+	"ticker": "BLA",
+	"homepage": "https://bitblance.com",
+	"extended": "https://bitblance.com/bitblance-extended.json"
+}

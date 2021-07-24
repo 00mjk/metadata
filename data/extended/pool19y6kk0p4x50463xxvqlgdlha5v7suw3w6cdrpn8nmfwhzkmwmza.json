@@ -1,0 +1,45 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "http(s) url to pool icon; not animated; max 40kb",
+		"url_png_logo": "http(s) url to pool logo; not animated; max 50kb",
+		"location": "Ohio, United States",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "simoncrook2",
+			"facebook_handle": "simon.crook71",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "We at BASH believe Cardano will revolutionise the Financial Payment System of the World to be Fairer, Decentralised and Better for all",
+			"server": "AWS 24/7 1 x Block Producer and 1 x Relay. Each of t3a.large specification - 2 x 2.5 GHz AMD EPYC 7000 series processor, 8GB RAM, 5Gbps Network",
+			"company": ""
+		},
+		"rss": "http(s) url to valid RSS feed"
+	},
+	"my-pool-ids": {
+		"0": "29356b3c35351f5d44c6603e86fefda33d0e3a2ed61a30ccf3da5d71"
+	},
+	"when-satured-then-recommend": {},
+	"telegram-admin-handle": {},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "Bash Stake Pool Grafana monitor-cardano-node",
+				"type": "relay",
+				"key": "254e79cf870470d64a6c8b4c990665ac"
+			}
+		}
+	}
+}

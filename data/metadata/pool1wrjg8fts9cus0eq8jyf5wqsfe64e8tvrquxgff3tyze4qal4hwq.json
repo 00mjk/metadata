@@ -1,0 +1,7 @@
+{
+	"name": "TricahuePool",
+	"description": "A Stake Pool for the Cardano network located in Chile",
+	"ticker": "TCHP",
+	"homepage": "https://eztero.github.io/TricahuePool/index.html",
+	"extended": "https://eztero.github.io/TricahuePool/extended-metadata.json"
+}

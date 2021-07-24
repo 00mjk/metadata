@@ -1,0 +1,33 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://pages.bloxbean.com/cardano-stake/bloxbean64x64.png",
+		"url_png_logo": "https://pages.bloxbean.com/cardano-stake/logo-dark.png",
+		"location": "On Chain",
+		"social": {
+			"twitter_handle": "bloxbean",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "bloxbean"
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "BloxBean Cardano Pool is part of BloxBean opensource project",
+			"server": "Cloud Hosting. Producer node with 6 Cores, 16GB RAM. Two public relay servers with 4 Cores, 8GB RAM. Private relay servers",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "8ebb7e21acee66c3e5af6c765ea6ad31962e7b9160520aecd6f001a3"
+	}
+}

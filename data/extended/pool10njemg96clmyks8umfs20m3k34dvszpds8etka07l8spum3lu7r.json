@@ -1,0 +1,60 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://github.com/linuxjason/adatw/raw/d7227f5d125b84f7accb9f368f7401bf0f8a8d3c/taiwan64.png",
+		"url_png_logo": "https://github.com/linuxjason/adatw/raw/d7227f5d125b84f7accb9f368f7401bf0f8a8d3c/taiwanlogo.png",
+		"location": "Singapore",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "channel/UCu--wp47a20YMJbrzJmtv2w",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "linuxjasontw@gmail.com",
+			"addr": "",
+			"city": "Taipei",
+			"country": "Taiwan",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "We are also deeply grateful for the international community's continued support for Taiwan. Your willingness to stand together with us as we are faced with difficult regional and global challenges. Our democracy is stronger because of your support.",
+			"server": "Cloud Server 4vCore 8GB-memory 1Gbps",
+			"company": "Thank you. We hope everyone around the world is able to enjoy a restful and safe new year."
+		}
+	},
+	"my-pool-ids": {
+		"0": "",
+		"1": ""
+	},
+	"when-satured-then-recommend": {
+		"0": "",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "",
+				"type": "",
+				"key": ""
+			},
+			"1": {
+				"name": "",
+				"type": "",
+				"key": ""
+			},
+			"2": {
+				"name": "",
+				"type": "",
+				"key": ""
+			}
+		}
+	}
+}

@@ -1,0 +1,42 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://nordicpool.org/logos/64x64crown.png",
+		"url_png_logo": "https://nordicpool.org/logos/NORTH_CROWN_SVART_TEXT.png",
+		"location": "Stockholm, Sweden",
+		"social": {
+			"twitter_handle": "nordicpool",
+			"telegram_handle": "n0rdicp00l",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "NORTH #2 is governed by a, since 2016, full-time crypto investor accompanied with an experienced developer. Both being crypto enthusiasts, we are more interested in the decentralized vision of Cardano, than reaping huge profits. To support decentralization without compromising performance we are running our servers in Sweden and Finland (outside of server cluster), countries with internet infrastructure among the worlds best. This gives our servers very low latency, optimizing block propagation to the majority of Cardano network. NORTH #2 will be running on a 0% variable fee and 340 fixed fee until 52M Live stake. We want to keep total stake under 52M to keep us ranked high in ADAPools. For questions, please join our telegram channel https://t.me/n0rdicp00l",
+			"server": "Powerful hardware is prioritized higher than low costs. Servers are running both locally and in the cloud, combining the best of two worlds. All sensitive keys is stored and handled on a dedicated offline computer, ensuring complete safety of the pool.",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "f0e505f8f0d7beccffe83c287d0d2ff6a46ec5d38345e8bd35359427",
+		"1": "52e22df52e90370f639c99f5c760f0cd67d7f871cd0d0764fae47cd9",
+		"2": "fa58244068bef886049b3e8fbba8aa39f227ce78168efdf7629111c5"
+	},
+	"when-satured-then-recommend": {
+		"0": "52e22df52e90370f639c99f5c760f0cd67d7f871cd0d0764fae47cd9",
+		"1": "fa58244068bef886049b3e8fbba8aa39f227ce78168efdf7629111c5"
+	},
+	"telegram-admin-handle": {
+		"0": "nordicpool"
+	}
+}

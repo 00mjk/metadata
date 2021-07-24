@@ -1,0 +1,31 @@
+{
+	"itn": {
+		"owner": "ed25519_pk1g9cxxnjxyxma9hg8cl3w2kugnxhux7n2xmjkflq6y5a08e82syrq3gt7m4",
+		"witness": "ed25519_sig1y0m5ggv4jlg774l57a9r8ym72pm74ax6lypkmt8gx90e5qcxszuwfuzv096mhq43c2ud7u6nckzk3jrtg4xp7q9ep9l30g76htq2wzq70eaga"
+	},
+	"info": {
+		"url_png_icon_64x64": "https://queenada.com/queen_6_4",
+		"url_png_logo": "https://queenada.com/queen-2-circle-1",
+		"location": "Ireland",
+		"social": {
+			"twitter_handle": "QueenAdaStaking",
+			"telegram_handle": "QueenAdaGang",
+			"youtube_handle": "channel/UCTEvuSjUBxxz3eV55oZIQiw"
+		},
+		"about": {
+			"me": "Queen is professionally run, Irish based, ITN Top-40 pool. We're transparent, reliable and committed to Cardano's long term success.\nQueen is an independent pool based in warm and (sometimes) sunny Ireland, operated by Phil, a software engineer.\nOur pledge of 1.35Mâ³ is our skin in the game, and we promise to keep it at 500Kâ³ through the next bull run and beyond.\nStake with us and support decentralisation as it was intended.\nJoin our telegram community t.me/QueenAdaGang , check out our website queenada.com and follow us on twitter for regular updates @QueenAdaStaking.\nHappy Staking!",
+			"server": "Multiple high end, low latency cloud root servers on 3 contintents. 24/7 Monitoring & Alerting",
+			"company": "Queen Ada Staking"
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "b40683f4baad755ff60f26dc73c3e371ac4c5e422feef2fc1f5f29bf"
+	},
+	"when-satured-then-recommend": {
+		"0": "5271fc86fd9c25613c138c4aef6f8593b2952c95897b079facebbc9e"
+	},
+	"telegram-admin-handle": {
+		"0": "phillerino"
+	}
+}

@@ -1,0 +1,23 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/rere-dnaw/m/main/vivid-logo-64x64.png",
+		"location": "Bristol, United Kingdom",
+		"social": {
+			"twitter_handle": "Cryptoguys4",
+			"telegram_handle": "vivid_pool",
+			"youtube_handle": "channel/UC8vR0zHl2l9AlGPiWKOxDpA",
+			"discord_handle": "8qSEZ7Hb",
+			"github_handle": "tabuz"
+		},
+		"about": {
+			"me": "Pool Operator",
+			"server": "1BP + 2Relays located in Germany, Poland and Belgium"
+		},
+		"my-pool-ids": {
+			"0": "pool1r9zrp0hpy3dj6lse5vl9yc672v5w7fzrrp62pjcersqe2djm409"
+		},
+		"when-satured-then-recommend": {
+			"0": "small pools - support decentralization"
+		}
+	}
+}

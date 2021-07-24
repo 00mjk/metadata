@@ -1,0 +1,61 @@
+{
+	"how-to-implement": "",
+	"info": {
+		"url_png_icon_64x64": "https://breizhstakepool.io/apple-icon-60x60.png",
+		"url_png_logo": "https://breizhstakepool.io/logo.jpg",
+		"location": "Bretagne",
+		"social": {
+			"twitter_handle": "BreizhPool",
+			"telegram_handle": "bzhsp",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "ArbrazLinux"
+		},
+		"company": {
+			"name": "BreizhStakePool",
+			"addr": "",
+			"city": "Vannes",
+			"country": "France",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "Ubuntu Servers located in Britany & United Kingdom",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "9b9ad921921db31ca91cd6dfdf11f5efee8c1ab94671a6b4a8edc748",
+		"1": ""
+	},
+	"when-satured-then-recommend": {
+		"0": "9b9ad921921db31ca91cd6dfdf11f5efee8c1ab94671a6b4a8edc748",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": "bzhsp"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"1": {
+				"name": "BZH Relay 1 - France Breizh",
+				"type": "relay",
+				"key": ""
+			},
+			"2": {
+				"name": "BZH Relay 2 - France Breizh",
+				"type": "relay",
+				"key": ""
+			},
+			"0": {
+				"name": "BZH Node",
+				"type": "bp",
+				"key": ""
+			}
+		}
+	}
+}

@@ -1,0 +1,8 @@
+{
+	"name": "Beer Money",
+	"ticker": "BEER",
+	"description": "The Beer Money Stake Pool has permanant low fees and is hosted in AWS to maximize up-time and minimize network intruptions. Better chances of us earning beer money together!",
+	"homepage": "https://beerpool.io",
+	"nonce": "1601332689",
+	"extended": "https://beerpool.io/poolmeta-extended.json"
+}

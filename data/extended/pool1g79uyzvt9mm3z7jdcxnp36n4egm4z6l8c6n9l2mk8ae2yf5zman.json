@@ -1,0 +1,36 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://abcstake.com/abc64.png",
+		"url_png_logo": "https://abcstake.com/abc.png",
+		"location": "New York City, United States",
+		"social": {
+			"twitter_handle": "StakeWithABC",
+			"telegram_handle": "abcstakechat",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Professionals with years of experience running billion user products",
+			"server": "VPS in multiple locations with monitoring and operations in Europe and on the US West Coast",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "478bc2098b2ef7117a4dc1a618ea75ca37516be7c6a65fab763f72a2"
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	}
+}

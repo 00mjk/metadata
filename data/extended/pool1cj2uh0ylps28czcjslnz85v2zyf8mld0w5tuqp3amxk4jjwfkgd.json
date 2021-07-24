@@ -1,0 +1,36 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.bitcat365.com/wp-content/uploads/cn/2019/09/05-12533755.png",
+		"url_png_logo": "https://www.bitcat365.com/wp-content/uploads/cn/2020/11/06-17562674.png",
+		"location": "China, Germany",
+		"social": {
+			"twitter_handle": "bitcat365",
+			"telegram_handle": "joinchat/LBbAfRU0nlwushyr9sfJAQ",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Bit Cat",
+			"addr": "",
+			"city": "Beijing",
+			"country": "China",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Professional PoS operator supporting multiple blockchain projects. Enterprise-grade infrastructure insure safety and stability.",
+			"server": "",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "pool1cj2uh0ylps28czcjslnz85v2zyf8mld0w5tuqp3amxk4jjwfkgd"
+	},
+	"telegram-admin-handle": {
+		"0": "sanxiacat"
+	}
+}

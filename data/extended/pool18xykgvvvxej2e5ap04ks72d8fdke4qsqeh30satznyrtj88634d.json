@@ -1,0 +1,23 @@
+{
+	"itn": {
+		"owner": "ed25519_pk1pcyqpwnc60j2ef22f3ldgmt6dakmrd5a34mnt0l4twlmcwgq7lnsfzv45s",
+		"witness": "ed25519_sig1qatc82pn0v6jm9fajlannzvx6vqn3pfl0dxyznzlhprp6qsce7zqdx2upq8vgf4atzjx5y9laektzjjjz68htytnzq078j5wywnrcrc97nwym"
+	},
+	"adapools": {
+		"url_png_icon_64x64": "http://teqwyse.com/images/TeqWyse-logo64x64.png",
+		"url_png_logo": "http://teqwyse.com/images/TeqWyse-logo.png",
+		"location": "Fort Lauderdale, Florida, United States",
+		"social": {
+			"twitter_handle": "teqwyse",
+			"telegram_handle": "teqwysestakepool",
+			"facebook_handle": "teqwyse",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": ""
+		},
+		"about": {
+			"me": "TeqWyse is a tech consulting company specializing in DevOps, ITSec and the Cardano Blockchain.",
+			"server": "Dedicated Server with 4 Cores x 3.5 GHz, 16GB RAM, 480GB SSD with RAID 1"
+		}
+	}
+}

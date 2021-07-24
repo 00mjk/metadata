@@ -1,0 +1,7 @@
+{
+	"name": "JRNY Crypto Fans Pool",
+	"description": "Stake pool for JRNY Crypto fans",
+	"ticker": "JRNY",
+	"homepage": "https://gintas.dk",
+	"extended": "https://gist.githubusercontent.com/geantas/035e9b7bab92f5c303e6fc129d88f223/raw/fce8cb42402459d7bde5242d2de99e40b5953727/extended.json"
+}

@@ -1,0 +1,26 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://pandapool.site/panda-64x64-1.png",
+		"url_png_logo": "https://pandapool.site/ada-logo-150x150.png",
+		"location": "Singapore, Taiwan",
+		"social": {
+			"telegram_handle": "ada_pandapool",
+			"youtube_handle": "channel/UCsQc1p9v1biMwhdCCA1fjOQ",
+			"twitter_handle": "ice459pp"
+		},
+		"company": {
+			"name": "PandaPool"
+		},
+		"about": {
+			"me": "Hi, Iâm Cardano SPO, PandaPool, Iâm from Taiwan, if you think our panda pool is good, welcome to support us.",
+			"server": "System OS: Linux CentOS. 4 Cores 8RAM 160GB. Pool will continue to be upgraded if necessary in the future. Maintain for Relay and Producer Node. SSH Protection and Prohibit ROOT SSH LOGIN. Grafan and Prometheus tools to monitor node state of health."
+		}
+	},
+	"my-pool-ids": {
+		"0": "ed8b9c25260584007c5453650cbad28c163c0c9d01b880f30655c396"
+	},
+	"when-satured-then-recommend": {
+		"0": "pool1xz8v2md8pvplvnsyvj25th8dd54je90wzt5sk3ame6ks6w3t0dg",
+		"1": "pool1xz8v2md8pvplvnsyvj25th8dd54je90wzt5sk3ame6ks6w3t0dg"
+	}
+}

@@ -1,0 +1,42 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://ada-quest.com/ada-quest/www/wp-content/uploads/2021/02/questlogo_64x64.jpg",
+		"url_png_logo": "https://ada-quest.com/ada-quest/www/wp-content/uploads/2021/02/questlogo_400x400.jpg",
+		"location": "Germany, Germany",
+		"social": {
+			"twitter_handle": "@QuestPool",
+			"telegram_handle": "QUEST - Cardano ADA Pool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "QUEST was set up by four friends in Germany, who believe in Cardanos mission statement. Delegate and relax, we got you! Secure! Fair! Reliable! - This is us -",
+			"server": "8vCPUs Intel Xeon E5-2680 v3 2.5GHz - 32 GB RAM - 800 GB SSD - 500 Mbit/s",
+			"company": "We offer a strong Server availability, running our node on Premium Linux V-Server!"
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "321cc307b088cf3620a27a6986e083a69d724edf2b43d7f2c10544b9"
+	},
+	"when-satured-then-recommend": {
+		"0": "e9ef42e5fe6e45c46565d601cf66e9006d84bfb7fa8ace69afd0ad5e",
+		"1": "1cd122b3ccee22046d1b1dd46a6f3a1d339de527656b88ab55a16ae4",
+		"2": "b71410e0d4123b029ee91fd5132fb63f14e946f0246e8f9ae8298350",
+		"3": "59d12b7a426724961607014aacea1e584f3ebc1196948f42a10893bc"
+	},
+	"telegram-admin-handle": {
+		"0": "[QUEST]Zwerg"
+	}
+}

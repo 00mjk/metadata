@@ -1,0 +1,35 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://hype-staking.com/hypestaking-64x64.png",
+		"url_png_icon_128x128": "https://hype-staking.com/hypestaking-128x128.png",
+		"url_png_logo": "https://hype-staking.com/hypestaking-264x.png",
+		"location": "Lisbon, Portugal",
+		"social": {
+			"twitter_handle": "HypeStaking",
+			"telegram_handle": "hypestaking",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": ""
+		},
+		"company": {
+			"name": "Hype Staking",
+			"city": "Lisbon",
+			"country": "Portugal",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Cardano Pool Operator",
+			"server": "Highly reliable and secure stake pool running on powerful servers committed to providing top quality staking services.",
+			"company": "Hype Staking"
+		}
+	},
+	"my-pool-ids": [
+		"29df06255834d24d6a149224cf114a371bea08b64e7537e224a561a5"
+	],
+	"when-satured-then-recommend": [],
+	"telegram-admin-handle": [
+		"hypestaking"
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"name": "CardanoAtStake",
+	"ticker": "HEL",
+	"description": "Reliable pool present since the first day of ITN",
+	"homepage": "https://cardanoatstake.com",
+	"nonce": "1596074762",
+	"extended": "https://raw.githubusercontent.com/catstake/pool/master/itn.json"
+}

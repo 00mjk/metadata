@@ -1,0 +1,7 @@
+{
+	"name": "Otaku Pool",
+	"description": "OTAKU pool - four servers in different parts of the world. Low latency, 24/7 uptime.",
+	"ticker": "OTAKU",
+	"homepage": "https://otakupool.com/",
+	"extended": "https://otakupool.com/extended-metadata.json"
+}

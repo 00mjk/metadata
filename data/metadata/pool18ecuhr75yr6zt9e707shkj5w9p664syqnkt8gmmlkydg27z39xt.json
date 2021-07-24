@@ -1,0 +1,7 @@
+{
+	"name": "ToolsPool",
+	"description": "Tool that provides you to perform Stake pool",
+	"ticker": "TPSV",
+	"homepage": "https://toolspool.online",
+	"extended": "https://gist.githubusercontent.com/lu1tr0n/0bc0c10c688b6542579e17c9afd7d090/raw/098aa9e5c318d93ef2e8b5fe8255fd08d0c6f482/poolMetaData.extended.json"
+}

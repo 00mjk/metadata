@@ -1,0 +1,33 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://lucid.rizome.io/lucid_icon_64.png",
+		"url_png_logo": "https://lucid.rizome.io/lucid_icon.png",
+		"location": "Vilnius, Lithuania",
+		"social": {
+			"twitter_handle": "lucid_ada_pool",
+			"telegram_handle": "lucidpool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "rizome-io"
+		},
+		"company": {
+			"name": "rizome.io",
+			"addr": "Islandijos, 2",
+			"city": "Vilnius",
+			"country": "Lithuania",
+			"company_id": "123456789",
+			"vat_id": "GB123456789"
+		},
+		"about": {
+			"me": "Solutions Architect specializing in web applications. 15+ years in devops and server management.",
+			"server": "dedicated Ryzen 7 4800H machine with additional backup servers (rPi4 8GB) in multiple locations. We are proud to guarantee high availability and resilience against power and connection outages. Our competitive fees ensure a high return of assets for our users.",
+			"company": "Years of successful work, deep research, and timely updates behind the Cardano technology have proven a meticulous commitment to high values. It established a powerful direction for creating a secure foundation for decentralized value management that is set to open up the doors for paradigm-shifting technologies and interactions powered by blockchain."
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "0d7af673b35b05c292168bab17b1069493d2d10fe095071f355fd724"
+	}
+}

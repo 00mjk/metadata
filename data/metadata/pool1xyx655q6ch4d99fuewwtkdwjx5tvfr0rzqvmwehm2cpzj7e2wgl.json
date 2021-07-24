@@ -1,0 +1,7 @@
+{
+	"ticker": "PARIS",
+	"name": "PARIS Stake Pool",
+	"description": "French Cardano Stake Pool operated from Paris. High and stable pledge.",
+	"homepage": "https://parisadastakepool.fr/",
+	"extended": "https://github.com/paris-ada-stakepool/parispool/raw/master/meta/PARIS_Metadata_extended.json"
+}

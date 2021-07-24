@@ -1,0 +1,36 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://moa.stakepool.co.nz/icon.png",
+		"url_png_logo": "https://moa.stakepool.co.nz/logo.png",
+		"location": "Christchurch, New Zealand",
+		"social": {
+			"twitter_handle": "moastakepool",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "Christchurch",
+			"country": "New Zealand",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "We are a team of crypto enthusiasts from New Zealand aiming to provide you with a quality staking experience. We operate a reliable based Stake Pool operated by AWS Certified Technicians.",
+			"server": "Hosted on Contabo in Germany and a bare metal machine in Christchurch, NZ.",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "97a01b8ee302ff28aad1efef39cc310a4c07cf5b767f0292134f5d4d"
+	},
+	"when-satured-then-recommend": {},
+	"telegram-admin-handle": {},
+	"adapools_ext": {}
+}

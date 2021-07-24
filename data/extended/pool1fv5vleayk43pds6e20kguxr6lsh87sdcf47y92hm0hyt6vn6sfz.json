@@ -1,0 +1,33 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://github.com/CardanoTrainingPool/PoolData/blob/main/200x200Pica.png?raw=true",
+		"url_png_logo": "https://github.com/CardanoTrainingPool/PoolData/blob/main/200x200Pica.png?raw=true",
+		"location": "New Zealand",
+		"social": {
+			"twitter_handle": "MnMcharityPool",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "channel/UC_HxO6r2xNrCnBxABZ4qWkA",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Training Cardano peeps",
+			"server": "VPS stake pool",
+			"company": ""
+		},
+		"my-pool-ids": {
+			"0": "4b28cfe7a4b56216c35953ec8e187afc2e7f41b84d7c42aafb7dc8bd",
+			"1": ""
+		}
+	}
+}

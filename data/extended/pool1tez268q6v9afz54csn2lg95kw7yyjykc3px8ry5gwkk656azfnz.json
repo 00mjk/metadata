@@ -1,0 +1,29 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://riverpool-crypto.com/metadata/riverpool_logo_x64.png",
+		"url_png_logo": "https://riverpoool-crypto.com/metadata/riverpool_logo.jpg",
+		"location": "Lisbon, Portugal",
+		"social": {
+			"twitter_handle": "RiverpoolCrypto",
+			"telegram_handle": "riverpoolcrypto",
+			"facebook_handle": "",
+			"youtube_handle": "channel/UChtFxo_-nHieuSPT47nNclw",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Riverpool",
+			"city": "Lisbon",
+			"country": "Portugal"
+		},
+		"about": {
+			"me": "Riverpool is a Portuguese project that aims to promote the Cardano community through the Portuguese language. Since 2017, we have followed the evolution of the Cardano project, an open-source project taking large steps towards the sustainable development of the blockchain and minimizing the impact of financial intermediaries on our personal finances. We also believe that the financial paradigm shift must be based on solid scientific bases, with development teams from some of the best universities from around the world.",
+			"server": "AWS Cloud servers with multiple locations to ensure 100% realiability, prometheus and grafana monitor servers 365/24/7.",
+			"company": "WeÂ´re a small Portuguese stake pool taking our first steps to contribute to the spread of the Cardano community and decentralization of the blockchain. Unlike larger stake pools, we are still far from saturation, giving you an unique opportunity to grow your rewards along us. We monitor our systems 24/7 to make sure everything is working correctly, contributing to the stake pool reliability and increasing its uptime. Within our team, we have several years of experience in web and software development as well as data science."
+		},
+		"my-pool-ids": {
+			"0": "5e44ad1c1a617a9152b884d5f4169677884912d8884c71928875adaa"
+		}
+	}
+}

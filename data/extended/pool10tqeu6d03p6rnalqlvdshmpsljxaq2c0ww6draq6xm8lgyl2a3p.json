@@ -1,0 +1,40 @@
+{
+	"itn": {
+		"owner": "ed25519_pk1cuec9g69gv2d5pwex6skld3emjtxdwxs3vqm52z42u84g92l6exsx45yxm",
+		"witness": "ed25519_sig172qwd0zsf5027dhjj3f3g4f9av48fyv23pux2pqwt3nxpd53vc8wc002gtvfqe09s3aky3vsgnytqtqztjn5w0w0h2shednk542dyqgn3eh9p"
+	},
+	"info": {
+		"url_png_icon_64x64": "https://cardaspians.io/apple-icon-60x60.png",
+		"url_png_logo": "https://cardaspians.io/ms-icon-150x150.png",
+		"location": "Belgium, Europe",
+		"social": {
+			"twitter_handle": "cardaspians",
+			"telegram_handle": "cardaspians",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "cardaspians"
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Cardaspians (CASP) is an Application & Staking Provider for the Cardano eco system, providing reliable staking and application services",
+			"server": "redundant Cloud VPS Linux server(s), 4vCPU, 8GB RAM, 100GB SSD, 1Gbit backbone, ...",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"telegram-admin-handle": {
+		"0": "markvq"
+	},
+	"my-pool-ids": {
+		"0": "7ac19e69af887439f7e0fb1b0bec30fc8dd02b0f73b4d1f41a36cff4"
+	}
+}

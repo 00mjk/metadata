@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://stakepool.at/eggs_64x64.png",
+		"url_png_logo": "https://stakepool.at/eggs_logo.png",
+		"location": "New York, NY",
+		"social": {
+			"twitter_handle": "EggsStake",
+			"telegram_handle": "EGGSstakepool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"telegram-admin-handle": [
+		"BPV22"
+	],
+	"my-pool-ids": [
+		"43ef09ca6b7b791b063144b9d8cc33c4d0389115ed9424b6eda899b2"
+	],
+	"when-satured-then-recommend": [
+		"43ef09ca6b7b791b063144b9d8cc33c4d0389115ed9424b6eda899b2"
+	]
+}

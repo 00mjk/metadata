@@ -1,0 +1,20 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.woodlandpools.net/woodland_pools_thumbnail_logo_64x64.png",
+		"url_png_logo": "https://www.woodlandpools.net/woodland_pools_thumbnail_logo.png",
+		"location": "United States",
+		"social": {
+			"twitter_handle": "WoodlandPools",
+			"telegram_handle": "WoodlandPools",
+			"youtube_handle": "WoodlandPools"
+		},
+		"about": {
+			"me": "Our pool is run by two software engineers based in the United States working in the healthcare industry.",
+			"server": "The Aspen pool is configured with two relay nodes and a core node, continuous backups, and 24/7 monitoring.",
+			"company": "We strive to provide the Cardano community with the latest news, tutorials, and the information you need to grow your investment with confidence. Check out our YouTube channel for more information."
+		}
+	},
+	"my-pool-ids": {
+		"0": "pool1qku2yhky7sv4dfjfv42uyvauhehuqevk25aw952d7ulzqzx3jcu"
+	}
+}

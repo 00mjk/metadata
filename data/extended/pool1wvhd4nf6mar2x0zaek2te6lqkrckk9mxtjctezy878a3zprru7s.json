@@ -1,0 +1,19 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://static.wixstatic.com/media/d9d9e1_2f54c3f7a6214b3e8179e58aa541892c~mv2.png",
+		"url_png_logo": "https://static.wixstatic.com/media/d9d9e1_a8d57b293e8c4d0cb85a2ed45cef0f8e~mv2.png",
+		"location": "Geneva, Switzerland",
+		"social": {
+			"twitter_handle": "ada247friends",
+			"telegram_handle": "ada247group"
+		},
+		"about": {
+			"me": "Ada (₳) and DEFI supporter with Finance and IT background",
+			"server": "Cloud based Infrastructure hosted in Germany",
+			"company": "ADA 24/7 | Operated from Switzerland | Professional setup | Decentralized | Scalable | Fast | Secure |"
+		}
+	},
+	"my-pool-ids": {
+		"0": "732edacd3adf46a33c5dcd94bcebe0b0f16b17665cb0bc8887f1fb11"
+	}
+}

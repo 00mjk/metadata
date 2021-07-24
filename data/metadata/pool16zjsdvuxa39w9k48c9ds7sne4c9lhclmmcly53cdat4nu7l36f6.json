@@ -1,0 +1,7 @@
+{
+	"name": "BM Pool",
+	"description": "From our pool earnings we support war veterans",
+	"ticker": "BMP",
+	"homepage": "https://bmpool.online",
+	"extended": "https://raw.githubusercontent.com/BMPOOL/BMP/main/BMP_ext.json"
+}

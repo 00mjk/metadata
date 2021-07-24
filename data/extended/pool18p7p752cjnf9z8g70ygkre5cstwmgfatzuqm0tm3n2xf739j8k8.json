@@ -1,0 +1,33 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://bit.ly/33xON0Q",
+		"url_png_logo": "https://bit.ly/3oafTos",
+		"location": "Pennsylvania, USA",
+		"social": {
+			"twitter_handle": "SaganPool",
+			"reddit_handle": "Sagan_Pool",
+			"telegram_handle": "saganpool"
+		},
+		"about": {
+			"me": "Sagan Pool is a Cardano Stake Pool dedicated to decentralization & the community. Check us out at http://saganpool.com",
+			"server": "Single-pool Stake Pool Operator aiming for Decentralization and Community Growth"
+		}
+	},
+	"my-pool-ids": {
+		"0": "387c1f515894d2511d1e791161e69882ddb427ab1701b7af719a8c9f"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "Hubble Relay",
+				"type": "relay",
+				"key": "23b793b6185e05bddcf5a4b1752f8912"
+			},
+			"1": {
+				"name": "Kepler Relay",
+				"type": "relay",
+				"key": "e23f778352804246b201e4d323f3aee4"
+			}
+		}
+	}
+}

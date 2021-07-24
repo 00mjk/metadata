@@ -1,0 +1,7 @@
+{
+	"name": "Pie Stake",
+	"description": "Secure, reliable, low latency Cardano Staking Pool",
+	"ticker": "PIE",
+	"homepage": "https://piestake.com",
+	"extended": "https://piestake.com/extendedMetaData.json"
+}

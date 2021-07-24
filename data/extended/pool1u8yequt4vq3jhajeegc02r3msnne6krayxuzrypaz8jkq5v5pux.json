@@ -1,0 +1,68 @@
+{
+	"itn": {
+		"owner": "ed25519_pk133vhx20n7h3ra4mztxa4uvm92rdpp32v7l67w6hffemyek2wef2sz54sxy",
+		"witness": "ed25519_sig1ac5tjxtjw39rcltjs5x69m80p69wkdkgxp8nt6l3rzder6f8tlcc55z2vf8yte9eefudh9ytythq44jhhjx3cr3eu800cssz6m4kurchry9f4"
+	},
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/hoskpool/hosk1/main/hosk_v1_64x64.png",
+		"url_png_logo": "https://raw.githubusercontent.com/hoskpool/hosk1/main/hosk_v1_1000x1000.png",
+		"location": "",
+		"social": {
+			"twitter_handle": "hoskpool",
+			"telegram_handle": "hoskpoolnews",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Welcome to Hosk Pool 💛, the official stake pool of The Hoskinsons NFT project. As the official partner of The Hoskinsons NFT project, we are pleased to offer exclusive NFT givebacks to our delegators. Follow us on Twitter at @hoskpool for pool updates, NFT givebacks, and idle banter. We’re also active on Telegram at @hoskpoolnews. 🍻",
+			"server": "",
+			"company": "A joint Plutus Pioneer and Shelley Testnets Pioneer Production 💛"
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "e1c990717560232bf659ca30f50e3b84e79d587d21b821903d11e560",
+		"1": "",
+		"2": ""
+	},
+	"when-satured-then-recommend": {
+		"0": "",
+		"1": "",
+		"2": "",
+		"3": "",
+		"4": ""
+	},
+	"telegram-admin-handle": {
+		"0": "hoskpool"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "",
+				"type": "",
+				"key": ""
+			},
+			"1": {
+				"name": "",
+				"type": "",
+				"key": ""
+			},
+			"2": {
+				"name": "",
+				"type": "",
+				"key": ""
+			}
+		}
+	}
+}

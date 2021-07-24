@@ -1,0 +1,36 @@
+{
+	"info": {
+		"url_png_icon_64x64": "",
+		"url_png_logo": "",
+		"location": "Spain",
+		"social": {
+			"twitter_handle": "PoolFix3",
+			"telegram_handle": "PoolFix",
+			"facebook_handle": "",
+			"youtube_handle": "CardanoHispano",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Poolfix",
+			"addr": "Alicante",
+			"city": "IBI",
+			"country": "Spain",
+			"company_id": "25-0202-02",
+			"vat_id": "8ec12e0328794298630af34780f20550"
+		},
+		"about": {
+			"me": "We are about three computer engineers with more than 10 years of experience in the field of networks and block-chain technology",
+			"server": "Cloud hosted AWS around the wolrd",
+			"company": "Founded in 2010, we are a small gruop working since 2015 in criptoactives."
+		},
+		"rss": ""
+	},
+	"telegram-admin-handle": [
+		"PoolfixAdmin"
+	],
+	"my-pool-ids": [
+		"6aa1b9e4922bad9cbd9606e90cd6aba9ab54f1005750ef5bdea43440"
+	],
+	"when-satured-then-recommend": []
+}

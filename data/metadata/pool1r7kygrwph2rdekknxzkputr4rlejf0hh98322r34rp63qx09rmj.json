@@ -1,0 +1,8 @@
+{
+	"name": "Born in the Cloud - Let's stake together!",
+	"description": "A cloud-native Cardano (ADA) stakepool. Independently operated by IT professionals. Deployed on zone-redundant high-availability (>99.95%) enterprise systems in Frankfurt am Main, Germany's best connected city.",
+	"ticker": "BORN",
+	"homepage": "https://born-in-the.cloud",
+	"nonce": "1613956373",
+	"extended": "https://born-in-the.cloud/BORN.extended_metadata.json"
+}

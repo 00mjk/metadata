@@ -1,0 +1,20 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.lidonation.com/img/lido-nation-icon-white-bg.png",
+		"url_png_logo": "https://www.lidonation.com/img/lido-logo-square-white-bg.png",
+		"location": "Minneapolis, Minnesota",
+		"social": {
+			"twitter_handle": "lidonation",
+			"facebook_handle": "lidonation",
+			"youtube_handle": "lidonation"
+		},
+		"about": {
+			"me": "We are two polyglot developers and educators building a community rooted in and starting with cardano but aiming to provide education and communication for the entire public blockchain space.",
+			"server": "A kubernetes deployment hosted on google cloud. 32Gbps network. Auto scaling. Self healing. ",
+			"company": "Lido Nation"
+		}
+	},
+	"my-pool-ids": {
+		"0": "b5a1a820cc3783a4e637bce79d1cc2774b241c08251e45c5d1f8f3f6"
+	}
+}

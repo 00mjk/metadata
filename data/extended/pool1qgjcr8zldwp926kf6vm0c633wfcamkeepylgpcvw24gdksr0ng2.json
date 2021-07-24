@@ -1,0 +1,21 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://ahaxu.com/wp-content/uploads/2021/04/ahaxu-icon-64x64-1.png",
+		"url_png_logo": "https://ahaxu.com/wp-content/uploads/2021/04/ahaxu-logo.png",
+		"location": "APAC",
+		"social": {
+			"twitter_handle": "tienlong",
+			"telegram_handle": "https://t.me/joinchat/eR81_4Rov7tjYjQ1"
+		},
+		"about": {
+			"me": "AHA - We are young, ambitious and enthusiastic team from Vietnam.\n\rWe have solid experience(10++ years) about programing and system scaling (24x7x365)!",
+			"server": "Located in Singapore 1BP x 2 relay nodes >> CPU: 4vCPU | RAM:8GB | SSD:80GB+ <<"
+		},
+		"my-pool-ids": {
+			"0": "0225819c5f6b82556ac9d336fc6a317271dddb39093e80e18e5550db"
+		},
+		"when-satured-then-recommend": {
+			"0": "AHA xu pool - leading to the future of decentralization"
+		}
+	}
+}

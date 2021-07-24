@@ -1,0 +1,8 @@
+{
+	"name": "HISTAKE POOL",
+	"ticker": "HIST",
+	"description": "0 percent margin, get the max out of a block",
+	"homepage": "https://histake.eu",
+	"nonce": "1624052271",
+	"extended": "https://raw.githubusercontent.com/bdonr/his/master/extended.json"
+}

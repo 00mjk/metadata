@@ -1,0 +1,23 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://espressopool.net/images/icon64.png",
+		"url_png_logo": "https://espressopool.net/images/logo.png",
+		"location": "Ljubljana, Slovenia",
+		"social": {
+			"twitter_handle": "EspressoPool",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"about": {
+			"me": "EspressoPool - We are a team of devoted (haskell) programmers, SysAdmins and IT professionals with decades of experience with running critical (24/7) services, but most of all we are espresso enthusiasts. We absolutely love the smell of freshly ground and expertly brewed espresso in the morning. However, we are also passionate about technological advancements and think that cryptocurrenies are definetly the future. We believe in Cardano, its strong and scientifically based development and the comunity's love for all people. Please consider being a part of this future with us.",
+			"server": "Cluster of carrier grade servers, 24/7/365, highly-redundant, hosted in Ljubljana, Slovenia on 1Gb/s dedicated network. "
+		}
+	},
+	"my-pool-ids": {
+		"0": "40372edc7c25cccce285415d778b5ee80dd55a33af7f5f93a963ce6b"
+	}
+}

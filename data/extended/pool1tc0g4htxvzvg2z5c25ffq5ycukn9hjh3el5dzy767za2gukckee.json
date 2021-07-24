@@ -1,0 +1,40 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://www.amscardanopool.com/dist/images/logo_64x64.png",
+		"url_png_logo": "https://www.amscardanopool.com/dist/images/logo.png",
+		"location": "Amsterdam, Netherlands",
+		"social": {
+			"twitter_handle": "AmscaPool",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "Amsterdam",
+			"country": "Netherlands",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Crypto enthusiasts who love ADA and hosting it in Amsterdam ",
+			"server": "Bare metal servers across multiple location in Amsterdam on high speed Internet. Also relay nodes in other geographic places",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "5e1e8add666098850a985512905098e5a65bcaf1cfe8d113daf0baa4"
+	},
+	"when-satured-then-recommend": {
+		"0": "5e1e8add666098850a985512905098e5a65bcaf1cfe8d113daf0baa4"
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	}
+}

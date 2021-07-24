@@ -1,0 +1,12 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://adaocean.com/images/extended-dolphin.png",
+		"url_png_logo": "https://adaocean.com/images/extended-banner.jpg",
+		"social": {
+			"twitter_handle": "ada_ocean"
+		},
+		"about": {
+			"me": "High Availability Stake Pool Cluster with multiple built in redundancies for best possible performance. Servers fully monitored for 24/7 availability. Each Block Producing Node deployed in a separate data-center, connected to multiple relays using low latency connections for best possible block propagation. Follow @ada_ocean on Twitter"
+		}
+	}
+}

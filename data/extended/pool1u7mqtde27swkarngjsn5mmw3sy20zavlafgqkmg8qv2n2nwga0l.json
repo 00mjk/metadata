@@ -1,0 +1,24 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/cfpool/cf/master/logo.png",
+		"url_png_logo": "https://raw.githubusercontent.com/cfpool/cf/master/logo2.png",
+		"location": "United Kingdom, Europe",
+		"social": {
+			"twitter_handle": "HukAleksandra",
+			"telegram_handle": "cashflowpool",
+			"facebook_handle": ""
+		},
+		"company": {},
+		"about": {
+			"me": "Cashflow Stake Pool (Ticker: CFLOW) is a Cardano Stake Pool that produces blocks on the Cardano Mainnet, and in doing so, helps Cardano ADA holders earn rewards. Our charges 1.9% variable fees and minimum fixed fees. My mission is to help build the Cardano ecosystem & contribute to decentralization."
+		}
+	},
+	"telegram-admin-handle": [],
+	"my-pool-ids": [
+		"e7b605b72af41d6e8e6894274dedd18114f1759fea500b6d07031535",
+		"4a28983e56816b4285340198d6323ff0c59dc9e03e55f5eb9331a9bf"
+	],
+	"when-satured-then-recommend": [
+		"4a28983e56816b4285340198d6323ff0c59dc9e03e55f5eb9331a9bf"
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://tts17.com/blue_logo.png",
+		"url_png_logo": "https://tts17.com/logo.png",
+		"location": "Munich, Germany",
+		"social": {
+			"twitter_handle": "tts1710",
+			"telegram_handle": "pool_tts17",
+			"github_handle": "hubthom"
+		},
+		"about": {
+			"me": "Single Pool Operator",
+			"Server": "1BP + 2Relays located in Germany, UK >> CPU: 4vCPU | RAM:8GB | SSD:80GB <<"
+		},
+		"my-pool-ids": {
+			"0": "5790d62ab1ba703e861fe800f9cefaaf1485c3ca42c6ba9ce74690a1"
+		},
+		"when-satured-then-recommend": {
+			"0": "Time To Stake - Time To Support Decentralization!"
+		}
+	}
+}

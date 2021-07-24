@@ -1,0 +1,40 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://ccwallet.io/icons/favicon-64x64.png",
+		"url_png_logo": "https://ccwallet.io/icons/favicon-256x256.png",
+		"location": "Worldwide",
+		"social": {
+			"twitter_handle": "ccwalletio",
+			"telegram_handle": "ccwalletio",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "862344179526795265",
+			"github_handle": "ccwalletio"
+		},
+		"company": {
+			"name": "Tastenkunst GmbH",
+			"addr": "Grassistrasse 12",
+			"city": "Leipzig",
+			"country": "Germany",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "ccwallet.io - the alternative Cardano light wallet in your browser. Request features on GitHub! Join our channels: Telegram: https://t.me/ccwalletio - Twitter: https://twitter.com/ccwalletio",
+			"server": "Amazon AWS EC2 instances. Flexible specs for optimal performance.",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "28489654d3fcce6affdde39f37c2d68dda5f42fc9f9feb8dd46d614a"
+	},
+	"when-satured-then-recommend": {
+		"0": "0001a003afb844ce6d9409fc49e049db654a78dc77f1151cb6cd548f",
+		"1": "000000f66e28b0f18aef20555f4c4954234e3270dfbbdcc13f54e799"
+	},
+	"telegram-admin-handle": {
+		"0": "marcelbaumberg"
+	}
+}

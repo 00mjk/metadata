@@ -1,0 +1,40 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://atlasstakepool.com/wp-content/uploads/2020/08/Atlas-icon-64.png",
+		"url_png_logo": "https://atlasstakepool.com/wp-content/uploads/2020/08/Atlas-icon-512.png",
+		"location": "",
+		"social": {
+			"twitter_handle": "AtlasStakePool",
+			"telegram_handle": "AtlasStakePool",
+			"facebook_handle": "AtlasStakePool",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"Us": "We believe that a dedicated and passionate community can create a brighter future for all of us. With the Cardano project, a vision to make the world a better place is being transformed into a reality. We are excited to be part of this incredible revolution in the financial space, so we are putting all of our energy into running a reliable, secure, and transparent stake pool operation.",
+			"server": "",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "e6ac159ee8063742eadcb48be45f29d9a67b4158439070032f42d10c"
+	},
+	"when-satured-then-recommend": {
+		"0": "e6ac159ee8063742eadcb48be45f29d9a67b4158439070032f42d10c"
+	},
+	"telegram-admin-handle": {
+		"": ""
+	}
+}

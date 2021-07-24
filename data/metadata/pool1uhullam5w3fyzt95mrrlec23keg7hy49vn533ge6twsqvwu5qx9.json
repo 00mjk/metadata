@@ -1,0 +1,7 @@
+{
+	"name": "Cardanotec",
+	"description": "Cardanotec is the best tech for your stake!",
+	"ticker": "CDT",
+	"homepage": "https://cardanotec.com",
+	"extended": "https://raw.githubusercontent.com/cardanotec/cardanotec-pool/main/cardanotec-extendedmeta.json"
+}

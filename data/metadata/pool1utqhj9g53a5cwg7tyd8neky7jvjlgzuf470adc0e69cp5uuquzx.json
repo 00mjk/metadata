@@ -1,0 +1,8 @@
+{
+	"name": "1PCT Haskell CI Support Pool",
+	"ticker": "ZW3RK",
+	"description": "This pool will put operational rewards towards Continuous Integration support for the Glasgow Haskell Compiler",
+	"homepage": "https://pools.zw3rk.com",
+	"nonce": "1613918545",
+	"adapools": "73f2c6c621472c3773bce545da4551e7"
+}

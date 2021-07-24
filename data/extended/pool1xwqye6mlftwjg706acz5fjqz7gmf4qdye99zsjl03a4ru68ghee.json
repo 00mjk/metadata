@@ -1,0 +1,19 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://adanet.io/images/adanet.icon.64.dp.png",
+		"url_png_logo": "https://adanet.io/images/adanet.logo.png",
+		"location": "Washington, DC",
+		"social": {
+			"twitter_handle": "AdaNet_io",
+			"telegram_handle": "AdaNet_io"
+		}
+	},
+	"my-pool-ids": [
+		"33804ceb7f4add2479faee0544c802f2369a81a4c94a284bef8f6a3e",
+		"19d392c8e3b2e9415f41e7b0b6352786b418e440fff668403a0c581a"
+	],
+	"when-satured-then-recommend": [
+		"0001a003afb844ce6d9409fc49e049db654a78dc77f1151cb6cd548f",
+		"d5b90a198d2411b5c82fbdfee5f94b86de49a8589bfa7720b9de358f"
+	]
+}

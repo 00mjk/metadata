@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "http://fiftystarinvestments.com/favicon.ico",
+		"url_png_logo": "http://fiftystarinvestments.com/favicon.ico",
+		"location": "United States, America",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Fifty Star Investments Inc.",
+			"addr": "",
+			"city": "Salem",
+			"country": "United States",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Derek Graham",
+			"server": "",
+			"company": "Fifty Star Investments Inc."
+		},
+		"rss": ""
+	},
+	"telegram-admin-handle": [
+		""
+	],
+	"my-pool-ids": [
+		"0eaf83056e6872187ffc056b0bd848b7956a221015efff92cdc3170d"
+	],
+	"when-satured-then-recommend": [
+		"0eaf83056e6872187ffc056b0bd848b7956a221015efff92cdc3170d"
+	]
+}

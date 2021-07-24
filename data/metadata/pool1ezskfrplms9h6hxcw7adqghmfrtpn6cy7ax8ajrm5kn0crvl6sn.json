@@ -1,0 +1,7 @@
+{
+	"name": "Italians Pool It Better",
+	"description": "A made in Italy Cardano stake pool",
+	"ticker": "IPIB",
+	"homepage": "https://www.italianspib.it",
+	"extended": "https://raw.githubusercontent.com/sirluke79/ipib/main/ipib_ext.json"
+}

@@ -1,0 +1,7 @@
+{
+	"name": "Alfa Pool",
+	"description": "Alfa Cardano Pool. Professional operated high performance Baremetal Node with cloud Relays. 99,99% uptime! Support ADA decentralization for a better ecosystem.",
+	"ticker": "ALFA",
+	"homepage": "https://alfacardanopool.github.io",
+	"extended": "https://raw.githubusercontent.com/alfacardanopool/APOOL/main/extended.json"
+}

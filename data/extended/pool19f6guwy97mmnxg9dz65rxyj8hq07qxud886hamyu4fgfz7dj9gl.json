@@ -1,0 +1,22 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://github.com/alessandrokonrad/Pi-Pool/raw/master/images/logo64_64.png",
+		"url_png_logo": "https://github.com/alessandrokonrad/Pi-Pool/raw/master/images/logo.png",
+		"location": "Munich, Germany",
+		"social": {
+			"twitter_handle": "berry_ales",
+			"telegram_handle": "berry_pool",
+			"github_handle": "alessandrokonrad"
+		},
+		"about": {
+			"me": "My name is Alessandro, I'm a single pool operator and a computer science student from Germany.",
+			"server": "Berry is the first Stake Pool on Raspberry Pis and it's operational since the first day of Shelley. Here to truly decentralize Cardano in a power efficient way!"
+		}
+	},
+	"my-pool-ids": {
+		"0": "2a748e3885f6f73320ad16a8331247b81fe01b8d39f57eec9caa5091"
+	},
+	"telegram-admin-handle": {
+		"0": "berry_ales"
+	}
+}

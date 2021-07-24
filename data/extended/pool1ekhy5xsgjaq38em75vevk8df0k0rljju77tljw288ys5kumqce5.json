@@ -1,0 +1,15 @@
+{
+	"itn": {
+		"owner": "ed25519_pk1lzrvqy04k6tmlq7tk7mc8jklcjjj92yvfulh4p72mz4lypjnuvtsqd8dm2",
+		"witness": "ed25519_sig1jhewwfwdj34lrjhmd9dh0aytuxd6plp09zuu4vu76wk5gaqx4mv3chqcckzc9waaj8twmsk0d3p0ddg4atk5e7yuyxxgwg7ysydp2rc0z3x2e"
+	},
+	"adapools": {
+		"location": "Vienna, Austria",
+		"url_png_icon_64x64": "https://meta.staking.outofbits.com/logo/64.png",
+		"url_png_logo": "https://meta.staking.outofbits.com/logo/main.png",
+		"social": {
+			"twitter_handle": "sobitada",
+			"discord_handle": "https://discord.gg/4b7WPas"
+		}
+	}
+}

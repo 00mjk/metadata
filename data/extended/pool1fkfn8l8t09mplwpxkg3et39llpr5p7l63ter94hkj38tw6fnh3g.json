@@ -1,0 +1,20 @@
+{
+	"info": {
+		"url_png_icon_64x64": "",
+		"url_png_logo": "",
+		"location": "Darkartopia",
+		"social": {
+			"twitter_handle": "darkartopia"
+		},
+		"company": {
+			"name": "Darkartopia"
+		},
+		"about": {
+			"me": "Family gives you the roots to stand tall and strong! Supporting families and orphans. A family for every child!",
+			"server": "Bare metal and Cloud setup. BP and backup BP, multiple relays (visible and hidden). 24/7/365"
+		}
+	},
+	"my-pool-ids": {
+		"0": "4d9333fceb79761fb826b22395c4bff84740fbfa8af232d6f6944eb7"
+	}
+}

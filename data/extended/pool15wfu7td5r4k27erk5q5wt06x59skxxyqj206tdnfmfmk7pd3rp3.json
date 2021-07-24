@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://lionsharpe.org/lionhead_blueb_64x64.png",
+		"url_png_logo": "https://lionsharpe.org/lionsharpe_cardano_145x117.png",
+		"location": "Austria, Vienna",
+		"social": {
+			"twitter_handle": "twitter.com/LSD_stakepool",
+			"telegram_handle": "t.me/lsdpool",
+			"facebook_handle": "https://www.facebook.com/LSDpool",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "A reliable privately operated single stake pool. Infos on lionsharpe.org!",
+			"server": "cloud based - multi relay - 24/7",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"telegram-admin-handle": [
+		""
+	],
+	"my-pool-ids": [
+		"a393cf2db41d6caf6476a028e5bf46a161631880929fa5b669da776f"
+	],
+	"when-satured-then-recommend": [
+		"a393cf2db41d6caf6476a028e5bf46a161631880929fa5b669da776f"
+	]
+}

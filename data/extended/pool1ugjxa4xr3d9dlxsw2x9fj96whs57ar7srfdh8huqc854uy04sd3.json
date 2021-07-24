@@ -1,0 +1,28 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.kysenpool.io/cardano/kysenpool.png",
+		"url_png_logo": "https://www.kysenpool.io/cardano/kysenpool-logo.png",
+		"location": "California, United States",
+		"social": {
+			"twitter_handle": "KysenPool",
+			"telegram_handle": "KysenPool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": ""
+		},
+		"company": {
+			"name": "Kysen Technologies",
+			"addr": "",
+			"city": "",
+			"country": "USA",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": ""
+		}
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.nodo-r2d2.com/static/pool-icon-64x64.png",
+		"location": "Argentina",
+		"social": {
+			"youtube_handle": "channel/UCJ2vLNO0m3MqBwoG7DcaM6A",
+			"instagram_handle": "nodo_r2d2"
+		},
+		"about": {
+			"me": "We are a devops team with large experience on maintaining highly performing servers who believes in Cardano's future and its community, also we are Star Wars fan's",
+			"server": "High performance Cloud servers with 2xRelays, Primary and Standby Producer."
+		}
+	},
+	"my-pool-ids": {
+		"0": "d9987a7c15fb38031c678ff6efb0175cf910488fffdb7830f11a672a"
+	}
+}

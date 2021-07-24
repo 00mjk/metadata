@@ -1,0 +1,61 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://git.io/JkPXr",
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/BrianLee12/GAIA-Stake-Pool-Metadata/main/Gaia-Logo-Icon.png",
+		"url_png_logo": "https://raw.githubusercontent.com/BrianLee12/GAIA-Stake-Pool-Metadata/main/Gaia-Logo-Circle-Portrait.png",
+		"location": "Alberta, Canada",
+		"social": {
+			"twitter_handle": "GAIAstakepool",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "channel/UCeT1jeH6vzkun0IK1KVrfeQ?view_as=subscriber",
+			"twitch_handle": "",
+			"discord_handle": "https://discord.gg/xWu36zBV",
+			"github_handle": "GAIA Stake Pool"
+		},
+		"company": {
+			"name": "GAIA Stake Pool",
+			"addr": "",
+			"city": "Alberta",
+			"country": "Canada",
+			"company_id": "Canada business # 794187948",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "A Cardano Stake Pool that loves nature and Cardano, and wants to bring awareness of Cardano to the world. We at GAIA Stake Pool believe that the values, technology, and decentralization Cardano uses will play a key role in returning balance to the world. The reliable and trustless systems on the Cardano network give every person control over their own finances, personal information, and voting power. With Cardano, we can change the world. Join us in making a better future - one where humanity and planet Earth thrive together! ",
+			"server": "GAIA Stake Pool's nodes are operated on the secure servers of the Google Cloud Platform using enterprise-class hardware and SSD storage, ensuring extreme performance.  With automatic backups and a backup node in place, a premium network service tier, and encryption of data in transit and at rest, GAIA Stake Pool has a 99% uptime and 24/7/365 security. GAIA is composed of a core block-producing node and 2 relays servers, each with a 2 Core CPU, 10GB RAM, and 60 GB of SSD storage, all running on Linux. Performance is constantly monitored, and all hardware can be flexibly adjusted with Google Cloud's dynamic resource management. This ensures resources are being used efficiently, and that GAIA Stake Pool can be easily upgraded as necessary to meet any demands in the future. ",
+			"sustainability": "GAIA Stake Pool operates on the Google Cloud Platform, which is the most sustainable cloud computing platform available. Our digital footprint is offset with clean energy, making our server impact net zero. Google Cloud has eliminated all of their carbon emissions since their founding in 1998. They’ve matched 100% of their electricity consumption with renewable energy purchases since 2017, which includes the electricity to power Google Cloud. Recently Google Cloud has committed to fully decarbonize their electricity supply by 2030 and operate on clean energy, every hour and in every region."
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "f66a36de855d53b9d5110bd46640f48dbab1c848c9e2f5c36d8c12dc",
+		"1": ""
+	},
+	"when-satured-then-recommend": {
+		"0": "cf635c0a032bc98d453b65512aaf2b0f9b0f62b2b865a6011523aaf7",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "relay 2 US",
+				"type": "relay",
+				"key": "example_get_own_on_adapools.org/connect"
+			},
+			"1": {
+				"name": "relay 2 US",
+				"type": "relay",
+				"key": "example_get_own_on_adapools.org/connect"
+			},
+			"2": {
+				"name": "block producer Canada",
+				"type": "bp",
+				"key": "example_get_own_on_adapools.org/connect"
+			}
+		}
+	}
+}

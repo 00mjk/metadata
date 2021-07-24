@@ -1,0 +1,42 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://lambdastake.com/assets/img/LAMB-icon-64x64.png",
+		"url_png_logo": "https://lambdastake.com/assets/img/LAMB_Logo.png",
+		"location": "Malaysia",
+		"social": {
+			"twitter_handle": "LambdaaSociety",
+			"telegram_handle": "lambdasociety",
+			"facebook_handle": "LambdaaSociety",
+			"youtube_handle": "channel/UCVRrOprtYE0pWG8ziBlKoaw",
+			"discord_handle": "JCYXwbyhnE"
+		},
+		"company": {
+			"name": "The Lambda Society"
+		},
+		"about": {}
+	},
+	"telegram-admin-handle": [
+		"MaxThatsme"
+	],
+	"my-pool-ids": [
+		"1dc1e011d522a077a20b2659bd0ee257e0d80f105f5dc998d4cfda7c",
+		"ca599df54182962bb2c1420ad2cbdc10e3df7c4c2afac18e810e7035",
+		"be6d07b366b26dd577682e0e499c0d81988d8b3f49b52b853691eeba",
+		"f423b19715cca49029ed13ff02a110b63de7d96ad7a0536dc5887a41",
+		"d0deba25ce9e6ff59af7f39305fce373241156616cdf0a49b1d49e48",
+		"f8cac661341d248b2194f93c257eefd1c9b122a6d82d449c3c559516",
+		"603749d1b47c79cdf3072c284abb9810dd98afe827d6ae2b92f115ed",
+		"683e89fa1bcde139504b11fbfd914f8ebe9b8db2678b3da0abdcb2f1",
+		"d5a7362f2270b680cf8763e2ebaf44af3db7271e00b44512da53abd8"
+	],
+	"when-satured-then-recommend": [
+		"1dc1e011d522a077a20b2659bd0ee257e0d80f105f5dc998d4cfda7c",
+		"ca599df54182962bb2c1420ad2cbdc10e3df7c4c2afac18e810e7035",
+		"be6d07b366b26dd577682e0e499c0d81988d8b3f49b52b853691eeba",
+		"f423b19715cca49029ed13ff02a110b63de7d96ad7a0536dc5887a41",
+		"d0deba25ce9e6ff59af7f39305fce373241156616cdf0a49b1d49e48",
+		"f8cac661341d248b2194f93c257eefd1c9b122a6d82d449c3c559516",
+		"603749d1b47c79cdf3072c284abb9810dd98afe827d6ae2b92f115ed",
+		"683e89fa1bcde139504b11fbfd914f8ebe9b8db2678b3da0abdcb2f1"
+	]
+}

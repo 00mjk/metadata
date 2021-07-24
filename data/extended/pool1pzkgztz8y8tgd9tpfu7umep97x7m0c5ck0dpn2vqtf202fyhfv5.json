@@ -1,0 +1,46 @@
+{
+	"serial": 2021021601,
+	"itn": {
+		"owner": "ed25519_pk16ja92sc4nqaxvst9nky7x4p68esgn0syx7ad9u97p7syp4jnhuaqpmx8rm",
+		"witness": "ed25519_sig1ldf3tyswqunpdvq32n8txwm3aegljq2g4ldqx6ap9h8chdjt706s4x7djg7v3rplkyevge8a0jhfmljh3gqcue6n7825fwjylqqajzsq9mp2w"
+	},
+	"info": {
+		"url_png_icon_64x64": "https://stake.army/icon64x.png",
+		"url_png_logo": "https://stake.army/logo.png",
+		"CI": {
+			"logo_url_png_icon_64x64": "https://stake.army/icon64x.png",
+			"logo_url_png_logo": "https://stake.army/logo.png",
+			"color_main": "#000000"
+		},
+		"location": "USA",
+		"social": {
+			"twitter_handle": "kelleyllc",
+			"telegram_handle": "jameskelley",
+			"facebook_handle": "jamesrobertkelley",
+			"youtube_handle": "UC_SKawz3QI4Qq1IF59PCDiA",
+			"twitch_handle": "JamesRobertKelley",
+			"discord_handle": "jameskelley",
+			"github_handle": "JamesRobertKelley"
+		},
+		"contact": {
+			"abuse": "abuse@stake.army",
+			"support": "james@stake.army"
+		},
+		"about": {
+			"me": "Managed by James Kelley, a long-time security professional, who first mined with a CPU in the 1990s, ran a BTC full node when it took only 100MB of storage and is now 100% invested in Cardano.",
+			"server": "Hybrid bare-metal and cloud infrastructure built to provide the highest security, redundancy, speed, and geographic disbursementÂ possible. All servers are ultra-high-end and connected with fast and redundant Internet connectivity (Starlink coming soon!)."
+		}
+	},
+	"pools": [
+		{
+			"id": "08ac812c4721d68695614f3dcde425f1bdb7e298b3da19a9805a54f5",
+			"country": "US",
+			"os": "LINUX",
+			"infrastructure": "UNDISCLOSED",
+			"status": "act"
+		}
+	],
+	"my-pool-ids": {
+		"0": "08ac812c4721d68695614f3dcde425f1bdb7e298b3da19a9805a54f5"
+	}
+}
