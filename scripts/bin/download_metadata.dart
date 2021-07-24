@@ -5,7 +5,7 @@ import 'package:metadata_scripts/blockfrost.dart' as bf;
 import 'package:metadata_scripts/utils.dart';
 
 Future<void> main(List<String> args) async {
-  final extendedMetadataOnly = args.contains('--metadata-only');
+  final extendedMetadataOnly = args.contains('--extended-only');
 
   Directory('../data/metadata').createSync(recursive: true);
   Directory('../data/extended').createSync(recursive: true);

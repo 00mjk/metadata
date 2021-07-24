@@ -15,7 +15,7 @@
 			"type": "dart",
 			"program": "scripts/bin/download_metadata.dart",
 			"args": [
-				"--metadata-only"
+				"--extended-only"
 			],
 			"codeLens": {
 				"for": [
