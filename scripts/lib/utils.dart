@@ -21,9 +21,14 @@ Future<Object?> fetchJson(Uri uri, {Map<String, String>? headers}) async {
   if (response.statusCode == 200) {
     return jsonDecode(response.body);
   } else {
+    final preview = (response.body.length < 100
+            ? response.body
+            : response.body.substring(0, 100))
+        .split('\n')
+        .first;
     throw 'Fetching "$uri" failed: '
         '${response.statusCode}: ${response.reasonPhrase}\n\n'
-        '${response.body.length < 100 ? response.body.length : response.body.substring(0, 100)}';
+        '$preview';
   }
 }
 
