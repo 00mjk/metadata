@@ -1,4 +1,4 @@
-name: Nightly Sync
+name: Full Sync
 
 on:
   schedule:
@@ -7,7 +7,7 @@ on:
 jobs:
 
   sync:
-    name: Sync Metadata
+    name: Sync All Metadata
     runs-on: ubuntu-latest
 
     steps:

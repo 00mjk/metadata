@@ -1,4 +1,4 @@
-name: Extended Metadata Refresh
+name: Extended Metadata Sync
 
 on:
   schedule:
