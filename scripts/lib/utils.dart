@@ -3,7 +3,7 @@ import 'dart:convert' hide jsonEncode;
 import 'package:http/http.dart' as http;
 
 /// Maximum time for any web request to complete.
-const requestTimeout = const Duration(seconds: 5);
+const requestTimeout = const Duration(seconds: 120);
 
 /// A JSON encoder using tabs for indenting.
 final jsonEncode = JsonEncoder.withIndent('\t').convert;
