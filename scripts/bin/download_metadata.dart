@@ -23,6 +23,10 @@ Future<void> main(List<String> args) async {
 
       late Map<String, Object?> metadata;
       if (extendedMetadataOnly) {
+        // Skip sites that we were unable to download metadata for.
+        if (!metadataFile.existsSync()) {
+          return;
+        }
         metadata =
             jsonDecode(metadataFile.readAsStringSync()) as Map<String, Object?>;
       } else {
