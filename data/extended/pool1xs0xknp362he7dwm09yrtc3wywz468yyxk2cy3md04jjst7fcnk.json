@@ -1,0 +1,54 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://bigblube.com/blubehappy6464.png",
+		"url_png_logo": "https://bigblube.com/blubehappy50kb.png",
+		"location": "Perth, Australia",
+		"social": {
+			"twitter_handle": "BigBlube",
+			"telegram_handle": "BigBlube",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Big Blube is a stake pool based in Perth, Australia run by a single pool operator. We donate 25% of the pools margin to The Australian Workers' Union to help immigrants and backpackers achieve better worker's rights along with contributing to the network with our unique geographical location.",
+			"server": "Relays: Intel, 2CPU, 8GB RAM, 200 Mbit/s, Ubuntu. Block Producer: Intel, 2CPU, 8GB RAM, 200 Mbit/s, Ubuntu.",
+			"company": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "pool1xs0xknp362he7dwm09yrtc3wywz468yyxk2cy3md04jjst7fcnk"
+	},
+	"telegram-admin-handle": {
+		"0": "BigBlube"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "relay 1 eu",
+				"type": "relay",
+				"key": "example_get_own_on_adapools.org/connect"
+			},
+			"1": {
+				"name": "relay 2 usa",
+				"type": "relay",
+				"key": "example_get_own_on_adapools.org/connect"
+			},
+			"2": {
+				"name": "block producer home",
+				"type": "bp",
+				"key": "example_get_own_on_adapools.org/connect"
+			}
+		}
+	}
+}

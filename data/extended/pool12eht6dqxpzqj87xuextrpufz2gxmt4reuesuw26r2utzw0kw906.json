@@ -1,0 +1,35 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.canadastakes.ca/images/canadastakes_64px.png",
+		"url_png_logo": "https://www.canadastakes.ca/images/canadastakes_400px.png",
+		"location": "Ottawa | Ontario | Canada",
+		"social": {
+			"twitter_handle": "canadastakes1",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "CanadaStakes",
+			"addr": "",
+			"city": "Ottawa",
+			"country": "Canada",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Single pool operators from Ottawa.  Small group of Cardano enthusiasts trying to share the Cardano experience, and grow the community. A portion of our proceeds will be going to local Ottawa charities.",
+			"server": "Raspberry Pi 4 + AWS EC2 servers",
+			"company": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "566ebd3406088123f8dcc99630f122520db5d479e661c72b43571627"
+	},
+	"telegram-admin-handle": {
+		"0": "JonnyT97"
+	}
+}

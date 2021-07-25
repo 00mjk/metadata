@@ -1,0 +1,40 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://poolg.de/favicon-32x32.png",
+		"url_png_logo": "https://poolg.de/pg.PNG",
+		"location": "Frankfurt am Main, Germany",
+		"social": {
+			"twitter_handle": "GermanyPool",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Pool Germany | Cardano ADA Staking Pool Made in Germany (Support: Deutsch + English)",
+			"addr": "",
+			"city": "Frankfurt am Main",
+			"country": "Germany",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "The blockchain technology brings more equalty into the world: Made by the people, for the people. Be part of it - now! | Die Blockchain schafft mehr Gleichheit in der Welt: Gemacht von den Menschen fÃ¼r die Menschen. Mach mit!",
+			"server": "6 Core - 16 GB RAM - 400 GB SSD (Redundant)",
+			"company": "Relay Node (PaaS) + Block Producer Node (PaaS)"
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "0e8d16944b4e7f2061ce389ab2e06d5c1900404dba69a039888ab3f8"
+	},
+	"when-satured-then-recommend": {
+		"0": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	}
+}

@@ -31,5 +31,19 @@
 	},
 	"telegram-admin-handle": {
 		"0": "Homersapiens"
+	},
+	"votes": {
+		"https://spovotes.com/votes/change-min-fixed-fee-to-variable/": {
+			"vote": "Yes",
+			"comment": "Will make things more fair."
+		},
+		"https://spovotes.com/votes/reduce-min-fee/": {
+			"vote": "No",
+			"comment": "Prefer just min variable fee."
+		},
+		"https://spovotes.com/votes/remove-min-fee/": {
+			"vote": "No",
+			"comment": "Infrastructure isn't free on average."
+		}
 	}
 }
