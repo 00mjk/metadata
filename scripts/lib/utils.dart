@@ -23,7 +23,7 @@ Future<Object?> fetchJson(Uri uri, {Map<String, String>? headers}) async {
   } else {
     throw 'Fetching "$uri" failed: '
         '${response.statusCode}: ${response.reasonPhrase}\n\n'
-        '${response.body}';
+        '${response.body.length < 100 ? response.body.length : response.body.substring(0, 100)}';
   }
 }
 
