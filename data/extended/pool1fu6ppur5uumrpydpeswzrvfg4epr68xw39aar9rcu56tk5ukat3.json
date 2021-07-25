@@ -22,7 +22,7 @@
 		},
 		"about": {
 			"me": "We are Cardano! We believe in a better world powered by Cardano. With your pledge we will be able to help expand the network by purchasing more relay nodes across the globe. You will also be helping a small pool owner. Both resulting in further decentralisation of the Cardano network. Furthermore, all profits will be reinvested in the pool or used to fund Plutus smart contract development on Cardano.",
-			"server": "We host at a local and reputable data center with plans to add a couple Raspberry pi nodes! We have avoided using large data centers such as AWS as itâs not great for Cardano and technically centralises the network. The servers are maintained by an experienced Linux system administrator."
+			"server": "We host at a local and reputable data center with plans to add a couple Raspberry pi nodes! We have avoided using large data centers such as AWS as it’s not great for Cardano and technically centralises the network. The servers are maintained by an experienced Linux system administrator."
 		}
 	},
 	"my-pool-ids": {

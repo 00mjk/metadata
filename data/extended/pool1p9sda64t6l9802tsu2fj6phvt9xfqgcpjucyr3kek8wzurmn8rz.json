@@ -2,7 +2,7 @@
 	"info": {
 		"url_png_icon_64x64": "",
 		"url_png_logo": "",
-		"location": "Lausanne, Suisse ð¨ð­",
+		"location": "Lausanne, Suisse 🇨🇭",
 		"social": {
 			"twitter_handle": "K8sPool",
 			"telegram_handle": "k8s_staking_pool",
@@ -22,7 +22,7 @@
 		},
 		"about": {
 			"me": "",
-			"server": "High availability Kubernetes cluster on bare metal managed and hosted in Switzerland ð¨ð­. The kubernetes cluster consists of one Dell PowerEdge R430 and two PowerEdge R630, in total this cluster has 448Gb of RAM (192Gb + 128Gb + 128Gb) and 128 cores (56 + 24 + 48). This cluster is connected to a UPS to avoid service interruption in case of power failure. This cluster is configured in high availability to be able to perform maintenance on this cluster without downtime.",
+			"server": "High availability Kubernetes cluster on bare metal managed and hosted in Switzerland 🇨🇭. The kubernetes cluster consists of one Dell PowerEdge R430 and two PowerEdge R630, in total this cluster has 448Gb of RAM (192Gb + 128Gb + 128Gb) and 128 cores (56 + 24 + 48). This cluster is connected to a UPS to avoid service interruption in case of power failure. This cluster is configured in high availability to be able to perform maintenance on this cluster without downtime.",
 			"company": "",
 			"ownership": "723a922d5afff71728098ad4197a2f61"
 		},

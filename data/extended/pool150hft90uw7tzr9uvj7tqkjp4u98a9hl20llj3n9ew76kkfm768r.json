@@ -15,7 +15,7 @@
 		},
 		"about": {
 			"us": "Monky is a secure, reliable and transparent Cardano stake pool located in Germany, run by renewable energy sources. We contribute by providing a crypto academy platform on https://denkweise.blog.",
-			"server": "Our server is running on: </br>  â¢ AMD Ryzen 5 3600 (6 x 3,6 GHZ) </br> â¢ 32GB DDR4 RAM â¢ 500GB SSD â¢ Ubuntu 20.04",
+			"server": "Our server is running on: </br>  • AMD Ryzen 5 3600 (6 x 3,6 GHZ) </br> • 32GB DDR4 RAM • 500GB SSD • Ubuntu 20.04",
 			"company": {
 				"name": "consensusMonky Stakepool",
 				"addr": "Berliner Str. 4",

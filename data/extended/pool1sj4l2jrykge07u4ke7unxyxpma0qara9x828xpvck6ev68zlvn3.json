@@ -22,8 +22,8 @@
 			"vat_id": ""
 		},
 		"about": {
-			"me": "Lemon Stake Pool was built in Japan. You can increase ADA by staking. ã¬ã¢ã³ã¹ãã¼ã¯ãã¼ã«ã¯ãã«ã«ããã®ã¹ãã¼ã¯ãã¼ã«ã§ããã¨ã¤ããå§ä»»ãããã¨ã§ãå®å¨ã«å¢ãããã¨ãã§ãã¾ããããªãã®ã¹ãã¼ã­ã³ã°ã©ã¤ãããµãã¼ããããã¾ãã",
-			"server": "Lemon Stake Pool is built on the cloud. ã¬ã¢ã³ã¹ãã¼ã¯ãã¼ã«ã¯ã¯ã©ã¦ãä¸ã§æ§ç¯ããã¦ãã¾ãã",
+			"me": "Lemon Stake Pool was built in Japan. You can increase ADA by staking. レモンステークプールは、カルダノのステークプールです。エイダを委任することで、安全に増やすことができます。あなたのステーキングライフをサポートいたします。",
+			"server": "Lemon Stake Pool is built on the cloud. レモンステークプールはクラウド上で構築されています。",
 			"company": ""
 		},
 		"rss": "http(s) url to valid RSS feed"

@@ -21,8 +21,8 @@
 			"vat_id": ""
 		},
 		"about": {
-			"me": "Up to 45% of all pool fees support ð free education, ð¥ universal healthcare, â unemployment support, ðµ ð´ pension funds, ð± environmental protection and ð public infrastructure. More info on https://cardano.ich-war-hier.de",
-			"server": "Fedora Linux, 4 AMD Epic 7702 Cores, 16 GB DDR4 ECC RAM, 320 GB SSD, 2.5 GBit/s, â¥99.9 % SLA; This setup will be _easily_ scaled up if necessary. This pool consist of one blockproducer, one backup-blockproducer and three relays. All on different machines an spread accross two independent datacenters in two locations. The setup will be easily scaled up if necessary. Actual utilization is low: CPU 1.6 %, RAM 44 %, disk 10 % (2021-07-04). No reason for excessive energy consumption and costs just now!",
+			"me": "Up to 45% of all pool fees support 🎓 free education, 🏥 universal healthcare, ☔ unemployment support, 👵 👴 pension funds, 🌱 environmental protection and 🚋 public infrastructure. More info on https://cardano.ich-war-hier.de",
+			"server": "Fedora Linux, 4 AMD Epic 7702 Cores, 16 GB DDR4 ECC RAM, 320 GB SSD, 2.5 GBit/s, ≥99.9 % SLA; This setup will be _easily_ scaled up if necessary. This pool consist of one blockproducer, one backup-blockproducer and three relays. All on different machines an spread accross two independent datacenters in two locations. The setup will be easily scaled up if necessary. Actual utilization is low: CPU 1.6 %, RAM 44 %, disk 10 % (2021-07-04). No reason for excessive energy consumption and costs just now!",
 			"company": ""
 		},
 		"rss": ""

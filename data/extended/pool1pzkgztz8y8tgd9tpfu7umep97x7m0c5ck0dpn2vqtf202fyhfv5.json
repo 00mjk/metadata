@@ -28,7 +28,7 @@
 		},
 		"about": {
 			"me": "Managed by James Kelley, a long-time security professional, who first mined with a CPU in the 1990s, ran a BTC full node when it took only 100MB of storage and is now 100% invested in Cardano.",
-			"server": "Hybrid bare-metal and cloud infrastructure built to provide the highest security, redundancy, speed, and geographic disbursementÂ possible. All servers are ultra-high-end and connected with fast and redundant Internet connectivity (Starlink coming soon!)."
+			"server": "Hybrid bare-metal and cloud infrastructure built to provide the highest security, redundancy, speed, and geographic disbursement possible. All servers are ultra-high-end and connected with fast and redundant Internet connectivity (Starlink coming soon!)."
 		}
 	},
 	"pools": [

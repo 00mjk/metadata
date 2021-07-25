@@ -12,7 +12,7 @@
 			"name": "PandaPool"
 		},
 		"about": {
-			"me": "Hi, Iâm Cardano SPO, PandaPool, Iâm from Taiwan, if you think our panda pool is good, welcome to support us.",
+			"me": "Hi, I’m Cardano SPO, PandaPool, I’m from Taiwan, if you think our panda pool is good, welcome to support us.",
 			"server": "System OS: Linux CentOS. 4 Cores 8RAM 160GB. Pool will continue to be upgraded if necessary in the future. Maintain for Relay and Producer Node. SSH Protection and Prohibit ROOT SSH LOGIN. Grafan and Prometheus tools to monitor node state of health."
 		}
 	},
