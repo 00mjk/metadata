@@ -20,7 +20,10 @@ Future<Object?> fetchJson(Uri uri, {Map<String, String>? headers}) async {
       onTimeout: () => throw 'Timed out fetching $uri');
 
   if (response.statusCode == 200) {
-    return jsonDecode(response.body);
+    // response.body is not decoded as UTF8 if not specified in the content
+    // type, so for now we need to decode explicitly.
+    // https://github.com/dart-lang/http/issues/494
+    return jsonDecode(utf8.decode(response.bodyBytes));
   } else {
     final preview = (response.body.length < 100
             ? response.body
