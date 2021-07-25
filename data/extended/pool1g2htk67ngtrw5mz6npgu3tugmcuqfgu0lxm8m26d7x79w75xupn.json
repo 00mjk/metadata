@@ -29,5 +29,19 @@
 	},
 	"telegram-admin-handle": {
 		"0": "PATI_Cardano"
+	},
+	"votes": {
+		"https://spovotes.com/votes/change-min-fixed-fee-to-variable/": {
+			"vote": "Yes",
+			"comment": "Will lead to organic and robust decentralization."
+		},
+		"https://spovotes.com/votes/remove-min-fee/": {
+			"vote": "No",
+			"comment": "Reduce in line with price but lower enough to permit realistic competition."
+		},
+		"https://spovotes.com/votes/reduce-min-fee/": {
+			"vote": "Yes",
+			"comment": "With min variable will create more competitive environment w/o compromising incentives."
+		}
 	}
 }
