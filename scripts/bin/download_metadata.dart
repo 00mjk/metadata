@@ -12,8 +12,16 @@ Future<void> main(List<String> args) async {
 
   // Fetch all pool IDs and store them.
   final poolFile = File('../data/pools.json');
-  final poolIds = await bf.getPoolIds().toList();
-  poolFile.writeAsStringSync(jsonEncode(poolIds));
+  late List<String> poolIds;
+
+  if (extendedMetadataOnly) {
+    poolIds = (jsonDecode(poolFile.readAsStringSync()) as List)
+        .cast<String>()
+        .toList();
+  } else {
+    poolIds = await bf.getPoolIds().toList();
+    poolFile.writeAsStringSync(jsonEncode(poolIds));
+  }
 
   // Fetch the metadata files and store them.
   await Future.wait(poolIds.map((poolId) async {
