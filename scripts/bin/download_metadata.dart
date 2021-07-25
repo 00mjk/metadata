@@ -24,7 +24,7 @@ Future<void> main(List<String> args) async {
   }
 
   // Fetch the metadata files and store them.
-  await Future.wait(poolIds.map((poolId) async {
+  await wait(poolIds, (poolId) async {
     try {
       final metadataFile = File('../data/metadata/$poolId.json');
       final extendedFile = File('../data/extended/$poolId.json');
@@ -53,7 +53,7 @@ Future<void> main(List<String> args) async {
     } catch (e) {
       trace('Failed to fetch metadata for $poolId: $e');
     }
-  }));
+  });
 
   // Because of how we use .timeout() on http.get(), the requests may still be
   // going even if we timed them out, so to avoid sitting around waiting, just
