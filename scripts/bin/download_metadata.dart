@@ -44,8 +44,11 @@ Future<void> main(List<String> args) async {
 
       final extendedUrl = metadata['extended'] as String?;
       if (extendedUrl != null) {
-        final extended = await fetchJson(Uri.parse(extendedUrl));
-        extendedFile.writeAsStringSync(jsonEncode(extended));
+        final uri = Uri.tryParse(extendedUrl.trim());
+        if (uri != null && uri.isAbsolute) {
+          final extended = await fetchJson(Uri.parse(extendedUrl));
+          extendedFile.writeAsStringSync(jsonEncode(extended));
+        }
       }
     } catch (e) {
       trace('Failed to fetch metadata for $poolId: $e');
