@@ -8,6 +8,9 @@
 			"company": "https://www.pasta-pool.com"
 		}
 	},
+	"social": {
+		"facebook_handle": "pasta.stake.pool"
+	},
 	"my-pool-ids": {
 		"0": "ad54e70ce213438e1f8e9a3fdc58438f28840f6934252ebe1eee53ad"
 	},
