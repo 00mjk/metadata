@@ -21,8 +21,8 @@
 			"vat_id": ""
 		},
 		"about": {
-			"me": "I am an independent single stake pool operator who believes Cardano's groundbreaking technology and the cryptocurrency ADA. Since I am striving for true decentralization, I do not belong to any alliance that contradicts the idea of decentralization",
-			"server": "3 x 6 vCPU, 16 GB RAM, SSD. 1 x Block Producer (Germany), 2 Relays (Germany & USA)",
+			"me": "An independent single stake pool operator who believes Cardano's groundbreaking technology and the cryptocurrency ADA",
+			"server": "3 x 6 vCPU • 16 GB RAM • 400GB SSD • 400 Mbit/s (Germany & USA)",
 			"company": ""
 		}
 	}
