@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://cardenpool.org/logo_64x64.png",
+		"url_png_logo": "https://cardenpool.org/logo.png",
+		"location": "Italy, Emilia-Romagna",
+		"social": {
+			"twitter_handle": "carden_pool",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Antonello and Andrea, we are here to stake!",
+			"server": "Bare metal, low-energy (45 W/h), mission driven staking pool.",
+			"company": "Carden Pool"
+		},
+		"rss": "https://cardenpool.org/feed/"
+	},
+	"telegram-admin-handle": [
+		""
+	],
+	"my-pool-ids": [
+		"cc49ee3c6b02850b63dd9c18b1b6a18b16c2dd1f20962c320cfd94a7"
+	],
+	"when-satured-then-recommend": [
+		"cc49ee3c6b02850b63dd9c18b1b6a18b16c2dd1f20962c320cfd94a7"
+	]
+}

@@ -1,6 +1,7 @@
 {
 	"name": "GUI Pool",
-	"description": "A mission driven, high reliability stake pool designed for high performance. We donate a portion of our proceeds to code.org.",
+	"description": "A mission-driven, high-availability, secure stake pool. We donate a third of our rewards to code.org.",
 	"ticker": "GUI",
-	"homepage": "https://www.goowee.io/gui-stake-pool/"
+	"homepage": "https://www.goowee.io/gui-stake-pool/",
+	"extended": "https://gist.githubusercontent.com/istrouse/3b7047a36ee31a96f96bececd22587e1/raw/guipool-extended.json"
 }

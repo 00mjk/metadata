@@ -2,6 +2,5 @@
 	"name": "Relay Stake Pool",
 	"description": "Reliable stake pool with a heavy focus on performance, stability and maximizing profits for delegators. Single Pool Operator.",
 	"ticker": "RELAY",
-	"homepage": "https://relaypool.com",
-	"extended": "https://www.relaypool.com/extended-meta.json"
+	"homepage": "https://relaypool.com"
 }

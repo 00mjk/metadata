@@ -22,7 +22,7 @@
 			"vat_id": ""
 		},
 		"about": {
-			"me": "LongShortSignal is run by a team of hedge fund quants, who through using machine learning techniques, have the technical know-how to ensure stability and deliver you the most bang for your ADA! We are also based in Taiwan! æåæ¯å°ç£çCardanoç¤¦æ± ï¼æ­¡è¿å¤§å®¶æ¯ææåï¼",
+			"me": "LongShortSignal is run by a team of hedge fund quants, who through using machine learning techniques, have the technical know-how to ensure stability and deliver you the most bang for your ADA! We are also based in Taiwan! 我們是台灣的Cardano礦池，歡迎大家支持我們！",
 			"server": "We are currently running 4 nodes, one is our block-producing node and it is connected to 3 relays. All 4 nodes are running 24/7 around the clock to ensure maximum uptime in the unlikely event a relay goes offline. The 3 relays' topology file is dynamically updated every 12 hours to ensure they are connected to the most up-to-date list of 19-20 peer relays throughout the decentralised network. This requires a reboot of the relay nodes, so they are staggered so as not to overlap. Every reboot takes the node approximately 10 minutes before it can sync the blockchain from the /db folder, so even within that 1-minute window, the block-producing node is at the very least connected to 2 relays. All nodes are running on Google Cloud with the servers based in Taiwan, using 1 CPU @ 3.75GB including a 50GB Ubuntu 20.04 LTS SSD drive for maximum stability. There is also monitoring alerts set up to allow us to rapidly respond to UpTime readings below 1.",
 			"company": ""
 		},

@@ -1,0 +1,33 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://static.wixstatic.com/media/b0c470_d6d57e8a6f4c4feeb854345b0722841d~mv2.png",
+		"url_png_logo": "https://static.wixstatic.com/media/b0c470_dea0a4c598994cbbbaaafbbf3f94b581~mv2.png",
+		"location": "Rotterdam, The Netherlands",
+		"social": {
+			"twitter_handle": "stupid__cotton",
+			"telegram_handle": "StupidCotton",
+			"facebook_handle": "",
+			"youtube_handle": "K9xIhW6NtUNLk9Qe4NCePw",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Stupid Cotton",
+			"addr": "",
+			"city": "Rotterdam",
+			"country": "NL",
+			"company_id": "666",
+			"vat_id": "999"
+		},
+		"about": {
+			"me": "Stupid human being trying to make the world a better place.",
+			"server": "Block producer and 2 relay nodes on a virtual private server.",
+			"company": "Stupid Cotton"
+		}
+	},
+	"my-pool-ids": {
+		"0": "5e1c0f2519b2ea005de5c418568a3323d7a2dddb2dc1e6a39d88cd02",
+		"1": ""
+	}
+}

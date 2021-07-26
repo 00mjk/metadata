@@ -1,6 +1,7 @@
 {
 	"name": "KITN pool",
-	"description": "Supporting decentralisation any way we can!",
+	"description": "Single operator. Supporting decentralisation.",
 	"ticker": "KITN",
-	"homepage": "https://ada.kitn.lv"
+	"homepage": "https://ada.kitn.lv",
+	"extended": "https://ada.kitn.lv/assets/file/extended-metadata.json"
 }

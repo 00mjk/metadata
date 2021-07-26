@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://staking4ada.org/wp-content/uploads/4ADA/UNST_icon.png",
+		"url_png_logo": "https://staking4ada.org/wp-content/uploads/4ADA/UNST_logo.png",
+		"location": "The Netherlands, Europe",
+		"social": {
+			"twitter_handle": "Staking4ADA",
+			"telegram_handle": "Staking4ADA",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Hello, こんにちは , Buon Giorno, Hallo! Based in the Netherlands (Amsterdam-area), Cardano-believer since 2017, ADA-hodler through good times and bad, and passionate about sustainably building and enjoying our new decentralized, equal-opportunity economy, together.",
+			"server": "Solar powered, bare-metal local servers with high-bandwidth, low-latency Internet connectivity. With the Amsterdam-IX, which is the world's 2nd largest Internet-Exchange, just around the corner, we are well positioned for fast and reliable block propagation.",
+			"company": "Backed by serious pledge from enthusiastic delegators who firmly believe in our sustainable and decentralized approach, ever since the start of the first testnet in 2019, Staking4ADA aims to help the Cardano network thrive, to become the global financial operating system we all know it can be."
+		},
+		"rss": ""
+	},
+	"telegram-admin-handle": [
+		""
+	],
+	"my-pool-ids": [
+		"fa40fcde282587cbcf983d7fc5a6e6e05ce326f127d3c20d7af5af2b"
+	],
+	"when-satured-then-recommend": [
+		"a631b46315b1567ef0ce2b2ad4cb63faac09f32ceba6716a7e331e5e"
+	]
+}
