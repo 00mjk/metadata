@@ -2,7 +2,7 @@ name: Extended Metadata Sync
 
 on:
   schedule:
-     - cron: '0 11,17,23 * * *'
+     - cron: '50 * * * *'
   push:
     branches:
       - main
