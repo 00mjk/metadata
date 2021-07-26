@@ -24,7 +24,7 @@ Future<void> main(List<String> args) async {
   }
 
   // Fetch the metadata files and store them.
-  await wait(poolIds, (poolId) async {
+  await runConcurrently(poolIds, (poolId) async {
     try {
       final metadataFile = File('../data/metadata/$poolId.json');
       final extendedFile = File('../data/extended/$poolId.json');

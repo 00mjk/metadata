@@ -1,10 +1,10 @@
+import 'dart:collection';
 import 'dart:convert' hide jsonEncode;
-import 'dart:math' as math;
 
 import 'package:http/http.dart' as http;
 
 /// Maximum time for any web request to complete.
-const requestTimeout = const Duration(seconds: 20);
+const requestTimeout = const Duration(seconds: 10);
 
 /// A JSON encoder using tabs for indenting.
 final jsonEncode = JsonEncoder.withIndent('\t').convert;
@@ -46,15 +46,20 @@ void traceFetch(Uri uri) {
 
 /// Similar to Future.wait() but processes in buckets of [concurrency] to avoid
 /// trying to run too many things in parallel.
-Future<void> wait<T>(
+Future<void> runConcurrently<T>(
   List<T> items,
   Future<Object?> Function(T) func, {
-  int concurrency = 20,
+  int concurrency = 30,
 }) async {
-  for (var i = 0; i < items.length; i += concurrency) {
-    final start = math.min(i, items.length - 1);
-    final end = math.min(i + concurrency, items.length);
-    final bucket = items.sublist(start, end);
-    await Future.wait(bucket.map(func));
+  final queue = Queue.of(items);
+  // Helper that will process the queue until it's done. Runs concurrently
+  // so must take from the queue atomically.
+  Future<void> processQueue(int workerIndex) async {
+    while (queue.isNotEmpty) {
+      final item = queue.removeFirst();
+      await func(item);
+    }
   }
+
+  await Future.wait(List.generate(concurrency, processQueue));
 }
