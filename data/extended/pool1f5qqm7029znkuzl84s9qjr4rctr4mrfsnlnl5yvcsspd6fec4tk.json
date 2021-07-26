@@ -1,8 +1,8 @@
 {
 	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
 	"info": {
-		"url_png_icon_64x64": "https://neostakepool.nl/wp-content/uploads/2021/05/neo-stakepool-64x64-1.png",
-		"url_png_logo": "https://neostakepool.nl/wp-content/uploads/2021/05/neo-stakepool-64x64-1.png",
+		"url_png_icon_64x64": "https://neostakepool.nl/wp-content/uploads/2021/07/neo-stakepool-darkgreen-64x64-1.png",
+		"url_png_logo": "https://neostakepool.nl/wp-content/uploads/2021/07/neo-stakepool-darkgreen-64x64-1.png",
 		"location": "Gouda, Netherlands",
 		"social": {
 			"twitter_handle": "neo_stakepool",

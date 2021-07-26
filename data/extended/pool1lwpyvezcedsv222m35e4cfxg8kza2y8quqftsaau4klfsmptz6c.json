@@ -1,0 +1,31 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.goowee.io/wp-content/uploads/2021/07/gui_pool_logo_64x64.png",
+		"url_png_logo": "https://www.goowee.io/wp-content/uploads/2021/07/gui_pool_logo_250x250.png",
+		"location": "Boulder, CO",
+		"social": {
+			"twitter_handle": "gooweellc",
+			"telegram_handle": "guiPoolIan",
+			"facebook_handle": "gooweellc",
+			"youtube_handle": "UC5GaybyZmlqyVc5ebTXcoPA",
+			"github_handle": "goowee"
+		},
+		"company": {
+			"name": "gooWee LLC",
+			"city": "Boulder",
+			"state": "CO",
+			"country": "USA"
+		},
+		"about": {
+			"server": "DigitalOcean VPC with dedicated CPUs running on 100% renewable energy.",
+			"company": "gooWee LLC"
+		}
+	},
+	"my-pool-ids": {
+		"0": "fb82466458cb60c5295b8d335c24c83d85d510e0e012b877bcadbe98"
+	},
+	"telegram-admin-handle": {
+		"0": "guiPoolIan",
+		"1": "guiPoolJuan"
+	}
+}
