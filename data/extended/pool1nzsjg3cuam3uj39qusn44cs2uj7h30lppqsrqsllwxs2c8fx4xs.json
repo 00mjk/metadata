@@ -1,0 +1,20 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://bitboycrypto.com/wp-content/uploads/2019/07/cropped-newlogo.png",
+		"url_png_logo": "https://bitboycrypto.com/wp-content/uploads/2019/07/cropped-newlogo.png",
+		"location": "Atlanta, Georgia",
+		"social": {
+			"twitter_handle": "Bitboy_Crypto",
+			"telegram_handle": "Rxbbn",
+			"facebook_handle": "",
+			"youtube_handle": "Bitboy Crypto",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "Rxbbn"
+		},
+		"about": {
+			"me": "Created with love by @Rxbbn",
+			"server": "Digital Ocean"
+		}
+	}
+}
