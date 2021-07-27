@@ -1,7 +1,7 @@
 {
-	"name": "BELGA 0PCT Pool",
+	"name": "Belgium stake pool",
 	"ticker": "BELGA",
-	"description": "Your experienced and reliable pool with 0% margin fee for maximum rewards. Powered by low latency servers with 24/7 uptime. Part of the MDP alliance.",
+	"description": "Brewed in Belgium with love. Stake with us and make a difference. We donate 15% of our profit, so not your rewards, to a non-profit organization which offer rewarding and remunerative jobs to people with disabilities.",
 	"homepage": "https://belga-pool.be",
 	"nonce": "1614206875",
 	"extended": "https://belga-pool.be/poolmeta-extended.json"
