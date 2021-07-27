@@ -2,7 +2,7 @@
 	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/ACcryTm/ACT/main/ed.json",
 	"info": {
 		"url_png_icon_64x64": "https://s6.gifyu.com/images/ACT-64Pixel.png",
-		"url_png_logo": "https://s6.gifyu.com/images/ACT-64Pixel.png",
+		"url_png_logo": "https://s6.gifyu.com/images/ACT-LargeLOGO.png",
 		"location": "Las Vegas, Nevada",
 		"social": {
 			"twitter_handle": "@act_pool",
