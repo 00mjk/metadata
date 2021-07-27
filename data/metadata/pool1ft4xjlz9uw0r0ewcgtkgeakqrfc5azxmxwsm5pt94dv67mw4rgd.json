@@ -2,5 +2,6 @@
 	"name": "Lovelacepool",
 	"description": "A low fee high performance, US hosted and supported stake pool. Come stake with us! Original ITN pool ticker [l0ve] <-with a zero, follow us @lovelacepool1 on twitter for the latest updates!",
 	"ticker": "1LOVE",
-	"homepage": "https://lovelacepool.com"
+	"homepage": "https://lovelacepool.com",
+	"extended": "http://ext.lovelacepool.com"
 }

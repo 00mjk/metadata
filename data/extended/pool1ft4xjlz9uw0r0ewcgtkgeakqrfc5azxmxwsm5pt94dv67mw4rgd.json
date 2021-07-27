@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/glitch40/files/master/1loveicon.png",
+		"url_png_logo": "https://raw.githubusercontent.com/glitch40/files/master/1lovelogo.png",
+		"location": "USA",
+		"social": {
+			"twitter_handle": "lovelacepool1",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": ""
+		},
+		"rss": "http(s) url to valid RSS feed"
+	},
+	"telegram-admin-handle": [
+		""
+	],
+	"my-pool-ids": [
+		"4aea697c45e39e37e5d842ec8cf6c01a714e88db33a1ba0565ab59af"
+	],
+	"when-satured-then-recommend": [
+		"4aea697c45e39e37e5d842ec8cf6c01a714e88db33a1ba0565ab59af"
+	]
+}
