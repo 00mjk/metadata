@@ -56,11 +56,6 @@
 				"key": "19d5f7127810361eb4a46fd4ef585655"
 			},
 			"2": {
-				"name": "relay 3 USA",
-				"type": "relay",
-				"key": "aa8ac8eda785fade51929e11c5941ff2"
-			},
-			"3": {
 				"name": "block producer",
 				"type": "bp",
 				"key": "a2b4d9c9616e3291d8699cb347a39f3f"

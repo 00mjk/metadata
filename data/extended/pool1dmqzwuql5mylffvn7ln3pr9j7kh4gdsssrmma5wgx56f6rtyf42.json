@@ -10,5 +10,10 @@
 			"twitter_handle": "ProfSmith9000",
 			"telegram_handle": "JesseSmith"
 		}
+	},
+	"votes": {
+		"https://spovotes.com/votes/remove-min-fee/": {
+			"vote": "Yes"
+		}
 	}
 }
