@@ -14,7 +14,8 @@
 	},
 	"votes": {
 		"https://cips.cardano.org/cips/cip23/": {
-			"vote": "YES PLEASE! 😄"
+			"vote": "Yes",
+			"comment": "YES PLEASE! 😄"
 		},
 		"https://cips.cardano.org/cips/cip7/": {
 			"vote": "Yes"

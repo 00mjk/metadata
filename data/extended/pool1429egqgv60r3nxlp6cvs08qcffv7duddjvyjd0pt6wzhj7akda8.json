@@ -33,6 +33,9 @@
 		},
 		"https://spovotes.com/votes/remove-min-fee/": {
 			"vote": "No"
+		},
+		"https://cips.cardano.org/cips/cip23/": {
+			"vote": "Yes"
 		}
 	}
 }
