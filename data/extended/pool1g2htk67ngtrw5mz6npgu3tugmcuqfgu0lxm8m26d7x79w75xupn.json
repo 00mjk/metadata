@@ -42,6 +42,9 @@
 		"https://spovotes.com/votes/reduce-min-fee/": {
 			"vote": "Yes",
 			"comment": "With min variable will create more competitive environment w/o compromising incentives."
+		},
+		"https://cips.cardano.org/cips/cip23/": {
+			"vote": "Yes"
 		}
 	}
 }
