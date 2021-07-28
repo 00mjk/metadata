@@ -56,5 +56,10 @@
 				"key": "example_get_own_on_adapools.org/connect"
 			}
 		}
+	},
+	"votes": {
+		"https://cips.cardano.org/cips/cip23/": {
+			"vote": "Yes"
+		}
 	}
 }
