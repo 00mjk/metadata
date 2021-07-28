@@ -1,0 +1,18 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://moxietech.co/Moxie_icon.PNG",
+		"url_png_logo": "https://moxietech.co/Moxie_icon.PNG",
+		"location": "Bogota, Colombia",
+		"social": {
+			"twitter_handle": "LARestrepoMu",
+			"telegram_handle": "MoxiePoolCardano"
+		},
+		"about": {
+			"me": "Soy Luis Restrepo el operador de MoxiePool. Estoy comprometido a largo plazo con la operación de este pool. Estoy presente en varios canales acercando esta tecnología a la comunidad hispana",
+			"server": "Servidores en la nube estratégicamente distribuídos en el mundo. 32 GB RAM y 8 CPUs puestos a disposición para minar bloques de manera continua"
+		}
+	},
+	"my-pool-ids": {
+		"0": "26d2e140cb8d11143501d7883d1cf5a6adba156e1f8f27d327f10b57"
+	}
+}
