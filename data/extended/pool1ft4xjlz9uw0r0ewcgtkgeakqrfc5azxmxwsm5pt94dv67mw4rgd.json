@@ -5,7 +5,7 @@
 		"location": "USA",
 		"social": {
 			"twitter_handle": "lovelacepool1",
-			"telegram_handle": "",
+			"telegram_handle": "Stake1LOVE",
 			"facebook_handle": "",
 			"youtube_handle": "",
 			"twitch_handle": "",
@@ -28,12 +28,26 @@
 		"rss": "http(s) url to valid RSS feed"
 	},
 	"telegram-admin-handle": [
-		""
+		"glitch04"
 	],
 	"my-pool-ids": [
 		"4aea697c45e39e37e5d842ec8cf6c01a714e88db33a1ba0565ab59af"
 	],
 	"when-satured-then-recommend": [
 		"4aea697c45e39e37e5d842ec8cf6c01a714e88db33a1ba0565ab59af"
-	]
+	],
+	"votes": {
+		"https://spovotes.com/votes/change-min-fixed-fee-to-variable/": {
+			"vote": "Yes",
+			"comment": "Would reduce the high cost curve to stakeholders on less fortunate or new pools."
+		},
+		"https://spovotes.com/votes/reduce-min-fee/": {
+			"vote": "No",
+			"comment": "Only if replaced with minimum variable fee floor."
+		},
+		"https://spovotes.com/votes/remove-min-fee/": {
+			"vote": "No",
+			"comment": "This would continue the race to the bottom and should cover running costs."
+		}
+	}
 }
