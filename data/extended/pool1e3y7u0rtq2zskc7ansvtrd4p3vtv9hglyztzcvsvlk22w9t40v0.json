@@ -22,7 +22,7 @@
 		},
 		"about": {
 			"me": "Antonello and Andrea, we are here to stake!",
-			"server": "Bare metal, low-energy (45 W/h), mission driven staking pool.",
+			"server": "3x Lenovo M700-Small low energy servers (i5 6600, 12GB ram, 256GB SSD + 500GB for disaster recovery), Gigabit fiber optic connection and UPS for about 2 hours of power backup.",
 			"company": "Carden Pool"
 		},
 		"rss": "https://cardenpool.org/feed/"
