@@ -1,0 +1,7 @@
+{
+	"name": "CryptoPatriot Pool",
+	"description": "The ADA Pool that donates to Anti-Slavery International for a free world.",
+	"ticker": "CPAT",
+	"homepage": "https://cryptopatriot.io/staking-pools/",
+	"extended": "https://cryptopatriot.io/cpat.extended.json"
+}
