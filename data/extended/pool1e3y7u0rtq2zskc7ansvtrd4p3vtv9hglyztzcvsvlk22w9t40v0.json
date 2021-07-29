@@ -27,9 +27,10 @@
 		},
 		"rss": "https://cardenpool.org/feed/"
 	},
-	"telegram-admin-handle": [
-		"ollenotnA"
-	],
+	"telegram-admin-handle": {
+		"0": "ollenotnA",
+		"1": "ucc1083"
+	},
 	"my-pool-ids": [
 		"cc49ee3c6b02850b63dd9c18b1b6a18b16c2dd1f20962c320cfd94a7"
 	],
