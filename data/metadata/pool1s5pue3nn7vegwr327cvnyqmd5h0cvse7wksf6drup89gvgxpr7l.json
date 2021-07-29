@@ -1,0 +1,7 @@
+{
+	"name": "ERGO POOL",
+	"description": "We convert your Ada rewards to Ergo. Delegators must register at https://ergo-pool.com/delegators",
+	"ticker": "ERGO",
+	"homepage": "https://ergo-pool.com/",
+	"extended": "https://ergo-pool.com/assets/ergo-pool-metadata.json"
+}

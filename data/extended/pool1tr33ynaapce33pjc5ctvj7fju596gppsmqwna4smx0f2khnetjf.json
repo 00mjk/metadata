@@ -1,0 +1,53 @@
+{
+	"info": {
+		"url_png_icon_64x64": "",
+		"url_png_logo": "",
+		"location": "Vogograd, Russia",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "AARON Pool",
+			"addr": "",
+			"city": "Volgograd",
+			"country": "Russia",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "58e3124fbd0e33188658a616c97932e50ba40430d81d3ed61b33d2ab"
+	},
+	"telegram-admin-handle": {
+		"0": "@pavavp"
+	},
+	"votes": {
+		"https://spovotes.com/votes/change-min-fixed-fee-to-variable/": {
+			"vote": "Yes",
+			"comment": ""
+		},
+		"https://spovotes.com/votes/reduce-min-fee/": {
+			"vote": "No",
+			"comment": ""
+		},
+		"https://spovotes.com/votes/remove-min-fee/": {
+			"vote": "No",
+			"comment": ""
+		},
+		"https://cips.cardano.org/cips/cip23/": {
+			"vote": "Yes",
+			"comment": ""
+		}
+	}
+}

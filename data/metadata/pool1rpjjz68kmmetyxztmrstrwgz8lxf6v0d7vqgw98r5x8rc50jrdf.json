@@ -1,6 +1,7 @@
 {
 	"name": "Dew Staking Solutions",
-	"ticker": "DEW",
 	"description": "Reliable, Affordable, Committed to Excellence!",
-	"homepage": "https://www.dew-stake.com"
+	"ticker": "DEW",
+	"homepage": "https://www.dew-stake.com",
+	"extended": "https://raw.githubusercontent.com/DewPool/DEW/main/ed.json"
 }

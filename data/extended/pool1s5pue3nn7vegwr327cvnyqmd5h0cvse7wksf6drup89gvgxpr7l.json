@@ -1,0 +1,36 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://ergo-pool.web.app/assets/images/ergo-pool-logo.png",
+		"url_png_logo": "https://ergo-pool.web.app/assets/images/ergo-pool-logo.png",
+		"location": "United States",
+		"social": {
+			"twitter_handle": "@ErgoWhale",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "United States",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "ADA and ERG lover",
+			"server": "Amazon Cloud (AWS)",
+			"company": "Ergo pool allows users to earn their staking rewards in Ergo instead of Ada."
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "8503ccc673f332870e2af61932036da5df86433e75a09d347c09ca86"
+	},
+	"when-satured-then-recommend": {},
+	"telegram-admin-handle": {},
+	"adapools_ext": {}
+}
