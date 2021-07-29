@@ -28,12 +28,31 @@
 		"rss": "https://cardenpool.org/feed/"
 	},
 	"telegram-admin-handle": [
-		""
+		"ollenotnA"
 	],
 	"my-pool-ids": [
 		"cc49ee3c6b02850b63dd9c18b1b6a18b16c2dd1f20962c320cfd94a7"
 	],
 	"when-satured-then-recommend": [
 		"cc49ee3c6b02850b63dd9c18b1b6a18b16c2dd1f20962c320cfd94a7"
-	]
+	],
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "Relay 1 (bare metal [IT])",
+				"type": "relay",
+				"key": "d8eab2f74f5b5b8b85453f1d63e6cfcf"
+			},
+			"1": {
+				"name": "Relay 2 (bare metal [IT])",
+				"type": "relay",
+				"key": "d8eab2f74f5b5b8b85453f1d63e6cfcft"
+			},
+			"2": {
+				"name": "Block Producer (bare metal [IT])",
+				"type": "bp",
+				"key": "d8eab2f74f5b5b8b85453f1d63e6cfcf"
+			}
+		}
+	}
 }
