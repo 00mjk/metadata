@@ -1,7 +1,7 @@
 {
 	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/DewPool/DEW/main/ed.json",
 	"info": {
-		"url_png_icon_64x64": "https://s6.gifyu.com/images/DEW-Small-ICON-wOUTLINE.png",
+		"url_png_icon_64x64": "https://s6.gifyu.com/images/Droplet-64x64.png",
 		"url_png_logo": "https://s6.gifyu.com/images/DEW-BIG-LOGO-SavedFromScreenshot.png",
 		"location": "",
 		"social": {

@@ -1,5 +1,14 @@
 {
 	"info": {
-		"url_png_icon_64x64": "https://lighthousestakepool.com/lhs_logo_small.png"
+		"url_png_icon_64x64": "https://lighthousestakepool.com/lhs_logo_small.png",
+		"social": {
+			"twitter_handle": "PoolLighthouse",
+			"telegram_handle": "lighthousestakepool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		}
 	}
 }
