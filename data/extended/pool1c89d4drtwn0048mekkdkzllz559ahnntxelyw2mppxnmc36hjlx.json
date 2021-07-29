@@ -2,5 +2,25 @@
 	"itn": {
 		"owner": "ed25519_pk129p03fxu9wc8dg5qhetttf4anqnp5j05s8vltcjzafq2zkqmf2rqznw4u6",
 		"witness": "ed25519_sig15hqjeegsw3xqmq2c6wj054zp6eecv28e3560pcyva7pl8upy2ggc05qksjwvplske9wx3tfvwq5udwuud3p3ce5repa5fayxj29jvpqsnqgdj"
+	},
+	"votes": {
+		"https://spovotes.com/votes/change-min-fixed-fee-to-variable/": {
+			"vote": "Yes"
+		},
+		"https://spovotes.com/votes/remove-min-fee/": {
+			"vote": "No"
+		},
+		"https://cips.cardano.org/cips/cip23/": {
+			"vote": "Yes"
+		},
+		"https://cips.cardano.org/cips/cip7/": {
+			"vote": "Yes"
+		},
+		"https://cips.cardano.org/cips/cip13/": {
+			"vote": "Yes"
+		},
+		"https://cips.cardano.org/cips/cip8/": {
+			"vote": "Yes"
+		}
 	}
 }
