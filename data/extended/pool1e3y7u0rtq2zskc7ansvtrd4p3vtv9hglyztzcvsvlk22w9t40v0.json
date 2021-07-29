@@ -40,19 +40,9 @@
 	"adapools_ext": {
 		"prometheus": {
 			"0": {
-				"name": "Relay 1 (bare metal [IT])",
-				"type": "relay",
-				"key": "d8eab2f74f5b5b8b85453f1d63e6cfcf"
-			},
-			"1": {
-				"name": "Relay 2 (bare metal [IT])",
-				"type": "relay",
-				"key": "d8eab2f74f5b5b8b85453f1d63e6cfcft"
-			},
-			"2": {
 				"name": "Block Producer (bare metal [IT])",
 				"type": "bp",
-				"key": "d8eab2f74f5b5b8b85453f1d63e6cfcf"
+				"key": "349c3422125f06546e129d17128f7ff2"
 			}
 		}
 	}
