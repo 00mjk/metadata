@@ -2,5 +2,6 @@
 	"name": "Crypto Coffee Beans",
 	"description": "A pool ran by people who like crypto and coffee",
 	"ticker": "COFE",
-	"homepage": "https://cryptocoffeebeans.com"
+	"homepage": "https://cryptocoffeebeans.com",
+	"extended": "https://cryptocoffeebeans.com/extended_meta.json"
 }
