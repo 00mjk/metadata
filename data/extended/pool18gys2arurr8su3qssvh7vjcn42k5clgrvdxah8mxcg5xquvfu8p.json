@@ -1,6 +1,6 @@
 {
 	"info": {
-		"location": "The Netherlands, Amsterdam, Cairo, Egypt, Veliko Tarnovo, Bulgaria, Istanbul, Turkey, Reykjavik, Iceland and Thessaloniki, Greece",
+		"location": "The Netherlands, Amsterdam",
 		"url_png_icon_64x64": "https://1fmly.net/1fmly/1fmly-logo-small.png",
 		"url_png_logo": "https://1fmly.net/1fmly/1fmly-logo.png",
 		"social": {
@@ -16,8 +16,8 @@
 			"vat_id": ""
 		},
 		"about": {
-			"me": "We are Jochum & Martijn, running a Single pool. Mission based by donating 20% of operator rewards to local charity and supporting the Cardano network by having VPS relays in poor network covered countries.",
-			"server": "Combination of Intel NUC, Gigabyte BRIX, (AMD) Raspberry Pi's and cloud based relays, distributed in poor network covered countries. Reliable setup, contingency covered, multiple layers of security, excellent monitoring.",
+			"me": "We are Jochum & Martijn, running a Single pool. Mission driven by donating 20% of operator rewards to local charity and supporting the environment by having relays powered by wind and solar power.",
+			"server": "Combination of Intel NUC, Gigabyte BRIX, (AMD) and Raspberry Pi's. Reliable setup, contingency covered, multiple layers of security, excellent monitoring.",
 			"company": ""
 		},
 		"adapools_ext": {
