@@ -1,6 +1,6 @@
 {
-	"name": "GIFT2-Pool",
-	"description": "できるだけ多くの素敵な『ギフト』をお届けするため、日々サーバー管理を行っています。Gift1プールの方もよろしく。We check the pool-server every day to deliver as many wonderful 『Gifts』 as possible.Please also deposit in Gift1-pool.",
-	"ticker": "GIFT2",
+	"name": "GIFT1-Pool",
+	"description": "できるだけ多くの素敵な『ギフト』をお届けするため、日々サーバー管理を行っています。Gift2プールの方もよろしく。We check the pool-server every day to deliver as many wonderful 『Gifts』 as possible.Please also deposit in Gift2-pool.",
+	"ticker": "GIFT1",
 	"homepage": "https://gift-pool.com"
 }
