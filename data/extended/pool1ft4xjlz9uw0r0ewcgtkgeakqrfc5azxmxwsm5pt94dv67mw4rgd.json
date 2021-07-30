@@ -48,6 +48,10 @@
 		"https://spovotes.com/votes/remove-min-fee/": {
 			"vote": "No",
 			"comment": "This would continue the race to the bottom and should cover running costs."
+		},
+		"https://cips.cardano.org/cips/cip23/": {
+			"vote": "Yes",
+			"comment": ""
 		}
 	}
 }
