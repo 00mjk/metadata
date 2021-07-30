@@ -2,7 +2,5 @@
 	"name": "Coinolix staking pool",
 	"description": "1% Fees, 99.99% uptime, COINOLIX",
 	"ticker": "CLX",
-	"homepage": "https://coinolix.com",
-	"extended": "ed25519_sig18lz6rkf3ccd9qs8a762saff06fugathxha8ge8a9ugtam292ksge0ehhacqvgslcrdygky35uxlyv2xs8k7cg4ndzsw78maakfdh6qgrru2gn",
-	"extended1": "96ef13f3b3d86fe2ea589d612d3ffcf7"
+	"homepage": "https://coinolix.com"
 }

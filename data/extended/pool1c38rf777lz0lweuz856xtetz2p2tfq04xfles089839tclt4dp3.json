@@ -1,0 +1,56 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "http(s) url to pool icon; not animated; max 40kb",
+		"url_png_logo": "http(s) url to pool logo; not animated; max 50kb",
+		"location": "",
+		"social": {
+			"twitter_handle": "AdaPinoy",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Company Name",
+			"addr": "Street, Number",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "...",
+			"server": "Raspberry Pi + server for bootstrapping.",
+			"company": "..."
+		}
+	},
+	"my-pool-ids": {
+		"0": "c44e34fbdef89ff767823d3465e5625054b481f5327f983ce53c4abc"
+	},
+	"when-satured-then-recommend": {},
+	"telegram-admin-handle": {
+		"0": "your_tg_handle"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "relay 1 eu",
+				"type": "relay",
+				"key": "example_get_own_on_adapools.org/connect"
+			},
+			"1": {
+				"name": "relay 2 philippines",
+				"type": "relay",
+				"key": "example_get_own_on_adapools.org/connect"
+			},
+			"2": {
+				"name": "block producer home",
+				"type": "bp",
+				"key": "example_get_own_on_adapools.org/connect"
+			}
+		}
+	}
+}

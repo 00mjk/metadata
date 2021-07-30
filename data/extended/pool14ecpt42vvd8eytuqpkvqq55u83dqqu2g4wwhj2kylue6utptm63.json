@@ -21,8 +21,8 @@
 			"vat_id": "GB123456789"
 		},
 		"about": {
-			"me": "Crusty sysadmin with a penchant for uptime.",
-			"server": "24x7 professionally hosted servers.",
+			"me": "Career SRE, recently retired and focusing on Cardano.",
+			"server": "24x7 professionally hosted servers with regional fault tolerance.",
 			"__company": "..."
 		}
 	},
