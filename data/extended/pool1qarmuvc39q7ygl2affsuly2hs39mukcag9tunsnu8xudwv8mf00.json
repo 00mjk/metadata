@@ -1,0 +1,16 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://beaglepool.com/beaglepool64.png",
+		"location": "Statesboro, Georgia",
+		"social": {
+			"telegram_handle": "BeaglePool"
+		},
+		"my-pool-ids": {
+			"0": "0747be3311283c447d5d4a61cf9157844bbe5b1d4157c9c27c39b8d7"
+		},
+		"about": {
+			"me": "IT professional with 20+ years UNIX experience.",
+			"server": "Dedicated intel hardware hosted in house lab network with 1 Gb up/down."
+		}
+	}
+}

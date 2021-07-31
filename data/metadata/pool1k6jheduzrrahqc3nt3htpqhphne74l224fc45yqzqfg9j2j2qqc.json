@@ -2,5 +2,6 @@
 	"name": "True Staking",
 	"description": "We are a group of engineers dedicated to creating fast, scure, and dependable validation nodes that support the future of web 3.0. We equip firms and individuals with the ability to invest in cryptocurrency.",
 	"ticker": "TRU",
-	"homepage": "https://truestaking.com"
+	"homepage": "https://truestaking.com",
+	"extended": "https://truestaking.com/.public/adametadataextended.json"
 }

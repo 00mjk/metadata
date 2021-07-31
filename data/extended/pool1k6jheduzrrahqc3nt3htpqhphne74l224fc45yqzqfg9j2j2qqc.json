@@ -1,0 +1,35 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://truestaking.com/wp-content/uploads/2021/07/True-Staking-Logo-64x64-1.png",
+		"url_png_logo": "https://truestaking.com/wp-content/uploads/2021/07/True-Staking-Logo-1024x1024-2.png",
+		"location": "Portland, Oregon",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "truestakingcardano",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "9RWGM5As",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "True Staking",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "We are a group of engineers dedicated to creating fast, secure, and dependable validation nodes that support the future of web 3.0.",
+			"server": "We run cloud based servers with multi-regional relays, and redundant backups.",
+			"company": "True Staking"
+		}
+	},
+	"my-pool-ids": {
+		"0": "b6a57cb78218fb7062335c6eb082e1bcf3eafd4aaa715a1002025059"
+	},
+	"telegram-admin-handle": {
+		"0": "samarvin"
+	}
+}

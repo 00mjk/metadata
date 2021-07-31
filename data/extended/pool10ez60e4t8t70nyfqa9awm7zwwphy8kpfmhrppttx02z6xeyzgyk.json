@@ -1,0 +1,47 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://git.io/JBwkE",
+		"url_png_logo": "https://git.io/JBwkE",
+		"location": "USA",
+		"social": {
+			"twitter_handle": "PgwadaS",
+			"telegram_handle": "Pgwada",
+			"facebook_handle": "",
+			"youtube_handle": "channel/UCnXOz6fuQ1YoUUZJSbgZ8rg",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "PGWAD"
+		},
+		"about": {
+			"me": "I am AI researcher looking at AI and Blockchain. I have 20+ yrs experience in embbeded systems",
+			"server": "Raspberry Pi and Mini.",
+			"company": "..."
+		},
+		"my-pool-ids": {
+			"0": "pool10ez60e4t8t70nyfqa9awm7zwwphy8kpfmhrppttx02z6xeyzgyk",
+			"1": "8264de3cdb1798dd8758e24cda5101184b44543e7c4421c7815f9ed8"
+		},
+		"adapools_ext": {
+			"prometheus": {
+				"0": {
+					"name": "relay 1",
+					"type": "relay",
+					"key": ""
+				},
+				"1": {
+					"name": "relay 2",
+					"type": "relay",
+					"key": ""
+				},
+				"2": {
+					"name": "block producer",
+					"type": "bp",
+					"key": ""
+				}
+			}
+		}
+	}
+}
