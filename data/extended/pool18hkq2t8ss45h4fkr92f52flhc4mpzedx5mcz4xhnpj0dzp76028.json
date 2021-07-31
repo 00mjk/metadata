@@ -25,6 +25,12 @@
 			"company": ""
 		}
 	},
+	"votes": {
+		"https://cips.cardano.org/cips/cip23/": {
+			"vote": "Yes",
+			"comment": "#PushingPowerToTheEdges!"
+		}
+	},
 	"my-pool-ids": [
 		"3dec052cf085697aa6c32a934527f7c5761165a6a6f02a9af30c9ed1"
 	],
