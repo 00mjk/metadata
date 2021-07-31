@@ -1,13 +1,12 @@
 {
 	"info": {
-		"url_png_icon_64x64": "https://raw.githubusercontent.com/bareince/m/main/Images/64x64medlogo.png",
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/bareince/m/0d5eb6d5faeb8fd6c789b07653cf2d3c9c893078/Images/64x64medlogo.png",
 		"url_png_logo": "https://raw.githubusercontent.com/bareince/m/main/Images/MEDICAL%20POOL-c1-zoomed.jpg",
 		"location": "United States",
 		"social": {
 			"twitter_handle": "MedicalPool",
 			"instagram_handle": "medicalpoolcardano",
-			"telegram_handle": "MedPoolOperator",
-			"facebook_handle": "Medical-Stake-Pool-Cardano-102627618690213"
+			"telegram_handle": "MedPoolOperator"
 		},
 		"about": {
 			"me": "Medical Pool is a new pool founded by two medical students who were looking for a way to serve the two communities that we are passionate about.  We are fully invested in the vision of Cardano and believe it has the capacity to be a world changing technology.  At the same time we are passionate about serving people through healthcare and health-centered initiatives.  For these reasons we decided to create a pool that allows us to combine our two passions.  The goal of Medical Pool is to create a community of delegators who are as passionate about serving people and make their voices heard by voting on the volunteer initiatives that they want to see.  The Medical Pool will have a transparent treasury: 25% of the profits go to our partner OneWorld Health.  Beyond that we will have community initiatives where our delegator community can vote on projects they believe in and we will support these projects.  These projects will not only be funded by the Medical Pool, but the team itself will be serving the community personally.  We are very excited to grow a community of like minded people who love technology, medicine, serving the community and, of course, Cardano."
