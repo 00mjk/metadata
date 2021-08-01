@@ -2,5 +2,6 @@
 	"name": "Axios",
 	"ticker": "AXIOS",
 	"description": "Stake with confidence, and focus on other things which bring you value.",
-	"homepage": "https://axios45124903.wordpress.com/"
+	"homepage": "https://axios45124903.wordpress.com/",
+	"extended": "https://raw.githubusercontent.com/ryant109/poolmetadata/main/extendedMetaData.json"
 }

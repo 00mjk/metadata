@@ -1,0 +1,32 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/ryant109/poolmetadata/main/tiiz_GIZ_400x400.jpg",
+		"url_png_logo": "https://raw.githubusercontent.com/ryant109/poolmetadata/main/tiiz_GIZ_400x400.jpg",
+		"location": "Scotland",
+		"social": {
+			"twitter_handle": "Axios25137484",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "An Independant Scottish Ada Stakepool Operator",
+			"server": "",
+			"company": ""
+		},
+		"my-pool-ids": {
+			"0": "pool1qcfzjvw0em6g02pwjqpnfh6260epge5ll3z37ckhcylsjuktkvp"
+		}
+	}
+}

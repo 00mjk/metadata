@@ -1,7 +1,7 @@
 {
-	"name": "AAA2",
+	"name": "Merging into AAA",
 	"ticker": "AAA2",
-	"description": "AAA2 Pool",
+	"description": "Existing and new delegators, please (re)delegate to AAA",
 	"homepage": "https://stakelovelace.io/aaa/",
 	"extended": "https://raw.githubusercontent.com/stakelovelace/pub/main/aaa2_extended.json"
 }
