@@ -11,7 +11,8 @@
 		},
 		"about": {
 			"me": "We are mission driven to support beagle rescue, Cardano and the promotion of financial decentralization. 10% of profits are donated to Midwest Beagle Rescue.",
-			"server": "Dedicated intel hardware hosted in house network with 1 Gb up/down, maintained by a dedicated IT professional with 20+ years UNIX experience."
+			"server": "Dedicated intel hardware hosted in house network with 1 Gb up/down, maintained by a dedicated IT professional with 20+ years UNIX experience.",
+			"Midwest Beagle Rescue": "https://www.gotbeagles.org"
 		}
 	}
 }
