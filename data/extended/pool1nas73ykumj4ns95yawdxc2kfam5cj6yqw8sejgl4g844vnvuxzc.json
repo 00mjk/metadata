@@ -1,0 +1,27 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://cardano.2bit.nl/assets/images/2bit-logo-64.png",
+		"url_png_logo": "https://cardano.2bit.nl/assets/images/2bit-logo.png",
+		"location": "Delft, Netherlands",
+		"social": {
+			"matrix_handle": "#2bit-cardano:matrix.org"
+		},
+		"company": {
+			"name": "2Bit",
+			"addr": "",
+			"city": "Delft",
+			"country": "Netherlands",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "2Bit Cardano Pool",
+			"server": "Multiple servers distributed over Europe",
+			"company": "2Bit"
+		}
+	},
+	"my-pool-ids": {
+		"0": "9f61e892dcdcab381684eb9a6c2ac9eee989688071e19923f541eb56"
+	},
+	"when-satured-then-recommend": {}
+}

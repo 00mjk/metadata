@@ -1,0 +1,7 @@
+{
+	"name": "Adano Hub Pool",
+	"description": "Adano Pool",
+	"ticker": "ADANO",
+	"homepage": "https://adanohub.io",
+	"extended": "https://adanohub.io/adanohub.extended.metadata.json"
+}

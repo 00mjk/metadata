@@ -2,6 +2,6 @@
 	"name": "Euro Pool",
 	"description": "Welcome to my small european pool made in germany running on a high available infrastructure in Falkenstein. Original since 2021. Please consider supporting small self-made pools instead of staking on multi million dollar companies.",
 	"ticker": "EURO",
-	"homepage": "http://peterspace.de/stakepool",
-	"extended": "http://peterspace.de/pool-metadata-euro-extended.json"
+	"homepage": "https://cardano-tools.io/europool",
+	"extended": "https://cardano-tools.io/pool-metadata-euro-extended.json"
 }

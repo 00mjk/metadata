@@ -2,5 +2,6 @@
 	"name": "2Bit Cardano Pool",
 	"description": "2Bit Cardano Pool",
 	"ticker": "2BIT",
-	"homepage": "https://cardano.2bit.nl"
+	"homepage": "https://cardano.2bit.nl",
+	"extended": "https://cardano.2bit.nl/pool-g2-extended.json"
 }

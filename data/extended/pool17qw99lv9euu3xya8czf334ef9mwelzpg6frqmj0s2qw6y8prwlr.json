@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "http(s) url to pool icon",
+		"url_png_logo": "http(s) url to pool logo",
+		"location": "Country, Continent",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": ""
+		},
+		"rss": "http(s) url to valid RSS feed"
+	},
+	"telegram-admin-handle": [
+		""
+	],
+	"my-pool-ids": [
+		"f01c52fd85cf391313a7c09318d7292edd9f8828d2460dc9f0501da2"
+	],
+	"when-satured-then-recommend": [
+		"f01c52fd85cf391313a7c09318d7292edd9f8828d2460dc9f0501da2"
+	]
+}

@@ -1,7 +1,7 @@
 {
 	"name": "Proof Stake Pool",
-	"description": "Proof Stake Pool is powered by multiple geolocated high-end servers to provide an top quality staking services through low latency, 24/7 uptime.",
+	"description": "Proof Stake Pool focuses on reliability and true decentralization backed by multiple low latency geo-located relays to increase high availability",
 	"ticker": "PROOF",
-	"homepage": "https://twitter.com/ProofStakePool",
+	"homepage": "https://www.proofstakepool.com",
 	"extended": "https://raw.githubusercontent.com/ProofStakePool/Proof-StakePool/main/poolMetaData_extended.json"
 }

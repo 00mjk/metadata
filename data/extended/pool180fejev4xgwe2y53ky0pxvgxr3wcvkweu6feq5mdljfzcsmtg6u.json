@@ -22,8 +22,8 @@
 			"vat_id": ""
 		},
 		"about": {
-			"me": "Hi i'm peter and i love technology so i was curious about running a staking pool. Every epoch i sit here and generate leader logs to predict when this pool is elected to mint a block to observe the pool operation in this timeframe with belt and braces.",
-			"server": "AMD Ryzen 5 3600 hexacore with 12 threads, 2 TB SSDs und 64 GB DDR4 RAM",
+			"me": "",
+			"server": "AMD Ryzen 5 3600 hexacore with 12 threads, 2 TB HDDs und 64 GB DDR4 RAM",
 			"company": ""
 		},
 		"rss": ""
@@ -40,9 +40,9 @@
 	"adapools_ext": {
 		"prometheus": {
 			"0": {
-				"name": "EURO Pool Core",
-				"type": "bp",
-				"key": "a7435d5c994fbf4a2d4f9598943f2d84"
+				"name": "relay 1 eu",
+				"type": "relay",
+				"key": "422b8767acdc62b7b6a0b11cd5204e0e"
 			}
 		}
 	}
