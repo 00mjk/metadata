@@ -21,9 +21,9 @@
 			"vat_id": ""
 		},
 		"about": {
-			"me": "Experienced system administrators running a stake pool and participating in Catalyst",
-			"server": "Bare metal servers distributed globally",
-			"company": "Our core infrastructure runs on 100% solar energy"
+			"me": "Experienced system administrator and Catalyst community advisor",
+			"server": "4 HP mini servers. i7-6700 quad core, 16 GB ram, SSD",
+			"company": "Two solar-powered locations provide redundancy in energy and connectivity."
 		},
 		"rss": ""
 	},
