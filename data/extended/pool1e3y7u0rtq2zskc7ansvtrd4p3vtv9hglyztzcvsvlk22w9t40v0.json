@@ -21,7 +21,7 @@
 			"vat_id": ""
 		},
 		"about": {
-			"me": "Antonello and Andrea, we are here to stake!",
+			"me": "Single pool operator working for a real decentralization. 24/7 live support.",
 			"server": "3X Lenovo M700-Small low energy servers (i5 6600, 12GB ram, 256GB SSD + 500GB for disaster recovery), Gigabit fiber optic connection and UPS for about 2 hours of power backup.",
 			"company": "Carden Pool"
 		},
@@ -31,18 +31,28 @@
 		"0": "ollenotnA",
 		"1": "ucc1083"
 	},
-	"my-pool-ids": [
-		"cc49ee3c6b02850b63dd9c18b1b6a18b16c2dd1f20962c320cfd94a7"
-	],
-	"when-satured-then-recommend": [
-		"cc49ee3c6b02850b63dd9c18b1b6a18b16c2dd1f20962c320cfd94a7"
-	],
+	"my-pool-ids": {
+		"0": "cc49ee3c6b02850b63dd9c18b1b6a18b16c2dd1f20962c320cfd94a7"
+	},
+	"when-satured-then-recommend": {
+		"0": "cc49ee3c6b02850b63dd9c18b1b6a18b16c2dd1f20962c320cfd94a7"
+	},
 	"adapools_ext": {
 		"prometheus": {
 			"0": {
 				"name": "Block Producer (bare metal [IT])",
 				"type": "bp",
 				"key": "5f221014623956289304636d3a33bb36"
+			},
+			"1": {
+				"name": "Relay #1 (bare metal [IT])",
+				"type": "relay",
+				"key": "4f7a94d712a5a3850814b8e3b638f43f"
+			},
+			"2": {
+				"name": "Relay #2 (bare metal [IT])",
+				"type": "relay",
+				"key": "46934a749fcfeae41594008ebec20d16"
 			}
 		}
 	}
