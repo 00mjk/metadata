@@ -1,6 +1,6 @@
 {
 	"name": "ADA Coinz",
-	"description": "Grow your ADA coins with COINZ, and also help inner city youth find their way.",
+	"description": "Grow your ADA coins with COINZ.",
 	"ticker": "COINZ",
 	"homepage": "https://adacoinz.com",
 	"extended": "https://raw.githubusercontent.com/adacoinz/stakepool/main/coinz/extended.json"

@@ -1,7 +1,7 @@
 {
-	"name": "Earnest",
-	"ticker": "ERNST",
-	"homepage": "https://earnestpool.com",
-	"description": "Earnest Stake Pool",
+	"name": "Cozy Pool",
+	"ticker": "COZY",
+	"homepage": "https://cozytokens.io",
+	"description": "Cozy Stake Pool",
 	"extended": "https://earnestpool.github.io/extended.json"
 }
