@@ -1,0 +1,17 @@
+{
+	"info": {
+		"location": "Spain",
+		"social": {
+			"facebook_handle": "Cardano.LEND.Pool"
+		},
+		"about": {
+			"me": "We are the first Cardano pool 'staking' 100% of our rewards on Kiva. We keep all our operating fees + delegation rewards for 3 months on Kiva.org for lending to entrepreneurs, unbanked people and those in need, while you earn consistent staking rewards."
+		}
+	},
+	"my-pool-ids": {
+		"0": "664730a4d85918a7d8574df549135228508072916d95cbc0ecd9ac67"
+	},
+	"when-satured-then-recommend": {
+		"0": ""
+	}
+}
