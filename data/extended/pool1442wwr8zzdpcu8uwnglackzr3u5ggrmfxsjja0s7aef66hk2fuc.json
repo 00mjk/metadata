@@ -6,10 +6,10 @@
 			"me": "Our team consists of two developers with 20+ years of experience in Information Technology. We are based in Italy and Australia while our servers are distributed around the world. We share the same passion for Cardano as all the freelancers around the world who have been collaborating with us on this project, Pasta Pool. We would like to thank all pasta lovers who will decide to delegate and support our staking pool.",
 			"server": "1 producer node + backup, 2 relay nodes, 24/7 real-time monitoring.",
 			"company": "https://www.pasta-pool.com"
+		},
+		"social": {
+			"facebook_handle": "pasta.stake.pool"
 		}
-	},
-	"social": {
-		"facebook_handle": "pasta.stake.pool"
 	},
 	"my-pool-ids": {
 		"0": "ad54e70ce213438e1f8e9a3fdc58438f28840f6934252ebe1eee53ad"
