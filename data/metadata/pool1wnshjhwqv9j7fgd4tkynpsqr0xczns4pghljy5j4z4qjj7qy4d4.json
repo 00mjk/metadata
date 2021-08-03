@@ -1,7 +1,7 @@
 {
-	"name": "Galaxy by [Team Discovery] - DIVY3",
+	"name": "Galaxy Stake Pool",
 	"ticker": "GXY",
-	"description": "Galaxy is managed by team Discovery. We are committed to providing the best staking service with low latency, 24/7 uptime, and high return on stake. Established in Jan 2020, producing blocks on mainnet since epoch 208.",
-	"homepage": "https://adatrain.com/",
+	"description": "We are committed to providing the best staking service with low latency, 24/7 uptime, and high return on stake. Established in Jan 2020, producing blocks on mainnet since epoch 208.",
+	"homepage": "https://galaxy-stakepool.com/",
 	"extended": "https://raw.githubusercontent.com/julienadatrain/ada-train/master/DIVY3META"
 }

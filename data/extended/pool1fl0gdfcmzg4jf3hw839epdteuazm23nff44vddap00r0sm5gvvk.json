@@ -1,0 +1,48 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://avacsp.com/images/AVA.png",
+		"url_png_logo": "https://avacsp.com/images/AVA_logo_white.png",
+		"location": "Rochester, NY, USA",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "AVA Cardano Stake Pool",
+			"addr": "",
+			"city": "Rochester",
+			"country": "United States of America",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "IT Administrator, 15 years experience",
+			"server": "Standard desktops/Laptops, 400x20 + 400x400, approx .",
+			"company": "Eric's ADA Mining"
+		}
+	},
+	"my-pool-ids": {
+		"0": "4fde86a71b122b24c6ee3c4b90b579e745b546694d6ac6b7a17bc6f8"
+	},
+	"when-satured-then-recommend": {
+		"0": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "",
+				"type": "",
+				"key": ""
+			}
+		}
+	}
+}

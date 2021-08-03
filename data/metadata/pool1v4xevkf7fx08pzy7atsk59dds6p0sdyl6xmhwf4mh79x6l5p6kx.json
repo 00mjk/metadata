@@ -1,7 +1,7 @@
 {
 	"name": "DISCOVERY",
 	"ticker": "DIVY",
-	"description": "Discovery is committed to providing the best staking service with low latency, 24/7 uptime, and high return on stake. Established in Jan 2020, producing blocks on mainnet since epoch 208.",
-	"homepage": "https://adatrain.com/",
+	"description": "Discovery is committed to providing the best staking service with low latency, 24/7 uptime, and high return on stake. Producing blocks on mainnet since epoch 208.",
+	"homepage": "https://discovery-pool.com/",
 	"extended": "https://raw.githubusercontent.com/julienadatrain/ada-train/master/extended-example.json"
 }

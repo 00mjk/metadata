@@ -1,0 +1,48 @@
+{
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"key": "8a57d97c6103ac753d275468375db899",
+				"name": "relay1",
+				"type": "relay"
+			}
+		}
+	},
+	"info": {
+		"about": {
+			"company": "Cookie Stake",
+			"me": "Cookie Stake is a highly performant and resilient stake pool for the Cardano network. Get started with Cookie Stake for consistent staking rewards backed by reliable and secure infrastructure.",
+			"server": "24/7/365"
+		},
+		"company": {
+			"addr": "",
+			"city": "Taipei",
+			"company_id": "",
+			"country": "Taiwan",
+			"name": "Cookie Stake",
+			"vat_id": ""
+		},
+		"location": "Taipei, Taiwan",
+		"social": {
+			"discord_handle": "",
+			"facebook_handle": "",
+			"github_handle": "",
+			"telegram_handle": "",
+			"twitch_handle": "",
+			"twitter_handle": "",
+			"youtube_handle": ""
+		},
+		"url_png_icon_64x64": "https://cookiestake.com/img/LOGO_64X64.png",
+		"url_png_logo": "https://cookiestake.com/img/01.png"
+	},
+	"my-pool-ids": {
+		"0": "6dc4c39741755f8aadca8bab7570d420b75f0e85b9c1d05f872c2eeb "
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	},
+	"verify": "5aae7f7c7015e1d45a5c307328f0cb47",
+	"when-satured-then-recommend": {
+		"0": "6dc4c39741755f8aadca8bab7570d420b75f0e85b9c1d05f872c2eeb"
+	}
+}

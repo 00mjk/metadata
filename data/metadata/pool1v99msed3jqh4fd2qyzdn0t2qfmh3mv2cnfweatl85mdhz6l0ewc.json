@@ -1,7 +1,7 @@
 {
-	"name": "Super Nova by [Team Discovery] - DIVY4",
+	"name": "Super Nova",
 	"ticker": "SUNO",
-	"description": "SUNO is managed by team Discovery. We are committed to providing the best staking service with low latency, 24/7 uptime, and high return on stake. Established in Jan 2020, producing blocks on mainnet since epoch 208.",
-	"homepage": "https://adatrain.com/",
+	"description": "Super Nova Stake Pool is a trusted, secure and profitable stake pool operated by a team of early Cardano supporters. We are committed to providing the best staking service with 24/7 uptime.",
+	"homepage": "https://supernova-pool.com/",
 	"extended": "https://raw.githubusercontent.com/julienadatrain/ada-train/master/DIVY4_EXTD"
 }
