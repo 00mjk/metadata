@@ -10,14 +10,5 @@
 			"me": "We are dreamers, adventurers, investors and world travellers. Togoether, let's make the world a better place.",
 			"server": "Dedicated Servers. Secure, reliable, across all continents."
 		}
-	},
-	"my-pool-ids": {
-		"0": "654d96593e499e70889eeae16a15ad8682f8349fd1b77726bbbf8a6d",
-		"1": "b42eae6ad659bd5e2187975a36816b712422bfd5b64ea32f52781096",
-		"2": "614bb865b1902f54b540209b37ad404eef1db1589a5d9eafe7a6db71"
-	},
-	"when-satured-then-recommend": {
-		"1": "74e1795dc06165e4a1b55d8930c00379b029c2a145ff225255154129",
-		"2": "614bb865b1902f54b540209b37ad404eef1db1589a5d9eafe7a6db71"
 	}
 }
