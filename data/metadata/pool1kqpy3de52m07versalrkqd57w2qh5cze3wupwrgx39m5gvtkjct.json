@@ -1,6 +1,7 @@
 {
 	"name": "FETRI POOL",
-	"description": "A Stake pool dedicated to decetralization, whose mission is to help artist from West-Africa. Run by Akani",
+	"description": "A cardano staking pool that brings awareness to kidney failure",
 	"ticker": "FETRI",
-	"homepage": "https://fetri-pool.com"
+	"homepage": "https://fetri-pool.com",
+	"extended": "https://fetri-pool.com/Json/ExtendedMetadata"
 }

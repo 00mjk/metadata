@@ -1,0 +1,21 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://fetri-pool.com/wp-content/uploads/2021/07/Fetri_icon_64x64.png",
+		"url_png_logo": "https://fetri-pool.com/wp-content/uploads/2021/07/Fetri-new-copie3333.png",
+		"location": "Paris, France",
+		"social": {
+			"twitter_handle": "Fetripool",
+			"youtube_handle": "Fetri Pool"
+		},
+		"about": {
+			"me": "A cardano staking pool that brings awareness to kidney failure",
+			"server": "Hosted on 2 Virtual Private Servers in Germany. Each one with 8GB RAM, 160GB SSD and Cores."
+		}
+	},
+	"my-pool-ids": {
+		"0": "b00248b73456dfe66470efc760369e72817a60598bb8170d06897744"
+	},
+	"telegram-admin-handle": {
+		"0": "akanifernando"
+	}
+}
