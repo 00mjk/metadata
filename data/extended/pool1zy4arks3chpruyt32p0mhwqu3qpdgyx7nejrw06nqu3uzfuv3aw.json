@@ -1,0 +1,47 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://informatik-spezialist.ch/images/swiss.png",
+		"url_png_logo": "https://informatik-spezialist.ch/images/swiss.png",
+		"location": "Zurich, Switzerland",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Pasquale Krähemann",
+			"addr": "Ulmenstrasse 7",
+			"city": "8636 Wald",
+			"country": "Switzerland",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Software Engineer",
+			"server": "2 X Raspberry Pi 4 Hosted at my Home in Switzerland 1GB up/down.",
+			"company": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "112bd1da11c5c23e1171505fbbb81c8802d410de9e64373f530723c1"
+	},
+	"when-satured-then-recommend": {
+		"0": "112bd1da11c5c23e1171505fbbb81c8802d410de9e64373f530723c1"
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "Relay-Node 1 EU",
+				"type": "relay",
+				"key": "1879c941ae2717fa485699f7bed4c34a"
+			}
+		}
+	}
+}

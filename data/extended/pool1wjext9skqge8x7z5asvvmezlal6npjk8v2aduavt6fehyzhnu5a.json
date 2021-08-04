@@ -1,0 +1,60 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://tobg.github.io/Cardano_Pool/stakitlogo64.png",
+		"url_png_logo": "https://tobg.github.io/Cardano_Pool/stakit_logohdpi.png",
+		"location": "Bern, Switzerland",
+		"social": {
+			"twitter_handle": "IoStakit",
+			"telegram_handle": "stakitEN",
+			"facebook_handle": "",
+			"youtube_handle": "Stakit",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "TOBG Services Ltd.",
+			"addr": "not provided",
+			"city": "London",
+			"country": "England",
+			"company_id": "123456",
+			"vat_id": "none"
+		},
+		"about": {
+			"me": "I'm an IT Pro since more than 25 years",
+			"server": "Our servers run in multiple locations mainly in Europe and US. We only choose high quality cloud providers for our systems.",
+			"company": "Our company is specialized in operating high available and secure infrastructure and development of backends and Apps in the blockchain space."
+		}
+	},
+	"my-pool-ids": {
+		"0": "9f1bd8718fffe41cbd70761991819fbbd9552b4c44c30e1a6fc96766",
+		"1": "afb33d38e92e03f9ce86f0175cc33e487b8def0ee25235f1e40183d1",
+		"2": "74b26596160232737854ec18cde45feff530cac762bade758bd27372"
+	},
+	"when-satured-then-recommend": {
+		"0": "afb33d38e92e03f9ce86f0175cc33e487b8def0ee25235f1e40183d1",
+		"1": "74b26596160232737854ec18cde45feff530cac762bade758bd27372"
+	},
+	"telegram-admin-handle": {
+		"0": "stakitEN"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "relay 1 eu",
+				"type": "relay",
+				"key": "example_get_own_on_adapools.org/connect"
+			},
+			"1": {
+				"name": "relay 2 usa",
+				"type": "relay",
+				"key": "example_get_own_on_adapools.org/connect"
+			},
+			"2": {
+				"name": "block producer home",
+				"type": "bp",
+				"key": "example_get_own_on_adapools.org/connect"
+			}
+		}
+	}
+}
