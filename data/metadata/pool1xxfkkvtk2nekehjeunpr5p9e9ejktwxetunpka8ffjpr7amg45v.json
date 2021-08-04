@@ -1,6 +1,7 @@
 {
 	"name": "Stellence.com",
-	"description": "Stake pool operated by Stellence DevOps consultants committed to low fees, guaranteed uptime, timely upgrades, and growing the Cardano community. Reach out with any questions. We appreciate your consideration and welcome you to stake with Stellence!",
+	"description": "Stake pool operated by Stellence DevOps consultants committed to low fees, guaranteed uptime, timely upgrades, and growing the Cardano community. Reach out with any questions. We appreciate your consideration and hope you decide to stake with Stellence!",
 	"ticker": "STEL",
-	"homepage": "https://www.stellence.com"
+	"homepage": "https://www.stellence.com",
+	"extended": "https://www.stellence.com/stellence-adapoolsorg-metadata.json"
 }

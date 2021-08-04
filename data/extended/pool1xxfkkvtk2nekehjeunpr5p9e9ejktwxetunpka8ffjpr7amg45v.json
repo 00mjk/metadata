@@ -1,0 +1,38 @@
+{
+	"info": {
+		"url_png_icon_64x64": "http(s) url to pool icon; not animated; max 40kb",
+		"url_png_logo": "http(s) url to pool logo; not animated; max 50kb",
+		"location": "Las Vegas, USA",
+		"social": {
+			"twitter_handle": "stellence",
+			"telegram_handle": "stellence",
+			"facebook_handle": "Stellence",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "stellence#9813",
+			"github_handle": "stellence"
+		},
+		"company": {
+			"name": "Stellence Corporation",
+			"addr": "3773 Howard Hughes Parkway, STE 500S",
+			"city": "Las Vegas",
+			"country": "USA",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "DevOps consultant with a passion for blockchain technology innovation",
+			"server": "Azure Dsv4-series running the Intel Xeon Platinum 8272CL (Cascade Lake) with hyper-threading",
+			"company": "Stellence Corporation is an IT consulting firm with strong experience in DevOps and blockchain development."
+		}
+	},
+	"my-pool-ids": {
+		"0": "31936b317654f36cde59e4c23a04b92e6565b8d95f261b74e94c823f"
+	},
+	"when-satured-then-recommend": {
+		"0": "d69b6b16c6a135c4157365ded9b0d772d44c7628a05b49741d3ae25c"
+	},
+	"telegram-admin-handle": {
+		"0": "stellence"
+	}
+}
