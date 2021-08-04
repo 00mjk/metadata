@@ -4,13 +4,13 @@
 		"url_png_logo": "https://img1.wsimg.com/isteam/ip/d3044e9b-ce48-45c6-89e5-82bbb7031bde/favicon/208e8929-1198-45c5-88f1-b5446c78b26b.png",
 		"location": "San-Fransisco, California",
 		"social": {
-			"twitter_handle": "",
+			"twitter_handle": "AdaRarePool",
 			"telegram_handle": "Ararepool",
 			"facebook_handle": "",
-			"youtube_handle": "",
+			"youtube_handle": "UC2_Vi4_n_jiSMLAVSCGYWjA",
 			"twitch_handle": "",
-			"discord_handle": "",
-			"github_handle": ""
+			"discord_handle": "https://discord.gg/BWATTgu2D2",
+			"github_handle": "ARARE-pool"
 		},
 		"company": {
 			"name": "ADA Rare",
@@ -31,7 +31,7 @@
 		"0": "f65731aa68706607718d140426c75cd7ac2c40703c31c325fdd46f91"
 	},
 	"telegram-admin-handle": {
-		"0": ""
+		"0": "Adarare"
 	},
 	"adapools_ext": {
 		"prometheus": {
