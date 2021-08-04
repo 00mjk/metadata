@@ -1,16 +1,18 @@
 {
 	"info": {
 		"url_png_icon_64x64": "https://quixote.systems/iconoQuixote.png",
+		"url_png_logo": "https://quixote.systems/quixoteLogo.png",
 		"location": "Toledo, Spain",
 		"social": {
 			"telegram_handle": "QuixotePool",
 			"twitter_handle": "QuixotePool",
 			"github_handle": "quixotesystems",
+			"discord_handle": "7FsEMmHC",
 			"instagram_handle": "quixotepool"
 		},
 		"about": {
 			"me": "Single Pool Operator",
-			"server": "Raspberry Pi Producer + Raspberry Pi Relay located in Toledo (Spain) with UPS and FTTx | HW configuration of each Raspberry Pi <CPU:RPi|RAM:8G|SSD:240G"
+			"server": "Raspberry Pi Producer + 2x Raspberry Pi Relays located in Toledo (Spain) with UPS and FTTx | HW configuration of each Raspberry Pi <CPU:RPi|RAM:8G|SSD:240G"
 		},
 		"my-pool-ids": {
 			"0": "351a90a0253fb3595ccc460438b9947cd8a0b9a7f457f3478bbb31d8"
