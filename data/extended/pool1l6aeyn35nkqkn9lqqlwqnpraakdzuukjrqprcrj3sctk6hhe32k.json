@@ -6,7 +6,7 @@
 		"social": {
 			"twitter_handle": "OystrPool",
 			"telegram_handle": "OYSTRPool",
-			"facebook_handle": "https://www.facebook.com/profile.php?id=100069087342732",
+			"facebook_handle": "",
 			"youtube_handle": "",
 			"twitch_handle": "",
 			"discord_handle": "",
@@ -28,7 +28,7 @@
 		"rss": ""
 	},
 	"my-pool-ids": {
-		"0": "pool1l6aeyn35nkqkn9lqqlwqnpraakdzuukjrqprcrj3sctk6hhe32k",
+		"0": "febb924e349d816997e007dc09847ded9a2e72d218023c0e5186176d",
 		"1": ""
 	},
 	"when-satured-then-recommend": {
