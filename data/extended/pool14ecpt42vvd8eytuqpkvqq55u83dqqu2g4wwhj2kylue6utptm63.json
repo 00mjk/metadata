@@ -21,8 +21,8 @@
 			"vat_id": "GB123456789"
 		},
 		"about": {
-			"me": "Career SRE, recently retired and focusing on Cardano.",
-			"server": "24x7 professionally hosted servers with regional fault tolerance.",
+			"me": "I do this because I love learning about this technology.",
+			"server": "Built on multiple VPS providers and hosted across three continents for global reliability redundancy. (This pool would survive a nuclear blast, even if I don't.)",
 			"__company": "..."
 		}
 	},
