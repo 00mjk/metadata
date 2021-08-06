@@ -1,0 +1,35 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://github.com/codanar/codanar-pool/blob/main/img/codanar-logo-64x64.png?raw=true",
+		"url_png_logo": "https://github.com/codanar/codanar-pool/blob/main/img/codanar-logo-200x200.png?raw=true",
+		"location": "Thailand",
+		"social": {
+			"twitter_handle": "codanarpool",
+			"telegram_handle": "codanarpool",
+			"facebook_handle": "",
+			"youtube_handle": "UCdKfg0Z7gYie8SkmN2BWzeA",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Codanar Pool",
+			"addr": "",
+			"city": "",
+			"country": "Thailand",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "We have a clear vision that once ADA HODLers learn the fundamentals of Cardano and its design philosophy, they will eventually understand the value of what they are actually holding in their own private keys.",
+			"server": "Our server infrastructure consists of 1 Block producer node [TW] and 2 Relay nodes [TW + SG]. All nodes use SSD persistent disk with automatic daily backup schedules.",
+			"company": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "d65467e9d63f124ed903101f82868bda6ffd39f83bc7d30de65a288f"
+	},
+	"telegram-admin-handle": {
+		"0": "codanar"
+	}
+}

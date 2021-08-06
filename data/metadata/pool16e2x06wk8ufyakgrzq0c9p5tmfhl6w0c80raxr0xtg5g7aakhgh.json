@@ -1,6 +1,7 @@
 {
 	"name": "Codanar",
-	"description": "We dedicated ourselves to offer free educational content to Thailand's Cardano community while promoting decentralization. We follow SPO's best practices for maximum availability and reliability",
+	"description": "We dedicated ourselves to offer free educational content to Thailand's Cardano community while promoting decentralization. We follow SPO's best practices for maximum security, availability and reliability.",
 	"ticker": "CDN",
-	"homepage": "https://codanar.com"
+	"homepage": "https://codanar.com",
+	"extended": "https://gist.githubusercontent.com/codanar/12a729b7d48676e1bfa70009acc8108e/raw/extended.json"
 }
