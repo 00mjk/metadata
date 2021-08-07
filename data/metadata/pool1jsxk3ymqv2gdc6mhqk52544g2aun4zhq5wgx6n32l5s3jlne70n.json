@@ -1,7 +1,7 @@
 {
 	"name": "WYAM-StakePool",
-	"description": "WYAMへようこそ！あなたと私とで共にCardanoを支え、発展させていきましょう！WYAMをどうぞよろしくお願いいたします。Welcome to WYAM! Let's support and develop Cardano together with you and me! Thank you for visiting WYAM.",
+	"description": "一歩一歩確実にをスローガンとし、カルダノネットワークの安定化に貢献します。そして委任者様の報酬を増やしていきます。We are moving forward step by step for sure.",
 	"ticker": "WYAM",
 	"homepage": "https://wyam-stakepool.com",
-	"extended": "https://raw.githubusercontent.com/WYAM-CardanoSPO/extra/main/extendedMeta.json"
+	"extended": "https://wyam-stakepool.com/wyam-extended.json"
 }

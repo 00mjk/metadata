@@ -17,13 +17,25 @@
 			"vote": "Yes",
 			"comment": "YES PLEASE! 😄"
 		},
+		"https://cips.cardano.org/cips/cip24/": {
+			"vote": "Yes"
+		},
+		"https://cips.cardano.org/cips/cip6/": {
+			"vote": "Yes"
+		},
 		"https://cips.cardano.org/cips/cip7/": {
 			"vote": "Yes"
 		},
 		"https://cips.cardano.org/cips/cip8/": {
 			"vote": "Yes"
 		},
+		"https://cips.cardano.org/cips/cip12/": {
+			"vote": "Yes"
+		},
 		"https://cips.cardano.org/cips/cip13/": {
+			"vote": "Yes"
+		},
+		"https://cips.cardano.org/cips/cip18/": {
 			"vote": "Yes"
 		},
 		"https://spovotes.com/votes/change-min-fixed-fee-to-variable/": {

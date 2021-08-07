@@ -1,6 +1,6 @@
 {
-	"name": "LEGO - From Bricks to Blocks",
-	"description": "Non-Official LEGO Stake Pool. Bring a bit of our Childhood to the Blockchain. Donating 20% of our margin fees to charities.",
+	"name": "LEGO Pool",
+	"description": "LEGOlize the Cardano Ecosystem.",
 	"ticker": "LEGO",
 	"homepage": "https://legopool.io/",
 	"extended": "https://legopool.io/pool-config.json"

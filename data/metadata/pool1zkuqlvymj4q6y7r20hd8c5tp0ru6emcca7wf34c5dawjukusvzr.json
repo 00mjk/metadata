@@ -1,6 +1,7 @@
 {
 	"name": "Techs2Help",
-	"description": "Use technology to help improve the world in a good and fair way",
+	"description": "The aim of this pool is to be able to create a system where technology can be shared around the globe and help people to achieve their projects.",
 	"ticker": "T2H",
-	"homepage": "http://www.techs2help.tk"
+	"homepage": "http://www.techs2help.ch",
+	"extended": "http://www.techs2help.ch/poolMetaData-extended.json"
 }

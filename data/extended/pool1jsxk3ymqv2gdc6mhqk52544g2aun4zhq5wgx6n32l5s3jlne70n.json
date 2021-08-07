@@ -1,12 +1,20 @@
 {
 	"info": {
-		"url_png_icon_64x64": "https://user-images.githubusercontent.com/80967103/115118054-70dbb300-9fdc-11eb-8936-d9b45ec89fa6.png",
-		"url_png_logo": "https://user-images.githubusercontent.com/80967103/115113693-847c1f00-9fc6-11eb-91bb-d4f448def9d7.png",
+		"url_png_icon_64x64": "https://wyam-stakepool.com/WYAM_icon64.png",
+		"url_png_logo": "https://wyam-stakepool.com/WYAM-Logo.png",
 		"social": {
 			"twitter_handle": "WYAM_StakePool"
 		},
 		"about": {
-			"server": "4Core CPU / 8GB RAM / 160GB SSD　VPS"
+			"me": "日本人オペレータが運営するWYAM-StakePoolです。私はシステム運用2年の経験があります。その経験をカルダノのプール運用に活かしていきたいと考えております。WYAM-StakePool is operated by a Japanese operator. I have two years of experience in system operation. I would like to apply that experience to the pool operation in Cardano.",
+			"server": "BP and Relay2: 6 vCPU Core, 16GB RAM 320GB SSD. Relay1: 6 vCPU Core, 16GB RAM 400GB SSD."
 		}
+	},
+	"my-pool-ids": {
+		"0": "940d6893606290dc6b7705a8aa56a857793a8ae0a3906d4e2afd2119",
+		"1": "pool1jsxk3ymqv2gdc6mhqk52544g2aun4zhq5wgx6n32l5s3jlne70n"
+	},
+	"when-satured-then-recommend": {
+		"0": ""
 	}
 }
