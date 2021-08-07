@@ -6,7 +6,8 @@
 		"social": {
 			"twitter_handle": "AzureADA",
 			"telegram_handle": "AzureADA",
-			"youtube_handle": "channel/UChJugsHkWSzkvxlk1AcHQMw",
+			"youtube_handle": "AzureADA",
+			"facebook_handle": "AzureADA",
 			"discord_handle": "",
 			"github_handle": ""
 		},
@@ -20,7 +21,7 @@
 		"rss": ""
 	},
 	"telegram-admin-handle": [
-		"ericlong"
+		""
 	],
 	"my-pool-ids": [
 		"dd7330d29709deb4e8dff5b49d50b174c9c884678992cca4a68d96d7",

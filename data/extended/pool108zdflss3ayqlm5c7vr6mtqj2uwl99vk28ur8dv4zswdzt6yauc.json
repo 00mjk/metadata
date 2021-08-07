@@ -10,7 +10,8 @@
 		"social": {
 			"twitter_handle": "AzureADA",
 			"telegram_handle": "AzureADA",
-			"youtube_handle": "channel/UChJugsHkWSzkvxlk1AcHQMw",
+			"youtube_handle": "AzureADA",
+			"facebook_handle": "AzureADA",
 			"discord_handle": "",
 			"github_handle": ""
 		},
@@ -18,13 +19,13 @@
 			"name": ""
 		},
 		"about": {
-			"server": "Microsoft Azure based array of at least 6 VMs distributed globally with 24/7/365 availability",
+			"server": "Microsoft Azure based array of at least 6 VMs distributed globally with 24/7/365 availability. There simply is no platform with better security and features.",
 			"company": ""
 		},
 		"rss": ""
 	},
 	"telegram-admin-handle": [
-		"ericlong"
+		""
 	],
 	"my-pool-ids": [
 		"79c4d4fe108f480fee98f307adac12571df2959651f833b595141cd1"
