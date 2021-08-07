@@ -9,9 +9,9 @@
 			"github_handle": "not-tacos"
 		},
 		"about": {
-			"me": "I am tacos. I enjoy crypto, I like non-proof-of-work blockchains, and I LOVE Cardano.",
-			"server": "Professionally hosted on pool-owned hardware in an independent datacenter with redundant 10GBps uplinks, redundant power supplies, backup generator, and round-the-clock monitoring. 2x8 Core Xeon CPU, 128GB of RAM, mirrored storage. Migrating to a Kubernetes cluster for REAL high availablity soon!",
-			"company": "Just a few friends with a bunch of ADA--and me, who has a bunch of free time and a little ADA. You don't need to worry about our whales swimming elsewhere, though; this pool was their idea, we just decided they should keep their Ada in their own wallets so they wouldn't need to sign off on all the operational transactions so we can make changes quicker."
+			"me": "I am tacos. I enjoy crypto, I like Proof of Stake blockchains, and I LOVE Cardano.",
+			"server": "Professionally hosted on pool-owned hardware in an independent datacenter with redundant 10GBps uplinks, redundant power supplies, backup generator, and round-the-clock monitoring. 2x8 Core Xeon CPU, 128GB of RAM, mirrored storage.",
+			"company": "Just a few friends with a bunch of ADA--and me, who has a bunch of free time and a bit of ADA."
 		}
 	},
 	"my-pool-ids": {
