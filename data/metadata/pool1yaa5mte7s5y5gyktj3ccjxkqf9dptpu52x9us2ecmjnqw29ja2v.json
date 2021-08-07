@@ -1,0 +1,6 @@
+{
+	"name": "RISC-V powered Stake Pool",
+	"description": "RISC-V ISA powered Stake Pool",
+	"ticker": "RV64",
+	"homepage": "https://riscv-pool.tech/"
+}
