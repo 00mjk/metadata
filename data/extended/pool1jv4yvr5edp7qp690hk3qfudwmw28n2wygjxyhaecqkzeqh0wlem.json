@@ -2,9 +2,9 @@
 	"info": {
 		"url_png_icon_64x64": "",
 		"url_png_logo": "",
-		"location": "Montreal, Quebec, Canada",
+		"location": "California",
 		"social": {
-			"twitter_handle": "",
+			"twitter_handle": "Cardano420 Stake Pool",
 			"telegram_handle": "",
 			"facebook_handle": "",
 			"youtube_handle": "",
@@ -13,7 +13,7 @@
 			"github_handle": ""
 		},
 		"company": {
-			"name": "FIXION MEDI₳",
+			"name": "Cardano420",
 			"addr": "",
 			"city": "",
 			"country": "",
@@ -27,7 +27,7 @@
 		}
 	},
 	"my-pool-ids": {
-		"0": "ffd23ba5f75e28a3cb1b095a352c5094d6589148b49329d05395cbdf"
+		"0": "eb078a3e9c17db155e43f1c261f4f25eccc774cd5acc0508d0967a37"
 	},
 	"when-satured-then-recommend": {
 		"0": "",
