@@ -1,7 +1,7 @@
 {
 	"info": {
 		"url_png_icon_64x64": "https://metadata.ada.cryptohasher.net/ext/cryptohasher-logo-square-transparent-64.png",
-		"url_png_logo": "https://metadata.ada.cryptohasher.net/ext/cryptohasher-logo.png",
+		"url_png_logo": "https://metadata.ada.cryptohasher.net/ext/cryptohasher-logo-square-transparent-64.png",
 		"location": "Zurich, Switzerland",
 		"social": {
 			"twitter_handle": "",
@@ -21,7 +21,7 @@
 			"vat_id": ""
 		},
 		"about": {
-			"me": "...",
+			"me": "",
 			"server": "Dedicated hardware in private data centers",
 			"company": "A group of crypto enthusiasts"
 		}

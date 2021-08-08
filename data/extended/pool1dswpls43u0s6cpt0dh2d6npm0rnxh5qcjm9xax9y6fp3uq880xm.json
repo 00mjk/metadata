@@ -1,6 +1,6 @@
 {
 	"info": {
-		"url_png_icon_64x64": "https://www.relaypool.com/images/logos/BG_logo.png",
+		"url_png_icon_64x64": "https://www.relaypool.com/images/logos/favi.png",
 		"url_png_logo": "https://www.relaypool.com/images/logos/logo.png",
 		"location": "Virginia, USA",
 		"social": {
@@ -17,6 +17,6 @@
 		"0": "6c1c1fc2b1e3e1ac056f6dd4dd4c3b78e66bd01896ca6e98a4d2431e"
 	},
 	"telegram-admin-handle": {
-		"0": "MVS_RELAY"
+		"0": "relaystakepool"
 	}
 }
