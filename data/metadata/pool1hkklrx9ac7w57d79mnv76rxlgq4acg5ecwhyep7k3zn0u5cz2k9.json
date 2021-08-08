@@ -1,7 +1,8 @@
 {
-	"name": "Tokyo Samurai Staking",
-	"ticker": "TSS",
-	"description": "皆様に安心してこのステークプールをご利用いただけるよう努めております。100%日本語でサポートいたしますので、不安なことなどあればいつでもご連絡下さいませ。",
-	"homepage": "https://tokyosamuraistaking.com",
-	"nonce": "1627669194"
+	"name": "AzureADA3",
+	"ticker": "AZUR3",
+	"description": "AZUR3 is the new release of a previously private offering run on the same awesome Microsoft Azure infrastructure behind the success of all of our AZUR pools. Our professional operators put the same level of time & attention into this newest sibling pool.",
+	"homepage": "https://azureada.com",
+	"nonce": "1628391440",
+	"extended": "https://azureada.com/azur3/AZUR3-Extended-Metadata.json"
 }

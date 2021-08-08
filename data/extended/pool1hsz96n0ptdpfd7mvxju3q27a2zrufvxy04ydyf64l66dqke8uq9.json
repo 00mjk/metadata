@@ -1,0 +1,23 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://proximapool.online/icon.png",
+		"url_png_logo": "https://proximapool.online/logo.png",
+		"location": "Munich, Germany",
+		"social": {
+			"twitter_handle": "proximapool",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "proximapool"
+		},
+		"about": {
+			"me": "Amila W",
+			"server": "Two relays and one block producer"
+		}
+	},
+	"my-pool-ids": {
+		"0": ""
+	}
+}
