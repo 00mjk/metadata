@@ -1,7 +1,7 @@
 {
 	"info": {
 		"url_png_icon_64x64": "https://metadata.ada.cryptohasher.net/ext/cryptohasher-logo-square-transparent-64.png",
-		"url_png_logo": "https://metadata.ada.cryptohasher.net/ext/cryptohasher-logo-square-transparent-64.png",
+		"url_png_logo": "",
 		"location": "Zurich, Switzerland",
 		"social": {
 			"twitter_handle": "",
@@ -15,15 +15,15 @@
 		"company": {
 			"name": "CryptoHasher",
 			"addr": "",
-			"city": "Zurich",
+			"city": "",
 			"country": "Switzerland",
 			"company_id": "",
 			"vat_id": ""
 		},
 		"about": {
 			"me": "",
-			"server": "Dedicated hardware in private data centers",
-			"company": "A group of crypto enthusiasts"
+			"server": "",
+			"company": ""
 		}
 	},
 	"my-pool-ids": {
