@@ -1,7 +1,7 @@
 {
 	"info": {
-		"url_png_icon_64x64": "https://cardano.2bit.nl/assets/images/2bit-logo-64.png",
-		"url_png_logo": "https://cardano.2bit.nl/assets/images/2bit-logo.png",
+		"url_png_icon_64x64": "https://www.2bit.nl/assets/images/2bit-logo-64.png",
+		"url_png_logo": "https://www.2bit.nl/assets/images/2bit-logo.png",
 		"location": "Delft, Netherlands",
 		"social": {
 			"matrix_handle": "#2bit-cardano:matrix.org"
@@ -15,8 +15,8 @@
 			"vat_id": ""
 		},
 		"about": {
-			"me": "2Bit Cardano Pool",
-			"server": "Multiple servers distributed over Europe",
+			"me": "The 2Bit Cardano Pool is a pool setup to promote decentralization and support the awesome Cardano community.",
+			"server": "We use multiple servers distributed over Europe. Mostly cloudservers untill we have more stakers and are able to grow!",
 			"company": "2Bit"
 		}
 	},
