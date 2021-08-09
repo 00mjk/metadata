@@ -2,5 +2,6 @@
 	"name": "Cardano Reserve System",
 	"description": "Dedicated to community development through funding.",
 	"ticker": "CRS",
-	"homepage": "https://www.cardanoreserve.com/"
+	"homepage": "https://www.cardanoreserve.com/",
+	"extended": "https://www.cardanoreserve.com/extended.json"
 }

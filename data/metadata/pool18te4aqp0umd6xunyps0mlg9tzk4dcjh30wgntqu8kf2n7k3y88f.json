@@ -1,0 +1,7 @@
+{
+	"name": "Atlazkoin ADA Pool",
+	"description": "This pool is part of a project to increase passive income through pos on the cardano blockchain. Also for educational purposes we donate 5% of the pool rewards among the members of the atlazkoin community.",
+	"ticker": "ADAKA",
+	"homepage": "https://atlazkoin.com/adapool/",
+	"extended": "https://raw.githubusercontent.com/dyronrh/atlazkoin.ada/main/poolMetaData-extended.json"
+}

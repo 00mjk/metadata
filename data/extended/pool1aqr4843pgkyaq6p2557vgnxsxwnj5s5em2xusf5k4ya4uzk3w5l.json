@@ -1,0 +1,37 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.peakstaking.com/peakstaking-logo64.png",
+		"url_png_logo": "https://www.peakstaking.com/peakstaking-logo.png",
+		"location": "Derbyshire, England",
+		"social": {
+			"twitter_handle": "peakstaking",
+			"telegram_handle": "peakstaking",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Peak Staking",
+			"addr": "",
+			"city": "",
+			"country": "England",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Single Pool Operator with 20yrs+ in IT. Faith filled and committed to helping others through Cardano.",
+			"server": "Secure and efficient cloud based nodes running the latest release. 2 x geo spread relays and BP node for maximum reliability and uptime.",
+			"company": "..."
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "e80753d6214589d0682aa53cc44cd033a72a4299da8dc82696a93b5e",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": "PEAKmark"
+	}
+}
