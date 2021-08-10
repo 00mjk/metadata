@@ -1,0 +1,38 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://git.io/JRazM",
+		"url_png_logo": "https://git.io/JRazM",
+		"location": "Global",
+		"social": {
+			"twitter_handle": "HodlerStaking",
+			"telegram_handle": "",
+			"facebook_handle": "Hodler-Staking-107819051538686",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Hodler Staking Services",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": "We are a group of managers, designers, and developers with a shared vision of the future. We started Hodler Staking because we believe in the transformative power that blockchain technology is going to have on ours, and our children's futures. By hosting Proof of Stake protocols that are being implemented in inclusive and ethical ways we are contributing to and accelerating the development of the very foundations of our digital tomorrow, without contributing to the destruction of our planet. This is the what keeps us hodling."
+		}
+	},
+	"my-pool-ids": {
+		"0": "cf7249855783f4ca98e0d5249da8c0c362dc1de36294f46ccc720fba"
+	},
+	"when-satured-then-recommend": {
+		"0": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	}
+}

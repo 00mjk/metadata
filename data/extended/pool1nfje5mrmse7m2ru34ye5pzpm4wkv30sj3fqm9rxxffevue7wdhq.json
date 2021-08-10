@@ -1,0 +1,13 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://simplicity-ada.github.io/logo-64x64.png",
+		"url_png_logo": "https://simplicity-ada.github.io/logo-196x196.png",
+		"location": "London",
+		"social": {
+			"github_handle": "simplicity-ada"
+		},
+		"about": {
+			"me": "I am a freelance full stack software engineer specialising in cloud computing with 20 years experience. My clients include big companies such as Fidelity, Just Eat, HCL as well as the UK government. I also had adventures in launching my own cryptocurrency and decentralised application."
+		}
+	}
+}
