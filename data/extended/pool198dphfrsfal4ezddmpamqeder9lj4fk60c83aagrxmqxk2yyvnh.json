@@ -1,0 +1,38 @@
+{
+	"info": {
+		"location": "USA",
+		"social": {
+			"twitter_handle": "@Signlpool",
+			"telegram_handle": "adapools_ops",
+			"facebook_handle": "",
+			"youtube_handle": "Steve [SIGNL]",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "signladmin"
+		},
+		"about": {
+			"me": "A single pool operator focusing on decentralization and low power consumption.",
+			"server": "Raspberry Pi based pool. Under 40 watts total. We will expand relays as we grow."
+		}
+	},
+	"my-pool-ids": {
+		"0": "29da1ba4704f7f5c89add87bb065b9197f2aa6da7e0f1ef50336c06b"
+	},
+	"telegram-admin-handle": {
+		"0": "Steve [SIGNL]"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "Pi Relay 1",
+				"type": "relay",
+				"key": "eed29c6afccb27f568459e35643a7acd"
+			},
+			"1": {
+				"name": "Block Producer Pi",
+				"type": "bp",
+				"key": "3cf49188400411b598c3f4a26f5a7bc2"
+			}
+		}
+	}
+}
