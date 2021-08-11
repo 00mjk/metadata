@@ -14,7 +14,7 @@
 			"github_handle": ""
 		},
 		"about": {
-			"me": "Stoic Pool - Vice & Virtue",
+			"me": "August Rewards Giveaway! - Delegators Get Fixed Fee As Bonus Rewards!",
 			"server": "Hosted at my Home in London 100% Uptime"
 		},
 		"rss": "http(s) url to valid RSS feed"
@@ -42,6 +42,11 @@
 				"type": "bp",
 				"key": "5611dea364b308056a76e942eb1b7b3e"
 			}
+		}
+	},
+	"votes": {
+		"https://cips.cardano.org/cips/cip7/": {
+			"vote": "Yes"
 		}
 	}
 }
