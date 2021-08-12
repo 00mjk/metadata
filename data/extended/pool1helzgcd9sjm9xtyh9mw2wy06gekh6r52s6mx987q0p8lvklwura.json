@@ -2,7 +2,7 @@
 	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
 	"info": {
 		"url_png_icon_64x64": "https://shamrock-pool.com/newimages/favicon-64x64.png",
-		"url_png_logo": "https://shamrock-pool.com/newimages/shamrock.png",
+		"url_png_logo": "https://poolpeek.com/static/media/shamrock.f98b92d5.png",
 		"location": "Ireland",
 		"social": {
 			"twitter_handle": "@PoolShamrock",
