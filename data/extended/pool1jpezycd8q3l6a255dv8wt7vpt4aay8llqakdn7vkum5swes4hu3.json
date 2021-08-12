@@ -1,0 +1,39 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "http(s) url to pool icon; not animated; max 40kb",
+		"url_png_logo": "https://texasstakehouse.com/wp-content/uploads/2020/08/TexasStakeHouseClearBackground.png",
+		"location": "Dallas, Texas",
+		"social": {
+			"twitter_handle": "https://twitter.com/TexasStakeHouse",
+			"telegram_handle": "https://t.me/TexasStakeHouse",
+			"facebook_handle": "https://www.facebook.com/TexasStakeHouse",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Texas StakeHouse",
+			"addr": "",
+			"city": "Dallas",
+			"country": "Texas",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Our operation started late in 2019, in the Heart of Texas the journey in the early days was mostly trial, error, perseverance and ambition.",
+			"server": "The Servers are a Combination of Bare Metal and Cloud services, Some based in Texas and Others on Each Coast of the United States for Maximum Uptime.",
+			"company": "..."
+		}
+	},
+	"my-pool-ids": {
+		"0": "90722261a7047faeaa946b0ee5f9815d7bd21fff076cd9f996e6e907"
+	},
+	"when-satured-then-recommend": {
+		"0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735"
+	},
+	"telegram-admin-handle": {
+		"0": "your_tg_handle"
+	}
+}
