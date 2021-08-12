@@ -6,7 +6,7 @@
 		"social": {
 			"twitter_handle": "",
 			"telegram_handle": "",
-			"facebook_handle": "",
+			"facebook_handle": "FixionCardanoStakePool",
 			"youtube_handle": "",
 			"twitch_handle": "",
 			"discord_handle": "",
@@ -14,9 +14,9 @@
 		},
 		"company": {
 			"name": "FIXION MEDI₳",
-			"addr": "",
-			"city": "",
-			"country": "",
+			"addr": "322-43 Samson",
+			"city": "Laval, Quebec H7X 3R8",
+			"country": "Canada",
 			"company_id": "",
 			"vat_id": ""
 		},
