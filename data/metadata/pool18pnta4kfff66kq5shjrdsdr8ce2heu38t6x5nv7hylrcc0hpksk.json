@@ -1,6 +1,7 @@
 {
 	"name": "SOUL Cardano Pool",
-	"description": "We at Cloudboom, support and develop on top of the Cardano blockchain platform.",
+	"description": "High pledge, dedication and responsibility. Gain massive passive income and support fair, new age economics. Pool managed by IT experts 24/7/365. Low, reasonable fees support network development.",
 	"ticker": "SOUL",
-	"homepage": "https://cloudboom.io"
+	"homepage": "https://cloudboom.io",
+	"extended": "https://cloudboom.io/soul-extra.json"
 }
