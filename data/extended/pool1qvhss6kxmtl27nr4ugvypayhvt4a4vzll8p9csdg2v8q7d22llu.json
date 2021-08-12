@@ -17,7 +17,7 @@
 		},
 		"about": {
 			"me": "Ad Astra Stake Pool strives to be a valuable member of the Cardano stake pool community by minting blocks, helping others to start pools, and making educational videos on our YouTube channel. We would be very happy to be your Cardano stake pool of choice.",
-			"server": "Our stake pool consists of 4 nodes: 1 block producing node, 2 relays, and 1 back-up block producer. Each node has 4 CPUs, 8GB of RAM, 8GB SWAP, 100% SSD storage, and 99.99% server uptime. Our nodes can easily be upgraded to higher specs as the protocol demands.",
+			"server": "Our stake pool consists of 4 nodes: 1 block producing node, 2 relays, and 1 back-up block producer. Each node has 4 CPUs, 16GB of RAM, 8GB SWAP, 100% SSD storage, and 99.99% server uptime. Our nodes can easily be upgraded to higher specs as the protocol demands.",
 			"company": "Established in June 2020, our Cardano stake pool has been around since the mainnet launch. We're very proud to be part of the wider stake pool community. In our spare time, we like to create educational YouTube content highlighting positive aspects of Cardano."
 		}
 	}
