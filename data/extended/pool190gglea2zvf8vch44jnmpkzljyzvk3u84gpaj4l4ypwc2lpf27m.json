@@ -4,8 +4,8 @@
 		"url_png_logo": "https://oznode.ddns.net/img/oznode_logo.png",
 		"location": "New South Wales, Australia",
 		"social": {
-			"twitter_handle": "",
-			"telegram_handle": "xevrac_",
+			"twitter_handle": "OzNode_",
+			"telegram_handle": "xevrac",
 			"facebook_handle": "",
 			"youtube_handle": "",
 			"twitch_handle": "",
@@ -21,15 +21,15 @@
 			"vat_id": ""
 		},
 		"about": {
-			"me": "Experience in multiple fields such as INT, ICT, IST, and Telecommunications. (DevOps and other Operational Tasks)",
-			"server": "Aptly named OzNode, built for Australian's by Australians. For more information please visit our website.",
-			"company": "OzNode"
+			"me": "This is OzNode. A bleeding edge blockchain technology based community awareness project, hosted in AU.",
+			"server": "Our network infrastructure has been fully developed in-house. From the robust bare-metal servers we administrate, to our website. It's been built from the ground up; no middle man whatsoever.",
+			"company": ""
 		},
 		"my-pool-ids": {
 			"0": "2bd08fe7aa13127662f5aca7b0d85f9104cb4787aa03d957f5205d85"
 		},
 		"telegram-admin-handle": {
-			"0": "xevrac_"
+			"0": "xevrac"
 		},
 		"adapools_ext": {
 			"prometheus": {
@@ -39,6 +39,11 @@
 					"key": "oznode.ddns.net:3001"
 				},
 				"1": {
+					"name": "OzNode Relay - Partner",
+					"type": "relay",
+					"key": "aps2-1.adrawnarrow.io:6000"
+				},
+				"2": {
 					"name": "OzNode",
 					"type": "bp",
 					"key": "oznode.ddns.net:6000"

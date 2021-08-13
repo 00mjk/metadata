@@ -1,0 +1,16 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://tygar-pool.com/Logo_Small.png",
+		"url_png_logo": "https://tygar-pool.com/Logo_Large.png",
+		"location": "Detroit, Michigan",
+		"social": {
+			"telegram_handle": "tygar_pool"
+		}
+	},
+	"my-pool-ids": {
+		"0": "f8e64037e3917cd7cb94969a5374e11b9e6c939b4b69118a8eb4509f"
+	},
+	"telegram-admin-handle": {
+		"0": "tygar_pool"
+	}
+}

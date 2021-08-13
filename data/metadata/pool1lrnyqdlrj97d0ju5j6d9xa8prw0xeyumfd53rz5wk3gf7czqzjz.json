@@ -3,5 +3,6 @@
 	"ticker": "TYGAR",
 	"description": "Secure, reliable, made in Detroit. Stake with us!",
 	"homepage": "https://tygar-pool.com",
-	"nonce": "1613080394"
+	"nonce": "1613080394",
+	"extended": "https://tygar-pool.com/extendedmeta.json"
 }
