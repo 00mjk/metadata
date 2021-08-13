@@ -1,0 +1,21 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://blockswell.com/WELL_icon64x64.png",
+		"url_png_logo": "https://blockswell.com/WELLtaglogo.png",
+		"location": "USA",
+		"social": {
+			"twitter_handle": "blocksWELLpool",
+			"telegram_handle": "BlocksWell"
+		},
+		"about": {
+			"me": "Single Pool Operator",
+			"server": "Bare Metal + Cloud with redundant node architecture."
+		}
+	},
+	"my-pool-ids": {
+		"0": "188d429c9e1b559b3ed53529ec4cc948d72e4a8f2e5849523bb789d9"
+	},
+	"when-satured-then-recommend": {
+		"0": "Another single operated pool!"
+	}
+}

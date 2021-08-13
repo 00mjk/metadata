@@ -1,6 +1,7 @@
 {
 	"name": "SAKURA ADA POOL",
-	"description": "We strive to maximise your return on stake. 皆様のステーキングに貢献できるようプール運営を頑張ります!",
+	"description": "コロナ治療薬の研究開発を支援するステークプールです。SAK is the stake pool of JAPAN,which supports the research and development of COVID-19 therapeutic.",
 	"ticker": "SAK",
-	"homepage": "https://twitter.com/sakuraadapool"
+	"homepage": "https://twitter.com/sakuraadapool",
+	"extended": "https://git.io/JRQvj"
 }

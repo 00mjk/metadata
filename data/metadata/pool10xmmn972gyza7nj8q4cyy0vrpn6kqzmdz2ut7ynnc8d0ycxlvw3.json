@@ -1,6 +1,7 @@
 {
 	"name": "Mate",
-	"description": "Mate —come and join a reliable, affordable and worry-free staking partner. Join the club, and share some :mate:.",
+	"description": "A reliable and affordable staking partner, mate. Join the club, relax, and share some 🧉 with other ADA fans. Visit our website to learn more about our initiatives to help digital workers in countries with unstable fiat currencies! Est. August 2021.",
 	"ticker": "MATE",
-	"homepage": "https://www.mateada.club"
+	"homepage": "https://www.mateada.club",
+	"extended": "https://www.mateada.club/extended-meta.json"
 }

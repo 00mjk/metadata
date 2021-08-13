@@ -1,6 +1,7 @@
 {
 	"name": "BlocksWell",
-	"description": "A secure, reliable, and independent stake pool with fair fees.",
+	"description": "BlocksWell is an independent stake pool operating in the USA. We offer stable staking rewards with our secure and redundant node architecture. Staking done [WELL].",
 	"ticker": "WELL",
-	"homepage": "https://blockswell.com"
+	"homepage": "https://blockswell.com",
+	"extended": "https://blockswell.com/ext_meta.json"
 }
