@@ -1,8 +1,8 @@
 {
 	"how-to-implement": "f4eaa4cd07e7cf0f06b208f4524b78c9 in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
 	"info": {
-		"url_png_icon_64x64": "https://raw.githubusercontent.com/eltontay/mlnsStakingPool/main/mlnsIcon.png",
-		"url_png_logo": "https://raw.githubusercontent.com/eltontay/mlnsStakingPool/main/mlnsLogo.png",
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/eltontay/wottlenftstakingpool/main/WOTicon.png",
+		"url_png_logo": "https://raw.githubusercontent.com/eltontay/wottlenftstakingpool/main/WOTlogo.png",
 		"location": "Singapore, Singapore",
 		"social": {
 			"twitter_handle": "wottlenft",
