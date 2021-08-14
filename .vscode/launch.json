@@ -6,14 +6,14 @@
 			"cwd": "scripts",
 			"request": "launch",
 			"type": "dart",
-			"program": "scripts/bin/download_metadata.dart"
+			"program": "bin/download_metadata.dart"
 		},
 		{
 			"name": "Download Extended Metadata Only",
 			"cwd": "scripts",
 			"request": "launch",
 			"type": "dart",
-			"program": "scripts/bin/download_metadata.dart",
+			"program": "bin/download_metadata.dart",
 			"args": [
 				"--extended-only"
 			],
