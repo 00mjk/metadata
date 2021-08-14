@@ -25,6 +25,7 @@ Future<void> main(List<String> args) async {
 
   // Fetch the metadata files and store them.
   await runConcurrently(poolIds, (poolId) async {
+    String? extendedUrl;
     try {
       final metadataFile = File('../data/metadata/$poolId.json');
       final extendedFile = File('../data/extended/$poolId.json');
@@ -42,7 +43,7 @@ Future<void> main(List<String> args) async {
         metadataFile.writeAsStringSync(jsonEncode(metadata));
       }
 
-      final extendedUrl = metadata['extended'] as String?;
+      extendedUrl = metadata['extended'] as String?;
       if (extendedUrl != null) {
         final uri = Uri.tryParse(extendedUrl.trim());
         if (uri != null && uri.isAbsolute) {
@@ -51,7 +52,7 @@ Future<void> main(List<String> args) async {
         }
       }
     } catch (e) {
-      trace('Failed to fetch metadata for $poolId: $e');
+      trace('Failed to fetch metadata for $poolId ${extendedUrl ?? ''}: $e');
     }
   });
 
