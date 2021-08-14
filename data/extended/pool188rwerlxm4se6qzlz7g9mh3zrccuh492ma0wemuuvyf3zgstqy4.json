@@ -2,7 +2,7 @@
 	"info": {
 		"url_png_icon_64x64": "https://poolhome.zlatkoportfolio.com/logostake.png",
 		"url_png_logo": "https://poolhome.zlatkoportfolio.com/logostake.png",
-		"location": "London, England",
+		"location": "Copenhagen, Denmark",
 		"social": {
 			"telegram_handle": "https://t.me/OneEquity",
 			"twitter_handle": "OneequityP",
@@ -12,8 +12,8 @@
 			"name": "One Equity"
 		},
 		"about": {
-			"me": "A team dedicated to balancing out the network. We strive to be eye-to-eye with our delegators. In the process we try to establish a community. You no longer have to be alone in the world of Cardano and Ada, let alone Crypto. We offer way more than just staking-pools. Fee will be put up to 1% after 1m total stake.",
-			"server": "99.98% uptime from reliable hosts."
+			"me": "Competent team dedicated to balancing Cardano. We strive to be eye-to-eye with our delegators, establishing a thriving community. Aiming to offer our full range of services to our delegators. We offer more than just being and operating a staking pool. Fee will be put up to 1% after 1m total stake.",
+			"server": "99.98% uptime guaranteed from host."
 		}
 	},
 	"my-pool-ids": {
