@@ -57,5 +57,11 @@
 				"key": ""
 			}
 		}
+	},
+	"votes": {
+		"https://cips.cardano.org/cips/cip23/": {
+			"vote": "Yes",
+			"comment": "Level the playing field for small operators!"
+		}
 	}
 }
