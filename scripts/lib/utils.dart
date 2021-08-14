@@ -41,7 +41,7 @@ void trace(String message) {
 }
 
 void traceFetch(Uri uri) {
-  trace('Fetching $uri...');
+  // trace('Fetching $uri...');
 }
 
 /// Similar to Future.wait() but processes in buckets of [concurrency] to avoid
