@@ -1,0 +1,30 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://nuke-metadata.stakepool.cloud/nukeicon.png",
+		"url_png_logo": "https://nuke-metadata.stakepool.cloud/nukelogo.png",
+		"location": "Metaverse",
+		"social": {
+			"twitter_handle": "nuclearstake",
+			"telegram_handle": "nuclearstake",
+			"facebook_handle": "nuclearstake",
+			"instagram_handle": "nuclearstake",
+			"youtube_handle": "nuclearstake",
+			"discord_handle": "nuclearstake",
+			"github_handle": "nuclearstake"
+		},
+		"company": {
+			"name": "Nuclear Stake",
+			"addr": "Metaverse",
+			"city": "ADA City",
+			"country": "Cardano Blockchain",
+			"company_id": "16288192621",
+			"vat_id": "16288192622"
+		}
+	},
+	"my-pool-ids": {
+		"0": "d114d9973ec39fe72f23411661c740f91a9cfbb22a8d7650b9d04591"
+	},
+	"telegram-admin-handle": {
+		"0": "nuclearstake"
+	}
+}

@@ -1,0 +1,31 @@
+{
+	"url_png_icon_64x64": "https://cryptoland.club/website/assets/images/icon.ico",
+	"url_png_logo": "https://cryptoland.club/website/assets/images/crypto_land_logo.png",
+	"location": "Worldwide",
+	"social": {
+		"facebook_handle": "https://www.facebook.com/crypto.land.club",
+		"instagram_handle": "crypto.land.club"
+	},
+	"company": {
+		"name": "Crypto Land Club",
+		"addr": "",
+		"city": "",
+		"country": "",
+		"company_id": "",
+		"vat_id": ""
+	},
+	"about": {
+		"me": "We are an experince software and system engineers to have passion to crypto currency.",
+		"server": "We host our staking pool on digital ocean cloud solution.",
+		"company": "Crypto Land is a highly performant and resilient staking pools. Get started with Crypto Land for consistent staking rewards backed by reliable and secure infrastructure."
+	},
+	"my-pool-ids": {
+		"0": "1e11aa035ba914ea966f9b254f3cc9ec6f02747ba2e539f364a9b718"
+	},
+	"when-satured-then-recommend": {
+		"0": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	}
+}
