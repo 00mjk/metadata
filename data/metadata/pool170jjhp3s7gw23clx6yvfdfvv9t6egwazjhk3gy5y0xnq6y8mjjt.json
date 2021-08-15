@@ -2,5 +2,6 @@
 	"name": "Calva Group",
 	"description": "Calva Group Stake Pool",
 	"ticker": "CALVA",
-	"homepage": "https://calvagroup.net"
+	"homepage": "https://calvagroup.net",
+	"extended": "https://raw.githubusercontent.com/CalvaGroup/calva-stake-pool/main/extended-meta.json"
 }
