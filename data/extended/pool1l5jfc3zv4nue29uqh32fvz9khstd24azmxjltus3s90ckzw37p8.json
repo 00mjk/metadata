@@ -1,0 +1,33 @@
+{
+	"info": {
+		"url_png_icon_64x64": "",
+		"url_png_logo": "",
+		"location": "Stockholm, Sweden",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Poolaris",
+			"addr": "",
+			"city": "Stockholm",
+			"country": "SE",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Single pool operater from Stockholm. The goal is to expand the cardano network and fund grassroot anti poaching and wildlife conservation organisations in Africa.",
+			"server": "Two machines at Digigal Ocean, full power.",
+			"company": ""
+		},
+		"my-pool-ids": {
+			"0": "pool1l5jfc3zv4nue29uqh32fvz9khstd24azmxjltus3s90ckzw37p8",
+			"1": ""
+		}
+	}
+}

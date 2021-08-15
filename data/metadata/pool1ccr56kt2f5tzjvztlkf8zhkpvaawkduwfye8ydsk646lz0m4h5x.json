@@ -1,7 +1,7 @@
 {
 	"name": "Apolo Stake Pool",
 	"ticker": "APOLO",
-	"description": "Argentina based stake pool - Growing the Cardano ecosystem in South America",
+	"description": "Argentina and Brasil based stake pool - Growing the Cardano ecosystem in South America",
 	"homepage": "https://apolostakepool.com",
 	"extended": "https://raw.githubusercontent.com/apolo88/ac/t/extend.json"
 }

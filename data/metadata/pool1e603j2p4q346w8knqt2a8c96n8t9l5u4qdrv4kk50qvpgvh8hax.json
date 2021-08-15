@@ -1,6 +1,8 @@
 {
 	"name": "HOLA Stake Pool",
-	"description": "A Stake Pool from Canada, Alberta! Low-fee, Always Available and Secure!",
 	"ticker": "HOLA",
-	"homepage": "https://holastakepool.com"
+	"description": "A Stake Pool from Alberta, Canada! Low-fee, Always Available and Secure!",
+	"homepage": "https://holastakepool.com",
+	"nonce": "1628973883",
+	"extended": "https://holastakepool.com/MetaData-extended.json"
 }

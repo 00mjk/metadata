@@ -1,6 +1,7 @@
 {
 	"name": "Poolaris",
-	"description": "The guiding star",
+	"description": "The Anti Poaching and Wildlife Conservation Pool",
 	"ticker": "PLRS",
-	"homepage": "http://www.poolaris.org"
+	"homepage": "http://www.poolaris.org",
+	"extended": "https://gist.githubusercontent.com/nullpart/c4e250536a747178206a47e322165bf1/raw/743aaa973be84a51b6c0dfea69c2fc62053647e9/extended.json"
 }
