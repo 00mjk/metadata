@@ -26,6 +26,10 @@
 		}
 	},
 	"votes": {
+		"https://spovotes.com/votes/change-min-fixed-fee-to-variable/": {
+			"vote": "Yes",
+			"comment": "#LevelingThePlayingField #PushingPowerToTheEdges #Decentralization!"
+		},
 		"https://cips.cardano.org/cips/cip23/": {
 			"vote": "Yes",
 			"comment": "#PushingPowerToTheEdges!"
