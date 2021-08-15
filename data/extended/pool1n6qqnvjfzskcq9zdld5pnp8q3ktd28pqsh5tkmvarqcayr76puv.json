@@ -21,7 +21,7 @@
 			"vat_id": "GB123456789"
 		},
 		"about": {
-			"me": "ASTOR's main focus is to provide high quality multiarch Docker images. We donate 100% of the pool's margin to charity and reward loyal delegators through monthly dividends.",
+			"me": "ASTOR's main focus is to provide high quality multiarch Docker images. We donate 100% of the pool's margin to charity and reward loyal delegators through monthly payouts.",
 			"server": "Relay: Intel, 4 CPU, 8GB RAM, 200 Mbit/s, Docker. Block Producer: ARM64, 4 CPU, 8GB RAM, 200 Mbit/s, Docker.",
 			"_company": "..."
 		},
