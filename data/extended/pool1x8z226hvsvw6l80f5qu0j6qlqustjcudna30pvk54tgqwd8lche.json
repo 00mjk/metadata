@@ -4,8 +4,8 @@
 		"url_png_logo": "https://github.com/cyberadvising/PoolData/blob/main/template.png?raw=true",
 		"location": "Italy",
 		"social": {
-			"twitter_handle": "EverestPool",
-			"telegram_handle": "EverestPool",
+			"twitter_handle": "everestpool",
+			"telegram_handle": "everestpool",
 			"facebook_handle": "",
 			"youtube_handle": "",
 			"twitch_handle": "",
@@ -13,10 +13,10 @@
 			"github_handle": ""
 		},
 		"company": {
-			"name": "",
+			"name": "everestpool",
 			"addr": "",
-			"city": "",
-			"country": "",
+			"city": "Barletta",
+			"country": "IT",
 			"company_id": "",
 			"vat_id": ""
 		},
