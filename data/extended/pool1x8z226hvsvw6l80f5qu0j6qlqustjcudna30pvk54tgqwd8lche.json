@@ -1,7 +1,7 @@
 {
 	"info": {
-		"url_png_icon_64x64": "https://github.com/cyberadvising/PoolData/blob/main/template.png?raw=true",
-		"url_png_logo": "https://github.com/cyberadvising/PoolData/blob/main/template.png?raw=true",
+		"url_png_icon_64x64": "https://github.com/cyberadvising/PoolData/blob/main/lg.jpg?raw=true",
+		"url_png_logo": "https://github.com/cyberadvising/PoolData/blob/main/lg.jpg?raw=true",
 		"location": "Italy",
 		"social": {
 			"twitter_handle": "everestpool",
@@ -13,15 +13,15 @@
 			"github_handle": ""
 		},
 		"company": {
-			"name": "everestpool",
+			"name": "Everest Stake Pool",
 			"addr": "",
-			"city": "Barletta",
+			"city": "",
 			"country": "IT",
 			"company_id": "",
 			"vat_id": ""
 		},
 		"about": {
-			"me": "Everest Stake Pool Help make the world a better place by staking your ADA with Major Pool.",
+			"me": "Everest Stake Pool Help make the world a better place by staking your ADA with Everest.",
 			"server": "VDS Stake Pool",
 			"company": ""
 		},
