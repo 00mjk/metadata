@@ -1,7 +1,7 @@
 {
 	"info": {
-		"url_png_icon_64x64": "",
-		"url_png_logo": "",
+		"url_png_icon_64x64": "https://www.adaape.com/images",
+		"url_png_logo": "https://www.adaape.com/images",
 		"location": "Addis Ababa",
 		"social": {
 			"twitter_handle": "TheADAApe",
