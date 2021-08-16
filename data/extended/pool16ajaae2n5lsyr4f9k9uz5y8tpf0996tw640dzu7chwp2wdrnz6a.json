@@ -1,0 +1,40 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://public.bladepool.com/64_64.png",
+		"url_png_logo": "https://public.bladepool.com/620_620.png",
+		"location": "New York, United States of America",
+		"social": {
+			"twitter_handle": "conraddit",
+			"telegram_handle": "conraddit",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "conrad",
+			"github_handle": "conraddit"
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "CONRAD! AKA conraddit. Single owner pool. 0% Fee.",
+			"server": "Cloud-based relays, distributed worldwide. Secured behind multiple firewalls.",
+			"company": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "pool16ajaae2n5lsyr4f9k9uz5y8tpf0996tw640dzu7chwp2wdrnz6a",
+		"1": "d765dee553a7e041d525b1782a10eb0a5e52e96ed55ed173d8bb82a7"
+	},
+	"when-satured-then-recommend": {
+		"0": "pool18j287g2sccele52hhxc0csk2ghfghwndqm9yahdqnhjks840wtq",
+		"1": "3c947f2150c633fcd157b9b0fc42ca45d28bba6d06ca4edda09de568"
+	},
+	"telegram-admin-handle": {
+		"0": "conraddit"
+	}
+}

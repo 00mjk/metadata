@@ -1,6 +1,7 @@
 {
-	"name": "BLADE Staking Pool",
-	"description": "Staking as One",
+	"name": "BLADE Pool",
+	"description": "0%-Fee Pool",
 	"ticker": "BLADE",
-	"homepage": "https://bladestaking.com"
+	"homepage": "https://bladepool.com",
+	"extended": "https://public.bladepool.com/extended.json"
 }

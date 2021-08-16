@@ -2,5 +2,6 @@
 	"name": "Orion Pool",
 	"description": "Orion is dedicated to provide a website with analytics about cardano native tokens and smart contracts.",
 	"ticker": "ORION",
-	"homepage": "https://www.orion-pool.com"
+	"homepage": "https://www.orion-pool.com",
+	"extended": "https://www.orion-pool.com/orion.extended-metadata.json"
 }

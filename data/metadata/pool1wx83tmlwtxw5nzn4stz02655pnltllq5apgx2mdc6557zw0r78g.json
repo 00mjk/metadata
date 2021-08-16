@@ -1,6 +1,7 @@
 {
 	"name": "Hippo Pool",
-	"description": "Stay cool with the Hippo team",
+	"description": "Come in, Relax and Earn a max",
 	"ticker": "HIPPO",
-	"homepage": "https://hippo-pool.com"
+	"homepage": "https://hippo-pool.com",
+	"extended": "https://hippo-pool.com/meta/hippo-meta-extended.json"
 }

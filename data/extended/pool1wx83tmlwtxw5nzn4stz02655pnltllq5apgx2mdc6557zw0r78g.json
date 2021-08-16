@@ -1,0 +1,20 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://hippo-pool.com/images/hippo-pool-icon.png",
+		"url_png_logo": "https://hippo-pool.com/images/hippo-pool-logo.png",
+		"location": "Namur, Belgium",
+		"social": {
+			"twitter_handle": "HippoStake"
+		},
+		"about": {
+			"me": "Shape a better future through decentralization of the Cardano Network. Fix the existing one through charity.",
+			"server": "Hosted in a green datacenter in Europe on virtual private servers with 16GB RAM, 2 vCPUs. Infrastructure is a family business."
+		}
+	},
+	"my-pool-ids": {
+		"0": "718f15efee599d498a7582c4f56a940cfebffc14e850656db8d529e1"
+	},
+	"telegram-admin-handle": {
+		"0": "hippopool"
+	}
+}

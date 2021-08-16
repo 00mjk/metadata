@@ -1,7 +1,5 @@
 {
 	"info": {
-		"url_png_icon_64x64": "https://BingoPool.Online/bingo64.png",
-		"url_png_logo": "https://BingoPool.Online/bingo.png",
 		"social": {},
 		"company": {},
 		"about": {}
@@ -9,6 +7,5 @@
 	"telegram-admin-handle": [],
 	"my-pool-ids": [
 		"0bcac2089ce5849bbb1e29293c5ae2b0ec29004975ccb5e772f2df63"
-	],
-	"when-satured-then-recommend": []
+	]
 }
