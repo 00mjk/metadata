@@ -26,5 +26,10 @@
 				"key": "5e16cdd587609b3c048bcaa8bceab5fa"
 			}
 		}
+	},
+	"votes": {
+		"https://cips.cardano.org/cips/cip23/": {
+			"vote": "yes"
+		}
 	}
 }
