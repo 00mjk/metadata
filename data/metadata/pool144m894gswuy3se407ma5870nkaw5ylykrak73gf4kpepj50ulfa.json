@@ -1,7 +1,7 @@
 {
-	"name": "Apool",
-	"ticker": "APOOL",
-	"description": "A single, bare metal pool with academic vision, on a mission to educate the world about Cardano.",
+	"name": "Academia",
+	"description": "Bare metal pool that supports development of Academia project on Cardano blockchain.",
+	"ticker": "ACL",
 	"homepage": "https://apool.online",
-	"extended": "https://data.pooltool.io/md/b1eb1bf4-4646-480e-89b4-dfa964e1cbf2"
+	"extended": "https://data.pooltool.io/md/cad7646b-e4f0-44e5-b320-a177f6e8d439"
 }

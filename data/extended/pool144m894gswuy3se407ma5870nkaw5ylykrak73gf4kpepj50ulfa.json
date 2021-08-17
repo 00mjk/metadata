@@ -1,6 +1,7 @@
 {
-	"itn": {
-		"owner": "ed25519_pk1f04qdgkkmvpuv8nyn86duhjn59s87jvt3rvefmtpvmafmfszqtksuxjpm8",
-		"witness": "ed25519_sig1n94gw9j8fphhym6p236t2sav4zxe437xdrgmljp62nculp5dtxf8errdppytrj3lzue29ejqe7ahdm6qlu7cn7066h74jc0crcpwcpsas5vm2"
-	}
+	"name": "Ambassador Pool",
+	"ticker": "APOOL",
+	"description": "Ambassador pool is operated by official Cardano Ambassador. We are running on bare-metal servers with best performance for your maximised reward.",
+	"homepage": "https://apool.online",
+	"extended": "https://data.pooltool.io/md/0016caae-4f74-4a44-9c47-9d90a7a33a34"
 }
