@@ -1,0 +1,49 @@
+{
+	"how-to-implement": "",
+	"info": {
+		"url_png_icon_64x64": "https://tespool.online/assets/images/favicon.png",
+		"url_png_logo": "https://URL-to-my/logo.png",
+		"location": "",
+		"social": {
+			"twitter_handle": "tespool",
+			"telegram_handle": "tespool",
+			"facebook_handle": "TesPool-742857249789871",
+			"youtube_handle": "UC8S6fUC7kGtUFmlm3SAM0MQ",
+			"twitch_handle": "TesPool | Ada Staking Pool",
+			"discord_handle": "TesPool | Ada Staking Pool",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "TesPool",
+			"addr": "Bustos 440",
+			"city": "Resistencia",
+			"country": "Argentina",
+			"company_id": "TesPool Cardano Staking Pool",
+			"vat_id": "20348994205"
+		},
+		"about": {
+			"me": "We are an entrepreneur team of Software Engineers, Cybersecurity specialists and Finance Consultant dedicated to maintain best performance of our pool.",
+			"server": "My server info",
+			"company": "TesPool - Independent pool operator"
+		},
+		"rss": ""
+	},
+	"my-pool-ids": [
+		""
+	],
+	"when-satured-then-recommend": [
+		""
+	],
+	"telegram-admin-handle": [
+		""
+	],
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "my node",
+				"type": "relay",
+				"key": ""
+			}
+		}
+	}
+}
