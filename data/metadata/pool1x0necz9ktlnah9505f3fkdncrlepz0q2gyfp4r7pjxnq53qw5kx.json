@@ -2,5 +2,6 @@
 	"name": "MEGA Stake Pool",
 	"description": "[M]aking [E]verything [G]reater with [A]DA! Low 1% fee so that you get the best return on your stake. 3 high-performance international relay servers for redundancy. Come join us and let's earn amazing rewards together!",
 	"ticker": "MEGA",
-	"homepage": "https://megastakepool.com"
+	"homepage": "https://megastakepool.com",
+	"extended": "https://megastakepool.com/extendedMetaData.json"
 }

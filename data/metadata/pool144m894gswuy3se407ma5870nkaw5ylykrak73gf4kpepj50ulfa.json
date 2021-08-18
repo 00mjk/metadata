@@ -1,7 +1,7 @@
 {
-	"name": "Academia",
-	"description": "Bare metal pool that supports development of Academia project on Cardano blockchain.",
-	"ticker": "ACL",
-	"homepage": "https://apool.online",
+	"name": "Blockademia",
+	"description": "Bare metal pool that supports development of Blockademia project on Cardano blockchain.",
+	"ticker": "ACI",
+	"homepage": "www.pool.blockademia.com",
 	"extended": "https://data.pooltool.io/md/cad7646b-e4f0-44e5-b320-a177f6e8d439"
 }

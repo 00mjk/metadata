@@ -1,0 +1,18 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://megastakepool.com/icon.png",
+		"url_png_logo": "https://megastakepool.com/logo.png",
+		"social": {
+			"twitter_handle": "MEGAstakepool",
+			"telegram_handle": "MEGAstakepool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"my-pool-ids": {
+			"0": "33e79c08b65fe7db968fa2629b36781ff2113c0a41121a8fc191a60a"
+		}
+	}
+}
