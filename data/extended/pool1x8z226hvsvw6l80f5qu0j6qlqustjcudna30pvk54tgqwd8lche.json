@@ -1,11 +1,11 @@
 {
 	"info": {
-		"url_png_icon_64x64": "https://github.com/cyberadvising/PoolData/blob/main/lg.jpg?raw=true",
-		"url_png_logo": "https://github.com/cyberadvising/PoolData/blob/main/lg.jpg?raw=true",
+		"url_png_icon_64x64": "https://github.com/cyberadvising/PoolData/blob/main/128x128.png?raw=true",
+		"url_png_logo": "https://github.com/cyberadvising/PoolData/blob/main/48x48.png?raw=true",
 		"location": "Italy",
 		"social": {
 			"twitter_handle": "everestpool",
-			"telegram_handle": "everestpool",
+			"telegram_handle": "",
 			"facebook_handle": "",
 			"youtube_handle": "",
 			"twitch_handle": "",
@@ -21,9 +21,9 @@
 			"vat_id": ""
 		},
 		"about": {
-			"me": "Everest Stake Pool Help make the world a better place by staking your ADA with Everest.",
-			"server": "VDS Stake Pool",
-			"company": ""
+			"me": "Everest Stake Pool is the leading solution in Cardano staking. We specialize in providing secure professional staking services suited to the needs of the most demanding investors.",
+			"server": "1 Relay VPS server with 8 CPUs, 16GB RAM, 240GB SSD.1 Block Producers Dedicated Server 8 CPUs, 32GB RAM, 380GB SSD. Air-Gapped Macchine.",
+			"company": "CyberAdvising"
 		},
 		"my-pool-ids": {
 			"0": "31c4a56aec831daf9de9a038f9681f0720b9638d9f62f0b2d4aad007",

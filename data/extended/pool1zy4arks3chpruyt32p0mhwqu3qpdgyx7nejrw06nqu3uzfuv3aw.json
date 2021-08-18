@@ -5,12 +5,12 @@
 		"location": "Zurich, Switzerland",
 		"social": {
 			"twitter_handle": "",
-			"telegram_handle": "",
+			"telegram_handle": "swiss_cardano_community",
 			"facebook_handle": "",
 			"youtube_handle": "",
 			"twitch_handle": "",
 			"discord_handle": "",
-			"github_handle": ""
+			"github_handle": "https://github.com/kraehemp/Swiss-Cardano-Pool"
 		},
 		"company": {
 			"name": "Pasquale Krähemann",
@@ -21,7 +21,7 @@
 			"vat_id": ""
 		},
 		"about": {
-			"me": "Software Engineer",
+			"me": "I am a passionate software engineer and work for the ETH Zurich University. I believe in Cardano and its potential and I am proud to be part of this community.",
 			"server": "2 X Raspberry Pi 4 Hosted at my Home in Switzerland 1GB up/down.",
 			"company": ""
 		}
