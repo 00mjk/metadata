@@ -1,0 +1,33 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/istanpool/m/mast/logo_64x64.png",
+		"url_png_logo": "https://raw.githubusercontent.com/istanpool/m/mast/logo.png",
+		"location": "Canada, USA",
+		"social": {
+			"twitter_handle": "@istanpool34",
+			"telegram_handle": "istanpool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "istanpool"
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "Turkey",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "We are a single pool operator backed by a strong technical setup and running it to support Cardano Ecosystem.",
+			"server": "Hybrid Cloud Setup: 2 Relay, 1 Validator, each 4 Core, 8 GB RAM, Properly hardened (Firewall, Node only internal network, SSH Public Key Only, no Root User, VPN only maintenance access) and monitored by sysadmin (Availability, Sync latency, etc) ",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "bce4f15e81e2d2d9fe5c061f02f89ced9a56654a753f14d8409505bb"
+	}
+}

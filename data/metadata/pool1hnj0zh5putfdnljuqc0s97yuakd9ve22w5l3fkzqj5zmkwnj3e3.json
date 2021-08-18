@@ -1,6 +1,7 @@
 {
 	"name": "istanpool",
-	"description": "* Stable,Secure,Reliable - Operated by a System Admin - in memory of ISTANBUL*",
+	"description": "Stable,Secure,Reliable - Operated by a System Admin - in memory of ISTANBUL",
 	"ticker": "ISTAN",
-	"homepage": "https://istanpool.info"
+	"homepage": "https://istanpool.info",
+	"extended": "https://raw.githubusercontent.com/istanpool/m/mast/xmeta.json"
 }
