@@ -18,10 +18,7 @@
 		"ada_pilot"
 	],
 	"my-pool-ids": [
-		"7d50b9c6ec097e2a7f4ecb2f2914f9ad21e1a7bda884cb143937a73f",
-		"c83beb18d532234c72a304ab935982be670c22e771b227a3febc3a82"
+		"7d50b9c6ec097e2a7f4ecb2f2914f9ad21e1a7bda884cb143937a73f"
 	],
-	"when-satured-then-recommend": [
-		"c83beb18d532234c72a304ab935982be670c22e771b227a3febc3a82"
-	]
+	"when-satured-then-recommend": []
 }
