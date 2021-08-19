@@ -28,5 +28,24 @@
 	},
 	"my-pool-ids": {
 		"0": "55f76e0156b8ddd00ab5ef65d705f32ab6125a33be4c8e49a532f910"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "Pepper",
+				"type": "relay",
+				"key": "b46f2f0e749f75828eeb35f27946913b"
+			},
+			"1": {
+				"name": "Onion",
+				"type": "relay",
+				"key": "caeedc10396284caadf88616e6231eaf"
+			},
+			"2": {
+				"name": "Tiramisù",
+				"type": "bp",
+				"key": "4602fa210a41ef60def68b55dc55bc89"
+			}
+		}
 	}
 }
