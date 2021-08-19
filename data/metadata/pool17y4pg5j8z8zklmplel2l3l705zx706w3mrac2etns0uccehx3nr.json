@@ -1,6 +1,7 @@
 {
 	"name": "ECOM Pool",
-	"description": "Best infraestructure and security pool",
+	"description": "High infraestructure and security pool",
 	"ticker": "ECOM🗲",
-	"homepage": "https://pool.ecom.com.ar"
+	"homepage": "https://pool.ecom.com.ar",
+	"extend": "https://pool.ecom.com.ar/meta-extra.json"
 }

@@ -1,0 +1,47 @@
+{
+	"info": {
+		"url_png_icon_64x64": "",
+		"url_png_logo": "",
+		"location": "United States",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "cryptonodes_official",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "CryptoNodes",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "4 Cores CPU each (producer and relay) 16GB RAM, 1G bandwidth",
+			"company": "Crypto Nodes"
+		}
+	},
+	"my-pool-ids": {
+		"0": "61b08996d4130641ba2a11a76221d6cf0928e5b14c303ee6ea8d52ba"
+	},
+	"when-satured-then-recommend": {
+		"0": "61b08996d4130641ba2a11a76221d6cf0928e5b14c303ee6ea8d52ba"
+	},
+	"telegram-admin-handle": {
+		"0": "shahardm"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "relay 1 US",
+				"type": "relay",
+				"key": "relay1.cardano.cryptonodes.cloud/connect"
+			}
+		}
+	}
+}

@@ -1,6 +1,7 @@
 {
 	"name": "CryptoNodes",
-	"description": "Stable node and stake pool for several PoS networks, multiple servers and reliable.",
+	"description": "Stable nodes and stake pools for several PoS chains, we have multiple servers and reliable. all secured with best practices.",
 	"ticker": "CRPND",
-	"homepage": "https://cardano.cryptonodes.cloud"
+	"homepage": "https://cardano.cryptonodes.cloud",
+	"extended": "https://cardano.cryptonodes.cloud/extended.json"
 }
