@@ -32,5 +32,11 @@
 	},
 	"telegram-admin-handle": {
 		"0": "aferranc"
+	},
+	"votes": {
+		"https://cips.cardano.org/cips/cip23/": {
+			"vote": "Yes",
+			"comment": "Please, support small pools!"
+		}
 	}
 }
