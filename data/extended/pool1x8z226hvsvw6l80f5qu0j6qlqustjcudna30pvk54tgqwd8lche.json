@@ -22,7 +22,7 @@
 		},
 		"about": {
 			"me": "Everest Stake Pool is the leading solution in Cardano staking. We specialize in providing secure professional staking services suited to the needs of the most demanding investors.",
-			"server": "1 Relay VPS server with 8 CPUs, 16GB RAM, 240GB SSD.1 Block Producers Dedicated Server 8 CPUs, 32GB RAM, 380GB SSD. Air-Gapped Macchine.",
+			"server": "2 Relay VPS server with 8 CPUs, 16GB RAM, 240GB SSD.1 Block Producers Dedicated Server 8 CPUs, 32GB RAM, 380GB SSD. Air-Gapped Macchine.",
 			"company": "CyberAdvising"
 		},
 		"my-pool-ids": {
