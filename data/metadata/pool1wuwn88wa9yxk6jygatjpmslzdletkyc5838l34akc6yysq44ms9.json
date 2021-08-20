@@ -1,6 +1,7 @@
 {
-	"name": "Helen's stake pool",
-	"description": "Helen's Cardano stake pool",
+	"name": "HELEN's stake pool",
+	"description": "HELEN's Cardano stake pool",
 	"ticker": "HELEN",
-	"homepage": "https://www.helenspool.eu"
+	"homepage": "https://www.helenspool.eu",
+	"extended": "https://www.helenspool.eu/extendedmetadata.json"
 }
