@@ -1,8 +1,7 @@
 {
-	"name": "AzureADA3",
-	"ticker": "AZUR3",
-	"description": "AZUR3 is the new release of a previously private offering run on the same awesome Microsoft Azure infrastructure behind the success of all of our AZUR pools. Our professional operators put the same level of time & attention into this newest sibling pool.",
-	"homepage": "https://azureada.com",
-	"nonce": "1628391440",
-	"extended": "https://azureada.com/azur3/AZUR3-Extended-Metadata.json"
+	"name": "StakeZilla",
+	"ticker": "ZILLA",
+	"description": "Coming Soon to mainnet",
+	"homepage": "https://zilla.com",
+	"nonce": "1629436944"
 }

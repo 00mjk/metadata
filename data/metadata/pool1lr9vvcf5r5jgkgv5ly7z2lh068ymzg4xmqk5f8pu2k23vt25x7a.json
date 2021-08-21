@@ -1,7 +1,7 @@
 {
-	"name": "Hygge is the art of happiness🤸‍♀️",
+	"name": "Hygge Is The Art Of Happiness🤸‍♀️",
 	"description": "Future proof infra with 16GB RAM and 4 cores per node. HA cluster with inner relays and failover.",
 	"ticker": "HYGGE",
 	"homepage": "https://hyggepool.com",
-	"extended": "https://raw.githubusercontent.com/time2devnull/hygge/1/nx.json"
+	"extended": "https://raw.githubusercontent.com/time2devnull/hygge/1/mx.json"
 }

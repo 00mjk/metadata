@@ -2,6 +2,6 @@
 	"ticker": "ANIM",
 	"name": "animation.com Cardano Pool",
 	"description": "The ANIM stake pool helps us with our mission of developing the animation.com website.",
-	"homepage": "https://www.animation.com/cardanostakepool",
-	"extended": "https://www.animation.com/extra.json"
+	"homepage": "https://animation.com/cardanostakepool",
+	"extended": "https://animation.com/extra.json"
 }
