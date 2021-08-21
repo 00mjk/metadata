@@ -43,8 +43,8 @@
 				"key": "0d478c72436a1ee25b115a1acd3e44cc"
 			},
 			"1": {
-				"name": "cardano-bp.stellence.com",
-				"type": "bp",
+				"name": "cardano-relay2.stellence.com",
+				"type": "relay",
 				"key": "5de99fb6e84398d0f18f7fda5ee6d618"
 			}
 		}
