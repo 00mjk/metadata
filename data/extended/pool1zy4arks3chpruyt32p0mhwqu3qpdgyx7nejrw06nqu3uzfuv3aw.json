@@ -4,13 +4,14 @@
 		"url_png_logo": "https://informatik-spezialist.ch/images/swiss.png",
 		"location": "Zurich, Switzerland",
 		"social": {
+			"instagram_handle": "swiss_premium_cardano_pool",
 			"twitter_handle": "",
 			"telegram_handle": "swiss_cardano_community",
 			"facebook_handle": "adminInformatik",
 			"youtube_handle": "",
 			"twitch_handle": "",
 			"discord_handle": "",
-			"github_handle": "https://git.io/J0Gps"
+			"github_handle": "kraehemp"
 		},
 		"company": {
 			"name": "Pasquale Krähemann",
