@@ -1,0 +1,25 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/sirhung1993/hodler-pool/main/401k_64_64.png",
+		"url_png_logo": "https://raw.githubusercontent.com/sirhung1993/hodler-pool/main/401k.png",
+		"location": "Danang, Vietnam",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "https://t.me/hodlerstakepool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "https://github.com/sirhung1993/hodler-pool"
+		},
+		"about": {
+			"me": "My mom retirement plan is partly depend on this project.\nTrust in Cardano Community.\nTry to build a better Cardano eco-system.\nTrip to a better future.",
+			"server": "Host in Digital Ocean"
+		}
+	},
+	"telegram-admin-handle": {
+		"0": "@hungbv2",
+		"1": "@tomdevvn",
+		"2": "@tmanh17"
+	}
+}

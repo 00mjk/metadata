@@ -1,0 +1,7 @@
+{
+	"name": "EstacaPool",
+	"description": "Stake pool hispano dirigido por 3 profesionales de IT. 0% fees y monitoring 24/7",
+	"ticker": "ESTC",
+	"homepage": "https://www.estacapool.com",
+	"extended": "https://raw.githubusercontent.com/estacapool/estaca-mainnet/main/extendedMetaData.json"
+}

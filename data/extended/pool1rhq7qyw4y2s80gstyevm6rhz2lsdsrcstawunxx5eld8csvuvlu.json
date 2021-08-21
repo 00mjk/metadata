@@ -2,6 +2,7 @@
 	"info": {
 		"social": {
 			"twitter_handle": "eva__ginger",
+			"telegram_handle": "GINGRpool",
 			"discord_handle": "4tT7T2eWkg"
 		},
 		"company": {},
@@ -12,5 +13,6 @@
 	],
 	"my-pool-ids": [
 		"1dc1e011d522a077a20b2659bd0ee257e0d80f105f5dc998d4cfda7c"
-	]
+	],
+	"adapools-verify": "7bf84d730828648f482080cc6b3c3040"
 }

@@ -1,0 +1,38 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://larsa.de/larsa-icon.png",
+		"url_png_logo": "https://larsa.de/larsa-icon.png",
+		"location": "Germany",
+		"social": {
+			"twitter_handle": "LARSA_DE",
+			"telegram_handle": "LARSA_DE",
+			"facebook_handle": "LARSA_DE",
+			"youtube_handle": "LARSA_DE",
+			"twitch_handle": "LARSA_DE",
+			"discord_handle": "LARSA_DE",
+			"github_handle": "LARSA_DE"
+		},
+		"company": {
+			"name": "LARSA DeFi",
+			"addr": "",
+			"city": "Frankfurt",
+			"country": "Germany",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "MLARSA DECENTRALIZED FINANCE (DeFi) ULTIMATE GLOBAL STAKING POOL OPERATING FROM GERMANY",
+			"server": "RELIABLE CLOUD INFRASTRUCTURE | HIGH SECURITY | DDoS PROTECTION | 99.99% UPTIME | AUTOMATED BACKUPS | 24/7 MONITORING",
+			"company": "LARSA DeFi"
+		}
+	},
+	"my-pool-ids": {
+		"0": "5743eadfe603697cc90475d453db2c167620755db8b4da4951f17211"
+	},
+	"when-satured-then-recommend": {
+		"0": "5743eadfe603697cc90475d453db2c167620755db8b4da4951f17211"
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	}
+}

@@ -2,29 +2,18 @@
 	"info": {
 		"url_png_icon_64x64": "https://pool.bio/pictures/bio64.png",
 		"url_png_logo": "https://pool.bio/pictures/bio250.png",
-		"social": {},
+		"social": {
+			"twitter_handle": "b_for_ada",
+			"discord_handle": "gYvbfgvRHR"
+		},
 		"company": {},
 		"about": {
-			"me": "Stake your ADA in our BIO Pool and actively shape the future of the Cardano-EcoSystem as well as the EcoSystem of our planet - for a healthy earth! Vote for Projects all over the world and decide for yourself which ones you want to support. Your vote counts and helps to protect our environment and to preserve it for our children. More infos at: https://Pool.Bio"
+			"me": "Change the World together with us. Our goal is to give environmental and species protection organizations as well as our delegators a voice to support the greatest gift we got: Nature. Our vision is a peaceful world where every being is treated equally and with respect. We truly believe that our future is important and we can only save it by saving our planet. For us and our children.  Stake ADA with us and actively shape the future of the Cardano-EcoSystem as well as the EcoSystem of our planet. Vote for projects all over the world and decide for yourself which ones you want to support. Your vote counts and helps to protect our environment and to preserve it for our children. More infos at: https://pool.bio"
 		}
 	},
 	"telegram-admin-handle": [],
 	"my-pool-ids": [
-		"1dc1e011d522a077a20b2659bd0ee257e0d80f105f5dc998d4cfda7c",
-		"ca599df54182962bb2c1420ad2cbdc10e3df7c4c2afac18e810e7035",
-		"be6d07b366b26dd577682e0e499c0d81988d8b3f49b52b853691eeba",
-		"f423b19715cca49029ed13ff02a110b63de7d96ad7a0536dc5887a41",
-		"d0deba25ce9e6ff59af7f39305fce373241156616cdf0a49b1d49e48",
-		"f8cac661341d248b2194f93c257eefd1c9b122a6d82d449c3c559516",
 		"603749d1b47c79cdf3072c284abb9810dd98afe827d6ae2b92f115ed"
-	],
-	"when-satured-then-recommend": [
-		"1dc1e011d522a077a20b2659bd0ee257e0d80f105f5dc998d4cfda7c",
-		"ca599df54182962bb2c1420ad2cbdc10e3df7c4c2afac18e810e7035",
-		"be6d07b366b26dd577682e0e499c0d81988d8b3f49b52b853691eeba",
-		"f423b19715cca49029ed13ff02a110b63de7d96ad7a0536dc5887a41",
-		"d0deba25ce9e6ff59af7f39305fce373241156616cdf0a49b1d49e48",
-		"f8cac661341d248b2194f93c257eefd1c9b122a6d82d449c3c559516"
 	],
 	"adapools-verify": "6f33366843d69abe658f6e99374b2d9d"
 }
