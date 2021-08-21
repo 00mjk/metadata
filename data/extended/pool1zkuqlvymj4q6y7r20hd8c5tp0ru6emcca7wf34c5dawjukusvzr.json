@@ -2,25 +2,22 @@
 	"info": {
 		"location": "Switzerland",
 		"social": {
-			"discord_handle": "https://discord.gg/vZ3FM62F"
+			"discord_handle": "https://discord.gg/rTMwBGFk"
 		},
 		"company": {
-			"name": "Techs2help",
-			"country": "Switzerland"
+			"name": "Techs2Help"
 		},
 		"about": {
 			"me": "IT Self-paced Student, currently studying for different certifications, 10 years experience in the field. Trying to help the world to grow in a good way and give a better future to everyone.",
-			"server": "All nodes have 4 cores CPU and 16GB of RAM, SSD storage and daily backups"
+			"server": "All nodes have 4 cores CPU, 16GB of RAM and SSD storage"
 		}
 	},
 	"my-pool-ids": {
-		"0": "7004d0436f52f905c68d6c23cf58938fa3b82b6193935e220f0183ef"
+		"0": "15b80fb09b9541a2786a7dda7c516178f9acef18ef9c98d7146f5d2e"
 	},
 	"when-satured-then-recommend": {
-		"0": "00333b89543da962cc92e7ffa45848f42a98f7276780670728ce5256",
-		"1": "971212db48d9390662faa0fa725950f3b9ac1a898227f5fcf1096399",
-		"2": "7cdddc5037c62acb499c3536ed218d17cdc1d9a5ad734218a4227a78",
-		"3": "08635d4c628b1d427241621855fe2cbb66bce416069b725921a4285a",
-		"4": "576e0390ac54e3751afdaa8aa256f41b84a6324006f23991f6fdefb7"
+		"0": "80cb48c2953a78d25f69dbcea305fbcce0c520c25d401cd75a259cf1",
+		"1": "2ce9bfc4e0a732d21ec8739cbfc3b10957b4e3297fd320d556f48ada",
+		"2": "32f6df36b4625d51971dedb0cabd20a6c8577165d5f15530594dbc6b"
 	}
 }
