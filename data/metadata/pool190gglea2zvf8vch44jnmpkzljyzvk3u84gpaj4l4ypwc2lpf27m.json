@@ -2,6 +2,6 @@
 	"name": "OzNode",
 	"description": "Aptly named OzNode, built for Australian's by Australians. For more information please visit our website.",
 	"ticker": "OZN",
-	"homepage": "https://oznode.ddns.net",
-	"extended": "https://oznode.ddns.net/json/poolMetaDataExtended.json"
+	"homepage": "https://oznode.xevrac.com",
+	"extended": "https://oznode.xevrac.com/json/poolMetaDataExtended.json"
 }

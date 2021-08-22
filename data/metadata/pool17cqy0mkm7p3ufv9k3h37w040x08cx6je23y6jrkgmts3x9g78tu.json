@@ -1,7 +1,7 @@
 {
 	"name": "Lotto Pool",
-	"description": "Lotto Pool - Get a Chance to WIN in addition to your Staking Rewards by Clicking & Posting on our Sponsors link on https://lottopool.cloud",
+	"description": "Lotto Pool - Get your Staking Rewards & a Chance to WIN by Posting Crypto Price Forecasts on www.RewardsInCrypto.com",
 	"ticker": "LOTTO",
-	"homepage": "https://lottopool.cloud",
-	"extended": "https://raw.githubusercontent.com/adosiawolf/m/master/yx.json"
+	"homepage": "https://lottopool.cloud/",
+	"extended": "https://spaas.org/.well-known/lotto/extended.json"
 }
