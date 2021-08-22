@@ -2,7 +2,7 @@
 	"how-to-implement": "",
 	"info": {
 		"url_png_icon_64x64": "https://tespool.online/assets/images/favicon.png",
-		"url_png_logo": "https://URL-to-my/logo.png",
+		"url_png_logo": "https://tespool.online/assets/images/marca%20tespool.png",
 		"location": "",
 		"social": {
 			"twitter_handle": "tespool",
@@ -23,7 +23,7 @@
 		},
 		"about": {
 			"me": "We are an entrepreneur team of Software Engineers, Cybersecurity specialists and Finance Consultant dedicated to maintain best performance of our pool.",
-			"server": "My server info",
+			"server": "Low consumption energy 5W, Raspberry Pi 4 8GB 64 bit Quad Core Cortex A72, Back Up Electric System, Dedicated fiber optic internet connection.",
 			"company": "TesPool - Independent pool operator"
 		},
 		"rss": ""
