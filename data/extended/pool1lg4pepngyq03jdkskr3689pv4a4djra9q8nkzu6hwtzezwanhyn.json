@@ -1,0 +1,30 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://cdtrn-metadata.stakepool.cloud/cdtrnicon.png",
+		"url_png_logo": "https://cdtrn-metadata.stakepool.cloud/cdtrnlogo.png",
+		"location": "Saint Kitts",
+		"social": {
+			"twitter_handle": "cardturions",
+			"telegram_handle": "cardturions",
+			"facebook_handle": "cardturions",
+			"instagram_handle": "cardturions",
+			"youtube_handle": "cardturions",
+			"discord_handle": "cardturions",
+			"github_handle": "cardturions"
+		},
+		"company": {
+			"name": "Cardturions",
+			"addr": "Metaverse",
+			"city": "ADA City",
+			"country": "Cardano Blockchain",
+			"company_id": "",
+			"vat_id": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "fa2a1c8668201f1936d0b0e3a3942caf6ad90fa501e761735772c591"
+	},
+	"telegram-admin-handle": {
+		"0": "cardturions"
+	}
+}
