@@ -1,6 +1,7 @@
 {
 	"name": "Pale Blue Dot pool",
-	"description": "We can and must do better. 100% profits donated to orgs. and individuals who are trying to elevate human society to a higher level of consciousness, coexistence, and civilization, to those who give everything preserving our only home, the pale blue dot.",
+	"description": "100% profits donated to organizations and people with a mission to elevate human society to a higher level of consciousness, coexistence, and civilization, and to those who give it their everything to preserve and cherish our only home, the pale blue dot.",
 	"ticker": "PBD",
-	"homepage": "https://www.palebluedotpool.org"
+	"homepage": "https://www.palebluedotpool.org",
+	"extended": "https://www.palebluedotpool.org/adapool-extended.json"
 }

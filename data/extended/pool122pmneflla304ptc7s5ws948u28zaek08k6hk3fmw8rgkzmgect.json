@@ -1,0 +1,16 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.palebluedotpool.org/logo64x64.png",
+		"url_png_logo": "https://www.palebluedotpool.org/logo.png",
+		"location": "Germany, Düsseldorf",
+		"social": {
+			"github_handle": "https://github.com/mcrio"
+		},
+		"about": {
+			"me": "100% profits donated to organizations and people with a mission to elevate human society to a higher level of consciousness, coexistence, and civilization, and to those who give it their everything to preserve and cherish our only home, the pale blue dot. Visit website for more info."
+		}
+	},
+	"my-pool-ids": {
+		"0": "5283b9e53fff62fa8578f428e816a7e28e2ee6cf3db57b453b71c68b"
+	}
+}
