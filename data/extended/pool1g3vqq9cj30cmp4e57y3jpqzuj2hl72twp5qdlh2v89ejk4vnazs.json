@@ -6,7 +6,7 @@
 		"social": {
 			"twitter_handle": "",
 			"telegram_handle": "https://t.me/hodlerstakepool",
-			"facebook_handle": "",
+			"facebook_handle": "https://fb.me/holdforfuture",
 			"youtube_handle": "",
 			"twitch_handle": "",
 			"discord_handle": "",
@@ -14,12 +14,16 @@
 		},
 		"about": {
 			"me": "My mom retirement plan is partly depend on this project.\nTrust in Cardano Community.\nTry to build a better Cardano eco-system.\nTrip to a better future.",
-			"server": "Host in Digital Ocean"
+			"server": "Host in Digital Ocean - 4CPU/8GB per node -> 1 node for relay - 1 node for block producer"
 		}
+	},
+	"my-pool-ids": {
+		"0": "44580017128bf1b0d734f12320805c92afff296e0d00dfdd4c39732b"
 	},
 	"telegram-admin-handle": {
 		"0": "@hungbv2",
 		"1": "@tomdevvn",
 		"2": "@tmanh17"
-	}
+	},
+	"verify": "43a60ccc019581992e56d361c73ebe6a"
 }
