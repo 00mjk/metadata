@@ -6,7 +6,7 @@
 		"location": "Prague, Czech Republic",
 		"social": {
 			"twitter_handle": "KyokuPool",
-			"telegram_handle": "",
+			"telegram_handle": "KYOKUPOOL",
 			"facebook_handle": "",
 			"youtube_handle": "",
 			"twitch_handle": "",
@@ -15,7 +15,7 @@
 		},
 		"company": {
 			"name": "",
-			"addr": "Rybna",
+			"addr": "",
 			"city": "Prague",
 			"country": "Czech Republic",
 			"company_id": "",
@@ -24,7 +24,7 @@
 		"about": {
 			"me": "",
 			"server": "",
-			"company": "..."
+			"company": ""
 		}
 	},
 	"my-pool-ids": {
@@ -36,7 +36,7 @@
 		"1": ""
 	},
 	"telegram-admin-handle": {
-		"0": ""
+		"0": "KYOKUPOOL"
 	},
 	"adapools_ext": {
 		"prometheus": {
