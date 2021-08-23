@@ -41,17 +41,17 @@
 	"adapools_ext": {
 		"prometheus": {
 			"0": {
-				"name": "Relay 1 Prague",
+				"name": "Relay 1, Prague",
 				"type": "relay",
 				"key": ""
 			},
 			"1": {
-				"name": "Relay 2 Prague",
+				"name": "Relay 2, Prague",
 				"type": "relay",
 				"key": ""
 			},
 			"2": {
-				"name": "BR Prague",
+				"name": "Block Producer, Prague",
 				"type": "bp",
 				"key": ""
 			}
