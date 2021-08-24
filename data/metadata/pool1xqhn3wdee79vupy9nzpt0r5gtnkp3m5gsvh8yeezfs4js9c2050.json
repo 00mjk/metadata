@@ -1,7 +1,7 @@
 {
 	"name": "Kyoku Stake Pool",
 	"ticker": "KYOKU",
-	"description": "Strong Cardano Stake Pool supporting Real Decentralization. Big Kyokushin fans",
+	"description": "Strong and secure Cardano stake pool supporting real decentralization and KYOKUshin philosophy",
 	"homepage": "https://kyoku-pool.online",
 	"extended": "https://raw.githubusercontent.com/kyoku-pool/kyoku/master/KYOKU_extended.json"
 }

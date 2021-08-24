@@ -1,6 +1,7 @@
 {
 	"name": "Pyur Ada Pool",
-	"description": "Pool used to fund Cardano development projects (NFT-DAO)",
+	"description": "Pool used to fund Cardano development projects. Partnered with Ikigai Technologies Inc. (ikigaitech.org)",
 	"ticker": "PYUR",
-	"homepage": "https://pyur.io"
+	"homepage": "https://pyur.io",
+	"extended": "https://raw.githubusercontent.com/pyuradapool/ada/main/extended_poolmeta.json"
 }

@@ -1,7 +1,7 @@
 {
-	"name": "Masterstake",
-	"ticker": "MASTR",
-	"description": "MASTR | pool #2 | 1.99% fee",
-	"homepage": "https://masterstake.com",
-	"extended": "https://data.pooltool.io/md/f3a3dd9f-1a09-466d-80eb-a8fe8fa053f3"
+	"name": "DALIS",
+	"description": "DALIS | 0.5% fee | Endless rewards",
+	"ticker": "DALIS",
+	"homepage": "https://dalispool.com",
+	"extended": "https://data.pooltool.io/md/0874ca1c-2e6b-464d-979b-01b37ff7f571"
 }

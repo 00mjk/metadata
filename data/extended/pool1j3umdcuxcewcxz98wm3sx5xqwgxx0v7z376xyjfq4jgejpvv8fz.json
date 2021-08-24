@@ -1,6 +1,7 @@
 {
-	"itn": {
-		"owner": "ed25519_pk1uep2klkfn9a3kmpvxas5nrxdtvnydaghmu5plqxx5y9h855qr5tsej86ex",
-		"witness": "ed25519_sig1zajjdq2g5qp7h3xwujw5ha8lr093486s77sw6mw8560t47l5g3dyl7ungfedpzrzuc8adcrqynfkff83nqzrnwxa7q4gjse6nfurkpcqajy8u"
-	}
+	"name": "Masterstake",
+	"ticker": "MASTR",
+	"description": "Masterstake - Pool #2",
+	"homepage": "https://masterstake.com",
+	"extended": "https://data.pooltool.io/md/b25c70ef-0c14-48f9-985b-172ba68d17c9"
 }
