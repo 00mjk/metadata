@@ -26,7 +26,7 @@
 		},
 		"about": {
 			"me": "Cardaspians (CASP) is an Application & Staking Provider for the Cardano eco system, providing reliable staking and application services",
-			"server": "redundant Cloud VPS Linux server(s), 4vCPU, 8GB RAM, 100GB SSD, 1Gbit backbone, ...",
+			"server": "redundant Cloud VPS Linux server(s), 4vCPU, 16GB RAM, 100GB SSD, 1Gbit backbone, ...",
 			"company": ""
 		},
 		"rss": ""
