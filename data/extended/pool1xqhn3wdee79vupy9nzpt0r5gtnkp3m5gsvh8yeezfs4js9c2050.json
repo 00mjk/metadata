@@ -1,8 +1,8 @@
 {
 	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
 	"info": {
-		"url_png_icon_64x64": "https://github.com/kyoku-pool/kyoku/blob/master/KYOKU_logo_small.jpeg?raw=true",
-		"url_png_logo": "https://github.com/kyoku-pool/kyoku/blob/f4e254eab72a1fb5166a9cd27644d6e14037824c/KYOKU_logo.jpg?raw=true",
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/kyoku-pool/kyoku/master/KYOKU_logo_small.png",
+		"url_png_logo": "https://raw.githubusercontent.com/kyoku-pool/kyoku/master/KYOKU_logo.png",
 		"location": "Prague, Czech Republic",
 		"social": {
 			"twitter_handle": "KyokuPool",
