@@ -1,6 +1,7 @@
 {
 	"name": "BasicStakePool",
-	"description": "The Basic Stake Pool",
+	"description": "Basic Stake Pool, your cloud-based pool partner managed from Paris, France #BASIC",
 	"ticker": "BASIC",
-	"homepage": "https://basicstakepool.com"
+	"homepage": "https://basicstakepool.com",
+	"extended": "https://relaynode1.basicstakepool.com/poolMetaData-extended.json"
 }

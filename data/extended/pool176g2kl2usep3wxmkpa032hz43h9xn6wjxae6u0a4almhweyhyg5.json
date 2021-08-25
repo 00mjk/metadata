@@ -1,0 +1,25 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://basicstakepool.com/images/logo-B.png",
+		"url_png_logo": "https://basicstakepool.com/images/logo-BASIC.png",
+		"location": "Paris, France",
+		"social": {
+			"twitter_handle": "basicstakepool",
+			"telegram_handle": "basicstakepool"
+		},
+		"about": {
+			"me": "We are a french team passionate about blockchain technologies. We believe that Cardano can revolutionize the exchanges between people.",
+			"server": "Super reliable Google Cloud Platform infrastructure, physically based in west Europe.",
+			"company": "We are staking ADA pools since early 2021. Our credo: make staking simple, basic."
+		}
+	},
+	"telegram-admin-handle": {
+		"0": "basicstakepool"
+	},
+	"my-pool-ids": {
+		"0": "f690ab7d5c8643171b760f5f155c558dca69e9d23773ae3fb5eff777"
+	},
+	"when-satured-then-recommend": {
+		"0": "310daa501ac5ead2953ccb9cbb35d23516c48de31019b766fb560229"
+	}
+}
