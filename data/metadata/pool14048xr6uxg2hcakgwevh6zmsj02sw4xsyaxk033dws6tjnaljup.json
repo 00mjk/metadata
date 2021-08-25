@@ -1,7 +1,7 @@
 {
 	"name": "MAESTRO",
-	"description": "MAESTRO is a mission-driven Cardano stake pool committed to creating quality educational content about blockchain technology. We are a community of scientists, engineers, and lifelong learners that believe knowledge is power. We donate 10% of our rewards to an educational charity chosen by our delegators.",
+	"description": "MAESTRO is a mission-driven Cardano stake pool committed to creating quality educational content about blockchain technology. We are a community of scientists, engineers, and lifelong learners that believe knowledge is power.",
 	"ticker": "MSTR",
-	"homepage": "http://maestro-pool.com",
+	"homepage": "http://www.maestro-pool.com",
 	"extended": "https://raw.githubusercontent.com/MAESTRO-Pool/deployment/main/adapools.json"
 }

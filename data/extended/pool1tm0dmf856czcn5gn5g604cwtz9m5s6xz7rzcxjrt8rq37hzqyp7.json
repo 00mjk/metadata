@@ -1,0 +1,36 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://altf.s3.eu-west-2.amazonaws.com/altf-f-64.png",
+		"url_png_logo": "https://altf.s3.eu-west-2.amazonaws.com/alt-f.png",
+		"location": "London, UK",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "altf_ada",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "io-alt-f"
+		},
+		"company": {
+			"name": "ALT-F",
+			"addr": "",
+			"city": "London",
+			"country": "United Kingdom",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "We are a professional team who have been working together for years. In our other life we built and run fiskl.com a global accounting platform. It was through the research of using blockchain to replace traditional invoicing and factoring that turned us into Cardano enthusiasts",
+			"server": "3 x Intel Xeon 3.5 GHz 32GB Ram & SSD - 3 Relay, 1 Core, Grafana & Promethieus",
+			"company": "ALT-F is a group of five developers & dev ops who have worked together for years and share a common desire to be part of Cardano"
+		}
+	},
+	"my-pool-ids": {
+		"0": "pool1tm0dmf856czcn5gn5g604cwtz9m5s6xz7rzcxjrt8rq37hzqyp7",
+		"1": "5ededda4f4d60589d113a234fae1cb11774868c2f0c583486b38c11f"
+	},
+	"telegram-admin-handle": {
+		"0": "altf_ada"
+	}
+}

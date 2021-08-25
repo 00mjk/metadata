@@ -1,6 +1,7 @@
 {
-	"name": "ALT-F decentralized future",
-	"description": "An alternative decentralized world for an exciting future",
+	"name": "Another future",
+	"description": "The best pool for 2021!",
 	"ticker": "ALT-F",
-	"homepage": "https://alt-f.io/"
+	"homepage": "https://alt-f.io/",
+	"extended": "https://altf.s3.eu-west-2.amazonaws.com/altf-metadata-ext.json"
 }

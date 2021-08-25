@@ -1,0 +1,37 @@
+{
+	"how-to-implement": "",
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/matifalcone/falcon/main/falcon_64x64.png",
+		"url_png_logo": "https://raw.githubusercontent.com/matifalcone/falcon/main/falcon1.png",
+		"location": "Buenos Aires, Argentina",
+		"social": {
+			"twitter_handle": "FalconStakepool",
+			"telegram_handle": "FalconStakepool",
+			"facebook_handle": "",
+			"youtube_handle": "https://www.youtube.com/channel/UCML7F2_4Wu_HWD3UakUR6lg",
+			"twitch_handle": "",
+			"discord_handle": "PbReHGqC6G",
+			"github_handle": "MatiFalcone"
+		},
+		"company": {
+			"name": "Falcon Cardano Stakepool",
+			"city": "Buenos Aires",
+			"country": "Argentina"
+		},
+		"about": {
+			"me": "Mi nombre es Matías Falcone y soy Líder Técnico/Desarrollador de sistemas con más de 10 años de experiencia en la industria bancaria. Creo a largo plazo en las criptomonedas y en la tecnología Blockchain. Pienso que tienen muchísima capacidad y potencial para crear un nuevo sistema financiero para las futuras generaciones. Siguiendo esta misión, opero un Stakepool en la red de Cardano, a mí criterio el proyecto más serio y prometedor de todo el ecosistema cripto. | My name is Matías Falcone and I am a Tech Lead/Developer with more than 10 years experience in the banking industry. I am a long-term believer in cryptocurrencies and Blockchain technology. I rely in their ability and potential to create a new financial system for future generations. To reach this goal, I operate a Stakepool on the Cardano network, in my opinion the most serious and promising project of the entire crypto ecosystem.",
+			"server": "Nuestros servidores se encuentran hosteados en Amazon Web Services y contamos con instancias en Europa, Oceanía y América del Sur. | Our servers are hosted on Amazon Web Services and we have instances in Europe, Oceania and South America.",
+			"company": "Falcon es el primer Stakepool de la red de Cardano dedicado 100% a promover e impulsar la adopción de Blockchain, Criptomonedas y Contratos Inteligentes en Argentina y en Latinoamérica. Estamos convencidos de que gran parte de los problemas que existen hoy en día en nuestra región pueden ser abordados gracias a estas tecnologías. Somos una organización comprometida con la idea de que es posible generar un cambio positivo en la forma en la que interactuamos, no sólo con otros ciudadanos sino también con organismos gubernamentales/públicos y empresas privadas de todo el continente. | Falcon is the first Stakepool of the Cardano network 100% dedicated to promoting and driving the adoption of Blockchain, cryptocurrencies and smart contracts in Argentina and Latin America. We are convinced that many of the problems that exist today in our region can be addressed by these technologies. We are an organisation committed to the idea that it is possible to generate a positive change in the way we interact, not only with other citizens but also with our government, public organisations and private companies throughout the continent."
+		},
+		"rss": ""
+	},
+	"my-pool-ids": [
+		"50de79c63d672319e20be59c620eb57ed1de8b7cc7fa489d8f22e353"
+	],
+	"when-satured-then-recommend": [
+		"c6074d596a4d1629304bfd92715ec1677aeb378e4932723616d575f1"
+	],
+	"telegram-admin-handle": [
+		"MatiFalcone"
+	]
+}
