@@ -3,7 +3,7 @@
 	"info": {
 		"url_png_icon_64x64": "https://raw.githubusercontent.com/SAKURA394/saku/main/icon1.jpg",
 		"url_png_logo": "https://raw.githubusercontent.com/SAKURA394/saku/main/icon1.jpg",
-		"location": "London, England",
+		"location": "Tokyo,JAPAN ",
 		"social": {
 			"twitter_handle": "sakuraadapool",
 			"telegram_handle": "",
@@ -14,8 +14,8 @@
 			"github_handle": ""
 		},
 		"about": {
-			"me": "SAKURA ADA POOL was built in Japan. We strive to maximise your return on stake. 皆様のステーキングに貢献できるようプール運営を頑張ります!",
-			"server": "AWS Lightsail.16GB RAM,4vCPUs,320GB SSD."
+			"me": "SAKURA ADA POOL was built in Japan. We strive to maximise your return on stake. 皆様のステーキングに貢献できるようプール運営を頑張ります!",
+			"server": "AWS Lightsail.16GB RAM,4vCPUs,320GB SSD."
 		}
 	},
 	"my-pool-ids": {
@@ -28,24 +28,5 @@
 	},
 	"telegram-admin-handle": {
 		"0": "your_tg_handle"
-	},
-	"adapools_ext": {
-		"prometheus": {
-			"0": {
-				"name": "relay 1 eu",
-				"type": "relay",
-				"key": "example_get_own_on_adapools.org/connect"
-			},
-			"1": {
-				"name": "relay 2 usa",
-				"type": "relay",
-				"key": "example_get_own_on_adapools.org/connect"
-			},
-			"2": {
-				"name": "block producer home",
-				"type": "bp",
-				"key": "example_get_own_on_adapools.org/connect"
-			}
-		}
 	}
 }
