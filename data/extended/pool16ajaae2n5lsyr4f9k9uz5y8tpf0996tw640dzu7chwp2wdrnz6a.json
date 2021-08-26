@@ -2,7 +2,7 @@
 	"info": {
 		"url_png_icon_64x64": "https://public.bladepool.com/64_64.png",
 		"url_png_logo": "https://public.bladepool.com/250_250.png",
-		"location": "New York, United States of America",
+		"location": "New York, USA",
 		"social": {
 			"twitter_handle": "conraddit",
 			"telegram_handle": "conraddit",
@@ -21,9 +21,9 @@
 			"vat_id": ""
 		},
 		"about": {
-			"me": "CONRAD! AKA conraddit. Single owner pool. 0% Fee.",
-			"server": "Cloud-based relays, distributed worldwide. Secured behind multiple firewalls.",
-			"company": ""
+			"me": "Hello, I'm Conrad, the SPO for BLADE Pro Pool. We are a permanent 0%-fee pool.",
+			"server": "My BLADE Pro Pool has top-notch security, with global relays, and airgapped keys.",
+			"company": "BLADE Pro Pool"
 		}
 	},
 	"my-pool-ids": {
