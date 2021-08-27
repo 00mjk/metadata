@@ -5,10 +5,11 @@
 		"location": "Montreal, Quebec, Canada",
 		"social": {
 			"facebook_handle": "LvLUpStakepool",
+			"twitter_handle": "LuckySlam",
 			"telegram_handle": "Luckyslam"
 		},
 		"about": {
-			"server": "AWS and Bare metal - Ubuntu Server 20.04 LTS"
+			"server": "Bare metal servers - Ubuntu Server 20.04 LTS"
 		}
 	},
 	"when-satured-then-recommend": {
