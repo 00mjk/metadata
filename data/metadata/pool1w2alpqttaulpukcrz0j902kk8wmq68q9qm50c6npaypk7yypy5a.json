@@ -2,5 +2,32 @@
 	"name": "The Kibatsu Club Stake Pool",
 	"description": "This pool is operated by Kibatsu Club.",
 	"ticker": "KIBA",
-	"homepage": "https://www.kibatsu.club"
+	"homepage": "https://www.kibatsu.club",
+	"info": {
+		"url_png_icon_64x64": "https://pool.kibatsu.club/icon-adapool.png",
+		"url_png_logo": "https://pool.kibatsu.club/logo-adapool.png",
+		"location": "Tokyo, Japan",
+		"social": {
+			"twitter_handle": "KibatsuClub",
+			"telegram_handle": "",
+			"facebook_handle": "KibatsuClub",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Kibatsu Club",
+			"addr": "",
+			"city": "Tokyo",
+			"country": "Japan",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "ITインフラ歴２０年の釣りキチが運営するステークプールです。初心者の方から上級者の方まで、ぜひぜひご参加ください！",
+			"server": "...",
+			"company": "..."
+		}
+	}
 }
