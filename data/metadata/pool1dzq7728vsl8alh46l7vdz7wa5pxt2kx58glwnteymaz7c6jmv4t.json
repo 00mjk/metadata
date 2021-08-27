@@ -1,6 +1,7 @@
 {
 	"name": "AIDa Pool",
-	"description": "Your stake matters! 50% of our profits help fund the unbanked dreams at Kiva. Brazil based pool.",
+	"description": "Your stake matters! 50% of our profits supports funding the unbanked dreams at Kiva.",
 	"ticker": "AIDA",
-	"homepage": "https://www.aidapool.com.br/"
+	"homepage": "https://www.aidapool.com.br/",
+	"extended": "https://aidapool.com.br/_functions-dev/extendedMetaData"
 }

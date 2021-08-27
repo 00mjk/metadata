@@ -9,8 +9,8 @@
 			"facebook_handle": "",
 			"youtube_handle": "",
 			"twitch_handle": "",
-			"discord_handle": "conrad",
-			"github_handle": "conraddit"
+			"discord_handle": "conrad#0909",
+			"github_handle": "conradcordeiro"
 		},
 		"company": {
 			"name": "",
@@ -21,9 +21,9 @@
 			"vat_id": ""
 		},
 		"about": {
-			"me": "Hello, I'm Conrad, the SPO for BLADE Pro Pool. We are a permanent 0%-fee pool.",
-			"server": "My BLADE Pro Pool has top-notch security, with global relays, and airgapped keys.",
-			"company": "BLADE Pro Pool"
+			"me": "BLADE Pro pool is a mission-driven pool, which donates part of its profit to NGOs. We determine the NGOs based on multiple factors but we believe that investing in children is the best investment one can make so we aim to find orphanages and schools who will benefit the most from our donations. Conrad, our lead engineer, deployed BLADE single-handedly and now operates the pool with multiple relays across the globe. We have focused our investment in areas that had the fewest servers, to assist in decentralization and aiming to bring faster connections to users in those areas. We presently have servers in Africa, South America, North America, Asia and Europe. All servers are tied to Amazon AWS Route 53 Health Sensors and geolocation services, that deliver the servers nearest to clients.",
+			"server": "BLADE Pro pool has a combination of in-house and cloud-based servers. This allows us to benefit from the best of both worlds. The cloud-based servers are the ones that are more likely to remain operational during disasters and globe crises but are also the most centralized ones, as we rely on Google, Microsoft and Amazon to power them. By implementing in-house servers, from our own datacenters, we also deliver decentralized servers to Cardano's network. Our infrastructure is composed of 4-core, 16GB RAM, 250GB SSD virtual and bare-metal servers. We employ Amazon AWS S3, Amazon AWS Route 53, Amazon AWS EC2, Google Cloud Computing, Microsoft Azure Computing and VMware ESXi to power our infrastructure.",
+			"company": "BLADE Pro Pool is managed by Conrad from New York City. Our hotlines are: Hotline (USA): +1888-879-1733 and Hotline (UK): +44-20-8138-0159. Conrad's email is conrad@bladepool.com. His Twitter is: https://twitter.com/conraddit."
 		}
 	},
 	"my-pool-ids": {

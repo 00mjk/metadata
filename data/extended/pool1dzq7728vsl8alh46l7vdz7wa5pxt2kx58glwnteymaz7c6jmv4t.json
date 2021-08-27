@@ -1,0 +1,57 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://i.imgur.com/EXSiItH.png",
+		"url_png_logo": "https://i.imgur.com/ZJ9joMr.png",
+		"location": "Sao Paulo, Brazil",
+		"social": {
+			"twitter_handle": "aida_pool",
+			"telegram_handle": "gussept",
+			"facebook_handle": "",
+			"youtube_handle": "channel/UC_CsC8HdL7IFs_Ez-T1P4qA",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "AIDa Pool",
+			"addr": "",
+			"city": "Sao Paulo",
+			"country": "Brazil",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Single pool operators from Brazil, passionate about Cardano technology to the bone.",
+			"server": "Cloud hosted at São Paulo, Brazil",
+			"company": "Your stake matters! 50% of our profits supports funding the unbanked dreams at Kiva."
+		}
+	},
+	"my-pool-ids": {
+		"0": "6881ef28ec87cfdfdebaff98d179dda04cb558d43a3ee9af24df45ec"
+	},
+	"when-satured-then-recommend": {
+		"0": "6881ef28ec87cfdfdebaff98d179dda04cb558d43a3ee9af24df45ec"
+	},
+	"telegram-admin-handle": {
+		"0": "gussept"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "",
+				"type": "",
+				"key": ""
+			},
+			"1": {
+				"name": "",
+				"type": "",
+				"key": ""
+			},
+			"2": {
+				"name": "",
+				"type": "",
+				"key": ""
+			}
+		}
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://noar-metadata.stakepool.cloud/pool-icon.png",
+		"url_png_logo": "https://noar-metadata.stakepool.cloud/pool-logo.png",
+		"location": "San Francisco, CA",
+		"social": {
+			"discord_handle": "https://discord.gg/fBQ46XzF"
+		},
+		"company": {
+			"name": "NOAR Staking",
+			"addr": "San Francisco, CA",
+			"city": "San Francisco",
+			"country": "USA",
+			"company_id": "",
+			"vat_id": ""
+		}
+	}
+}
