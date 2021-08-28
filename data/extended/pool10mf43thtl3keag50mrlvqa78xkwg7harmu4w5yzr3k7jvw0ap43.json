@@ -1,19 +1,19 @@
 {
 	"info": {
-		"url_png_icon_64x64": "https://bladarunner.com/favicon-96x96.png",
-		"url_png_logo": "https://bladarunner.com/apple-icon-60x60.png",
+		"url_png_icon_64x64": "https://www.jorgepool.com/favicon-64x64.png",
+		"url_png_logo": "https://www.jorgepool.com/apple-touch-icon.png",
 		"location": "Funchal, Portugal",
 		"social": {
 			"twitter_handle": "JorgePascoal18",
-			"telegram_handle": "bladarunner",
-			"facebook_handle": "bladarunner",
-			"youtube_handle": "",
+			"telegram_handle": "jorgepool",
+			"facebook_handle": "",
+			"youtube_handle": "channel/UCzMmvQKvttixIUUGYth40Tg",
 			"twitch_handle": "",
-			"discord_handle": "https://discord.gg/UUWFuU",
-			"github_handle": "bladarunner"
+			"discord_handle": "",
+			"github_handle": ""
 		},
 		"company": {
-			"name": "Jorge Pascoal",
+			"name": "Jorge Pascoal Barbosa",
 			"addr": "",
 			"city": "Funchal",
 			"country": "Portugal",
@@ -22,7 +22,7 @@
 		},
 		"about": {
 			"me": "Digital Entrepreneur & Pioneer",
-			"server": "We have 10 servers deployed. 2 for cores and 4 of them as our relays. The rest are redundant standbys in the event of failure.",
+			"server": "We use GREEN, environmentally friendly, servers full of redundancy to tackle anything the network throws at it",
 			"company": "We have been in the IT industry for about 20 years"
 		},
 		"rss": ""
@@ -35,6 +35,6 @@
 		"1": "7de8b2a5f0a1272025d651aa019ddba38daf73061e824006a929bdcc"
 	},
 	"telegram-admin-handle": {
-		"0": "hotlimbo"
+		"0": "jorgepascoal"
 	}
 }

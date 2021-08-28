@@ -1,0 +1,21 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://financialrefuge.com/FIRE_Logo_poolMetadata_64_64.png",
+		"url_png_logo": "https://financialrefuge.com/FIRE_Logo_poolMetadata.png",
+		"location": "Germany",
+		"social": {
+			"twitter_handle": "FinancialRefuge",
+			"telegram_handle": "fire_pool"
+		},
+		"about": {
+			"me": "We believe in a free and decentralized monetary system, free from inflation, government control and central banking. The current financial system is broken and excludes a large part of humanity from fair access. Banking the unbanked!",
+			"server": "2 Relay Nodes + Block Producer | HW configuration CPU:4core|RAM:12GB|SSD:128GB"
+		}
+	},
+	"my-pool-ids": {
+		"0": "3ef2fd2433dd22627c88a1667232e48996c96563ec57d9d1631b07a2"
+	},
+	"when-satured-then-recommend": {
+		"0": "small pools to support decentralisation"
+	}
+}
