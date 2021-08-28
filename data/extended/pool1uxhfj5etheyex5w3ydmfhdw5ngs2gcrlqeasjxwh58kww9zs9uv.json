@@ -1,0 +1,57 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/kunoss/deci/main/decentral.iced_64.jpg",
+		"url_png_logo": "https://raw.githubusercontent.com/kunoss/deci/main/decentral.iced_50kb.jpg",
+		"location": "Muotathal, Switzerland",
+		"social": {
+			"twitter_handle": "decentraliced",
+			"telegram_handle": "decentraliced",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "I'm a young independent swiss who wants to help decentralice the Cardano Network with this small Pool.",
+			"server": "1 Producer and 2 Relays hosted on virtual machines.",
+			"company": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "e1ae99532bbe499351d123769bb5d49a20a4607f067b0919d7a1ece7"
+	},
+	"when-satured-then-recommend": {
+		"0": "c83beb18d532234c72a304ab935982be670c22e771b227a3febc3a82"
+	},
+	"telegram-admin-handle": {
+		"0": "t.me/decentralicedpool"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "",
+				"type": "",
+				"key": ""
+			},
+			"1": {
+				"name": "",
+				"type": "",
+				"key": ""
+			},
+			"2": {
+				"name": "",
+				"type": "",
+				"key": ""
+			}
+		}
+	}
+}

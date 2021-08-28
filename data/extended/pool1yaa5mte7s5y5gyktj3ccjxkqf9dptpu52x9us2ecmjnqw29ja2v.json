@@ -1,0 +1,28 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://riscv-pool.tech/extended-metadata/rv64-logo-64x64.png",
+		"url_png_logo": "https://riscv-pool.tech/extended-metadata/rv64-logo.png",
+		"location": "Rotterdam, The Netherlands",
+		"social": {
+			"twitter_handle": "rv64stakepool",
+			"telegram_handle": "woltere",
+			"facebook_handle": "",
+			"youtube_handle": "channel/UCWEeOlhT7b0TClzlqyeBRhw",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "RV64-Stake-Pool"
+		},
+		"about": {
+			"server": "RISC-V ISA powered stakepool running decentralised"
+		}
+	},
+	"my-pool-ids": {
+		"0": "277b4daf3e85094412cb9471891ac0495a158794518bc82b38dca607"
+	},
+	"when-satured-then-recommend": {
+		"0": "aa8b94010cd3c7199be1d619079c184a59e6f1ad930926bc2bd38579"
+	},
+	"telegram-admin-handle": {
+		"0": "woltere"
+	}
+}

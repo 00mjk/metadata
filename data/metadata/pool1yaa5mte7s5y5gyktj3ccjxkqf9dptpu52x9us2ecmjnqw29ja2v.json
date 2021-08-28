@@ -2,5 +2,6 @@
 	"name": "RISC-V powered Stake Pool",
 	"description": "RISC-V ISA powered Stake Pool",
 	"ticker": "RV64",
-	"homepage": "https://riscv-pool.tech/"
+	"homepage": "https://riscv-pool.tech/",
+	"extended": "https://riscv-pool.tech/extend-metadata/metadata.json"
 }
