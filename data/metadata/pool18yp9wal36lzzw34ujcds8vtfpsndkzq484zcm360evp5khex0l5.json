@@ -1,6 +1,9 @@
 {
 	"name": "ADARockPool",
-	"description": "Building on some great ideas, Increasing the decentralised network. From the community, For the community. STAKE ADA, STAKE ROCK",
-	"ticker": "ROCK",
-	"homepage": "https://www.facebook.com/ADAROCKPOOL"
+	"description": "Building on some great ideas, Increasing the decentralised network",
+	"ticker": "AROCK",
+	"homepage": "https://www.facebook.com/ADAROCKPOOL",
+	"social": {
+		"twitter_handle": "ADAROCKPOOL"
+	}
 }
