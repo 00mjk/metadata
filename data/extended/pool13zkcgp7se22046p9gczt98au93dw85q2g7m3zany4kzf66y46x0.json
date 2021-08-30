@@ -1,7 +1,7 @@
 {
 	"info": {
-		"url_png_icon_64x64": "https://raw.githubusercontent.com/Pilo20/tero/main/WhatsApp%20Image%202021-08-22%20at%203.4.png",
-		"url_png_logo": "https://raw.githubusercontent.com/Pilo20/tero/main/WhatsApp%20Image%202021-08-22%20at%203.4.png",
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/Pilo20/tero/main/logo_TERO%20(3)%20(1)%20(1).png",
+		"url_png_logo": "https://raw.githubusercontent.com/Pilo20/tero/main/logo_TERO%20(3)%20(1)%20(1).png",
 		"location": "Cuenca, ECUADOR",
 		"social": {
 			"twitter_handle": "PoolTero",
@@ -25,6 +25,8 @@
 	},
 	"my-pool-ids": {
 		"0": "88ad8407d0ca94fae8254604b29fbc2c5ae3d00a47b7117664ad849d",
+		"member_since": "2021-027-22",
+		"name": "TERO",
 		"1": ""
 	},
 	"telegram-admin-handle": {
