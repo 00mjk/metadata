@@ -6,7 +6,7 @@
 		"location": "Argentina",
 		"social": {
 			"twitter_handle": "adadogpool",
-			"telegram_handle": "adadogpool",
+			"telegram_handle": "adadogool",
 			"facebook_handle": "",
 			"youtube_handle": "",
 			"twitch_handle": "",
@@ -22,14 +22,14 @@
 			"vat_id": ""
 		},
 		"about": {
-			"me": "We are ADA DOG Pool",
-			"server": "ADA DOG Pool operates Bare Metal dedicated servers",
+			"me": "We are ADA DOG Pool, passionate DOG Lovers.",
+			"server": "ADA DOG Pool operates dedicated Bare Metal servers, to serve the best quality of ADA-rewards to you.",
 			"company": ""
 		},
 		"rss": ""
 	},
 	"my-pool-ids": [
-		"1d203e7d0dd203d63e04d8403b2ca9a92df7ebf72c1167854f1d2acf"
+		""
 	],
 	"when-satured-then-recommend": [
 		""
