@@ -1,0 +1,26 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://nampool.org/logo_64x64.png",
+		"url_png_logo": "https://nampool.org/logo.png",
+		"location": "Chiang Mai, Thailand",
+		"social": {
+			"telegram_handle": "nampool",
+			"twitter_handle": "nampool",
+			"youtube_handle": "channel/UCligunhcmbMYaBUMvONsKwg"
+		},
+		"company": {
+			"name": "Nam Pool"
+		},
+		"about": {
+			"me": "",
+			"server": ""
+		}
+	},
+	"adapools": "ed6d9672a5ea74667cb0ca867d7479fb",
+	"my-pool-ids": [
+		"8264de3cdb1798dd8758e24cda5101184b44543e7c4421c7815f9ed8"
+	],
+	"when-satured-then-recommend": [
+		"8264de3cdb1798dd8758e24cda5101184b44543e7c4421c7815f9ed8"
+	]
+}

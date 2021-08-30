@@ -1,0 +1,59 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://zettapools.com/wp-content/uploads/2021/05/cropped-1200px-Greek_lc_zeta.svg_-32x32.png",
+		"url_png_logo": "https://zettapools.com/wp-content/uploads/2021/05/cropped-1200px-Greek_lc_zeta.svg_-180x180.png",
+		"location": "Dublin, Ireland",
+		"social": {
+			"twitter_handle": "PoolsZetta",
+			"telegram_handle": "zettapools",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Zetta Pools",
+			"addr": "Street, Number",
+			"city": "Ireland",
+			"country": "England",
+			"company_id": "123456789",
+			"vat_id": "GB123456789"
+		},
+		"about": {
+			"me": "...",
+			"server": "Raspberry Pi Hosted at my Home in London 100MB up/down, solar energy.",
+			"company": "Descentralized pool for securing your stake. We will take the guesswork out of finding the right pool for you."
+		}
+	},
+	"my-pool-ids": {
+		"0": "a7f1ef079987f06ad72269fc325911f96d0d5acac581131ad387ce05"
+	},
+	"when-satured-then-recommend": {
+		"0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
+		"1": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
+	},
+	"telegram-admin-handle": {
+		"0": "your_tg_handle"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "relay 1 eu",
+				"type": "relay",
+				"key": "example_get_own_on_adapools.org/connect"
+			},
+			"1": {
+				"name": "relay 2 usa",
+				"type": "relay",
+				"key": "example_get_own_on_adapools.org/connect"
+			},
+			"2": {
+				"name": "block producer home",
+				"type": "bp",
+				"key": "example_get_own_on_adapools.org/connect"
+			}
+		}
+	}
+}
