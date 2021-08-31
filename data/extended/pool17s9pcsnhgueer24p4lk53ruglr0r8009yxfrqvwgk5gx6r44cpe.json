@@ -1,7 +1,7 @@
 {
 	"info": {
-		"url_png_icon_64x64": "https://raw.githubusercontent.com/ProofStakePool/Proof-StakePool/main/icon64x64.png",
-		"url_png_logo": "",
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/ProofStakePool/Proof-StakePool/main/64x64.png",
+		"url_png_logo": "https://raw.githubusercontent.com/ProofStakePool/Proof-StakePool/main/200x200.png",
 		"location": "Germany",
 		"social": {
 			"twitter_handle": "ProofStakePool",
@@ -22,8 +22,8 @@
 		},
 		"about": {
 			"me": "German based Single Pool Operator with focuses on high reliability and true decentralization",
-			"server": "Block Producer EU (Germany) 6 vCPU 16 GB RAM 400GB SSD 400 Mbit\nRelay Node 1 EU (Germany) 6 vCPU 16 GB RAM 400GB SSD 400 Mbit/s\nRelay Node 2 US (Central) 6 vCPU 16 GB RAM 400GB SSD 400 Mbit/s\nRelay Node 3 ASIA (Singapore) 6 vCPU 16 GB RAM 400GB SSD 400 Mbit/s",
-			"company": "Proof Stake Pool"
+			"server": "4 x High-Performance VPS with 6 vCPU Cores, 16 GB RAM, 400GB SSD, 400 Mbit/s Port",
+			"company": ""
 		}
 	}
 }
