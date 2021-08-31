@@ -1,0 +1,24 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://aada.finance/wp-content/uploads/2021/06/cropped-Logo-Blue--e1630155989652.png",
+		"url_png_logo": "https://aada.finance/wp-content/uploads/2021/06/Logo-Blue-.png",
+		"location": "Vilnius, Lithuania",
+		"social": {
+			"instagram_handle": "",
+			"discord_handle": "",
+			"reddit_handle": "",
+			"twitter_handle": "aadafinance",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"telegram_handle": "aadacommunity",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "AADA FINANCE"
+		},
+		"about": {
+			"me": "During the ISPO (32 Epochs starting September 14th), 100% of the stake rewards will go to Aada development. At the end of the ISPO, delegators will be rewarded AADA tokens for their participation. For each staked ADA for full epoch you get 0.005 AADA"
+		}
+	}
+}
