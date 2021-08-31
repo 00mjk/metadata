@@ -1,0 +1,32 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://www.arigatopool.com/assets/1f64f_64.png",
+		"url_png_logo": "https://www.arigatopool.com/assets/1f64f.png",
+		"location": "Tokyo, Japan",
+		"social": {
+			"twitter_handle": "arigatopool",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Arigato Pool",
+			"addr": "Ota-ku",
+			"city": "Tokyo",
+			"country": "Japan"
+		},
+		"about": {
+			"me": "...",
+			"server": "8 Core 16 GB x3 VMs in Tokyo and the network is via VPS  (up to 1 Gbps)",
+			"company": "..."
+		}
+	},
+	"my-pool-ids": {
+		"0": "cdf5b86f71679302bffd08b3b8fec1fd6135350b156e964d3b001662"
+	},
+	"adapools_ext": {}
+}
