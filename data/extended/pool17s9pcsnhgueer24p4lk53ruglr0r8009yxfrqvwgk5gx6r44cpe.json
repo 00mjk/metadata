@@ -21,9 +21,9 @@
 			"vat_id": ""
 		},
 		"about": {
-			"me": "PROOF is an german based professionally run Cardano stake pool committed to provide a secure and reliable staking service while maintaining fair fees and a  transparent operation.",
-			"server": "4 x High-Performance VPS with 6 vCPU Cores, 16 GB RAM, 400GB SSD, 400 Mbit/s Port",
-			"company": ""
+			"me": "",
+			"server": "We run high performance servers with multiple layers of security and redundancy allocated in 3 continents to make sure that every transaction which runs through our stakepool to be as fast as possible to be delivered. The block producing node and 3 relays each utilize 6 vCPU Cores, 16 GB RAM and 400 GB SSDs.",
+			"company": "PROOF is a professionally run Cardano stake pool committed to provide a secure and reliable staking service while maintaining fair fees and a transparent operation."
 		}
 	}
 }
