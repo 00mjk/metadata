@@ -14,24 +14,20 @@
 		},
 		"company": {
 			"name": "Third Power Performance",
-			"addr": "5535 SW 41st Street",
-			"city": "Ocala",
+			"addr": "",
+			"city": "Ocala, FL",
 			"country": "USA",
 			"company_id": "",
 			"vat_id": ""
 		},
 		"about": {
-			"me": "America's Life Balance Expert, Author, Professional Motivational Speaker, Personal Development Leader, Technology Geek",
-			"server": "Azure Based VMs",
-			"company": "Helping change the world one person at a time!"
+			"me": "I'm all about helping people live their best life. A huge part of that is financial education. Crypto is a key part of a solid financial foundation.",
+			"server": "Azure Based VMs, professionally monitored and maintained.",
+			"company": "Helping change the world one person and one pool at a time!"
 		}
 	},
 	"my-pool-ids": {
 		"0": "32f2cc4671c6d5ef9bb43e516b7e764c6d33cb344502ac0a1945ff76"
-	},
-	"when-satured-then-recommend": {
-		"0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
-		"1": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
 	},
 	"telegram-admin-handle": {
 		"0": "Daniel_Gentry_II"
