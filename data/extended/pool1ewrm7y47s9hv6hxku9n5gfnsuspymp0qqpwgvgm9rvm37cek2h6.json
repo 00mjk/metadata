@@ -22,8 +22,8 @@
 		},
 		"about": {
 			"me": "Vahid",
-			"server": "2 Relays, 1 Node Producer at Professional Managed Datacenter in Amsterdam",
-			"company": "ADA 4 Good"
+			"server": "3 Relays, 2 Node Producers (1 hot backup) at Professional Managed Datacenter in Amsterdam",
+			"company": "ADA4Good"
 		},
 		"rss": ""
 	},
