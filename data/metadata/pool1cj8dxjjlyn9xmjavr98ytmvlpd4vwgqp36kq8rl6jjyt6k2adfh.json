@@ -1,6 +1,6 @@
 {
-	"name": "AADA FINANCE ISPO",
-	"description": "During the ISPO (32 Epochs starting September 14th), 100% of the stake rewards will go to Aada development. At the end of the ISPO, delegators will be rewarded AADA tokens for their participation. For each staked ADA you get 0.15 AADA",
+	"name": "Aada Finance - Stake ADA earn AADA",
+	"description": "During the ISPO (32 Epochs starting September 14th), 100% of the stake rewards will go to Aada development. At the end of the ISPO, delegators will be rewarded AADA tokens for their participation. For each staked ADA for full epoch you get 0.005 AADA",
 	"ticker": "ISPO",
 	"homepage": "https://aada.finance",
 	"extended": "https://aada.finance/stake_pools/poolMetaDataExtended1.json"
