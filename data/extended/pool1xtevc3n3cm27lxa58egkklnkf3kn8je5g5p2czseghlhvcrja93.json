@@ -1,0 +1,48 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://thirdpowerlife.com/wp-content/uploads/2021/08/Color_Life_Triad_Logo_Square_64.png",
+		"url_png_logo": "https://thirdpowerlife.com/wp-content/uploads/2020/12/Color_Life_Triad_Logo_Square_200.png",
+		"location": "Ocala, Florida, USA",
+		"social": {
+			"twitter_handle": "ThirdPowerPerf",
+			"telegram_handle": "Daniel_Gentry_II",
+			"facebook_handle": "ThirdPowerPerformance",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Third Power Performance",
+			"addr": "5535 SW 41st Street",
+			"city": "Ocala",
+			"country": "USA",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "America's Life Balance Expert, Author, Professional Motivational Speaker, Personal Development Leader, Technology Geek",
+			"server": "Azure Based VMs",
+			"company": "Helping change the world one person at a time!"
+		}
+	},
+	"my-pool-ids": {
+		"0": "32f2cc4671c6d5ef9bb43e516b7e764c6d33cb344502ac0a1945ff76"
+	},
+	"when-satured-then-recommend": {
+		"0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
+		"1": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
+	},
+	"telegram-admin-handle": {
+		"0": "Daniel_Gentry_II"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "relay 1 usa",
+				"type": "relay",
+				"key": "relay1.thirdpowerlife.com"
+			}
+		}
+	}
+}

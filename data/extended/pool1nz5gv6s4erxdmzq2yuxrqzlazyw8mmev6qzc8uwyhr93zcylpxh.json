@@ -1,0 +1,41 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://roundrock.stakecentral.net/favicon-32x32.png",
+		"url_png_logo": "https://roundrock.stakecentral.net/images/pool-icon.png",
+		"location": "Round Rock, Texas, USA",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "roundrocktx",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "qZ9fNG4n43",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "Round Rock",
+			"country": "USA",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "We're committed to serving our community and supporting the efforts of local charities",
+			"server": "Cloud Hosted servers in Microsoft Azure",
+			"company": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "98a8866a15c8ccdd880a270c300bfd111c7def2cd00583f1c4b8cb11"
+	},
+	"when-satured-then-recommend": {
+		"0": ""
+	},
+	"telegram-admin-handle": {
+		"0": "roundrocktx"
+	},
+	"adapools_ext": {
+		"prometheus": {}
+	}
+}

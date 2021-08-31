@@ -1,7 +1,8 @@
 {
 	"name": "Zed",
 	"ticker": "ZED",
-	"homepage": "http://www.zed-pool.com",
-	"description": "Pool For The People...",
-	"somewhere": "32585ada8c4a5cfa1f39f145da245156"
+	"description": "Zed Community Pool",
+	"homepage": "https://www.facebook.com/groups/115279737067274",
+	"nonce": "1630373980",
+	"extended": "https://raw.githubusercontent.com/ezeitoun/ada/main/ext.json"
 }

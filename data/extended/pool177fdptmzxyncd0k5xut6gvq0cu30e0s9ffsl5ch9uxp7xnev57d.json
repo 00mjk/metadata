@@ -1,0 +1,19 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://github.com/ezeitoun/ada/blob/main/Logo64.png?raw=true",
+		"url_png_logo": "https://github.com/ezeitoun/ada/blob/main/Logo.png?raw=true",
+		"location": "Tel Aviv, Israel",
+		"social": {
+			"twitter_handle": "adatlv",
+			"telegram_handle": "adatlv",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"about": {
+			"me": "Community Pool"
+		}
+	}
+}

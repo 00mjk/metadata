@@ -2,5 +2,6 @@
 	"name": "Third Power Life Crypto",
 	"description": "The pool for a Third Power Life",
 	"ticker": "THIRD",
-	"homepage": "https://thirdpowerlife.com/crypto"
+	"homepage": "https://thirdpowerlife.com/crypto",
+	"extended": "https://thirdpowerlife.com/extendedMetadata.txt"
 }
