@@ -1,0 +1,36 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/gibonada/sean/master/sean_icon.png",
+		"url_png_logo": "https://raw.githubusercontent.com/gibonada/sean/master/Sean_logo.png",
+		"location": "Ireland",
+		"social": {
+			"twitter_handle": "seanbensonpool",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Benson Crypto",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Official stake pool of Sean Benson (Benson Crypto). Join this pool for the best returns powered by the safest and most secure servers to ensure maximum uptime.",
+			"server": "3 very fast private servers located in USA and Germany.",
+			"company": "Benson Crypto"
+		}
+	},
+	"my-pool-ids": {
+		"0": "b352315bd54d61dfcd8fd78a2aa4f3e0cc8ef342b9495465b0b0b2ce"
+	},
+	"when-satured-then-recommend": {
+		"0": "b352315bd54d61dfcd8fd78a2aa4f3e0cc8ef342b9495465b0b0b2ce",
+		"1": "550f5dc96814537404c7544175d348262699e448d74005dfa26540d3"
+	}
+}

@@ -1,7 +1,6 @@
 {
-	"name": "SkyLightPool.com",
-	"description": "SkyLightPool a professionally-managed Cardano staking pool, owned and operated by the Wave Financial Group.",
+	"name": "skylightpool.com",
+	"description": "SkyLightPool is a professionally-managed Cardano staking pool owned and operated by Wave Pool",
 	"ticker": "SKY",
-	"homepage": "https://skylightpool.com",
-	"extended": "https://data.pooltool.io/md/1d55010a-cb48-442d-9938-a6af3bd398c6"
+	"homepage": "https://skylightpool.com"
 }

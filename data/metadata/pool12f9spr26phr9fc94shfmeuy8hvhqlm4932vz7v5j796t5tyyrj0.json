@@ -1,0 +1,7 @@
+{
+	"name": "Benson Crypto Pool",
+	"description": "Official stake pool of Sean Benson (Benson Crypto). Join this pool for the best returns powered by the safest and most secure servers to ensure maximum uptime.",
+	"ticker": "BNSN",
+	"homepage": "https://www.youtube.com/channel/UCHqubNRiGzQbmKAG9MEbCnw",
+	"extended": "https://raw.githubusercontent.com/gibonada/Sean/master/extended.json"
+}

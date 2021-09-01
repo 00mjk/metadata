@@ -1,0 +1,19 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://github.com/jackingram/mainnet/raw/main/stakepool64.png",
+		"url_png_logo": "https://github.com/jackingram/mainnet/raw/main/stakepoolhighres.png",
+		"location": "Ontario, Canada",
+		"social": {
+			"twitter_handle": "jackingrm",
+			"youtube_handle": "channel/UCO_-AuhWHBUYq_eF63FS7bg",
+			"discord_handle": "9mh4aYwujG"
+		},
+		"about": {
+			"me": "My name is Jack, I make youtube videos on Cardano & I'm a single pool operator from Canada!",
+			"server": "JACK Pool helps supprt my youtube channel while you earn passive ADA & help decentralize the network!"
+		}
+	},
+	"my-pool-ids": {
+		"0": "bd50ebea27a9e846bcd873c361ecb1a4d9baf738040d232882109fcd"
+	}
+}
