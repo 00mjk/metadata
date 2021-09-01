@@ -1,7 +1,8 @@
 {
-	"name": "ADA4GOOD",
-	"description": "This is a Professional Cardano Charity Pool! We donate 50% of Fees to causes supporting children in need! Check our website!",
+	"name": "ADA4Good",
 	"ticker": "A4G",
+	"description": "1. We support the Cardano Africa vision 2. Share World Mobile Tokens staking rewards 3. Donate 50% of margin fees to Save The Children!",
 	"homepage": "https://www.ada4good.com",
+	"nonce": "1630414090",
 	"extended": "https://raw.githubusercontent.com/Golden-VS/cnode/main/extended"
 }

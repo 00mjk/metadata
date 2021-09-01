@@ -1,7 +1,6 @@
 {
-	"name": "Mana Pool",
-	"ticker": "MANA",
-	"description": "Mana Stake Pool",
-	"homepage": "https://manapool.io",
-	"nonce": "1597319326"
+	"name": "Devil Pool",
+	"description": "Save the Tasmanian Devil",
+	"ticker": "DEVIL",
+	"homepage": "https://devilpool.org"
 }
