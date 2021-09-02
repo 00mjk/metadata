@@ -3,7 +3,8 @@
 		"url_png_icon_64x64": "https://cardano-olympic.ge/OLYMP_Logo_64X64.png",
 		"url_png_logo": "https://cardano-olympic.ge/OLYMP_Logo.png",
 		"social": {
-			"twitter_handle": "OlympicSizePool"
+			"twitter_handle": "OlympicSizePool",
+			"telegram_handle": "OlympicSizePool"
 		}
 	}
 }
