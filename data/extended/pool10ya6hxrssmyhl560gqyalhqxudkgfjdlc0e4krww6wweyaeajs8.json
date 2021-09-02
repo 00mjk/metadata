@@ -1,50 +1,32 @@
 {
-	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
 	"info": {
 		"url_png_icon_64x64": "https://raw.githubusercontent.com/nkr-ada-pool/public-information/master/nkr-ada-pool-only64-64.png",
 		"url_png_logo": "https://raw.githubusercontent.com/nkr-ada-pool/public-information/master/nkr-ada-pool-only190-190.png",
 		"location": "",
 		"social": {
-			"twitter_handle": "nkr_1234",
-			"telegram_handle": "",
-			"facebook_handle": "",
-			"youtube_handle": "",
-			"twitch_handle": "",
-			"discord_handle": "",
-			"github_handle": ""
+			"twitter_handle": "nkr_1234"
 		},
 		"about": {
 			"me": "日本人オペレーターが運営するNKR ADA POOLです。本職はエンジニアです。培ったスキルを活かしてプール運用に活かしていきたいと思います。 NKR ADA POOL is operated by a Japanese operator. My day job is an engineer. I would like to utilize the skills I have developed to operate the pool.",
-			"server": "6core CPU / 8GB RAM / VPS"
+			"server": "8core CPU / 16GB RAM / VPS"
 		}
 	},
 	"my-pool-ids": {
-		"0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
-		"1": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
-	},
-	"when-satured-then-recommend": {
-		"0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
-		"1": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
-	},
-	"telegram-admin-handle": {
-		"0": "mnmnmnmnnmn"
+		"0": "793bab987086c97fd34f4009dfdc06e36c84c9bfc3f35b0dced39d92"
 	},
 	"adapools_ext": {
 		"prometheus": {
 			"0": {
-				"name": "relay 1 eu",
-				"type": "relay",
-				"key": "example_get_own_on_adapools.org/connect"
+				"name": "relay 1 jp",
+				"type": "relay"
 			},
 			"1": {
-				"name": "relay 2 usa",
-				"type": "relay",
-				"key": "example_get_own_on_adapools.org/connect"
+				"name": "relay 2 sg",
+				"type": "relay"
 			},
 			"2": {
 				"name": "block producer home",
-				"type": "bp",
-				"key": "example_get_own_on_adapools.org/connect"
+				"type": "bp"
 			}
 		}
 	}

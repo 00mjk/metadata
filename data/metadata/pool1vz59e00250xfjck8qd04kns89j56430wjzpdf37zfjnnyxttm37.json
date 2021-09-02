@@ -1,6 +1,7 @@
 {
-	"name": "JasmineStakePool",
-	"description": "This is the Jasmine Project",
+	"name": "Jasmine Stake Pool",
 	"ticker": "JASM",
-	"homepage": "http://dk-lab.ml:8080/jasmine-stake-pool-meta-001.json"
+	"description": "JASM is a stake pool which is managed by SW experts from the US, JP and ROK. So we can guarantee the reliability/stability of the stake pool. And we will donate to help children. Please help children while ATST receiving stable rewards THRU ADA staking.",
+	"homepage": "http://www.dk-lab.ml:8080",
+	"extended": "http://www.dk-lab.ml:8080/jasm-ext-meta-002.json"
 }
