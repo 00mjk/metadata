@@ -1,6 +1,7 @@
 {
-	"name": "FatStakes",
-	"description": "A staking pool with fat rewards",
+	"name": "Fat Stakes",
 	"ticker": "FAT",
-	"homepage": "https://fatstakes.com"
+	"description": "A staking pool with fat rewards",
+	"homepage": "https://fatstakes.com",
+	"nonce": "1630528382"
 }

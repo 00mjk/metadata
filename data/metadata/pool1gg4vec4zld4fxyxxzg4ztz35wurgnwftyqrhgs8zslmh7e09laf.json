@@ -2,5 +2,6 @@
 	"name": "ONYX Stake Pool #5",
 	"ticker": "ONYX",
 	"description": "Welcome to the world of the ONYX stake pools!",
-	"homepage": "https://onyxstakepool.com"
+	"homepage": "https://onyxstakepool.com",
+	"extended": "https://onyxstakepool.com/pooltool-onyx5.json"
 }

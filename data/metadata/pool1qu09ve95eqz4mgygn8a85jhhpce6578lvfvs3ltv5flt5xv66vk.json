@@ -3,5 +3,6 @@
 	"ticker": "CHIPI",
 	"description": "Cheaper Stake Pool Always Low Margin",
 	"homepage": "https://cheaperpool.com",
-	"nonce": "1629465595"
+	"nonce": "1630515399",
+	"extended": "https://cheaperpool.com/poolmeta_extended.json"
 }

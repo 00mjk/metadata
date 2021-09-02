@@ -1,0 +1,20 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://cheaperpool.com/we_need_to_go_cheaper_Isc_icon.ico",
+		"location": "New Jersey USA",
+		"social": {
+			"twitter_handle": "cheaperPool",
+			"telegram_handle": "Cheaperpool"
+		},
+		"about": {
+			"me": "Single Pool Operator",
+			"server": "Block Producer: 7th Generation Intel i5, 4 CPU, 16GB RAM, SSD 250GB. Relay: 7th Generation Intel i5, 4 CPU, 16GB RAM, SSD 250GB. 300 Mbps Fiber Optic. Cat 8 Ethernet LAN Cable"
+		},
+		"my-pool-ids": {
+			"0": "071e5664b4c8055da08899fa7a4af70e33aa78ff625908fd6ca27eba"
+		},
+		"when-satured-then-recommend": {
+			"0": "small pools - support decentralization"
+		}
+	}
+}
