@@ -2,5 +2,6 @@
 	"name": "CDAN Stake Pool Australia",
 	"description": "Secure, independent & reliable stake pool operating from Melbourne, Australia",
 	"ticker": "CDAN",
-	"homepage": "https://cdanstakepool.com"
+	"homepage": "https://cdanstakepool.com",
+	"extended": "https://cdanstakepool.com/cdanExtended.metadata.json"
 }
