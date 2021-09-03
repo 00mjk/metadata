@@ -1,0 +1,38 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.cardanoaldia.com/wp-content/uploads/2020/02/wp-facil.png",
+		"url_png_logo": "https://www.cardanoaldia.com/wp-content/uploads/2020/02/wp-facil.png",
+		"location": "Spain",
+		"social": {
+			"twitter_handle": "CardanoAlDia",
+			"telegram_handle": "cardanoaldia",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Cardano al dia",
+			"addr": "",
+			"city": "",
+			"country": "Spain",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": ""
+		}
+	},
+	"telegram-admin-handle": [
+		""
+	],
+	"my-pool-ids": [
+		"3d32cae041dd2f829b8d550dfc0a9fb867f5484b0761ada0dc902d9f"
+	],
+	"when-satured-then-recommend": [
+		"3d32cae041dd2f829b8d550dfc0a9fb867f5484b0761ada0dc902d9f"
+	]
+}
