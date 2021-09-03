@@ -14,7 +14,7 @@
 			"github_handle": ""
 		},
 		"company": {
-			"name": "Kaya Pool Singapore",
+			"name": "Kaya Pool",
 			"addr": "",
 			"city": "Singapore",
 			"country": "Singapore",
@@ -22,7 +22,7 @@
 			"vat_id": ""
 		},
 		"about": {
-			"me": "Singapore Cardano ADA Stake Pool Operator",
+			"me": "Cardano ADA Stake Pool Operator",
 			"server": "Multiple geolocation VPS servers hosted in Singapore, United States and Germany",
 			"company": ""
 		}
