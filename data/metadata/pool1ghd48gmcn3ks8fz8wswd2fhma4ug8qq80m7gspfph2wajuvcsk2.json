@@ -1,8 +1,8 @@
 {
 	"name": "VALENCE",
 	"ticker": "VLNS",
-	"description": "Professionally run Cardano stake pool fostering the reliability and power of the Google Cloud Platform.",
-	"homepage": "https://valencepool.info",
-	"nonce": "1606515915",
+	"description": "Professionally run Cardano Stake Pool fostering the reliability, sustainability and power of the Google Cloud Platform",
+	"homepage": "https://valencepool.com",
+	"nonce": "1630698231",
 	"extended": "https://valencepool.info/extended-valencemeta.json"
 }

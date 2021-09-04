@@ -2,5 +2,6 @@
 	"name": "LBC1M Pool",
 	"description": "LBCrypt Pool - Professionally Maintained, Low Fees, Maximizing Return",
 	"ticker": "LBC1M",
-	"homepage": "http://lbcrypt.com/"
+	"homepage": "http://lbcrypt.com/",
+	"extended": "htt[://lbcrypt.com/extended.json"
 }

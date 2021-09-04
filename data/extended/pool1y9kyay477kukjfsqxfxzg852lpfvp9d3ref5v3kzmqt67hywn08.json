@@ -1,0 +1,25 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/animal-welfare-pool/vault/main/image/pool_icon_64x64.png",
+		"url_png_logo": "https://raw.githubusercontent.com/animal-welfare-pool/vault/main/image/banner_500x239.png",
+		"social": {
+			"twitter_handle": "AnimalWelfarePl",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"discord_handle": ""
+		},
+		"about": {
+			"me": "Two Japanese Engineers",
+			"server": "Pool for Animal Welfare"
+		}
+	},
+	"my-pool-ids": {
+		"0": ""
+	},
+	"when-satured-then-recommend": {
+		"0": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	}
+}

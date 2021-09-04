@@ -3,5 +3,6 @@
 	"ticker": "FAT",
 	"description": "A staking pool with fat rewards",
 	"homepage": "https://fatstakes.com",
-	"nonce": "1630528382"
+	"nonce": "1630724083",
+	"extended": "https://fatstakes.com/metadata-extended.json"
 }

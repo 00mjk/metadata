@@ -1,7 +1,7 @@
 {
-	"name": "The LIFT Staking Pool",
-	"description": "The LIFT Staking Pool - Giving back while providing decentralized support to Cardano.",
-	"ticker": "LIFT",
-	"homepage": "https://www.liftstakepool.com/",
-	"extended": "https://www.liftstakepool.com/poolmeta-extended.json"
+	"name": "[SHARP] CardanoSHARP Stake Pool",
+	"description": "The CardanoSHARP Stake Pool - Support .NET Development on Cardano.",
+	"ticker": "SHARP",
+	"homepage": "https://www.sharpstakepool.com/",
+	"extended": "https://www.sharpstakepool.com/poolmeta-extended.json"
 }

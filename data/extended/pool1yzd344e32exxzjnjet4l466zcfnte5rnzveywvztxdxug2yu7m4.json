@@ -1,0 +1,36 @@
+{
+	"info": {
+		"url_png_icon_64x64": "",
+		"url_png_logo": "",
+		"location": "California",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "FatStakes",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Fat Stakes",
+			"addr": "",
+			"city": "",
+			"country": "US",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "Cloud based infrastructure with high reliability, availability and security",
+			"company": "Fat Stakes"
+		}
+	},
+	"my-pool-ids": {
+		"0": "209b1ad731564c614a72caebfaeb42c266bcd073133247304b334dc4"
+	},
+	"when-satured-then-recommend": {},
+	"telegram-admin-handle": {
+		"0": "FatStakes"
+	}
+}

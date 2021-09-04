@@ -1,11 +1,9 @@
 {
 	"info": {
-		"url_png_icon_64x64": "https://www.liftstakepool.com/avatar.png",
+		"url_png_icon_64x64": "https://www.sharpstakepool.com/logo64.png",
 		"location": "Columbus, OH",
 		"social": {
-			"twitter_handle": "LiftStakePool",
-			"discord_handle": "3CEXGzA",
-			"telegram_handle": "liftstakepool"
+			"twitter_handle": "SharpPool"
 		}
 	},
 	"my-pool-ids": [
