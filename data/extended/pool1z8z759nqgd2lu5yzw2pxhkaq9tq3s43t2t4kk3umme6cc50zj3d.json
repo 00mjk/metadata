@@ -9,7 +9,7 @@
 		},
 		"about": {
 			"me": "",
-			"server": "2x Relays (4vCPUs, 8GB, NVMe SSD) and 1x Block Producer (4vCPUs, 8GB, NVMe SSD)"
+			"server": "1 Relay (4vCPUs, 8GB, NVMe SSD) and 1x Block Producer (4vCPUs, 8GB, NVMe SSD)"
 		}
 	},
 	"my-pool-ids": {
@@ -25,11 +25,6 @@
 				"name": "EU #1 Relay",
 				"type": "relay",
 				"key": "a25306edcf0380fbcdd32f46b23b30e8"
-			},
-			"1": {
-				"name": "EU #2 Relay",
-				"type": "relay",
-				"key": "9bc14665b1d4bf008e9f43c96fd50203"
 			}
 		}
 	}
