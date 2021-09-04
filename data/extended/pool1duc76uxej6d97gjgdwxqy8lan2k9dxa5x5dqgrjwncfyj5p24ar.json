@@ -2,10 +2,10 @@
 	"info": {
 		"url_png_icon_64x64": "",
 		"url_png_logo": "",
-		"location": "",
+		"location": "Madrid, Spain",
 		"social": {
 			"twitter_handle": "",
-			"telegram_handle": "",
+			"telegram_handle": "estacapool",
 			"facebook_handle": "",
 			"youtube_handle": "",
 			"twitch_handle": "",
@@ -27,7 +27,7 @@
 		}
 	},
 	"my-pool-ids": {
-		"0": "",
+		"0": "6f31ed70d9969a5f22486b8c021ffd9aac569bb4351a040e4e9e1249",
 		"1": ""
 	},
 	"when-satured-then-recommend": {
@@ -35,7 +35,9 @@
 		"1": ""
 	},
 	"telegram-admin-handle": {
-		"0": ""
+		"0": "javiml",
+		"1": "nlozano",
+		"2": "mariotrapiello"
 	},
 	"adapools_ext": {
 		"prometheus": {
@@ -45,6 +47,11 @@
 				"key": ""
 			},
 			"1": {
+				"name": "",
+				"type": "",
+				"key": ""
+			},
+			"2": {
 				"name": "",
 				"type": "",
 				"key": ""
