@@ -6,7 +6,7 @@
 		"location": "Las Vegas, Nevada",
 		"social": {
 			"twitter_handle": "@act_pool",
-			"telegram_handle": "@actpool",
+			"telegram_handle": "actpool",
 			"facebook_handle": "",
 			"youtube_handle": "channel/UCMB9yGj-0Wva02tsj8W2Ggg",
 			"twitch_handle": "",
@@ -37,7 +37,7 @@
 		"1": ""
 	},
 	"telegram-admin-handle": {
-		"0": "@actpool"
+		"0": "actpool"
 	},
 	"adapools_ext": {
 		"prometheus": {

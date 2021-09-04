@@ -8,7 +8,7 @@
 		},
 		"about": {
 			"me": "Cardano pool protected by Viking Gods",
-			"server": "Google Cloud VMs with 2 VCPU, 8GB RAM, 3Gbit/s"
+			"server": "Google Cloud VMs with 2 VCPU, 12GB RAM, 3Gbit/s"
 		}
 	},
 	"my-pool-ids": {
