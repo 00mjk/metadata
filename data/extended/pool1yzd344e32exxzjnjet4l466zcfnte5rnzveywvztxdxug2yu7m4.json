@@ -1,10 +1,10 @@
 {
 	"info": {
-		"url_png_icon_64x64": "",
-		"url_png_logo": "",
+		"url_png_icon_64x64": "https://fatstakes.com/images/icon-64.png",
+		"url_png_logo": "https://fatstakes.com/images/icon-256.png",
 		"location": "California",
 		"social": {
-			"twitter_handle": "",
+			"twitter_handle": "Fat_Stakes",
 			"telegram_handle": "FatStakes",
 			"facebook_handle": "",
 			"youtube_handle": "",
