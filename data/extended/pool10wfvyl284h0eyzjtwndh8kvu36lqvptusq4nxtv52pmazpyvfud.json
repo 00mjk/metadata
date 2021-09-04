@@ -37,7 +37,7 @@
 		"1": ""
 	},
 	"telegram-admin-handle": {
-		"0": "your_tg_handle"
+		"0": "@actpool"
 	},
 	"adapools_ext": {
 		"prometheus": {
