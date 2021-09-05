@@ -1,6 +1,7 @@
 {
-	"name": "GES ADA Rocket",
-	"description": "ADA Rocket pool, going to Venus, spaceship codename: ges",
+	"name": "GES ADA",
+	"description": "GES ADA pool, low fees, single SPO",
 	"ticker": "GES",
-	"homepage": "https://adarocket.me"
+	"homepage": "https://gesada.me",
+	"extended": "https://gesada.me/poolinfo/extended.json"
 }

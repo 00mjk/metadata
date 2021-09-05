@@ -1,0 +1,38 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://adarocket.me/poolinfo/icon64.png",
+		"url_png_logo": "https://adarocket.me/poolinfo/logo.png",
+		"location": "Clifton, US",
+		"social": {
+			"twitter_handle": "blackrocket",
+			"telegram_handle": "adarocket",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "https://github.com/adarocket"
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Single Stake Pool Operator, team of enthusiasts with extended experience in diffferent IT areas. We are also developing  monitoring tools to track cardano nodes ",
+			"server": "Cloud  based high performance server with daily backups, Clifton, US",
+			"company": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "59b59f232e80f18ce64e0f74560effbf49a3e95ddf6d079681db8b23"
+	},
+	"when-satured-then-recommend": {
+		"0": "59b59f232e80f18ce64e0f74560effbf49a3e95ddf6d079681db8b23"
+	},
+	"telegram-admin-handle": {
+		"0": "blackrocketnode"
+	}
+}

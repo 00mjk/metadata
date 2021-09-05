@@ -3,5 +3,6 @@
 	"ticker": "KAKEB",
 	"description": "0% fee! Stake with us and earn rewards for your effort",
 	"homepage": "http://www.kakebopool.com",
-	"nonce": "1630675422"
+	"nonce": "1630675422",
+	"adapools": "aed191ffcd2bf0f5b19eb8cdec84d3ef"
 }
