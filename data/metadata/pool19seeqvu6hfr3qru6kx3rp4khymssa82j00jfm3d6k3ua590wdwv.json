@@ -2,6 +2,6 @@
 	"name": "Ruby Pool",
 	"description": "Mission driven Cardano Stake Pool with a percentage of our rewards going to Children Education. Come delegate to us!",
 	"ticker": "RUBY",
-	"homepage": "https://rubypools.com",
+	"homepage": "http://rubypools.com",
 	"extended": "https://raw.githubusercontent.com/ruby-pool/ruby-web-app/main/extended-metadata-pool.json"
 }
