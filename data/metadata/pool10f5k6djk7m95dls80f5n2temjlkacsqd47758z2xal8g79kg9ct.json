@@ -2,5 +2,6 @@
 	"name": "Cardanify",
 	"description": "Cardanify is a Cardano stake pool (ADAFY) with redundant servers. We have over 15 years of experience with server management. Maximum service with minimum fees.",
 	"ticker": "ADAFY",
-	"homepage": "https://http://www.cardanify.com"
+	"homepage": "https://cardanify.com",
+	"extended": "http://cardanify.com/extended-data.json"
 }

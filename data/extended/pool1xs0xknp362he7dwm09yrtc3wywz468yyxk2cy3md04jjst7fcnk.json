@@ -21,8 +21,8 @@
 			"vat_id": ""
 		},
 		"about": {
-			"me": "Big Blube is a stake pool based in Perth, Australia run by a single pool operator. We donate 25% of the pools margin to The Australian Workers' Union to help immigrants and backpackers achieve better worker's rights along with contributing to the network with our unique geographical location.",
-			"server": "Relays: Intel, 2CPU, 8GB RAM, 200 Mbit/s, Ubuntu. Block Producer: Intel, 2CPU, 8GB RAM, 200 Mbit/s, Ubuntu.",
+			"me": "BigBlube is a stake pool based in Perth, Australia. Run by a single pool operator. Contributes to the network with our unique geographical location. Donates 50% of the margin to Bush Heritage Australia to help address climate change and the extinction crisis. Invests the other 50% back into the pool.",
+			"server": "Relays: Intel, 2CPU, 10GB RAM, 200 Mbit/s, Ubuntu. Block Producer: Intel, 2CPU, 10GB RAM, 200 Mbit/s, Ubuntu.",
 			"company": ""
 		}
 	},

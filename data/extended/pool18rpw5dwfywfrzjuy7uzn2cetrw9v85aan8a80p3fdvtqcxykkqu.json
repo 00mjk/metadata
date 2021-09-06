@@ -1,0 +1,32 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://pool.fluid7.com/img/fluid7-logo-64x64.png",
+		"url_png_logo": "https://pool.fluid7.com/img/fluid7-logo-600x600.png",
+		"location": "United Kingdom",
+		"social": {
+			"twitter_handle": "fluid7",
+			"telegram_handle": "fluidpool",
+			"facebook_handle": "Fluid7Ltd",
+			"youtube_handle": "channel/UCDoaPMy6Dv90D_PReKqk9FQ",
+			"discord_handle": "n9AXnuhkhh",
+			"github_handle": "jadjei"
+		},
+		"company": {
+			"name": "Fluid7 Ltd",
+			"city": "Coventry",
+			"country": "United Kingdom"
+		},
+		"about": {
+			"me": "By harnessing innovation and empowering enterprise everywhere, we aim to build a future without Poverty",
+			"server": "AWS EC2 - Secure, Reliable, Scalable"
+		},
+		"my-pool-ids": [
+			"38c2ea35c92392314b84f70535632b1b8ac3d3bd99fa7786296b160c"
+		],
+		"when-satured-then-recommend": [
+			"aa8b94010cd3c7199be1d619079c184a59e6f1ad930926bc2bd38579",
+			"dddce8834df02109524aeb5afa0fd820fc29920eca91a63551ecc26a",
+			"77f64feb102629b2c0d9163fd6822b5ac95bcba5df33a8b5cdbd11e2"
+		]
+	}
+}

@@ -1,0 +1,32 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://cardanify.com/assets/img/logo_64x64.png",
+		"url_png_logo": "https://cardanify.com/assets/img/cardanify.png",
+		"location": "Schiedam, Netherlands",
+		"social": {
+			"twitter_handle": "cardanify",
+			"telegram_handle": "",
+			"facebook_handle": "100071837674893",
+			"youtube_handle": "UC8--P84cxIQA4uaYqLTGk3w",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Cardanify",
+			"addr": "van Beverenstraat, 47",
+			"city": "Schiedam",
+			"country": "Netherlands",
+			"company_id": "private",
+			"vat_id": "private"
+		},
+		"about": {
+			"me": "Cardanify is a Cardano stake pool (ADAFY) with redundant servers. We have over 15 years of experience with server management. Maximum service with minimum fees",
+			"server": "2 VPS at seperate datacenters",
+			"company": "Cardanify"
+		}
+	},
+	"my-pool-ids": {
+		"0": "7a696d3656f6cb46fe077a69352f3b97eddc400dafbd438946efce8f"
+	}
+}
