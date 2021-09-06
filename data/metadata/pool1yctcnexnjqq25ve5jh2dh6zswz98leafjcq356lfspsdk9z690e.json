@@ -1,7 +1,7 @@
 {
-	"name": "Hell",
-	"description": "The official pool of Maladex. The hottest place to stake your ADA in all of Cardano.",
-	"ticker": "HELL",
-	"homepage": "https://hellpool.com",
-	"extended": "https://hellpool.com/metadata/extendedPoolMetaData.json"
+	"name": "Maladex - Research Driven Cardano DEX",
+	"description": "The official pool of Maladex. Support Cardano devs and earn $ADA and $MAL platform tokens at the same time.",
+	"ticker": "MAL",
+	"homepage": "https://maladex.com",
+	"extended": "https://pool.maladex.com/metadata/extendedPoolMetaData.json"
 }

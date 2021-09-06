@@ -12,10 +12,6 @@
 	},
 	"telegram-admin-handle": [],
 	"my-pool-ids": [
-		"1dc1e011d522a077a20b2659bd0ee257e0d80f105f5dc998d4cfda7c",
 		"ca599df54182962bb2c1420ad2cbdc10e3df7c4c2afac18e810e7035"
-	],
-	"when-satured-then-recommend": [
-		"1dc1e011d522a077a20b2659bd0ee257e0d80f105f5dc998d4cfda7c"
 	]
 }

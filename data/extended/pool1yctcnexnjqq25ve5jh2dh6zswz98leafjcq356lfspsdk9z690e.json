@@ -1,7 +1,7 @@
 {
 	"info": {
-		"url_png_icon_64x64": "https://hellpool.com/metadata/64x64_mal_in_a_block.png",
-		"url_png_logo": "https://hellpool.com/metadata/256x256_mal_in_a_block.png",
+		"url_png_icon_64x64": "https://pool.maladex.com/metadata/64x64_mal_in_pool.png",
+		"url_png_logo": "https://pool.maladex.com/metadata/256x256_mal_in_pool.png",
 		"location": "London",
 		"social": {
 			"twitter_handle": "CardanoMaladex",
@@ -13,17 +13,17 @@
 			"github_handle": "Maladex"
 		},
 		"company": {
-			"name": "Daemon Capital LLP",
+			"name": "Mallabs LLP",
 			"addr": "",
-			"city": "Edinburgh",
+			"city": "London",
 			"country": "UK",
 			"company_id": "",
 			"vat_id": ""
 		},
 		"about": {
-			"me": "Maladex - 100% research driven Cardano DEX. Moving DeFi world into the future and beyond.",
-			"server": "The only servers run directly from hell. Relays on different continents and 24/7 ops team.",
-			"company": "Daemon Capital LLP"
+			"me": "MAL is the official pool of Maladex. By delegating you support Cardano devs and earn $ADA and $MAL platform tokens at the same time.",
+			"server": "The only Cardano servers operated by Mal - our friendly little demon. 24/7/365 SRE. Bespoke cloud setup, backup, snapshots, private relays.",
+			"company": "Maladex LLP"
 		}
 	},
 	"my-pool-ids": {

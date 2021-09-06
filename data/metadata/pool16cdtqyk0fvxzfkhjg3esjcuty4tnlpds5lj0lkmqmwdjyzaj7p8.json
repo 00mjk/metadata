@@ -1,6 +1,7 @@
 {
-	"name": "EarnCoinPool",
+	"name": "Earn Coin Pool",
 	"description": "Earn Coin Pool",
 	"ticker": "ECP",
-	"homepage": "https://earncoinpool.com"
+	"homepage": "https://earncoinpool.com",
+	"extended": "https://earncoinpool.com/ecp_extended.json"
 }

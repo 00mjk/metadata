@@ -1,0 +1,33 @@
+{
+	"info": {
+		"url_png_icon_64x64": "",
+		"url_png_logo": "",
+		"location": "Texas, USA",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "lbcrypt",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "lbcrypt",
+			"addr": "",
+			"city": "Texas",
+			"country": "USA",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Professional network/datacenter engineer, excited about Cardano!",
+			"server": "Multiple HP i7/i5 - 1G Fiber Internet",
+			"company": ""
+		},
+		"my-pool-ids": {
+			"0": "5acb298631df3b460a636ecff975400ca7dd9dcffdcc53aa10964ccd",
+			"1": ""
+		}
+	}
+}
