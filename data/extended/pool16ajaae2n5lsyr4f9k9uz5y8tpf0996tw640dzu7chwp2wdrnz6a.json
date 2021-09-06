@@ -13,11 +13,11 @@
 			"github_handle": "conradcordeiro"
 		},
 		"company": {
-			"name": "",
+			"name": "BLADE",
 			"addr": "",
-			"city": "",
-			"country": "",
-			"company_id": "",
+			"city": "New York",
+			"country": "United States",
+			"company_id": "BLADE",
 			"vat_id": ""
 		},
 		"about": {
