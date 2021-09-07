@@ -21,13 +21,13 @@
 			"vat_id": ""
 		},
 		"about": {
-			"me": "BigBlube is a stake pool based in Perth, Australia. Run by a single pool operator. Contributes to the network with our unique geographical location. Donates 50% of the margin to Bush Heritage Australia to help address climate change and the extinction crisis. Invests the other 50% back into the pool.",
+			"me": "BigBlube is a stake pool based in Perth, Australia. Run by a single pool operator. Contributes to the network with our unique geographical location. Donates 50% of the margin to Bush Heritage Australia to help address climate change and the extinction crisis. Invests the other 50% back into the pool to promote growth.",
 			"server": "Relays: Intel, 2CPU, 10GB RAM, 200 Mbit/s, Ubuntu. Block Producer: Intel, 2CPU, 10GB RAM, 200 Mbit/s, Ubuntu.",
 			"company": ""
 		}
 	},
 	"my-pool-ids": {
-		"0": "pool1xs0xknp362he7dwm09yrtc3wywz468yyxk2cy3md04jjst7fcnk"
+		"0": "341e6b4c31d2af9f35db794835e22e23855d1c84359582476d7d6528"
 	},
 	"telegram-admin-handle": {
 		"0": "BigBlube"
