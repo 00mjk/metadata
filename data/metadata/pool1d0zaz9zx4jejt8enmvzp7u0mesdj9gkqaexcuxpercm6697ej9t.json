@@ -2,5 +2,6 @@
 	"name": "Fat Matt Staking",
 	"description": "A new kind of mission driven pool! We allocate 34% of profits to the Fat Matt Charity Wallet. You choose the charity, then we give 100% of that wallet's staking rewards; allowing the donation amount to continuously grow!",
 	"ticker": "FATTY",
-	"homepage": "https://fatmattstaking.com"
+	"homepage": "https://fatmattstaking.com",
+	"extended": "https://fatmattstaking.com/extendedMetaData.json"
 }

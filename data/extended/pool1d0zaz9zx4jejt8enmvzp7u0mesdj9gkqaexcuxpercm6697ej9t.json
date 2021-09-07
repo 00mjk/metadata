@@ -1,0 +1,33 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://fatmattstaking.com/logosmall.png",
+		"url_png_logo": "https://fatmattstaking.com/logosmall.png",
+		"location": "Texas, USA",
+		"social": {
+			"twitter_handle": "@fatmattstaking",
+			"telegram_handle": "https://t.me/fatmattstaking",
+			"facebook_handle": "@fatmattstaking",
+			"youtube_handle": "",
+			"reddit_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Fat Matt Staking",
+			"addr": "",
+			"city": "",
+			"country": "USA",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Fat Matt Staking is a mission driven pool where we give 34% of operator profits to the Fat Matt Charity Wallet. This wallet is staked and each month will pay out 100% of rewards to a charity chosen by delegators. Similar to an endowment fund, this will enable the donation amount to increase over time. Delegate today to nominate your favorite charity!",
+			"server": "2 Geographically seperated relay servers with one in New York and the other in San Francisco. Block Producer located in New York and all servers are running 8/CPU, 16GB RAM, with weekly backups & real-time monitoring.",
+			"company": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "6bc5d11446acb3259f33db041f71fbcc1b22a2c0ee4d8e18391e37ad",
+		"1": ""
+	}
+}
