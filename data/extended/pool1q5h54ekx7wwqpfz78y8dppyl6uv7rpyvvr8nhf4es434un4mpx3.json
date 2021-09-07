@@ -1,6 +1,7 @@
 {
 	"info": {
 		"url_png_icon_64x64": "https://behemothpool.files.wordpress.com/2021/05/bhmt_icon_64x64-5.png",
+		"url_png_logo": "https://behemothpool.files.wordpress.com/2021/09/bhmt_logo_400x400.png",
 		"location": "Kaarina, Finland",
 		"social": {
 			"twitter_handle": "Behemothpool",
@@ -8,6 +9,7 @@
 			"github_handle": "rakalto"
 		},
 		"about": {
+			"me": " My goal is to promote the decentralization of Cardano blockchain. The best way to do so is to be a reliable single stake pool operator and educate others about the best practices. My Finnish translations of Armada Alliance materials help spread the word beyond borders.",
 			"server": "Raspberry Pi Hosted at my home in Kaarina, Finland."
 		},
 		"my-pool-ids": {
