@@ -4,7 +4,7 @@
 		"url_png_logo": "https://i.ibb.co/8MLCJtH/Cardano-Brasil-Pool-Logo-5.png",
 		"location": "São Paulo - Brazil",
 		"social": {
-			"twitter_handle": "adabr_pool",
+			"twitter_handle": "adazulpool",
 			"telegram_handle": "adabrpool_chat",
 			"facebook_handle": "adabrpool",
 			"youtube_handle": "channel/UCs5SpoMH3wIyBTvCe2KUQKw",
@@ -22,8 +22,8 @@
 		},
 		"about": {
 			"me": "Professional software engineer with years in tech industry who loves the Cardano project. Join me and let's make this pool a benchmark in performance/rewards. We can make the world better with Cardano.",
-			"server": "We currently use 3 Linux machines with 4 vCPUs and 8GB / 80GB disk, we use all preventive measures to increase the security of our pool. In addition, we use separate servers for block production and for our public relays. We also use the hybrid workflow to sign any modification on our pool. This basically means that we do not do all the work inside our servers.It is important to emphasize that we keep our important keys encrypted in a cold environment, outside of any internet connection to further increase security.",
-			"company": "Welcome to Adazul Pool. We are a group of independent individuals in partnership with Cardano ambassador: Marcus Vinicius who work to protect the Cardano network and support our ecosystem. We provide 30% of our pool rewards to NGOs working to preserve endangered animals.We are still in the beggining, our pool is small but with your delegation we can grow and start recieving consistent rewards to keep donating to this non profitable institutions. We will always keep this site updated with the donations recipts."
+			"server": "We currently use 4 Linux machines with 8 vCPUs and 16GB / 320GB disk, we use all preventive measures to increase the security of our pool. In addition, we use separate servers for block production and for our public relays. We also use the hybrid workflow to sign any modification on our pool. This basically means that we do not do all the work inside our servers.It is important to emphasize that we keep our important keys encrypted in a cold environment, outside of any internet connection to further increase security.",
+			"company": "Welcome to Adazul Pool. We are a group of independent individuals who work to protect the Cardano network and support our ecosystem. We provide 10% of our pool rewards to NGOs working to preserve endangered animals.We are still in the beggining, our pool is small but with your delegation we can grow and start recieving consistent rewards to keep donating to this non profitable institutions. We will always keep this site updated with the donations recipts."
 		}
 	},
 	"my-pool-ids": {
