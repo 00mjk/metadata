@@ -2,5 +2,6 @@
 	"name": "Monad₳",
 	"description": "Tiny pool with big dreams. Stake with small pools! Support decentralization!",
 	"ticker": "MONA",
-	"homepage": "https://monada.digital"
+	"homepage": "https://monada.digital",
+	"extended": "https://monada.digital/extendedMetaData.json"
 }

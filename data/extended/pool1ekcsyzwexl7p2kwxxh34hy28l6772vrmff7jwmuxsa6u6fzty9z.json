@@ -1,4 +1,8 @@
 {
+	"itn": {
+		"owner": "ed25519_pk1le7ruhv43uxa6ufamj0zfyjdn8zdaa3x9s2j5gf3xtuypc40fhvq7q542c",
+		"witness": "ed25519_sig150clm4e53z8tmqg22cu7rgmk9r46sysmcm8ngtkuzy7yy679ve8un4ztsqrj2mznafr8gtnw2avfhva5agculzete6f663fmpppv5qsqqgtda"
+	},
 	"info": {
 		"url_png_icon_64x64": "https://raw.githubusercontent.com/Bmtxs/sp/master/adalo.jpg",
 		"social": {

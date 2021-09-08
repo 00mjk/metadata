@@ -1,0 +1,26 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://monada.digital/logo64.png",
+		"url_png_logo": "https://monada.digital/logo.png",
+		"location": "Pattaya, Thailand",
+		"social": {
+			"twitter_handle": "monadapool",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"about": {
+			"me": "Monad₳ Pool is a highly performant and resilient stake pool for the Cardano network. The pool is completely autonomous. Only one highly qualified developer is engaged in updating and maintaining its continuous work. Nevertheless, as a participant, you can be assured that our stake pool will be up and running 24/7.",
+			"server": "Virtual server NVMe, 8Gb RAM, Debian 10, 100Mbps up/down Hosted in Moscow."
+		}
+	},
+	"my-pool-ids": {
+		"0": "6a84654c217f1923b086e076192b50042911c7b7af3987a1992b77e9"
+	},
+	"when-satured-then-recommend": {
+		"0": "6a84654c217f1923b086e076192b50042911c7b7af3987a1992b77e9"
+	}
+}

@@ -1,6 +1,7 @@
 {
 	"name": "Stake Wealth",
-	"description": "Stake Wealth is a fundation that empowers individuales to achive finantial wealth.",
+	"description": "Reliable cloud based stake pool",
 	"ticker": "SWF",
-	"homepage": "https://stakewealth.com"
+	"homepage": "https://stakewealth.com",
+	"extended": "https://stakewealth.com/SWF-extended.json"
 }

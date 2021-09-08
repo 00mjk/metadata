@@ -3,6 +3,6 @@
 	"ticker": "ADALO",
 	"description": "Migrate to NOTEA or NOTEG for a chance to win 1000 ADA per epoch",
 	"homepage": "https://adalovelacepool.com",
-	"nonce": "1625091998",
-	"extended": "https://raw.githubusercontent.com/Bmtxs/sp/master/ext"
+	"nonce": "1631092067",
+	"extended": "https://raw.githubusercontent.com/Bmtxs/sp/master/ext_adalo.json"
 }

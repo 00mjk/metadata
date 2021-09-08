@@ -2,5 +2,6 @@
 	"name": "CashPool",
 	"description": "Chimera Holdings Cardano Pool",
 	"ticker": "CASH",
-	"homepage": "https://adacashpool.com"
+	"homepage": "https://adacashpool.com",
+	"extended": "https://adacashpool.com/wp-contents/uploads/2021/06/2.json"
 }
