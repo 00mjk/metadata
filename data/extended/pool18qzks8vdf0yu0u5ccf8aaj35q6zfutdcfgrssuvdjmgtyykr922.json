@@ -1,12 +1,12 @@
 {
 	"info": {
-		"url_png_icon_64x64": "https://drive.google.com/file/d/1vYDpdCjdPBKJyEJh2X9Ez4Iyy0aXQ4sO/view?usp=sharing",
-		"url_png_logo": "https://drive.google.com/file/d/1vYDpdCjdPBKJyEJh2X9Ez4Iyy0aXQ4sO/view?usp=sharing",
+		"url_png_icon_64x64": "https://red-sky.one/enigma_s_logo.png",
+		"url_png_logo": "https://red-sky.one/enigma_s_logo.png",
 		"location": "Ontario, England",
 		"social": {
-			"twitter_handle": "https://twitter.com/EnigmA_SPO",
-			"telegram_handle": "https://t.me/EnigmApool",
-			"tiktok_handle": "https://www.tiktok.com/@cardano.spo?lang=en",
+			"twitter_handle": "EnigmA_SPO",
+			"telegram_handle": "EnigmApool",
+			"tiktok_handle": "cardano.spo?lang=en",
 			"discord": "https://discord.gg/trhq94BMcE"
 		},
 		"company": {
@@ -14,7 +14,7 @@
 			"location": "Ontario"
 		},
 		"about": {
-			"me": "I work as a securit guard. My dream is to run a successful cardano node to help my fimely",
+			"me": "The EnigmA stake pool is operational since epoch 222. We are an independent stake pool operator and support SPOs who are running single pools. We will never start the 2nd pool as we believe in the decentralization of the network. Our mission is to Decentralizing the Cardano network, Donate to Cancer research hospitals and give back to our delegators. We thank you for your love and support. Let’s mint some ADA together!",
 			"mission": "Our mission is to help the Cardano network to become more secure and decentralize. Securing the Cardano network is important, but it is also important that we take care of our local community and our delegators. We Donate 5% of our reward to Cancer research hospitals and another 5% ADA as an extra bonus on top of regular staking rewards for our delegators.",
 			"server": "Running Bare Metal Server"
 		}
