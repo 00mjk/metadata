@@ -23,7 +23,7 @@
 		},
 		"about": {
 			"me": "Enable finance for everybody including unbanked.",
-			"server": "Baremetal stakepool with 200 Mbit fiber running on i3 (8GB) and 2 x i7 servers (16 GB RAM) RAM",
+			"server": "Baremetal stakepool with 200 Mbit fiber running on i3 and 2 x i7 servers (All servers Alonzo ready 16 GB RAM)",
 			"company": "..."
 		},
 		"rss": ""
