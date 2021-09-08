@@ -22,7 +22,7 @@
 		},
 		"about": {
 			"me": "Hardware Legnano has a long story behind. We believe Cardano will be the currency of the future and so, we've decided to run a Stake Pool here in Italy",
-			"server": "Block Producer is housed at our HQ, three relays are located in a cloud provider at three different sites (EU,US,ASIA)",
+			"server": "Block Producer is housed at our HQ, three relays are located in a cloud provider at three different sites (EU,US,ASIA). One relay has been added in a italian hosting provider for routing optimization purposes",
 			"company": "Hardware Legnano"
 		}
 	},
