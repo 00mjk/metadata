@@ -1,0 +1,19 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/ezeitoun/tlv/main/tlv64.png",
+		"url_png_logo": "https://raw.githubusercontent.com/ezeitoun/tlv/main/tlv600.png",
+		"location": "Tel Aviv, Israel",
+		"social": {
+			"twitter_handle": "ada-tlv",
+			"telegram_handle": "adatlv",
+			"facebook_handle": "cardano.israel",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"about": {
+			"me": "The Official Stake Pool for Israel's Cardano Community"
+		}
+	}
+}

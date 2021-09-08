@@ -1,7 +1,7 @@
 {
-	"name": "CASLU",
+	"name": "EVA",
 	"description": "Cardano Futuro de la Humamnidad",
-	"ticker": "CASLU",
+	"ticker": "EVA",
 	"extended": "https://raw.githubusercontent.com/Caslu18/m/main/extended.json",
-	"homepage": "https://pool-caslu.jimdosite.com/"
+	"homepage": "https://evapool.jimdosite.com/"
 }

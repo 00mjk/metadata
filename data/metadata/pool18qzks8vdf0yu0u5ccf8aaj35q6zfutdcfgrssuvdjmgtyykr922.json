@@ -1,7 +1,8 @@
 {
 	"name": "EnigmA",
 	"ticker": "one",
-	"description": "EnigmA in a BIG Decentralize network",
+	"description": "1 pool 3 missions. Decentralize Cardano network. 5% Donation to Cancer research hospitals. 5% extra bonus on top of regular staking rewards for our delegators",
 	"homepage": "https://red-sky.one",
-	"nonce": "1602354255"
+	"nonce": "1602354255",
+	"extended": "https://red-sky.one/extended-metadata.json"
 }

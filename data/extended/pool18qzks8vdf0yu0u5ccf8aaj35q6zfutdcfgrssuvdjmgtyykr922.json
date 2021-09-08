@@ -1,0 +1,25 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://drive.google.com/file/d/1vYDpdCjdPBKJyEJh2X9Ez4Iyy0aXQ4sO/view?usp=sharing",
+		"url_png_logo": "https://drive.google.com/file/d/1vYDpdCjdPBKJyEJh2X9Ez4Iyy0aXQ4sO/view?usp=sharing",
+		"location": "Ontario, England",
+		"social": {
+			"twitter_handle": "https://twitter.com/EnigmA_SPO",
+			"telegram_handle": "https://t.me/EnigmApool",
+			"tiktok_handle": "https://www.tiktok.com/@cardano.spo?lang=en",
+			"discord": "https://discord.gg/trhq94BMcE"
+		},
+		"company": {
+			"name": "Red-Sky",
+			"location": "Ontario"
+		},
+		"about": {
+			"me": "I work as a securit guard. My dream is to run a successful cardano node to help my fimely",
+			"mission": "Our mission is to help the Cardano network to become more secure and decentralize. Securing the Cardano network is important, but it is also important that we take care of our local community and our delegators. We Donate 5% of our reward to Cancer research hospitals and another 5% ADA as an extra bonus on top of regular staking rewards for our delegators.",
+			"server": "Running Bare Metal Server"
+		}
+	},
+	"my-pool-id": {
+		"1": "3805681d8d4bc9c7f298c24fdeca3406849e2db84a0708718d96d0b2"
+	}
+}
