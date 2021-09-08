@@ -1,0 +1,25 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://adacardano.cl/logo_64x64.png",
+		"url_png_logo": "https://adacardano.cl/logo.png",
+		"location": "Viña del Mar, Chile",
+		"social": {
+			"telegram_handle": "velapool",
+			"twitter_handle": "georgeACL1"
+		},
+		"company": {
+			"name": "Vela"
+		},
+		"about": {
+			"me": "As an independent stake pool operator, it is my goal to educate people in wealth accumulation for their future retirement & I would like to help kids in need to learn some coding and electronics (armada-alliance.com).",
+			"server": "Running on low power consuming ARM-based devices (Raspberry Pis) with an average pool energy consumption of less than 40 Watts💡, always online, 940Mbps Up / 400 Mbps Down. Margin stays 1%."
+		}
+	},
+	"adapools": "d62121a93bb3ebfef82fb1ce92f70b2a",
+	"my-pool-ids": [
+		"de16904b33d013f4db5460957d9c50cbfbacc50a396f878d0c1effef"
+	],
+	"when-satured-then-recommend": [
+		"8264de3cdb1798dd8758e24cda5101184b44543e7c4421c7815f9ed8"
+	]
+}

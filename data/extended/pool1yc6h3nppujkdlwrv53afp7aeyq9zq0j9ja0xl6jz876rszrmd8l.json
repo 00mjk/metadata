@@ -25,7 +25,7 @@
 			"0": {
 				"name": "Relay 1",
 				"type": "relay",
-				"key": "56b4b2cf52c7fdbbf343758abedb3c58"
+				"key": "b0df29539746255640c29d822264dc87"
 			},
 			"1": {
 				"name": "Block Producer",
@@ -35,7 +35,7 @@
 			"2": {
 				"name": "Relay 2",
 				"type": "relay",
-				"key": "0e4d534a64677ad13e0a5c211ef525de"
+				"key": "2d77748ec938e6928ee4dc1e9e18f03f"
 			}
 		}
 	}
