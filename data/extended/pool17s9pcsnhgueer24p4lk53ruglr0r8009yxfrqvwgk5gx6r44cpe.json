@@ -5,7 +5,7 @@
 		"location": "Germany",
 		"social": {
 			"twitter_handle": "",
-			"telegram_handle": "sergejmaehler",
+			"telegram_handle": "",
 			"facebook_handle": "",
 			"youtube_handle": "",
 			"twitch_handle": "",
@@ -13,10 +13,10 @@
 			"github_handle": ""
 		},
 		"company": {
-			"name": "Proof Stake Pool",
+			"name": "",
 			"addr": "",
 			"city": "",
-			"country": "Germany",
+			"country": "",
 			"company_id": "",
 			"vat_id": ""
 		},
