@@ -10,7 +10,7 @@
 			"facebook_handle": "crypto.loops",
 			"youtube_handle": "channel/UC64rKCPrC6MbQcyuQ_zVH0A",
 			"twitch_handle": "",
-			"discord_handle": "",
+			"discord_handle": "ZfnR5bvqU6",
 			"github_handle": ""
 		},
 		"company": {
@@ -22,11 +22,11 @@
 			"vat_id": ""
 		},
 		"about": {
-			"me": "A bare-metal stake pool through Crypto Loops to help grow your investment. Our goal is to help educate on Cardano and cryptocurrencies, and to help promote financial freedom in this new financial era.",
+			"me": "Our goal at LOOPS stake pool is to help provide valuable information to the non-crypto, crypto, and Cardano communities. We are doing this not only through the creation of videos and other educational materials on the Crypto Loops Website, but through the creation of The Cardano Convo Podcast. The Cardano Convo Podcast provides insights into mission driven stake pools, project being built within the Cardano Ecosystem, and Cardano Developments and News!",
 			"server": "",
 			"company": "Our mission is to provide information to help guide the public through the world of Cardano, cryptocurrencies, and blockchain technologies. Our goal is to make you feel more confident navigating digital currencies in this new financial era. We aim to help promote financial freedom by providing you with the knowledge you need to make informed decisions within the crypto-sphere. We also support and host The Cardano Convo Podcast. A podcast that provides easy to digest explanations of the projects that are being built, thoughts, and what’s going on within the Cardano Community."
 		},
-		"rss": ""
+		"rss": "https://feed.podbean.com/cardanoconvo/feed.xml"
 	},
 	"my-pool-ids": {
 		"0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735"
