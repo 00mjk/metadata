@@ -1,0 +1,30 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/5ch-pool/meta/main/image/5ch_pool_logo_64x64.png",
+		"url_png_logo": "",
+		"location": "Japan",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {},
+		"about": {
+			"me": "5ch カルダノスレ住人 | 5ch Cardano community user",
+			"server": "99.9% Uptime | Dedicated Hardware | Multi-layer Security | DDoS Mitigation | 24/7 Monitoring | Server Redundancy"
+		}
+	},
+	"my-pool-ids": {
+		"0": "383dd348581c3c16a981de1178c42f1d3134280f66bed7518b772ffd"
+	},
+	"when-satured-then-recommend": {
+		"0": "383dd348581c3c16a981de1178c42f1d3134280f66bed7518b772ffd"
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	}
+}
