@@ -2,9 +2,9 @@
 	"info": {
 		"url_png_icon_64x64": "https://wildada.com/assets/img/wildAda-64x64.png",
 		"url_png_logo": "https://wildada.com/assets/img/wildAda-400x400.png",
-		"location": "Wyoming, America",
+		"location": "Buffalo, Wyoming",
 		"social": {
-			"twitter_handle": "a0WildAda",
+			"twitter_handle": "WildADApool",
 			"telegram_handle": "",
 			"facebook_handle": "",
 			"youtube_handle": "",
@@ -13,25 +13,27 @@
 			"github_handle": ""
 		},
 		"company": {
-			"name": "Wild Ada LLC",
+			"name": "Wild ADA",
 			"addr": "",
-			"city": "Wyoming",
-			"country": "America",
+			"city": "Buffalo, Wyoming",
+			"country": "United States of America",
 			"company_id": "",
 			"vat_id": ""
 		},
 		"about": {
-			"me": "Wild Ada LLC home in Wyoming, the crypto capital of America.",
-			"server": "",
-			"company": ""
+			"me": "",
+			"server": "Wild ADA operates the Cardano stake pool WILD, running on two-block producers (one for failover), working on bare-metal servers that we own in geo diverse colocations. WILD's relays work on independent cloud providers, with no big-box clouds used for security. At a moment's notice, relays can be scaled-up due to threats, DDoS, or capacity. At any one time, no less than two world-wide relays are working.",
+			"company": "Have a Cardano legacy worth fighting over, delegate your ADA to WILD."
 		},
-		"rss": ""
+		"rss": "http(s) url to valid RSS feed"
 	},
 	"my-pool-ids": {
-		"0": "d74503ba0c51ef4a8bf9e307eb814be671007696e0a4a1a026348c9c"
+		"0": "d74503ba0c51ef4a8bf9e307eb814be671007696e0a4a1a026348c9c",
+		"1": ""
 	},
 	"when-satured-then-recommend": {
-		"0": ""
+		"0": "",
+		"1": ""
 	},
 	"telegram-admin-handle": {
 		"0": ""
