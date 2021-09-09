@@ -7,8 +7,8 @@
 			"twitter_handle": "CardanoMEX"
 		},
 		"about": {
-			"me": "We are a Cardano Stake Pool from Mexico.",
-			"company": "We donate 10% of our pool rewards to environmental organizations of the country."
+			"me": "Cardano Stake Pool from Mexico, we donate 10% of our rewards to environmental organizations of the country.",
+			"company": "We seek further decentralization by managing a single pool; All our nodes are high efficiency and low power consumption devices running in a hybrid cloud / bare-metal environment."
 		}
 	},
 	"my-pool-ids": {
