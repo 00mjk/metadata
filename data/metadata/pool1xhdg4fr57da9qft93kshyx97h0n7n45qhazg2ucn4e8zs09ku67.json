@@ -1,0 +1,7 @@
+{
+	"name": "PhillyStake",
+	"description": "The PhillyStake Cardano Pool",
+	"ticker": "PHL",
+	"homepage": "https://phillystake.com/cardano/",
+	"extended": "https://phillystake.com/cardano/poolExtended.json"
+}

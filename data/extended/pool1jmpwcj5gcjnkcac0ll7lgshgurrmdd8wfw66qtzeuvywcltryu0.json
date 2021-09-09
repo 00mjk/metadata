@@ -1,0 +1,17 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/bulbpool/bulb/c823e7acb4e9abfcafd3cc6673e894936f0957a6/bulbpool_s.png",
+		"url_png_logo": "https://raw.githubusercontent.com/bulbpool/bulb/c823e7acb4e9abfcafd3cc6673e894936f0957a6/bulbpool.png",
+		"location": "UK",
+		"social": {
+			"twitter_handle": "BulbPool"
+		},
+		"about": {
+			"me": "Secure, reliable stake pool operated by a couple of Cardano enthusiasts. Join bulb pool, earn rewards and help us secure the network."
+		}
+	},
+	"my-pool-ids": {
+		"0": "96c2ec4a88c4a76c770ffffdf442e8e0c7b6b4ee4bb5a02c59e308ec",
+		"1": ""
+	}
+}

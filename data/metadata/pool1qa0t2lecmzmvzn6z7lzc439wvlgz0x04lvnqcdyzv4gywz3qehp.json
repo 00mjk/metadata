@@ -2,5 +2,6 @@
 	"name": "AdaDog",
 	"description": "Reliable and secure staking, loyal to the Community",
 	"ticker": "ADOG1",
-	"homepage": "https://adadog.io"
+	"homepage": "https://adadog.io",
+	"extended": "https://adadog.io/meta-x.json"
 }
