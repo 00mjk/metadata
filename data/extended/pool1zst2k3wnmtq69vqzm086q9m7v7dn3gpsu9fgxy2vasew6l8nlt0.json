@@ -1,0 +1,22 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/siberiapool/siberiapool.github.io/main/logo_64x64.jpg",
+		"url_png_logo": "https://github.com/siberiapool/siberiapool.github.io/blob/main/logo_925x885.jpg",
+		"location": "Moscow, Russia",
+		"social": {
+			"telegram_handle": "siberiapool",
+			"youtube_handle": "channel/UCl-RSzsnsaYdOAVX48sKkpA",
+			"github_handle": "zella"
+		},
+		"company": {
+			"name": "Siberia pool"
+		},
+		"about": {
+			"me": "Single pool operator from Russia.",
+			"server": "Low power ARM based pool located in Oracle Cloud, Europe."
+		}
+	},
+	"my-pool-ids": {
+		"0": "1416ab45d3dac1a2b002dbcfa0177e679b38a030e15283114cec32ed"
+	}
+}
