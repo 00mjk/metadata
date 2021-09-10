@@ -1,6 +1,6 @@
 {
 	"name": "CardanoMEX",
-	"description": "Stake pool Mexicana (MX) operada con los mejores estándares de seguridad informática. Donamos 10% de nuestras recompensas a organizaciones ambientales del país.",
+	"description": "Stake Pool from Mexico, we donate 10% of our rewards to environmental organizations of the country. All our nodes are low power consumption running in a hybrid cloud / bare-metal environment.",
 	"ticker": "CMX",
 	"homepage": "https://cardanomex.com",
 	"extended": "https://cardanomex.com/extendedPoolMetaData.json"
