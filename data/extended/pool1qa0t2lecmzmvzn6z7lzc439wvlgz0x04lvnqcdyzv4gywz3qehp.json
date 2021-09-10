@@ -9,13 +9,12 @@
 		},
 		"company": {
 			"name": "AdaDog",
-			"city": "Fairfield",
-			"state": "Connecticut",
+			"city": "Fairfield, Connecticut",
 			"country": "US"
 		},
 		"about": {
-			"me": "Reliable and secure staking, loyal to the community.",
-			"server": "AWS"
+			"me": "Reliable and secure staking, loyal to the community. Crypto mining and staking since 2013. Back-end server engineering since 1999.",
+			"server": "AWS on two continents with redundancy achieved through use of load balancers and containers."
 		}
 	},
 	"my-pool-ids": {
