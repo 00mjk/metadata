@@ -1,7 +1,7 @@
 {
 	"info": {
-		"url_png_icon_64x64": "",
-		"url_png_logo": "",
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/Felippo001/lovelacecnft-stakepool/main/images/astro2-64.jpg",
+		"url_png_logo": "https://raw.githubusercontent.com/Felippo001/lovelacecnft-stakepool/main/images/astro-512.jpg",
 		"location": "Germany",
 		"social": {
 			"twitter_handle": "",
@@ -14,6 +14,6 @@
 		}
 	},
 	"my-pool-ids": {
-		"0": ""
+		"0": "4b0c943c381d79bb65b4c1bd24604dec83e7dc62a261c58ad189f8f9"
 	}
 }

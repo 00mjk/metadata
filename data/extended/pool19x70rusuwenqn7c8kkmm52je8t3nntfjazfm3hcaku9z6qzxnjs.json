@@ -4,12 +4,13 @@
 		"url_png_logo": "https://github.com/inettrix/adasp/blob/main/inettrix_logo.png?raw=true",
 		"location": "Sydney, Australia",
 		"social": {
+			"twitter_handle": "InettrixPool",
 			"telegram_handle": "inettrix",
 			"github_handle": "inettrix"
 		},
 		"about": {
-			"me": "Single Stake Pool operator with a background in Site Reliability Engineering to bring you the community a secure and reliable service.",
-			"server": "Relay and Core nodes hosted on AMD EPYC based systems."
+			"me": "Independent single Stake Pool Operator with a background in Site Reliability Engineering bringing you, the community, a secure and reliable staking service.",
+			"server": "All our nodes hosted on the latest generation of AMD EPYC based (i.e. the fastest) systems."
 		}
 	},
 	"my-pool-ids": {
