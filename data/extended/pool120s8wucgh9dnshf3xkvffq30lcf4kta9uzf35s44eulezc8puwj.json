@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://reefstaking.s3.us-east-2.amazonaws.com/logo64.png",
+		"url_png_logo": "https://reefstaking.s3.us-east-2.amazonaws.com/logo.png",
+		"location": "Oceania, World",
+		"social": {
+			"twitter_handle": "reefstaking",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": ""
+		},
+		"rss": "http(s) url to valid RSS feed"
+	},
+	"telegram-admin-handle": [
+		""
+	],
+	"my-pool-ids": [
+		"53e0777308b95b385d31359894822ffe135b2fa5e0931a42b5cf3f91"
+	],
+	"when-satured-then-recommend": [
+		"53e0777308b95b385d31359894822ffe135b2fa5e0931a42b5cf3f91"
+	]
+}

@@ -1,6 +1,7 @@
 {
 	"name": "CANDY POOL",
-	"description": "Here is some candy（ここにお菓子があります。）お菓子はコミュニケーションツールです。たくさんのADAのCANDYがあります。皆さんに配って分散に貢献します。",
+	"description": "カルダノの発展に貢献したくプールを立ち上げました。安定稼働を維持するため二人で運営しております。We launched a pool that wanted to contribute to the development of Cardano. It is operated by two people to maintain stable operation.",
 	"ticker": "CANDY",
-	"homepage": "https://ada-candy-stakepool.com"
+	"homepage": "https://ada-candy-stakepool.com",
+	"extended": "https://ada-candy-stakepool.com/extendedMeta.json"
 }

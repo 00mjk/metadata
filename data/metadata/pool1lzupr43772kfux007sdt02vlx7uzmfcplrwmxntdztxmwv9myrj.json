@@ -3,5 +3,5 @@
 	"ticker": "HEART",
 	"description": "Follow ADA with your mind, believe in ADA with your HEART",
 	"homepage": "https://adaheartpool.com",
-	"nonce": "1596590615"
+	"extended": "https://heart-pool.s3.ca-central-1.amazonaws.com/extended-metadata.json"
 }

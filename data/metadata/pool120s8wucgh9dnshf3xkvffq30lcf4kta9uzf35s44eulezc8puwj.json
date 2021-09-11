@@ -1,6 +1,7 @@
 {
 	"name": "Reef Staking",
-	"description": "Reef Staking 100% focused on Helping Marine and Oceanic Causes. Join REEF for special rewards and help us do all we can to save the Reefs and Oceans",
+	"description": "Starting the first Delegator-Owned pool.  Earn shares of the pool by staking.  Reef Staking 100% focused on Helping Marine and Oceanic Causes. Join REEF for special rewards and help us do all we can to save the Reefs and Oceans",
 	"ticker": "REEF",
-	"homepage": "https://www.reefstaking.com"
+	"homepage": "https://www.reefstaking.com",
+	"extended": "https://reefstaking.s3.us-east-2.amazonaws.com/1.e.json"
 }

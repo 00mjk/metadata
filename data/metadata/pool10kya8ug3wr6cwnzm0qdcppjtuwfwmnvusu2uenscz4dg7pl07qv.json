@@ -1,6 +1,6 @@
 {
-	"name": "Wave-2",
+	"name": "WAVE-2",
+	"description": "A Cardano staking pool managed by Wave Pool",
 	"ticker": "WAV2",
-	"description": "Private pool for Wave GP investing",
-	"homepage": "https://www.wavegp.com/"
+	"homepage": "https://wavegp.com"
 }

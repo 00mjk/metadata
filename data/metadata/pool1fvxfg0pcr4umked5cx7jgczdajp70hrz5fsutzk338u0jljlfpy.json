@@ -1,0 +1,7 @@
+{
+	"name": "LovelaceCNFT",
+	"ticker": "LCNFT",
+	"description": "",
+	"homepage": "https://lovelacecnft.io",
+	"extended": "https://raw.githubusercontent.com/Felippo001/lovelacecnft-stakepool/main/extended_poolmetadata.json"
+}
