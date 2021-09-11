@@ -15,7 +15,7 @@
 		},
 		"about": {
 			"me": "普段はエンジニアをしていながらステークプール運営をしている【MOMO ADA POOL】です。透明性のあるステークプール運営を行います！ I'm 【MOMO ADA POOL】, a stake pool operator while usually being an engineer. I will manage the stake pool with transparency！",
-			"server": "VPS / 8GB RAM / 6core CPU"
+			"server": "VPS / 16GB RAM / 8core CPU"
 		}
 	},
 	"my-pool-ids": {
