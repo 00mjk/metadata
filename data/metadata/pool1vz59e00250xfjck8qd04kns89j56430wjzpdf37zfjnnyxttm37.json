@@ -1,7 +1,7 @@
 {
 	"name": "Jasmine Stake Pool",
 	"ticker": "JASM",
-	"description": "JASM is a stake pool which is managed by SW experts from US, JP and ROK. So we can guarantee the reliability/stability of the stake pool. And we will donate 5% to help children. Please help children while ATST receiving stable rewards THRU ADA staking.",
-	"homepage": "http://www.dk-lab.ml:8080",
-	"extended": "http://www.dk-lab.ml:8080/jasm-ext-meta-002.json"
+	"description": "JASM is a stake pool which is managed by SW experts with long EXP. So we can guarantee the reliability/stability of the stake pool. And we will donate profit's 5% to help children. Please help children while ATST receiving stable rewards THRU ADA staking.",
+	"homepage": "http://www.dk-lab.ml:6285",
+	"extended": "http://www.dk-lab.ml:6285/jasm-ext-meta-002.json"
 }

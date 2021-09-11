@@ -1,7 +1,7 @@
 {
 	"info": {
-		"url_png_icon_64x64": "https://stakepool-cologne.com/poolmeta/SPCOLIcon.png",
-		"url_png_logo": "https://stakepool-cologne.com/poolmeta/SPCOLLogo.png",
+		"url_png_icon_64x64": "https://cardano-stake-pool-cologne.com/poolmeta/SPCOLIcon.png",
+		"url_png_logo": "https://cardano-stake-pool-cologne.com/poolmeta/SPCOLLogo.png",
 		"location": "Frankfurt, Germany",
 		"social": {
 			"telegram_handle": "spcologne",
