@@ -1,0 +1,24 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://adadeltapool.com/img/delta_icon.png?raw=true",
+		"url_png_logo": "https://adadeltapool.com/img/delta_logo.png?raw=true",
+		"location": "Seoul, Korea",
+		"social": {
+			"twitter_handle": "DELTAPOOL_ADA",
+			"telegram_handle": "deltapool_ada",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"about": {
+			"me": "DELTA POOL keeps on working 24/7/365 for Delegators' Profit and becomes one of the Cardano network, that help the decentralization of Cardano Blockchain. Thank you a lot!",
+			"server": "Bare Metal Server  + Relays located in Germany (cloud)| HW configuration of servers <CPU:6core|RAM:16G|SSD:400G>",
+			"company": ""
+		},
+		"my-pool-ids": {
+			"0": "a49bc4fe3dbde289bc359a4aa09a40bc140daace4e95abb7a6b2e652"
+		}
+	}
+}

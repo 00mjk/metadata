@@ -2,5 +2,6 @@
 	"name": "DELTA POOL",
 	"description": "Welcome to DELTA!  We do our best to give you the great result!",
 	"ticker": "DELTA",
-	"homepage": "https://adadeltapool.com"
+	"homepage": "https://adadeltapool.com",
+	"extended": "https://raw.githubusercontent.com/adadeltapool/m/main/extended.json"
 }
