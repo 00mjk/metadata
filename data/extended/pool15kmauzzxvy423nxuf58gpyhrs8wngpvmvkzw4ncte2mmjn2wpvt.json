@@ -1,0 +1,34 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://pool.gamingcardano.com/meta/gclogo-64x64.png",
+		"url_png_logo": "https://pool.gamingcardano.com/meta/gclogo-180x180.png",
+		"location": "Vancouver, British Columbia, Canada",
+		"social": {
+			"twitter_handle": "gamingcardano",
+			"telegram_handle": "GamingCardano",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "gamingcardano",
+			"discord_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Gaming + Cardano Enthusiast | Stake Pool Operator | First Stake To Play SPO model | I have been in the crypto space for 6 years, initially started as a GPU miner. Now my goal is to help with on-boarding new people into the Cardano ecosystem, that is my priority. ",
+			"server": "Baremetal servers in Canada with a secondary hidden cloud relay. Failover internet.",
+			"company": ""
+		}
+	},
+	"telegram-admin-handle": [
+		"GamingCardano"
+	],
+	"my-pool-ids": [
+		"a5b7de0846612aa8ccdc4d0e8092e381dd34059b6584eacf0bcab7b9"
+	]
+}

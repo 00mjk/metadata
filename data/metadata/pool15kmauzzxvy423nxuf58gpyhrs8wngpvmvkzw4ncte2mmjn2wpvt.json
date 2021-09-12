@@ -1,6 +1,7 @@
 {
-	"name": "Cardano Gaming",
+	"name": "Gaming Cardano",
 	"ticker": "GAME",
-	"description": "TBA | RESERVED ",
-	"homepage": "https://www.gamingcardano.com"
+	"description": "0% Fees, Stake-to-Play | Exclusive access to tournaments rewarding ADA + CNFTs",
+	"homepage": "https://gamingcardano.com",
+	"extended": "https://pool.gamingcardano.com/meta/game-meta-ext.json"
 }
