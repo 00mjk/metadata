@@ -4,13 +4,11 @@
 		"url_png_logo": "https://raw.githubusercontent.com/Felippo001/lovelacecnft-stakepool/main/images/astro-512.jpg",
 		"location": "Germany",
 		"social": {
-			"twitter_handle": "",
-			"telegram_handle": "",
-			"github_handle": ""
+			"twitter_handle": "https://twitter.com/KryptsCrypto"
 		},
 		"about": {
-			"me": "A group of extraordinary people, growing and adapting with cardano, one step at a time.",
-			"server": "LoveLace CNFT is an open marketplace for all projects cardano related."
+			"me": "We are a group of extrodanary people, adapting to cardano one step at a time",
+			"server": "LCNFT Pool helps support the Lovelace CNFT community while you (the delegator) receives passive ada and exclusive CNFT drops."
 		}
 	},
 	"my-pool-ids": {
