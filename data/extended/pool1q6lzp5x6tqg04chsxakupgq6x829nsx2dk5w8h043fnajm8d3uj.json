@@ -1,0 +1,58 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://pool.adaimpulse.club/img/cardano-icon.png",
+		"url_png_logo": "https://pool.adaimpulse.club/img/cardano-icon.png",
+		"location": "United States, Canada, Russia",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "ADA IMPULSE",
+			"addr": "Street, Number",
+			"city": "London",
+			"country": "England",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "...",
+			"server": "Our servers located in Europe 1000MB up/down.",
+			"company": "..."
+		}
+	},
+	"my-pool-ids": {
+		"0": "06be20d0da5810fae2f0376dc0a01a31d459c0ca6da8e3ddf58a67d9"
+	},
+	"when-satured-then-recommend": {
+		"0": "06be20d0da5810fae2f0376dc0a01a31d459c0ca6da8e3ddf58a67d9"
+	},
+	"telegram-admin-handle": {
+		"0": "your_tg_handle"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "relay 1 eu",
+				"type": "relay",
+				"key": "example_get_own_on_adapools.org/connect"
+			},
+			"1": {
+				"name": "relay 2 usa",
+				"type": "relay",
+				"key": "example_get_own_on_adapools.org/connect"
+			},
+			"2": {
+				"name": "block producer home",
+				"type": "bp",
+				"key": "example_get_own_on_adapools.org/connect"
+			}
+		}
+	}
+}

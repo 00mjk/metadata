@@ -1,7 +1,9 @@
 {
 	"name": "adaimpulse",
 	"ticker": "ADAIM",
-	"description": "ADA IMPULSE POOL",
+	"description": "ADA IMPULSE POOL now open with 0% fee & low saturation! Mission Driven Pool donating 10% of all fees to the Multiple Sclerosis (MS) International Federation",
 	"homepage": "https://adaimpulse.club",
-	"nonce": "1630093269"
+	"nonce": "1630093269",
+	"extended": "https://pool.adaimpulse.club/metadata/poolmeta-ext.json",
+	"verification_code": "7617998a5024b9265df33becb240d015"
 }

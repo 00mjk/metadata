@@ -1,7 +1,7 @@
 {
 	"name": "LovelaceCNFT",
 	"ticker": "LCNFT",
-	"description": "The first and ONLY stake pool of Lovelace CNFT. We are a team of highly motivated infividuals that have been here since the begining.  We have the Cardano Communities interest at the core of our hearts and want all of you to succeed with us.  We pride ourselves in Maximum rewards to our delegators and promise to keep permanently low fees.",
+	"description": "The first and ONLY stake pool of Lovelace CNFT. We are a team of highly motivated infividuals that have been here since the begining.  We have the Cardano Communities interest at the core of our hearts and want all of you to succeed with us.",
 	"homepage": "https://lovelacecnft.io",
 	"extended": "https://raw.githubusercontent.com/Felippo001/lovelacecnft-stakepool/main/extended_poolmetadata.json"
 }
