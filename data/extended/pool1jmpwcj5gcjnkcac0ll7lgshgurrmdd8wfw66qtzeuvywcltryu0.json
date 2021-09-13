@@ -1,10 +1,10 @@
 {
 	"info": {
-		"url_png_icon_64x64": "https://raw.githubusercontent.com/bulbpool/bulb/c823e7acb4e9abfcafd3cc6673e894936f0957a6/bulbpool_s.png",
-		"url_png_logo": "https://raw.githubusercontent.com/bulbpool/bulb/c823e7acb4e9abfcafd3cc6673e894936f0957a6/bulbpool.png",
-		"location": "UK",
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/bulbpool/bulb/main/bulbpool_s.png",
+		"url_png_logo": "https://raw.githubusercontent.com/bulbpool/bulb/main/bulbpool.png",
+		"location": "GB",
 		"social": {
-			"twitter_handle": "BulbPool"
+			"twitter_handle": "bulbpool"
 		},
 		"about": {
 			"me": "Secure, reliable stake pool operated by a couple of Cardano enthusiasts. Join bulb pool, earn rewards and help us secure the network."
