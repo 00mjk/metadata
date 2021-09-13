@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://truecardano.com/media/true-cardano-logo-64x64-white-bkg.png",
+		"url_png_logo": "https://truecardano.com/media/true-cardano-logo-2048x2048-white-bkg.png",
+		"location": "Toronto, Canada",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "truecardano",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "True Cardano",
+			"addr": "",
+			"city": "Toronto",
+			"country": "Canada",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "Cloud Hosted Virtual Private Servers. Quad Core CPU / 8GB Memory for block producer and relay",
+			"company": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "d71b41cefbbb82c0228f9c60fd9f67e023211123986ced8551f7f469"
+	},
+	"when-satured-then-recommend": {},
+	"telegram-admin-handle": {
+		"0": "rmfleet"
+	},
+	"adapools_ext": {
+		"prometheus": {}
+	}
+}
