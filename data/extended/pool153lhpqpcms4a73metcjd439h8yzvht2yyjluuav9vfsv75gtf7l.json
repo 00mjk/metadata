@@ -13,16 +13,16 @@
 			"github_handle": ""
 		},
 		"company": {
-			"name": "Name : Jinwon Choi",
+			"name": "Jinwon Choi",
 			"addr": "More than 20 years experiened maintenance professional & electricial engineer",
-			"city": "",
-			"country": "",
+			"city": "Gunsan",
+			"country": "Korea",
 			"company_id": "",
 			"vat_id": ""
 		},
 		"about": {
 			"me": "",
-			"server": "Hosted by Google internet data center(IDC), Security, Reliable, Powerful Networking and Maximum uptime! ",
+			"server": "One relay runs cloud-hosting and another relay runs bare metal server, <br>Security, Reliable, Powerful Networking and Maximum uptime! ",
 			"company": ""
 		}
 	},
