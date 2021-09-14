@@ -1,0 +1,21 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://zunderpool.io/wp-content/uploads/2021/04/logo_size.jpg",
+		"url_png_logo": "https://zunderpool.io/wp-content/uploads/2021/05/logo_size.jpgb",
+		"location": "London, England",
+		"social": {
+			"twitter_handle": "ZunderPoolADA",
+			"telegram_handle": "ZunderPoolADA"
+		},
+		"company": {
+			"name": "Der Zünder Gruppe",
+			"addr": "1 Cardano Place",
+			"city": "Munich",
+			"country": "Deutschland"
+		},
+		"about": {
+			"me": "I'm an IT professional and a big fan of ADA, and looking forward to great things",
+			"server": "Servers in Europe, Asia, and America."
+		}
+	}
+}
