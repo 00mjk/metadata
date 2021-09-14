@@ -1,0 +1,19 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://cdn.0xisla.live/islastake64.png",
+		"url_png_logo": "https://cdn.0xisla.live/islastake.png",
+		"location": "Spain",
+		"social": {
+			"twitter_handle": "islastakepool",
+			"telegram_handle": "islastakepool",
+			"github_handle": "islastakepool"
+		},
+		"about": {
+			"me": "SysAdmin with more than 15 years of experience and Cardano enthusiast.",
+			"server": "Our servers are located in different data centers. We use green energy from 100% carbon dioxide-free and environmentally-friendly hydropower."
+		}
+	},
+	"my-pool-ids": {
+		"0": "679b1d8a164791f21ab5a9a7fd2c8cfc108f76aad351912ec841847e"
+	}
+}

@@ -1,0 +1,25 @@
+{
+	"info": {
+		"location": "Iowa, USA",
+		"social": {
+			"twitter_handle": "EnvyStakePool",
+			"telegram_handle": "EnvyStakePool"
+		},
+		"company": {
+			"name": "Envy Stake Pool",
+			"city": "Iowa, USA",
+			"country": "USA"
+		},
+		"about": {
+			"me": "We are two brothers with a passion for Cardano who want to help build the community and learn more about this exciting technology by investing our time, money, and energy into providing a high quality stake pool for anyone who wants to participate!",
+			"server": "Currently using Digital Ocean servers for block producer and relay nodes. We use an air-gapped offline machine for sensitive transactions."
+		},
+		"my-pool-ids": {
+			"0": "14eae9da8ab6d322176ea88f40e9d32d843996bf2de88240e35594ea",
+			"1": ""
+		},
+		"telegram-admin-handle": {
+			"0": "EnvyStakePool"
+		}
+	}
+}

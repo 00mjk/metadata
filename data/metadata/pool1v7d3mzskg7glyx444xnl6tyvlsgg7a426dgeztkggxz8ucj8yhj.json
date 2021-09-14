@@ -1,6 +1,7 @@
 {
 	"name": "La Isla ADA Stakepool",
-	"description": "Supporting the decentralization of Cardano ecosystem from the island",
+	"description": "Supporting the decentralization of Cardano ecosystem from the island.",
 	"ticker": "ISLA",
-	"homepage": "https://0xisla.live"
+	"homepage": "https://0xisla.live",
+	"extended": "https://cdn.0xisla.live/poolMetaDataExt.json"
 }
