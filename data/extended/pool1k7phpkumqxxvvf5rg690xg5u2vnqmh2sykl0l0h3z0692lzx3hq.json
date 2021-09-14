@@ -23,7 +23,7 @@
 		},
 		"about": {
 			"me": "[CXP₳0] SPO",
-			"server": "1 BP 4 vCPU, 8 GB RAM 160 GB SSD, 3 RL 4vCPU 8 GB RAM 160 GB SSD",
+			"server": "1 BP 8 vCPU, 16 GB RAM 240 SSD | 1RL 8vCPU 30 GB RAM 200 GB SSD | 1RL 8vCPU 16 GB RAM 240 GB SSD",
 			"company": ""
 		},
 		"rss": ""
@@ -35,7 +35,7 @@
 		""
 	],
 	"telegram-admin-handle": [
-		""
+		"@CXPA_Pool"
 	],
 	"adapools_ext": {
 		"prometheus": {
