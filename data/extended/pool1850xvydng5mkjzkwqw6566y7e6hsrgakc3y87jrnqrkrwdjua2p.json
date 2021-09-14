@@ -22,7 +22,7 @@
 		},
 		"about": {
 			"me": "Developer by day, stake pool operator 24/7 :D",
-			"server": "Cloud based on Azure, currently 16gb, 4 core block producer, and 3 relays of 8gb, 2 cores",
+			"server": "Cloud based on Azure, currently 16gb, 4 core cpu block producer, and 3 relays of 16gb, 2 cores",
 			"company": "Bita"
 		}
 	},
