@@ -2,5 +2,6 @@
 	"name": "Lynx pool",
 	"description": "LYNX pool, based in Barcelona. Our aim is to help cardano decentralization. A % of our benefit will go to help animal shelters.",
 	"ticker": "LYNX",
-	"homepage": "https://cryptolynxadapool.com"
+	"homepage": "https://cryptolynxadapool.com",
+	"extended": "https://cryptolynxadapool.com/extended.json"
 }
