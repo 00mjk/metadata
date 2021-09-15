@@ -1,12 +1,12 @@
 {
 	"info": {
-		"url_png_icon_64x64": "https://fatmattstaking.com/logosmall.png",
-		"url_png_logo": "https://fatmattstaking.com/logosmall.png",
+		"url_png_icon_64x64": "https://fatmattstaking.com/logosmall.png?raw=true",
+		"url_png_logo": "https://fatmattstaking.com/logosmall.png?raw=true",
 		"location": "Texas, USA",
 		"social": {
-			"twitter_handle": "@fatmattstaking",
-			"telegram_handle": "https://t.me/fatmattstaking",
-			"facebook_handle": "@fatmattstaking",
+			"twitter_handle": "fatmattstaking",
+			"telegram_handle": "fatmattstaking",
+			"facebook_handle": "fatmattstaking",
 			"youtube_handle": "",
 			"reddit_handle": "",
 			"discord_handle": "",
