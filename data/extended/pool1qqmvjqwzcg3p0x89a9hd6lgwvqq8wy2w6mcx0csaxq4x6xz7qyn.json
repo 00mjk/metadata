@@ -2,14 +2,14 @@
 	"info": {
 		"url_png_icon_64x64": "https://climateactionfundgroup.com/metadata/Universal64.png",
 		"url_png_logo": "https://climateactionfundgroup.com/metadata/Universal.png",
-		"location": "Northumberland, England",
+		"location": "London, England",
 		"social": {
 			"twitter_handle": "ClimateFundPool",
 			"telegram_handle": "ClimaPool1"
 		},
 		"about": {
-			"me": "I’m a keen environmentalist, sports enthusiast and blockchain advocate! I recently graduated from The University of Manchester, where I undertook a masters specialising in sustainable business models and can’t wait to put it to use. Running the Climate Action Fund perfectly combines my passion for helping in the fight against climate change and conviction that blockchain and specifically Cardano, can change the world. ",
-			"company": "The Climate Action Fund was established to help marginalised communities battle the impacts of climate change. The fund will donate 50% of all profits to aid those most vulnerable to environmental threats. At present, our supported charities include Solar Aid, Ripple Africa and One Tree Plated. Ultimately, we have ambitions to support the growth of the Cardano community and its power to change the world by utilising our profits more directly in the future. We aim to ensure all communities can thrive in the face of climate change. "
+			"me": "I’m a keen environmentalist, sports enthusiast and blockchain advocate! Running the Climate Action Fund perfectly combines my passion for helping in the fight against climate change and conviction that blockchain and specifically Cardano, can change the world. ",
+			"company": "The Climate Action Fund was established to help marginalised communities battle the impacts of climate change. The fund will donate 50% of all profits to aid those most vulnerable to environmental threats. At present, our supported charities include Solar Aid, Ripple Africa and One Tree Plated. We aim to ensure all communities can thrive in the face of climate change. "
 		},
 		"my-pool-ids": {
 			"0": "110ec66cad80a0b98f72e2a6219837ba15f0f6201c785def19c8360f"
