@@ -1,0 +1,30 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://ivpc.org/node-files/favicon-64x64.png",
+		"url_png_logo": "https://ivpc.org/node-files/favicon1.png",
+		"location": "Bloomington, IL, United States",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Cloud Gurus",
+			"city": "Bloomington, IL",
+			"country": "United States"
+		},
+		"about": {
+			"me": "Josh Lindsey",
+			"server": "Virtual machines hosted in AWS",
+			"company": "Cloud Gurus"
+		}
+	},
+	"my-pool-ids": {
+		"0": "5b94c0519c366863a619abff232b61a446d9f4ae7c2cbc00f368d537",
+		"1": ""
+	}
+}

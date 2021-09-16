@@ -2,5 +2,6 @@
 	"name": "Illinois Valley Pools of Cardano",
 	"description": "Made by Central Illinois educators to use with lessons on financial literacy and DevOps",
 	"ticker": "IVPC",
-	"homepage": "https://ivpc.org"
+	"homepage": "https://ivpc.org",
+	"extended": "https://ivpc.org/node-files/poolMetaData-extended.json"
 }
