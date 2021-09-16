@@ -5,8 +5,8 @@
 		"location": "Pattaya, Thailand",
 		"social": {
 			"twitter_handle": "monadapool",
-			"telegram_handle": "",
-			"facebook_handle": "",
+			"telegram_handle": "monadapool",
+			"facebook_handle": "monadapool",
 			"youtube_handle": "",
 			"twitch_handle": "",
 			"discord_handle": "",
@@ -14,7 +14,7 @@
 		},
 		"about": {
 			"me": "Monad₳ Pool is a highly performant and resilient stake pool for the Cardano network. The pool is completely autonomous. Only one highly qualified developer is engaged in updating and maintaining its continuous work. Nevertheless, as a participant, you can be assured that our stake pool will be up and running 24/7.",
-			"server": "Virtual server NVMe, 8Gb RAM, Debian 10, 100Mbps up/down Hosted in Moscow."
+			"server": "Virtual server NVMe, 16Gb RAM, Debian 10, 100Mbps up/down Hosted in Moscow."
 		}
 	},
 	"my-pool-ids": {
