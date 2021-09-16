@@ -1,0 +1,32 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://user-images.githubusercontent.com/77803935/133521830-beac8625-549f-43db-a3df-38157a972918.jpg",
+		"url_png_logo": "https://user-images.githubusercontent.com/77803935/133521830-beac8625-549f-43db-a3df-38157a972918.jpg",
+		"location": "Texas, United States",
+		"social": {
+			"twitter_handle": "jacob_neider",
+			"telegram_handle": "arrkpool",
+			"facebook_handle": "jacob.neider",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "ARRK POOL",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "...",
+			"server": "Rasberry Pi 4",
+			"company": "..."
+		}
+	},
+	"my-pool-ids": {
+		"0": "..."
+	}
+}

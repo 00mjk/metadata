@@ -1,7 +1,7 @@
 {
 	"name": "CROWN Stake Pool",
 	"ticker": "CROWN",
-	"extended": "https://raw.githubusercontent.com/Venox20/c/main/c1-extended.json",
-	"homepage": "https://StakeADAcoins.io",
+	"extended": "https://raw.githubusercontent.com/Venox20/c1/main/c1-extended.json",
+	"homepage": "https://www.crownstakepool.com/",
 	"description": "Cardano Staking Service - Backup Block Producer, Monitoring and Alerts"
 }
