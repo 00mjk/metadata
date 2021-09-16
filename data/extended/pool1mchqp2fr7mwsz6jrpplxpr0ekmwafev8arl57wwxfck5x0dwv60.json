@@ -33,28 +33,5 @@
 		"0": "Dark345",
 		"1": "LaGrandeOnda"
 	},
-	"adapools_ext": {
-		"prometheus": {
-			"0": {
-				"name": "con-cardano-relay01.hwlegnano.it",
-				"type": "relay",
-				"key": "e65a8c9a3516946dad2a33c2bc179280"
-			},
-			"1": {
-				"name": "con-cardano-relay02.hwlegnano.it",
-				"type": "relay",
-				"key": "4d42731740db1bde98033faf19b1e092"
-			},
-			"2": {
-				"name": "con-cardano-relay03.hwlegnano.it",
-				"type": "relay",
-				"key": "b4b03b7f38c906a02051c31253cf36ed"
-			},
-			"3": {
-				"name": "Block Producer",
-				"type": "bp",
-				"key": "9f5320cb20978650d399a6208cd3d29d"
-			}
-		}
-	}
+	"adapools_ext": {}
 }
