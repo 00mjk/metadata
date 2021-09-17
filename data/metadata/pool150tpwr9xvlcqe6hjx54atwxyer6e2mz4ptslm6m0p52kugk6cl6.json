@@ -1,6 +1,7 @@
 {
 	"name": "Guardian",
-	"description": "contact tiwtter Cardano-GuardianPool@ccYnoGHbcTMlkdz  or  Telegram https://t.me/GuardianStakePool",
+	"description": "Guard your ADA",
 	"ticker": "GUARD",
-	"homepage": "https://git.io/Ju0ck"
+	"homepage": "https://git.io/Ju0ck",
+	"extended": "https://git.io/JzTf8"
 }

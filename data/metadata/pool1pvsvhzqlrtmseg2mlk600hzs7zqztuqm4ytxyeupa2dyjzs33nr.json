@@ -2,6 +2,6 @@
 	"name": "Cardano With SEAN",
 	"description": "SEAN Alimov stake pool aims to be the preeminent content creator for the Cardano community. Our charitable cause is the theater arts in NYC.",
 	"ticker": "SEAN",
-	"homepage": "https://seanalimov-pool.com/",
-	"extended": "https://spaas.org/.well-known/sean/extended.json"
+	"homepage": "https://seanpool.io/",
+	"extended": "https://raw.githubusercontent.com/SeanAlimov/pool/main/extended.json"
 }
