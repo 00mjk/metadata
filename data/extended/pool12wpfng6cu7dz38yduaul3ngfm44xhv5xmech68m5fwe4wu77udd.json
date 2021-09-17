@@ -14,5 +14,21 @@
 	},
 	"my-pool-ids": {
 		"0": "538299a358e79a289c8de779f8cd09dd6a6bb286de717d1f744bb357"
+	},
+	"votes": {
+		"https://cips.cardano.org/cips/cip23/": {
+			"vote": "Yes"
+		},
+		"https://spovotes.com/votes/change-min-fixed-fee-to-variable/": {
+			"vote": "Yes"
+		},
+		"https://spovotes.com/votes/remove-min-fee/": {
+			"vote": "Yes",
+			"comment": "Remove the minimum fee or reduce it to a realistic value and set a minimum variable fee. 340 ADA minimum fixed fee is too much at the current price."
+		},
+		"https://spovotes.com/votes/reduce-min-fee/": {
+			"vote": "Yes",
+			"comment": "Set the minimum fee to a realistic value. 340 ADA is too much at the current price."
+		}
 	}
 }
