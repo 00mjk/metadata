@@ -1,0 +1,8 @@
+{
+	"name": "B58 Finance - Stake Pool",
+	"ticker": "B58",
+	"description": "B58 is a DeFi wallet on Cardano, and this pool is to support the users and also provide stable rewards.",
+	"homepage": "https://b58.finance",
+	"nonce": "2957404245",
+	"extended": "https://b58.finance/meta/extended-poolmeta.json"
+}

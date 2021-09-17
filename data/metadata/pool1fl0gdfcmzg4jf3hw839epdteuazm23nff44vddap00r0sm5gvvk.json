@@ -1,7 +1,6 @@
 {
-	"name": "AVA - AVAcsp.com",
-	"description": "Eco Friendly, High Availability, High Efficiency | 0% Fees through 2021! | 2022 onwards 10% profit donation to charity TBA",
+	"name": "AVA Cardano Staking Pool",
+	"description": "Eco Friendly, High Efficiency | 0% Fees through 2021! | 2022 onwards 10% donation to charity TBA",
 	"ticker": "AVA",
-	"homepage": "https://AVAcsp.com",
-	"extended": "https://avacsp.com/metadata/AVA-extended-node-info.json"
+	"homepage": "https://AVAcsp.com"
 }

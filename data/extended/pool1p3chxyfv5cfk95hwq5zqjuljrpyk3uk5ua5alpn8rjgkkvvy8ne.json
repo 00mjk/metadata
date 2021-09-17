@@ -1,0 +1,21 @@
+{
+	"extended": "https://iamx.id/iamx_extended.json",
+	"info": {
+		"url_png_icon_64x64": "https://iamx.id/logoSmall_64x64.png",
+		"url_png_logo": "https://iamx.id/logoBig.png",
+		"location": "Zug,Swiss",
+		"social": {
+			"twitter_handle": "@iam_x_identity",
+			"instagramm_handle": "@iam_x",
+			"github_handle": "IAMXID"
+		},
+		"company": {
+			"name": "IAMX AG"
+		},
+		"about": {
+			"me": "IAMX AG was founded by three friends from Germany who shares ideas for making the world a little bit better: Jochen, Tim & Tim.",
+			"server": "Dedicated Servers hosted in a professional Swiss server center."
+		}
+	},
+	"my-pool-ids": {}
+}

@@ -1,0 +1,33 @@
+{
+	"itn": {
+		"owner": "",
+		"witness": ""
+	},
+	"adapools": {
+		"claim": ""
+	},
+	"info": {
+		"url_png_icon_64x64": "https://b58.finance/images/logo-64x64.png",
+		"url_png_logo": "https://b58.finance/images/logo.png",
+		"location": "Dublin, Ireland",
+		"social": {
+			"twitter_handle": "B58Finance",
+			"telegram_handle": "",
+			"facebook_handle": "B58-Finance-101392108885946",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "https://discord.gg/AaqPTSdrhu",
+			"github_handle": "B58Finance",
+			"reddit_handle": "https://www.reddit.com/r/B58Finance/",
+			"instagram_handle": "b58finance"
+		},
+		"company": {
+			"name": "B58 Finance"
+		},
+		"about": {
+			"me": "Our main missing is to contribute with Cardano's blockchain, by staking our rewards and our delagator's ADA, to garantee the security of the network.",
+			"server": "Our infrastructure is powered by AWS Cloud, with 2 nodes running 24/7 and 365 days. we aim to have 99.9% availability time.",
+			"company": "B58 Finance is a DeFi that will connect you with DApps and provide the easiest way of being part of a new financial world."
+		}
+	}
+}

@@ -1,0 +1,46 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/flickto/pool/main/logo.png",
+		"url_png_logo": "https://raw.githubusercontent.com/flickto/pool/main/logo.png",
+		"location": "United Kingdom",
+		"social": {
+			"twitter_handle": "FlicktoMedia",
+			"telegram_handle": "flickto",
+			"facebook_handle": "https://t.me/Flickto",
+			"youtube_handle": "Flickto",
+			"discord_handle": "https://discord.gg/hn7VVDrZKQ",
+			"github_handle": "flickto"
+		},
+		"about": {
+			"me": "...",
+			"server": "...",
+			"company": "..."
+		}
+	},
+	"my-pool-ids": {
+		"0": "1ae474a832cb712bf8f922938ab99d5c899e373ddebf066a135addc6"
+	},
+	"telegram-admin-handle": {
+		"0": "https://t.me/Flickto"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "relay 1 eu",
+				"type": "relay",
+				"key": "example_get_own_on_adapools.org/connect"
+			},
+			"1": {
+				"name": "relay 2 usa",
+				"type": "relay",
+				"key": "example_get_own_on_adapools.org/connect"
+			},
+			"2": {
+				"name": "block producer home",
+				"type": "bp",
+				"key": "example_get_own_on_adapools.org/connect"
+			}
+		}
+	}
+}
