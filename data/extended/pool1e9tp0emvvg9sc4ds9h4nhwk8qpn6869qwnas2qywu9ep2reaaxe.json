@@ -22,8 +22,8 @@
 		},
 		"about": {
 			"me": "",
-			"server": "(3) Reliable 4cpu, 8GB RAM, 80GB SSD servers, running Linux - 24/7/365 99.9% uptime with monitoring, SMS alerting & tight security, making sure no block goes unminted!",
-			"company": "Lord Byron Stake Pool"
+			"server": "(1)Block Producer & (2)Relays w/8CPU, 16GB RAM, 320GB SSD servers, running Ubuntu - 24/7/365 99.9% uptime with monitoring, SMS alerting & tight security, making sure no block goes unminted!",
+			"company": "Lord Byron Single Stake Pool"
 		},
 		"rss": ""
 	},
