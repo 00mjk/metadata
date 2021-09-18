@@ -1,6 +1,7 @@
 {
-	"name": "Cardano CHEST",
-	"description": "An independent stake pool dedicated to decentralization and security.",
-	"ticker": "CHEST",
-	"homepage": "https://cardanochest.com"
+	"name": "Pool for Bikes",
+	"description": "Stake and ride. Supporting the many ways of traveling on two wheels.",
+	"ticker": "BIKES",
+	"homepage": "https://cardanochest.com",
+	"extended": "https://git.io/JzkEt"
 }

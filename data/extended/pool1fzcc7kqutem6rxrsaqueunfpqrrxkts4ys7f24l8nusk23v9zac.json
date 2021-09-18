@@ -1,0 +1,58 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://tinyurl.com/pf8tpem9",
+		"url_png_logo": "https://tinyurl.com/4rdv8w9x",
+		"location": "Albuquerque, New Mexico, United States",
+		"social": {
+			"twitter_handle": "Ada4Soil",
+			"telegram_handle": "ADA4 SOIL",
+			"facebook_handle": "ADA4SOIL",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "9RESE"
+		},
+		"company": {
+			"name": "9 RESE' LLC",
+			"addr": "",
+			"city": "Albuquerque",
+			"country": "US",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "SOIL is a mission driven SPO operated by IT Professionals, Software Engineers, and Agronomists. SOIL is helping build a Cardano community of regenerative and sustainable farmers, ranchers, land stewards, and consumers, who believe that Cardano can be used to help build a resilient and nutritious food chain that rewards producers and consumers while regenerating ecosystems. 25% of SOIL’s profits are given to soil centric regenerative projects.",
+			"server": "3 Dedicated(multi-regional), 4 Core, 160GB Storage, 8GB RAM",
+			"company": "Linode"
+		}
+	},
+	"my-pool-ids": {
+		"0": "48b18f581c5e77a19870e8399e4d2100c66b2e15243c9557e79f2165"
+	},
+	"when-satured-then-recommend": {
+		"0": "6879ab43e837d11c606e37dbf3e743f13f303c9dff53be602f263d6d",
+		"1": "cf0f698eaf884ea22ef9442ceda4eed30ff538f43b4f21780c60052f"
+	},
+	"telegram-admin-handle": {
+		"0": "TCleckner"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "relay-atl",
+				"type": "relay",
+				"key": "relay-atl.ada4.io/connect"
+			},
+			"1": {
+				"name": "relay-free",
+				"type": "relay",
+				"key": "relay-free.ada4.io/connect"
+			},
+			"2": {
+				"name": "producer",
+				"type": "bp",
+				"key": "producer.ada4.io/connect"
+			}
+		}
+	}
+}

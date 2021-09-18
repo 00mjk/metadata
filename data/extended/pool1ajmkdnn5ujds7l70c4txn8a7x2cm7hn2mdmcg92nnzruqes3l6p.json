@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "http(s) url to pool icon",
+		"url_png_logo": "http(s) url to pool logo",
+		"location": "Country, Continent",
+		"social": {
+			"twitter_handle": "https://twitter.com/RinabitPool",
+			"telegram_handle": "https://t.me/roxem007",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "https://discord.gg/5aH4evAwxr",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "A nobody wanting to secure his own stake",
+			"server": "Private setup structure",
+			"company": "Will never go company"
+		},
+		"rss": "http(s) url to valid RSS feed"
+	},
+	"telegram-admin-handle": [
+		""
+	],
+	"my-pool-ids": [
+		"ecb766ce74e49b0f7fcfc556699fbe32b1bf5e6adb778415539887c0"
+	],
+	"when-satured-then-recommend": [
+		"ecb766ce74e49b0f7fcfc556699fbe32b1bf5e6adb778415539887c0"
+	]
+}

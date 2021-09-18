@@ -1,6 +1,7 @@
 {
 	"name": "ADA LANIN POOL ",
-	"description": "We are a team of friends, IT specialists and engineers living in Patagonia-Argentina. We blindly believe in Cardano and we are fully committed to solve every block that is assigned to us. We won’t let you down!",
+	"description": "'If you greatly desire something, have the guts to stake everything on obtaining it [BB]'... We are a young pool growing up in Patagonia Argentina and we will give everything to make it happen!",
 	"ticker": "LANIN",
-	"homepage": "http://laninpool.com"
+	"homepage": "http://laninpool.com",
+	"extended": "http://laninpool.com/Extended-Meta.json"
 }
