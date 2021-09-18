@@ -1,0 +1,25 @@
+{
+	"info": {
+		"location": "United States, North America",
+		"social": {
+			"twitter_handle": "https://twitter.com/JasonBiondo",
+			"youtube_handle": "https://www.youtube.com/channel/UCUj4NogOriBtTaX2umkFuBw",
+			"github_handle": "https://github.com/jasonbiondo"
+		},
+		"company": {
+			"name": "Trekeffect Inc.",
+			"city": "Niantic",
+			"country": "United States"
+		},
+		"about": {
+			"me": "Jason Biondo",
+			"company": "Trekeffect Inc."
+		}
+	},
+	"my-pool-ids": [
+		"351750220bf8fc0db147cd20c1b232a46606562179d7f097719639d3"
+	],
+	"when-satured-then-recommend": [
+		"351750220bf8fc0db147cd20c1b232a46606562179d7f097719639d3"
+	]
+}

@@ -1,0 +1,44 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://cardano-us-east-1.tradecartel.net/tradecartel-icon.png",
+		"url_png_logo": "https://cardano-us-east-1.tradecartel.net/tradecartel-logo.png",
+		"location": "US Cardano",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "TradeCartel",
+			"addr": "",
+			"city": "",
+			"country": "US",
+			"company_id": "US1",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Cardano (ADA) Stakepool - US East 1",
+			"server": "High-available Cardano Node Cluster",
+			"company": "TradeCartel US1"
+		}
+	},
+	"my-pool-ids": {
+		"0": "f3746e12eeb3034456a0a49dcb0d3f6dd9814720e29768d49c20daf9",
+		"1": ""
+	},
+	"when-satured-then-recommend": {
+		"0": "",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	},
+	"adapools_ext": {
+		"prometheus": {}
+	}
+}
