@@ -5,22 +5,7 @@
 		"location": "Patagonia, Argentina",
 		"social": {
 			"twitter_handle": "LaninPool",
-			"telegram_handle": "ADALANINPOOL",
-			"youtube_handle": "UCrjCIgIv3qeom7tJ0qFWAIw"
-		},
-		"company": {
-			"name": "ADA Lanin Pool",
-			"city": "Patagonia, San Martin de Los Andes",
-			"country": "Argentina"
-		},
-		"about": {
-			"me": "We live, and lived most of our lives in Patagonia-Argentina very much in contact with nature and an outdoor lifestyle. Feel free to get in contact with us and come to visit us! You will be amazed by the magic of this place.",
-			"server": "3x Relays in different cities (Block producer and 2x relays on web servers. 1x relay on local server)",
-			"Secure": "IT specialists implementing up to date best practices"
+			"telegram_handle": "ADALANINPOOL"
 		}
-	},
-	"my-pool-ids": {
-		"0": "pool12tvj2j05hh6gtsvw349vuesyn0zphh75u7vadh5rkjs566s2ty5",
-		"1": "52d92549f4bdf485c18e8d4ace66049bc41bdfd4e799d6de83b4a14d"
 	}
 }
