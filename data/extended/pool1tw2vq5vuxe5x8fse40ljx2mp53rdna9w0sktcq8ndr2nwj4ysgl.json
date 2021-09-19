@@ -18,8 +18,8 @@
 			"country": "United States"
 		},
 		"about": {
-			"me": "Founder and CEO of Cloud Gurus",
-			"server": "Virtual machines hosted in AWS. Each in its own availability region",
+			"me": "Cloud Gurus is a consulting company in Bloomington, IL that provides a variety of professional IT services. It is led by a CEO who has worked in the networking departments at Illinois State University, State Farm, and the local public school district. He is married to an elementary school teacher, and he has collaborated with local school leaders to incorporate this stake pool in a variety of lessons for children and young adults.",
+			"server": "Virtual machines hosted in AWS. Each in its own availability region. Future pools will use other cloud providers to help decentralize the Cardano network, if and when this pool reaches saturation. AWS was chosen for the first pool for the educational value since AWS is the provider that students are most likely to use throughout their career.",
 			"company": "Cloud Gurus"
 		}
 	},
