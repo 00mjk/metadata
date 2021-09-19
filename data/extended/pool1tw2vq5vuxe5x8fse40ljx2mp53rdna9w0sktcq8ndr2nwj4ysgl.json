@@ -6,7 +6,7 @@
 		"social": {
 			"twitter_handle": "",
 			"telegram_handle": "",
-			"facebook_handle": "",
+			"facebook_handle": "CloudGurus2020",
 			"youtube_handle": "",
 			"twitch_handle": "",
 			"discord_handle": "",
@@ -18,13 +18,13 @@
 			"country": "United States"
 		},
 		"about": {
-			"me": "Josh Lindsey",
-			"server": "Virtual machines hosted in AWS",
+			"me": "Founder and CEO of Cloud Gurus",
+			"server": "Virtual machines hosted in AWS. Each in its own availability region",
 			"company": "Cloud Gurus"
 		}
 	},
 	"my-pool-ids": {
 		"0": "5b94c0519c366863a619abff232b61a446d9f4ae7c2cbc00f368d537",
-		"1": ""
+		"1": "pool1tw2vq5vuxe5x8fse40ljx2mp53rdna9w0sktcq8ndr2nwj4ysgl"
 	}
 }
