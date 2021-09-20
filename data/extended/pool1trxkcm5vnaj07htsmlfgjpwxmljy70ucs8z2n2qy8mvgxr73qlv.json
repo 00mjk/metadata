@@ -1,5 +1,12 @@
 {
-	"about": {
-		"server": "Cloud based using best practices derived from years of experience in cloud software development"
+	"info": {
+		"about": {
+			"server": "Cloud based using best practices derived from years of experience in cloud software development"
+		},
+		"location": "US East (distributed)",
+		"social": {
+			"twitch_handle": "CaffeinatedCM",
+			"github_handle": "CaffeinatedCM"
+		}
 	}
 }
