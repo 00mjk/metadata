@@ -1,0 +1,52 @@
+{
+	"info": {
+		"url_png_icon_64x64": "http://www.dk-lab.ml:6285/jasm-icon.png",
+		"url_png_logo": "http://www.dk-lab.ml:6285/jasm-logo.png",
+		"location": "Seoul, South Korea",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "https://t.me/JasmineStakePool",
+			"facebook_handle": "https://www.facebook.com/jasmine.ko/",
+			"youtube_handle": "https://www.youtube.com/channel/UCNRB4oitcz-SQ5DqCegE-Ng",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Jasmine Project",
+			"addr": "Gangnam-gu, Jagok-ro 120",
+			"city": "Seoul",
+			"country": "South Korea",
+			"company_id": "dk-lab",
+			"vat_id": "201-98-48910"
+		},
+		"about": {
+			"me": "DK",
+			"server": "Virtual Machines and Raspberry Pis Hosted at DK lab in Seoul 100MB up/down, with UPS",
+			"company": "dk-lab"
+		}
+	},
+	"my-pool-ids": {
+		"0": "pool1vz59e00250xfjck8qd04kns89j56430wjzpdf37zfjnnyxttm37"
+	},
+	"when-satured-then-recommend": {
+		"0": "pool1vz59e00250xfjck8qd04kns89j56430wjzpdf37zfjnnyxttm37"
+	},
+	"telegram-admin-handle": {
+		"0": "https://t.me/JasmineStakePool"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "relay 1",
+				"type": "relay",
+				"key": ""
+			},
+			"1": {
+				"name": "relay 2",
+				"type": "relay",
+				"key": ""
+			}
+		}
+	}
+}
