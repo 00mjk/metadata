@@ -2,6 +2,9 @@
 	"info": {
 		"location": "Philadelphia, USA"
 	},
+	"my-pool-ids": {
+		"0": "35da8aa474f37a5025658da17218bebbe7e9d680bf44857313ae4e28"
+	},
 	"votes": {
 		"https://spovotes.com/votes/change-min-fixed-fee-to-variable/": {
 			"vote": "Yes"
