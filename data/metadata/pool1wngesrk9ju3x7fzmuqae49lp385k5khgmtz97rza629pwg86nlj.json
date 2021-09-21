@@ -1,0 +1,8 @@
+{
+	"name": "Skywalker",
+	"ticker": "SKYW",
+	"description": "Skywalker ADA Pool",
+	"homepage": "https://www.skyw.tech",
+	"nonce": "1631843993",
+	"extended": "https://raw.githubusercontent.com/SkywalkerADA/p/main/extended.json"
+}

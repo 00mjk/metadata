@@ -1,0 +1,23 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://github.com/stoppi/solpi/blob/main/Pool_icon_64x64.png?raw=true",
+		"url_png_logo": "https://github.com/stoppi/solpi/blob/main/Logo_small.png?raw=true",
+		"location": "Germany",
+		"social": {
+			"twitter_handle": "_stoppi",
+			"telegram_handle": "dost_solpi",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"about": {
+			"server": "Raspberry Pi - Solar powered - 100% renewable energy",
+			"company": ""
+		},
+		"my-pool-ids": {
+			"0": "827900818541013d518ee6b2af343a973c8d836884fb000742307400"
+		}
+	}
+}

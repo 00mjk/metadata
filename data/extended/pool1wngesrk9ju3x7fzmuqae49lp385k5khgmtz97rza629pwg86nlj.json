@@ -1,0 +1,36 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://github.com/SkywalkerADA/p/blob/main/R2D2.png",
+		"url_png_logo": "https://github.com/SkywalkerADA/p/blob/main/R2D2.png",
+		"location": "Bogotá, Colombia",
+		"social": {
+			"twitter_handle": "SKYWadapool",
+			"telegram_handle": "SKYW",
+			"instagram_handle": "SKYWadapool",
+			"youtube_handle": "channel/UCrBWMimiFKOhcC2bkHjPkHw",
+			"github_handle": "SkywalkerADA"
+		},
+		"company": {
+			"name": "Skywalker",
+			"city": "Bogotá",
+			"country": "Colombia"
+		},
+		"about": {
+			"server": "We’re currently utilizing VPS services to sustain a low-cost operation, a total of 4 servers hosted in San Francisco and New York for better connectivity, each server having 4vCPU + 16GB RAM + 250GB SSD.",
+			"company": "A Colombian startup through smart contracts. Founded on solid values: community benefit>individuals; purpose>profit; open innovation>patents; trust on tech>stamps."
+		},
+		"rss": "https://skyw.tech/news"
+	},
+	"my-pool-ids": {
+		"0": "74d1980ec597226f245be03b9a97e189e96a5ae8dac45f0c5dd28a17"
+	},
+	"when-satured-then-recommend": {
+		"0": "",
+		"1": "",
+		"2": "",
+		"3": ""
+	},
+	"telegram-admin-handle": {
+		"0": "SKYW"
+	}
+}

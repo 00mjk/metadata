@@ -1,8 +1,8 @@
 {
 	"name": "ADALovelacePool",
 	"ticker": "ADALO",
-	"description": "Migrate to NOTEA or NOTEG for a chance to win 1000 ADA per epoch",
+	"description": "Migrate to NOTEA or NOTEG for a chance to win up to 2000 ADA per epoch",
 	"homepage": "https://adalovelacepool.com",
-	"nonce": "1631092067",
+	"nonce": "1632155480",
 	"extended": "https://raw.githubusercontent.com/Bmtxs/sp/master/ext_adalo.json"
 }
