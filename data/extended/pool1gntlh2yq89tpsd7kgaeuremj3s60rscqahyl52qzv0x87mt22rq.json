@@ -1,0 +1,23 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://koreapool.io/images/koreapool_logo_64x64.png",
+		"url_png_logo": "https://koreapool.io/images/koreapool_logo_512x512.png",
+		"location": "Oregon, North America",
+		"social": {
+			"telegram_handle": "koreapool",
+			"instagram_handle": "korea.stakepool",
+			"twitter_handle": "KoreaPool_KOR",
+			"youtube_handle": "channel/UC9fwomUul7QvGFlpfvV9DsA"
+		},
+		"about": {
+			"me": "카르다노 한국 커뮤니티의 활성화를 위하여 만들어진 스테이크풀입니다. 저희팀은 북미 S&P 500 기업 개발자들로 구성되있으며 한국인들을 위한 서비스들을 제공할것입니다.\n1. 다수년간의 경험이 바탕이된 안정된 서버관리를 약속드립니다.\n2. 최신 카르다노 업데이트 내용을 한국어로 빠르게 번역해 제공해드립니다.\n3. 카르다노와 블록체인 기술의 이해를 도와드립니다."
+		}
+	},
+	"my-pool-ids": {
+		"0": "44d7fba88039561837d64773c1e7728c34f1c300edc9fa280263cc7f"
+	},
+	"telegram-admin-handle": {
+		"0": "koreapool_daehan",
+		"1": "koreapool_mingook"
+	}
+}

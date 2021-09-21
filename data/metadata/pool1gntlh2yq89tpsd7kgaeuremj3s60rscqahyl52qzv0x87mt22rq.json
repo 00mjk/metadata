@@ -1,6 +1,7 @@
 {
 	"name": "Korea Pool",
-	"description": "한국인의, 한국인에 의한, 한국인을 위한 카다노 커뮤니티입니다.",
+	"description": "한국인들과 카르다노를 이어주는 다리, 코리아풀입니다.",
 	"ticker": "KOR",
-	"homepage": "https://koreapool.io"
+	"homepage": "https://koreapool.io",
+	"extended": "https://koreapool.io/assets/poolMetadata-extended.json"
 }
