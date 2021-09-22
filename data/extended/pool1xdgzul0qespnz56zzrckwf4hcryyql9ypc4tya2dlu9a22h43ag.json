@@ -1,0 +1,32 @@
+{
+	"info": {
+		"url_png_icon_64x64": "",
+		"url_png_logo": "",
+		"location": "Chicago, USA",
+		"social": {
+			"twitter_handle": "cardanobikes",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "Chicago",
+			"country": "USA",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "...",
+			"server": "",
+			"company": "..."
+		},
+		"my-pool-ids": {
+			"0": "33502e7de0cc0331534210f16726b7c0c8407ca40e2ab2754dff0bd5"
+		}
+	}
+}
