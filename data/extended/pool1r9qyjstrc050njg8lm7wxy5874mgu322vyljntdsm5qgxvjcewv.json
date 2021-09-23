@@ -1,19 +1,18 @@
 {
 	"info": {
-		"url_png_icon_64x64": "https://cardanpool.github.io/cardanpool_ico.png",
-		"url_png_logo": "https://cardanpool.github.io/cardanpool_logo.png",
-		"location": "El Salvador, Centro America",
+		"url_png_icon_64x64": "https://sheinixstaking.github.io/stakepool_ico.png",
+		"url_png_logo": "https://sheinixstaking.github.io/stakepool_logo.png",
+		"location": "El Salvador | Nueva Zelanda",
 		"social": {
-			"twitter_handle": "Cardanpool_ADA",
+			"twitter_handle": "SheinixStaking",
 			"telegram_handle": "cardanpool",
-			"facebook_handle": "cardanpool",
-			"youtube_handle": "c/cardanpool",
+			"youtube_handle": "c/CryptoSheinix",
 			"twitch_handle": "",
-			"discord_handle": "",
+			"discord_handle": "AuGFDHaTAc",
 			"github_handle": ""
 		},
 		"company": {
-			"name": "Juan (CryptoSheinix) and Sam",
+			"name": "CRYPTOSHEINIX",
 			"addr": "",
 			"city": "",
 			"country": "El Salvador | New Zeland",
@@ -21,9 +20,9 @@
 			"vat_id": ""
 		},
 		"about": {
-			"me": "We are two cryptocurrency entrepreneurs: <br> -Juan (Cryptosheinix) a Software Developer from Argentina, living in New Zealand, crazy about crypto and one of the most popular Youtube Cryptocurrency content creators in the Spanish Language. <br>-Samuel, a Software Developer from El Salvador, living in El Salvador, sharing the craziness about crypto with Juan and an active member of the Cardano community.",
-			"server": "Cloud based servers, relays in two different regions, 16 GB Memory, 6 CPU cores each server, constant maintenance, security measures taken.",
-			"company": "CardanPool is the result of the collaboration of Juan (Cryptosehinix) and Sam. We believe in the Cardano project, so we are here in the long term, We have planned to be operating for many years. We are commited to support decentralization and those amazing Cardano initiatives in the Latin American region."
+			"me": "We are two cryptocurrency entrepreneurs: Juan (Cryptosheinix) a Software Developer from Argentina, living in New Zealand, crazy about crypto and one of the most popular Youtube Cryptocurrency content creators in the Spanish Language (https://www.youtube.com/c/CryptoSheinix). Samuel, a Software Developer from El Salvador, living in El Salvador, sharing the craziness about crypto with Juan and an active member of the Cardano community.",
+			"server": "Cloud based servers, relays in two different regions, 16 GB Memory, 6 CPU cores each server, constant maintenance, security measures taken (hardening).",
+			"company": "CRYPTOSHEINIX Stake Pool is the result of the collaboration of Juan (Cryptosehinix) and Sam. We believe in the Cardano project, so we are here in the long term, We have planned to be operating for many years if you permit us. We are commited to support decentralization and those amazing Cardano initiatives in the Latin American region."
 		},
 		"rss": ""
 	},

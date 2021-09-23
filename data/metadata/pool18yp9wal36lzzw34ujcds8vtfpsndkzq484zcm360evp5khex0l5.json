@@ -3,7 +3,5 @@
 	"description": "Building on some great ideas, Increasing the decentralised network",
 	"ticker": "AROCK",
 	"homepage": "https://adarockpool.com/",
-	"social": {
-		"twitter_handle": "ADAROCKPOOL"
-	}
+	"extended": "https://git.io/Jz2vv"
 }

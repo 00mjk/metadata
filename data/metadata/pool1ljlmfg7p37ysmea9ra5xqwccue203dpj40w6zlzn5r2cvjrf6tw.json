@@ -2,6 +2,6 @@
 	"name": "AAA",
 	"ticker": "AAA",
 	"description": "AAA Pool",
-	"homepage": "https://stakelovelace.io",
-	"extended": "https://raw.githubusercontent.com/stakelovelace/pub/main/aaa_extended.json"
+	"homepage": "https://stakelovelace.io/aaa/",
+	"extended": "https://raw.githubusercontent.com/hodlonaut/a/master/aaa_itn_tick.json"
 }

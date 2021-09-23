@@ -2,5 +2,6 @@
 	"name": "Rose Pool Staking",
 	"description": "Professionally Operated Pool",
 	"ticker": "ROSE",
-	"homepage": "https://github.com/RosePoolStaking/stakepool"
+	"homepage": "https://github.com/RosePoolStaking/stakepool",
+	"extended": "https://raw.githubusercontent.com/RosePoolStaking/stakepool/main/extended-meta.json"
 }
