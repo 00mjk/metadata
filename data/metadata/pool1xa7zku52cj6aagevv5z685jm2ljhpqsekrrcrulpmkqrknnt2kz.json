@@ -1,6 +1,7 @@
 {
 	"name": "Crypto Stakers",
-	"description": "Consortium formed by experienced and seasoned business and tech leaders from Latin America, focused on making crypto affordable and profitable to everyone",
+	"description": "We love crypto and believe it is a technology that will change our lives. Live the dream and stake with us! We want to launch more products and even our own token! Stay tuned!",
 	"ticker": "CSTKN",
-	"homepage": "https://www.cryptostakers.network"
+	"homepage": "https://www.cryptostakers.network",
+	"extended": "https://raw.githubusercontent.com/jean-rodrigues/adapool/main/extended.json"
 }

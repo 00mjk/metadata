@@ -1,0 +1,36 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/jean-rodrigues/adapool/main/qOw2_8Pq_64x64.jpeg",
+		"url_png_logo": "https://raw.githubusercontent.com/jean-rodrigues/adapool/main/qOw2_8Pq_400x400.jpeg",
+		"location": "Worldwide",
+		"social": {
+			"twitter_handle": "CryptoStakers",
+			"telegram_handle": "CryptoStakersNetwork",
+			"facebook_handle": "CryptoStakersNetwork",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "VFHRHNXQ",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "CryptoStakers Network",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "We love crypto and believe it is a technology that will change our lives. Live the dream and stake with us!",
+			"server": "",
+			"company": "CryptoStakers"
+		}
+	},
+	"my-pool-ids": {
+		"0": "377c2b728ac4b5dea32c6505a3d25b57e5708219b0c781f3e1dd803b",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": "CryptoStakers"
+	}
+}

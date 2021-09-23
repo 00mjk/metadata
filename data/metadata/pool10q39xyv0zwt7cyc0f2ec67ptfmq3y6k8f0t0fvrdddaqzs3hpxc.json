@@ -1,7 +1,7 @@
 {
 	"name": "spacecoins",
 	"description": "Stake with YOUR and DIDIT to earn FREE Cardano spacecoins, Adosia and Tokhun tokens every epoch! Visit spacecoins.io for details.",
-	"ticker": "YOUR",
+	"ticker": "DIDIT",
 	"homepage": "https://spacecoins.io",
-	"extended": "https://raw.githubusercontent.com/adosiawolf/m/master/yourx"
+	"extended": "https://raw.githubusercontent.com/adosiawolf/m/master/diditx"
 }

@@ -1,7 +1,7 @@
 {
-	"name": "ONE SPaaS.org | Stake Pool as a Service",
-	"description": "We provision and operate pools on behalf of ADA HODLers at the lowest rate available. Become a pool owner without need for a technical background.",
+	"name": "Stake Pool as a Service",
+	"description": "We provision and operate pools on behalf of ADA owners at the lowest rate available. Become a pool owner without need for a technical background.",
 	"ticker": "SPAAS",
 	"homepage": "https://spaas.org/",
-	"extended": "https://spaas.org/.well-known/one/extended.json"
+	"extended": "https://spaas.org/.well-known/spaas/extended.json"
 }

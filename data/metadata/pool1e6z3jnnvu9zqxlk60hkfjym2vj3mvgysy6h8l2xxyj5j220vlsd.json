@@ -1,6 +1,8 @@
 {
 	"name": "CoolTank's Stake Pool",
-	"description": "Enviromentally friendly alternative to GPU or ASIC mining",
 	"ticker": "CoolT",
-	"homepage": "https://thecooltank.com/mining-pool"
+	"description": "Enviromentally friendly alternative to GPU or ASIC mining",
+	"homepage": "https://thecooltank.com/mining-pool",
+	"nonce": "1632334250",
+	"extended": "https://git.io/JzEy2"
 }
