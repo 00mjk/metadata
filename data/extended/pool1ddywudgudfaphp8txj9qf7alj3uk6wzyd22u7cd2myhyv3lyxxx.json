@@ -1,0 +1,23 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://siam.mof.one/siam_icon.png",
+		"url_png_logo": "https://siam.mof.one/siam.png",
+		"location": "Bangkok, Thailand",
+		"social": {
+			"github_handle": "MoF-Dev"
+		},
+		"about": {
+			"me": "Hi.",
+			"server": "Relays hosted in multiple regions (including one low carbon! 🌲) on Google Cloud Platform and on premise."
+		}
+	},
+	"my-pool-ids": {
+		"0": "6b48ee351c6a7a1b84eb348a04fbbf94796d38446a95cf61aad92e46"
+	},
+	"when-satured-then-recommend": {
+		"0": "6b48ee351c6a7a1b84eb348a04fbbf94796d38446a95cf61aad92e46",
+		"1": "d65467e9d63f124ed903101f82868bda6ffd39f83bc7d30de65a288f",
+		"2": "96aa57f4af0652c800cde0d25288bf6d1e35aefd11770d60e6bf8f0a",
+		"3": "8952900d84070b044336b443c2afd2318fe53b54a3219879b5056063"
+	}
+}

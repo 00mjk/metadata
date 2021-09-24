@@ -1,0 +1,21 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://github.com/BlackHengeinv/RedPandaPool/blob/cf548e5bb4380eaadb2b6d5a3789c5c39ecc82f3/Red%20Panda%20Shield%2064x64.png",
+		"url_png_logo": "https://github.com/BlackHengeinv/RedPandaPool/blob/cf548e5bb4380eaadb2b6d5a3789c5c39ecc82f3/Red%20Panda%20Shield%2064x64.png",
+		"location": "Houston, Texas",
+		"social": {
+			"twitter_handle": "RedPandaStaking",
+			"telegram_handle": "RedPandaStaking"
+		},
+		"about": {
+			"me": "Single Pool Operator",
+			"server": "Relays located globally (cloud)| HW configuration of servers <CPU:4core|RAM:16G|SSD:160G"
+		},
+		"my-pool-ids": {
+			"0": "796cf5f959b9d66176a15cfa89a480b4a7b4e74fea76bdd5ac917e2f"
+		},
+		"when-satured-then-recommend": {
+			"0": "small pools - support decentralization"
+		}
+	}
+}
