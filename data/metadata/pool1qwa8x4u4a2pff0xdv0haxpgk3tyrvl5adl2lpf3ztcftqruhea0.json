@@ -1,8 +1,8 @@
 {
 	"name": "Elite Stake Pool 1",
 	"ticker": "ELITE",
-	"description": "Join the family in Elite Stake Pool 2 with 0% Margin until July 2021 - Maximum Rewards",
+	"description": "Join the family in Elite Stake Pool 2 with 0% Margin - Maximum Rewards",
 	"homepage": "https://elitestakepool.com",
-	"nonce": "1623170683",
-	"extended": "https://elitestakepool.com/pools/elite1/poolextended.json"
+	"nonce": "1632483946",
+	"extended": "https://elitestakepool.com/pools/elite1meta/metaextended.json"
 }

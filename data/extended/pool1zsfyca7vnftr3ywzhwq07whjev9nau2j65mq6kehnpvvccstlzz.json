@@ -1,0 +1,33 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/tejofreelance/GARU/main/garudaicon.png",
+		"url_png_logo": "https://raw.githubusercontent.com/tejofreelance/GARU/main/garudaimage.png",
+		"location": "Indonesia, Jakarta",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Garuda Pool",
+			"addr": "Kuningan, Jakarta Selatan",
+			"city": "Jakarta",
+			"country": "Indonesia"
+		},
+		"about": {
+			"me": "GARUDA POOL",
+			"server": "Secure, reliable, made in Indonesia. Stake with us!",
+			"company": "GARUDA POOL"
+		}
+	},
+	"my-pool-ids": {
+		"0": "pool1zsfyca7vnftr3ywzhwq07whjev9nau2j65mq6kehnpvvccstlzz"
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	}
+}

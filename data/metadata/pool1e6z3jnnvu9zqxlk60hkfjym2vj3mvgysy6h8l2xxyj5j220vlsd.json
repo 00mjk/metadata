@@ -1,8 +1,8 @@
 {
-	"name": "CoolTank's Stake Pool",
-	"ticker": "CoolT",
+	"name": "UAE Stake Pool",
+	"ticker": "UAE",
 	"description": "Enviromentally friendly alternative to GPU or ASIC mining",
 	"homepage": "https://thecooltank.com/mining-pool",
-	"nonce": "1632334250",
+	"nonce": "1632496008",
 	"extended": "https://git.io/JzEy2"
 }
