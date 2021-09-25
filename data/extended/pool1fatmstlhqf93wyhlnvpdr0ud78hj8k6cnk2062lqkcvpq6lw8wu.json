@@ -4,9 +4,9 @@
 		" url_png_logo ": "https://raw.githubusercontent.com/Caslu18/m/main/logo46KB.jpg",
 		" ubicación ": " Cuenca, ECUADOR ",
 		" social ": {
-			" twitter_handle ": "EvaPool8",
+			" twitter_handle ": "EVAPOOL",
 			" facebook_handle ": "EvapoolPooleva",
-			" telegram_handle ": "EvaPool8"
+			" telegram_handle ": "EvaPool"
 		},
 		" empresa ": {
 			" nombre ": " ",
@@ -24,9 +24,11 @@
 	},
 	" my-pool-ids ": {
 		" 0 ": "4f57b82ff7024b1712ff9b02d1bf8df1ef23db589d94fd2be0b61810",
+		"member_since": "2021-08-10",
+		"name": "EVA",
 		" 1 ": ""
 	},
 	" telegram-admin-handle ": {
-		" 0 ": "EvaPool8"
+		" 0 ": "EvaPool"
 	}
 }

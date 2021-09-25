@@ -2,5 +2,6 @@
 	"name": "Realestate Stake",
 	"description": "We are using blockchain technologies to build real estate platform called LQJ, such as tokenization of the value of a real asset allows it to be traded on the blockchain through exchanges like any token, eliminating barriers to entry. ",
 	"ticker": "LQJ",
-	"homepage": "https://www.lvqiaoju.com"
+	"homepage": "https://www.lvqiaoju.com",
+	"extended": "https://www.lvqiaoju.com/extended.json"
 }

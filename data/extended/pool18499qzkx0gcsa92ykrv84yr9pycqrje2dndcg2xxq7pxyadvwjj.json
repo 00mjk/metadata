@@ -1,0 +1,33 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.lvqiaoju.com/lqj_icon.png",
+		"url_png_logo": "https://www.lvqiaoju.com/lqj.png",
+		"location": "LQJ, Australia",
+		"social": {
+			"twitter_handle": "RealestateStake",
+			"telegram_handle": "RealestateStake",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "LQJ",
+			"addr": "",
+			"city": "Sydney",
+			"country": "AU",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Single pool operater. Try to bring the cardano World to Southtyrol",
+			"server": "Our stake pool is at speed of 100MB up/down and powered with green energy, solar energy.",
+			"company": ""
+		},
+		"my-pool-ids": {
+			"0": "3d4a500ac67a310e9544b0d87a9065093001cb2a6cdb8428c6078262",
+			"1": ""
+		}
+	}
+}

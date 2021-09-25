@@ -1,6 +1,7 @@
 {
 	"name": "Smile Rose Pool",
-	"description": "SPO’sジャパンギルドで鍛え上げられたスマイルローズプールです。委任お待ちしてます！Smile Rose pool from Cardano SPO’s Japan Guild. Join SRP and enjoy your staking life!",
+	"description": "日本語、英語、韓国語で対応可！ADAプレゼントキャンペーン実施中です♪ PIGY Tokenもプレゼントします！たくさんの人がスマイルになれますように:) Let's stake with SRP and enjoy your staking life!",
 	"ticker": "SRP",
-	"homepage": "https://twitter.com/smilerosepool"
+	"homepage": "https://twitter.com/smilerosepool",
+	"extended": "https://raw.githubusercontent.com/smilerosepool/smilerose/main/extendedMeta.json"
 }
