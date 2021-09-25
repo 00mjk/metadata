@@ -2,5 +2,12 @@
 	"itn": {
 		"owner": "ed25519_pk130hgafnve9f7jr6x4e549v808r34adcfakxfn26ts5qrvghdstgsn89pf4",
 		"witness": "ed25519_sig1gpfn7fk4d0kct8tlvh8uvn4u0hn4wq7vmm9t6qsmqtq4cxwpk5cm24lvurg3h4wkm5mgkmxv7vzfvrgks4q7m0ynyqzufx9v2g9tzrcuz3xk9"
+	},
+	"info": {
+		"url_png_icon_64x64": "https://www.publickey.co.jp/files/nap_log_maru_tw64.png",
+		"social": {
+			"twitter_handle": "necotaSensei",
+			"youtube_handle": "channel/UCz3QzD1qX5fm1KqQGGZhR0A"
+		}
 	}
 }
