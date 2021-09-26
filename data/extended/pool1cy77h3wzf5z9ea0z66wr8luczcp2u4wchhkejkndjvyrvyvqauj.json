@@ -1,0 +1,19 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://geekme.com/geekme64.png",
+		"url_png_logo": "https://geekme.com/geekme512.png",
+		"social": {
+			"telegram_handle": "g33kme",
+			"github_handle": "g33kme"
+		},
+		"company": {},
+		"about": {
+			"me": "Professional ADA Cardano Stake Pool",
+			"server": "Secured and trusted in Germany"
+		}
+	},
+	"telegram-admin-handle": [],
+	"my-pool-ids": [
+		"c13debc5c24d045cf5e2d69c33ff981602ae55d8bded995a6d930836"
+	]
+}
