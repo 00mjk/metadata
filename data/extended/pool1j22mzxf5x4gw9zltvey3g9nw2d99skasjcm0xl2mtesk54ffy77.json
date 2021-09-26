@@ -21,8 +21,8 @@
 			"vat_id": ""
 		},
 		"about": {
-			"me": "We are software engineers in Viet Nam. Being amazed by how the Cardano are built and its road ahead, we started this pool to support the project.",
-			"server": "We operate 2 relay nodes, one located in Singapore and one in West Europe, both are deployed on Azure infrastructure. Each machine has 8GB of RAM with 2CPUs.",
+			"me": "",
+			"server": "",
 			"company": ""
 		},
 		"rss": ""
