@@ -2,5 +2,6 @@
 	"name": "NAP2-Nekota ADA Pool",
 	"description": "猫のアイコンのNekota ADA Poolです。初期テストネットから既にプール運営開始。多くの経験を通して、皆様に福を招くプールとして、ベストパフォーマンス目指します ",
 	"ticker": "NAP2",
-	"homepage": "https://www.publickey.co.jp"
+	"homepage": "https://www.publickey.co.jp",
+	"extended": "https://www.publickey.co.jp/files/poolmeta_extended2.json"
 }

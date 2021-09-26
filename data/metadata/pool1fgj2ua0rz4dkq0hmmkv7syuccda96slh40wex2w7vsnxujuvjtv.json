@@ -3,5 +3,5 @@
 	"description": "Your average joe crypto investors. Learning as we go, passing on the knowledge, access messaging groups ALL free.",
 	"ticker": "CUJO",
 	"homepage": "https://cryptocujo.com/",
-	"extended": "https://spaas.org/.well-known/cujo/extended.json"
+	"extended": "https://raw.githubusercontent.com/cujopool/cujopool/main/extended.json"
 }

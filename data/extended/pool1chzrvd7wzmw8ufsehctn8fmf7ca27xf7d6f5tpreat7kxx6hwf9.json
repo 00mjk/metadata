@@ -1,0 +1,18 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://mobcsp.work/icon-64x64.png",
+		"url_png_logo": "https://mobcsp.work/logo.png",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "",
+			"youtube_handle": "",
+			"facebook_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"about": {
+			"server": "8 x vCPU, 16GiB RAM VPS Server; 6 x vCPU 16GiB RAM Original Server",
+			"company": "naruhodou holdings."
+		}
+	}
+}

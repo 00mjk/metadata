@@ -1,6 +1,6 @@
 {
-	"name": "Wave-1",
+	"name": "WAVE-1",
+	"description": "WAVE-1 is a Cardano staking pool owned and operated by Wave Pool.",
 	"ticker": "WAV1",
-	"description": "Private pool for Wave GP investing",
-	"homepage": "https://www.wavegp.com/"
+	"homepage": "https://wavegp.com"
 }

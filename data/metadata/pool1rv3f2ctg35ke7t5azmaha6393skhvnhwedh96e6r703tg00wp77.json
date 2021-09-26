@@ -3,5 +3,5 @@
 	"description": "Rewards in ADA & SCAN Tokens, because 2 are better than 1! The more Ada you delegate, the more ADA & SCAN you will earn.",
 	"ticker": "SCAN",
 	"homepage": "https://www.scantoken.io/pool",
-	"extended": "https://github.com/SCANREPO/scan-stake-pool/blob/main/extended.json"
+	"extended": "https://raw.githubusercontent.com/SCANREPO/scan-stake-pool/main/extended.json"
 }
