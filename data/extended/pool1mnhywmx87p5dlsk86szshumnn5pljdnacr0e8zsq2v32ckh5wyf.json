@@ -19,7 +19,7 @@
 		},
 		"about": {
 			"me": "",
-			"server": "3x6vcore/16gb/160gb+1x6core/18gb/1tb",
+			"server": "3x8vcore/30gb/nvme+1x6vcore/16gb/nvme+1xCold",
 			"company": "all good"
 		},
 		"my-pool-ids": {
