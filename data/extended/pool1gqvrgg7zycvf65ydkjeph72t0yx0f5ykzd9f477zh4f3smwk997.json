@@ -4,24 +4,28 @@
 		"witness": "ed25519_sig18yvg26js9mayutavwrs9eatfprwd4hrdenj8y7s2sfv62sv6pkej39mq6zv0tgyfzmqn3ke5p48ytlnv9fng89rqcscyas9fd6cegpqe0ksl3"
 	},
 	"info": {
-		"url_png_icon_64x64": "https://www.sandstone.io/australia-64x64.png",
-		"url_png_logo": "https://www.sandstone.io/australia-512x512.png",
+		"url_png_icon_64x64": "https://www.sandstone.io/sandstone-64x64.png",
+		"url_png_logo": "https://www.sandstone.io/sandstone-512x512.png",
 		"location": "Perth, Western Australia",
 		"about": {
-			"me": "A Software Architect who builds large-scale distributed systems as a profession. A long time supporter and contributor in the Cardano community.",
-			"server": "Dedicated hosting of block producer and relays on Amazon Web Services. Configured for high-reliability and security."
-		},
-		"social": {
-			"twitter_handle": "michael_fazio",
-			"telegram_handle": "michaelfazio",
-			"github_handle": "michaeljfazio"
+			"me": "Software Architect with over fourteen years of professional experience designing, implementing, and delivering complex distributed systems.",
+			"server": "Cloud hosted on Amazon Web Services. Deployed across three availability zones. Architected for high-availability, zero downtime, and maximum performance.",
+			"company": "Sandstone is a professional Stake Pool running on the Cardano blockchain. We offer secure staking with a high-level of assurance that our servers remain online and minting blocks at all times."
 		}
 	},
 	"my-pool-ids": {
 		"0": "40183423c226189d508db4b21bf94b790cf4d096134a9afbc2bd5318"
 	},
+	"social": {
+		"twitter_handle": "sandstonepool",
+		"telegram_handle": "michaelfazio",
+		"facebook_handle": "",
+		"youtube_handle": "",
+		"twitch_handle": "",
+		"discord_handle": "",
+		"github_handle": "michaeljfazio"
+	},
 	"telegram-admin-handle": {
 		"0": "michaelfazio"
-	},
-	"adapools_verification": "e00303c0aa1a8f142f0205c2c81f8e61"
+	}
 }
