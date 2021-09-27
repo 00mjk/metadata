@@ -1,8 +1,8 @@
 {
 	"name": "Total Return Staking",
 	"ticker": "TRT",
-	"description": "Providing passionate education to German Cardano enthusiasts.",
+	"description": "Total Return Staking provides maximal return of rewards for delegators.",
 	"homepage": "https://www.totalreturn-staking.com/",
 	"nonce": "1613320584",
-	"extended": "https://www.totalreturn-staking.com/extended.json/"
+	"extended": "https://www.totalreturn-staking.com/extended.json"
 }

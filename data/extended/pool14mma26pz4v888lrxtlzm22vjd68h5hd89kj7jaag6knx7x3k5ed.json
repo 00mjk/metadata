@@ -1,0 +1,23 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.totalreturn-staking.com/images/tr-icon.png",
+		"url_png_logo": "https://www.totalreturn-staking.com/images/logo-192x192.png",
+		"location": "Berlin, Germany",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "totalreturnstaking",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"about": {
+			"me": "Welcome to Total Return Staking, we create Cardano Content for German Cardano enthusiasts to simplify the so often overwhelming Entrypoint of the Cardano ecosystem.",
+			"server": "We use a local Relay and a cloud hosted Relay to insure consistent connection between our Leader Node and the Relays. All Nodes are hosted and run in Germany! 24/7/365 monitoring and alerting system"
+		}
+	},
+	"my-pool-ids": {
+		"0": "aef7d56822ab0e73fc665fc5b529926e8f7a5da72da5e977a8d5a66f"
+	}
+}

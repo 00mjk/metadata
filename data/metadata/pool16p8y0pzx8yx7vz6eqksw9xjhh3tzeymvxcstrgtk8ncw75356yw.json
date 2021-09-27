@@ -2,5 +2,6 @@
 	"name": "Zero Percent Staking",
 	"description": "Maximise your staking rewards… The Zero Percent Staking ‘ZPCT’ pool is committed 0% fees - ALWAYS!",
 	"ticker": "ZPCT",
-	"homepage": "https://zeropercentstaking.com"
+	"homepage": "https://zeropercentstaking.com",
+	"extended": "https://zeropercentstaking.com/poolMetaDataExtended.json"
 }
