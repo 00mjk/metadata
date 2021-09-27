@@ -1,7 +1,7 @@
 {
 	"name": "Seven Seas",
-	"ticker": "7CS",
 	"description": "Connecting the World",
+	"ticker": "7CS",
 	"homepage": "https://7cs.io",
-	"nonce": "1599682999"
+	"extended": "https://cardanostakehouse.com/7127198d-e687-4d72-a5fa-b4d.json"
 }

@@ -2,5 +2,6 @@
 	"name": "YakisobaPool",
 	"description": "目指せ！焼きそばの支払いにADAが使える時代を",
 	"ticker": "YKSB",
-	"homepage": "https://twitter.com/RootYakisoba"
+	"homepage": "https://twitter.com/RootYakisoba",
+	"extended": "https://raw.githubusercontent.com/zdevice/yakisoba/main/extendedMeta.json"
 }

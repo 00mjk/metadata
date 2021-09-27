@@ -8,12 +8,13 @@
 		},
 		"company": {},
 		"about": {
-			"me": "Professional ADA Cardano Stake Pool",
+			"me": "Professional ADA Cardano Stake Pool by Geeks for Geeks. Come join us and make the world decentralized",
 			"server": "Secured and trusted in Germany"
 		}
 	},
 	"telegram-admin-handle": [],
 	"my-pool-ids": [
 		"c13debc5c24d045cf5e2d69c33ff981602ae55d8bded995a6d930836"
-	]
+	],
+	"adapools-verify": ""
 }
