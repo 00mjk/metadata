@@ -14,14 +14,14 @@
 			"github_handle": ""
 		},
 		"company": {
-			"name": "Arigato Pool",
+			"name": "Arigato StakingPool",
 			"addr": "Ota-ku",
 			"city": "Tokyo",
 			"country": "Japan"
 		},
 		"about": {
 			"me": "...",
-			"server": "8 Core 16 GB x3 VMs in Tokyo and the network is via VPS  (up to 1 Gbps)",
+			"server": "8 Core 16 GB x3 VMs in Tokyo (up to 1 Gbps)",
 			"company": "..."
 		}
 	},
