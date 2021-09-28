@@ -1,0 +1,20 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.liapool.com/favicon-64x64.png",
+		"url_png_logo": "https://www.liapool.com/favicon-512x512.png",
+		"location": "Jacksonville, Florida, United States",
+		"company": {
+			"name": "Neustack Software Solutions",
+			"city": "Tampa, Florida",
+			"country": "United States"
+		},
+		"about": {
+			"me": "We are a software and DevOps company and we've been in business since 2014. We believe in the Cardano network and we are committed to securing it and creating projects on top of it.",
+			"server": "Two relay nodes and one block producing node. The hardware is dedicated exclusively to the Cardano nodes.",
+			"company": "Neustack Software Solutions"
+		}
+	},
+	"my-pool-ids": {
+		"0": "91c7103cac7acd53a7c7e56c6fb77db0c8d89ebcb6b0828c7f14aebe"
+	}
+}

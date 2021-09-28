@@ -2,5 +2,6 @@
 	"name": "LIA Increments ADA",
 	"description": "0% margin pool owned and operated responsibly by Neustack Software Solutions.",
 	"ticker": "LIA",
-	"homepage": "https://www.liapool.com"
+	"homepage": "https://www.liapool.com",
+	"extended": "https://raw.githubusercontent.com/NeuStack/liapool/main/poolExtendedMetaData.json"
 }

@@ -1,0 +1,18 @@
+{
+	"info": {
+		"location": "Tokyo, Japan",
+		"social": {
+			"twitter_handle": "user_rina",
+			"facebook_handle": "RINAUserGroup",
+			"youtube_handle": "RINA User Group",
+			"github_handle": "rinausergroup"
+		},
+		"about": {
+			"group": "We are a RINA User Group (RUG) in Japan. We are currently working with sponsorship from a communications service provider in Japan. We have weekly meetings to discuss the deployment challenges of RINA. The problems we solve are in preparation for a commercial RINA launch."
+		},
+		"rss": ""
+	},
+	"my-pool-ids": [
+		"cc06dfc772a853fc79e150cd458c4553d876d7c5d6f575100e082253"
+	]
+}
