@@ -1,6 +1,53 @@
 {
 	"info": {
 		"url_png_icon_64x64": "https://raw.githubusercontent.com/SCANREPO/scan-stake-pool/main/ScanToken%20Logo%20(64).png",
-		"url_png_logo": "https://raw.githubusercontent.com/SCANREPO/scan-stake-pool/main/Logo_50kb.png"
+		"url_png_logo": "https://raw.githubusercontent.com/SCANREPO/scan-stake-pool/main/Logo_50kb.png",
+		"location": "Sheridan, USA",
+		"social": {
+			"twitter_handle": "repo_coin",
+			"telegram_handle": "REPO_Blockchain",
+			"facebook_handle": "repocoin",
+			"youtube_handle": "channel/UCwRRmCr0cxCfmo-qg9-bB9Q"
+		},
+		"company": {
+			"name": "Repo Blockchain",
+			"city": "Sheridan",
+			"country": "USA"
+		},
+		"about": {
+			"me": "One happy camper",
+			"server": "The relays and Block Producers are running on cardano Air gap machines-node and cardano-cli on version 1.29.0.",
+			"company": "Repo Blockchain"
+		}
+	},
+	"my-pool-ids": {
+		"0": "1b229561688d2d9f2e9d16fb7eea258c2d764eeecb6e5d6743f3e2b4",
+		"1": "1b229561688d2d9f2e9d16fb7eea258c2d764eeecb6e5d6743f3e2b4"
+	},
+	"when-satured-then-recommend": {
+		"0": "1b229561688d2d9f2e9d16fb7eea258c2d764eeecb6e5d6743f3e2b4",
+		"1": "1b229561688d2d9f2e9d16fb7eea258c2d764eeecb6e5d6743f3e2b4"
+	},
+	"telegram-admin-handle": {
+		"0": "REPO_Blockchain"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "relay 1 USA",
+				"type": "relay",
+				"key": "example_get_own_on_adapools.org/connect"
+			},
+			"1": {
+				"name": "relay 2 usa",
+				"type": "relay",
+				"key": "example_get_own_on_adapools.org/connect"
+			},
+			"2": {
+				"name": "block producer home",
+				"type": "bp",
+				"key": "example_get_own_on_adapools.org/connect"
+			}
+		}
 	}
 }
