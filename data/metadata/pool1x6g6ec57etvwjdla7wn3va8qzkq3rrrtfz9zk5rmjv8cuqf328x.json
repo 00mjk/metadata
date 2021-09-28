@@ -1,7 +1,7 @@
 {
-	"name": "Beer's Pool",
-	"description": "This pool is made of beer",
-	"ticker": "BEER_",
+	"name": "Fish's Pool",
+	"description": "Pool to fishing ada",
+	"ticker": "FISH1",
 	"homepage": "https://github.com/fabriciolima/cardanobeer/",
 	"extended": "https://github.com/fabriciolima/cardanobeer/beer.extended.json"
 }

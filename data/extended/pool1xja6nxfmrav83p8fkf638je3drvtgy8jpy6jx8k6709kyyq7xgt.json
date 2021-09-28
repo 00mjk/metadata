@@ -1,0 +1,59 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.piratestakepool.com/static/ada_pirate_flag_cropped_square_64x64.png",
+		"url_png_logo": "https://www.piratestakepool.com/static/ada_pirate_flag_cropped_square.png",
+		"location": "Colorado Springs, Colorado",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Pirate Stake Pool",
+			"addr": "",
+			"city": "Colorado Springs",
+			"country": "Colorado",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "All of Pirate Pool's nodes are running enterprise grade drives in RAID 1 on bare-metal. All nodes and networking equipment are provided with constant power through uninterruptible power supplies (UPS). I strive to keep all nodes online 100% of the time, keep each node up to date with the latest version of the node from IOG, and maintain the decentralization of the network.",
+			"company": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "",
+		"1": ""
+	},
+	"when-satured-then-recommend": {
+		"0": "",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "Pirate Stakepool - Relay 1",
+				"type": "relay",
+				"key": "None"
+			},
+			"1": {
+				"name": "Pirate Stakepool - Relay 2",
+				"type": "relay",
+				"key": "None"
+			},
+			"2": {
+				"name": "Pirate Stakepool - Node",
+				"type": "bp",
+				"key": "None"
+			}
+		}
+	}
+}
