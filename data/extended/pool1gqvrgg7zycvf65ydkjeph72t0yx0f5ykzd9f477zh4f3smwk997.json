@@ -5,17 +5,8 @@
 	},
 	"info": {
 		"url_png_icon_64x64": "https://www.sandstone.io/sandstone-64x64.png",
-		"url_png_logo": "https://www.sandstone.io/sandstone-64x64.png",
+		"url_png_logo": "https://www.sandstone.io/sandstone-512x512.png",
 		"location": "Perth, Western Australia",
-		"social": {
-			"twitter_handle": "sandstonepool",
-			"telegram_handle": "michaelfazio",
-			"facebook_handle": "",
-			"youtube_handle": "",
-			"twitch_handle": "",
-			"discord_handle": "",
-			"github_handle": "michaeljfazio"
-		},
 		"about": {
 			"me": "Software Architect with over fourteen years of professional experience designing, implementing, and delivering complex distributed systems.",
 			"server": "Cloud hosted on Amazon Web Services. Deployed across three availability zones. Architected for high-availability, zero downtime, and maximum performance.",
@@ -24,6 +15,15 @@
 	},
 	"my-pool-ids": {
 		"0": "40183423c226189d508db4b21bf94b790cf4d096134a9afbc2bd5318"
+	},
+	"social": {
+		"twitter_handle": "sandstonepool",
+		"telegram_handle": "michaelfazio",
+		"facebook_handle": "",
+		"youtube_handle": "",
+		"twitch_handle": "",
+		"discord_handle": "",
+		"github_handle": "michaeljfazio"
 	},
 	"telegram-admin-handle": {
 		"0": "michaelfazio"
