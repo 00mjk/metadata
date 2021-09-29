@@ -2,5 +2,6 @@
 	"name": "Bold ADA Pool",
 	"description": "Stake Boldly My Friends",
 	"ticker": "BOLD",
-	"homepage": "https://www.boldada.com"
+	"homepage": "https://www.boldada.com",
+	"extended": "https://www.boldada.com/extended.json"
 }
