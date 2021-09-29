@@ -4,7 +4,9 @@
 		"url_png_logo": "https://earncoinpool.com/coin_200.png",
 		"location": "Illinois, United States",
 		"social": {
-			"twitter_handle": "earncoinpool"
+			"twitter_handle": "earncoinpool",
+			"telegram_handle": "EarnCoinPool",
+			"facebook_handle": "earncoinpool"
 		},
 		"company": {
 			"name": "EarnCoinPool"
