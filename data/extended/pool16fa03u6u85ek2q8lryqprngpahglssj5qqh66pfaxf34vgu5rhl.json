@@ -1,6 +1,12 @@
 {
 	"info": {
-		"social": {},
+		"url_png_icon_64x64": "https://empowa.io/empdl60.png",
+		"url_png_logo": "https://empowa.io/empdl192.png",
+		"social": {
+			"twitter_handle": "empowa_io",
+			"telegram_handle": "s/empowa_io",
+			"youtube_handle": "channel/UCfmTyDzMbYfdwUZZC1h9jbw"
+		},
 		"company": {},
 		"about": {}
 	},
