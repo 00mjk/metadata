@@ -5,7 +5,7 @@
 		"location": "Fráncfort, Europe",
 		"social": {
 			"twitter_handle": "HelenStakePool",
-			"telegram_handle": "HelenSPool",
+			"telegram_handle": "@HelenSPool",
 			"reddit_handle": "u/HelenStakePoolBot"
 		},
 		"about": {
@@ -18,7 +18,7 @@
 	],
 	"when-satured-then-recommend": [],
 	"telegram-admin-handle": [
-		"HelenspoolBot"
+		"@HelenspoolBot"
 	],
 	"itn": {
 		"owner": "",
