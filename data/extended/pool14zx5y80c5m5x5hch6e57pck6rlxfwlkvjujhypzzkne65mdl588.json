@@ -1,0 +1,17 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://git.io/JujCe",
+		"url_png_logo": "https://git.io/JujCl",
+		"location": "Germany",
+		"social": {
+			"twitter_handle": "BukelePool",
+			"telegram_handle": "bukelepresidentpool"
+		},
+		"about": {
+			"me": "We are a team",
+			"server": "Hosted in a virtual server in Germany.",
+			"company": "..."
+		}
+	}
+}
