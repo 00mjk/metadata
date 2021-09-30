@@ -1,18 +1,20 @@
 {
 	"info": {
 		"url_png_icon_64x64": "https://geekme.com/geekme64.png",
-		"url_png_logo": "https://geekme.com/geekme512.png",
+		"url_png_logo": "https://geekme.com/geekme512-logo.png",
 		"social": {
 			"telegram_handle": "g33kme",
 			"github_handle": "g33kme"
 		},
 		"company": {},
 		"about": {
-			"me": "Professional ADA Cardano Stake Pool by Geeks for Geeks. Come join us and make the world decentralized",
-			"server": "Secured and trusted in Germany"
+			"me": "Professional ADA Cardano Stake Pool by Geeks for Geeks. Come join us and make the world decentralized. In Code We Trust! Minimum fees: 340 Fixed Cost and currently 0% Margin to build our pool. Come connect to our professional 24/7 online Cardano Stake Pool and collect our GEEKME TOKEN PERKS on https://poolperks.io - It is worth it!",
+			"server": "Secured, trusted and based in Germany. We want to expand our servers worldwide"
 		}
 	},
-	"telegram-admin-handle": [],
+	"telegram-admin-handle": [
+		"g33kme"
+	],
 	"my-pool-ids": [
 		"c13debc5c24d045cf5e2d69c33ff981602ae55d8bded995a6d930836"
 	],

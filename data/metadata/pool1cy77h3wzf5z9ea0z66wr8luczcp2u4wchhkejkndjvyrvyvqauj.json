@@ -1,7 +1,7 @@
 {
 	"name": "GeekMe Stake Pool",
-	"description": "In Code We Trust!",
+	"description": "In Code We Trust! Minimum fees: 340 Fixed Cost and 0% Margin",
 	"ticker": "GEEK",
 	"homepage": "https://www.geekme.com",
-	"extended": "https://cardanostakehouse.com/c07271ec-ff80-4457-abef-1ef.json"
+	"extended": "https://cardanostakehouse.com/a717b1b9-797c-4001-983a-c15.json"
 }
