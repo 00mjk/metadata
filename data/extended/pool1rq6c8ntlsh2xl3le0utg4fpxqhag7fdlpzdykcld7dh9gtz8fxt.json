@@ -22,7 +22,7 @@
 		},
 		"about": {
 			"me": "",
-			"server": "Hosted on AWS and on-prem in 4 US Regions. 2-4vCPU w/ 8 GB RAM. 120 GB+ Expandable Storage.",
+			"server": "Hosted on AWS and other providers in 4 Regions. 4-6vCPU w/ 16 GB RAM. 120 GB+ Expandable Storage.",
 			"company": ""
 		}
 	},
