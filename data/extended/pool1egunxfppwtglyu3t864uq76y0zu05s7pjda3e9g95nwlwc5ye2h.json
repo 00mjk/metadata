@@ -4,7 +4,9 @@
 		"url_png_logo": "https://ausstaker.com.au/img/as_logo_100x100.png",
 		"location": "Adelaide, Australia",
 		"social": {
-			"facebook_handle": "ausstaker"
+			"facebook_handle": "ausstaker",
+			"twitter_handle": "ausstaker",
+			"github_handle": "tgotech"
 		}
 	}
 }
