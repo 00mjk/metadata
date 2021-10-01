@@ -1,7 +1,7 @@
 {
 	"name": "Cardano (ADA) Staking",
 	"ticker": "ADAX1",
-	"description": "We've successfully migrated to 1.29.0 (Alonzo Ready)! Our pool needs your help to grow. We're committed to never missing a block. Maximize your rewards with zero margin, multi-layered security, 24/7 monitoring, and geo-redundant connections.",
-	"homepage": "https://www.adaxstaking.com",
+	"description": "Our pool is new and needs your help to grow. We're committed to never missing a block. Maximize your rewards with zero margin, multi-layered security, 24/7 monitoring, high-performance nodes, and geo-redundant connections.",
+	"homepage": "https://www.adaxstaking.io",
 	"extended": "https://raw.githubusercontent.com/rxie-xdh/ada/main/pmde.json"
 }

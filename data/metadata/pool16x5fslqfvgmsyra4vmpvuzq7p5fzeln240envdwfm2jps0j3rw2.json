@@ -1,8 +1,8 @@
 {
-	"name": "0FEES",
+	"name": "Zero Fees",
 	"ticker": "0FEES",
 	"description": "0FEES is a Cardano staking pool that guarantees an optimal performance while charging the minimum amount of fees allowed by the protocol. Our mission is to maximize the benefits of the stakers by reducing operational costs.",
-	"homepage": "https://www.blockops.zone/cardano/staking/0fees.html",
-	"nonce": "1632702115",
-	"extended": "https://www.blockops.zone/cardano/staking/0fees-extended.json"
+	"homepage": "https://www.blockops.zone/cardano/staking/0fees",
+	"nonce": "1633037984",
+	"extended": "https://www.blockops.zone/cardano-staking/0fees-ext.json"
 }

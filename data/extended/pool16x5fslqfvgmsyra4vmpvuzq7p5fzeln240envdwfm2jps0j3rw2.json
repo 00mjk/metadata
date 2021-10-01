@@ -1,0 +1,40 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.blockops.zone/cardano-staking/0fees-icon.ico",
+		"url_png_logo": "https://www.blockops.zone/cardano-staking/0fees-logo.png",
+		"location": "Dublin, Ireland",
+		"social": {
+			"twitter_handle": "0fees",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "d1a8987c096237020fb566c2ce081e0d122cfe6aabf33635c9daa418",
+		"1": ""
+	},
+	"when-satured-then-recommend": {
+		"0": "",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	}
+}
