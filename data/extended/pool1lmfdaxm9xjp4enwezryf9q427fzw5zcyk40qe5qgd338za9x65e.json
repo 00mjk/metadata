@@ -1,0 +1,27 @@
+{
+	"info": {
+		"url_png_icon_64x64": "http(s) url to pool icon; not animated; max 40kb",
+		"url_png_logo": "http(s) url to pool logo; not animated; max 50kb",
+		"location": "Tiblis, Georgia",
+		"social": {
+			"twitter_handle": "ADACashPool",
+			"telegram_handle": "https://t.me/adacashpool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Chimera Holdings LLC"
+		},
+		"about": {
+			"me": "Chimera Holdings LLC",
+			"server": "Gold-standard instances hosted on Tier IV compliant datacenters around the world.",
+			"company": "Chimera Holdings LLC"
+		}
+	},
+	"my-pool-ids": {
+		"0": "fed2de9b6534835ccdd910c89282aaf244ea0b04b55e0cd0086c6271"
+	}
+}
