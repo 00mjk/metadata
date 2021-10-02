@@ -1,0 +1,38 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://upstream.org.uk/assets/icon.png",
+		"url_png_logo": "https://upstream.org.uk/assets/logo.png",
+		"location": "Kent, England",
+		"social": {
+			"twitter_handle": "Upstream_ada",
+			"telegram_handle": "",
+			"facebook_handle": "upstream",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Upstream Ltd",
+			"addr": "Kent",
+			"city": "",
+			"country": "England",
+			"company_id": "13389737",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "We are a like minded team with the combined skills and a deep motivation, enabling us to bring community stability for future generations. Formed from long term friendships and now professional relationships, our desire is to empower the many through the use of decentralised tools and philosophies.",
+			"server": "100% Green Powered, hosted by our partner in London",
+			"company": "The aim is to build a sustainable, decentralised and community driven future, focused on educating individuals and supporting charities in the effort to become financially independent."
+		}
+	},
+	"my-pool-ids": {
+		"0": "b67b0635ab2b26df9e44ba14fac3560720ca0902446d68fe282d4b97"
+	},
+	"when-saturated-then-recommend": {
+		"0": "3ce97744ba787d0e15ac73cee8cd3e822c4a28027583d5b2228268a0"
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	}
+}

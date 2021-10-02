@@ -3,5 +3,6 @@
 	"ticker": "EZPZ",
 	"description": "Making the cardano space eazy to use combining cardano and low-code.",
 	"homepage": "https://cardano-sandbox.mxapps.io",
-	"nonce": "1633081200"
+	"nonce": "1633081200",
+	"adapools": "24ca4e9c3e11a24252c30a15eac319b4"
 }

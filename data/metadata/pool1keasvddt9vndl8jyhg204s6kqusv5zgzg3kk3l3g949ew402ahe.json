@@ -2,5 +2,6 @@
 	"name": "Upstream",
 	"description": "Join Upstream in building a sustainable and decentralised future, donating 30% of operator profits to financial education and charities, and developing Cardano infrastructure for those who need it. The source of financial freedom starts Upstream!",
 	"ticker": "UPSTR",
-	"homepage": "https://upstream.org.uk"
+	"homepage": "https://upstream.org.uk",
+	"extended": "https://upstream.org.uk/assets/extendedPoolMetaData.json"
 }
