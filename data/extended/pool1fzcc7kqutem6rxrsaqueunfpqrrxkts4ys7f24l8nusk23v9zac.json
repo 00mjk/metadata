@@ -1,7 +1,7 @@
 {
 	"info": {
-		"url_png_icon_64x64": "https://tinyurl.com/pf8tpem9",
-		"url_png_logo": "https://tinyurl.com/4rdv8w9x",
+		"url_png_icon_64x64": "https://bit.ly/3mgqGwM",
+		"url_png_logo": "https://bit.ly/3iskrVs",
 		"location": "Albuquerque, New Mexico, United States",
 		"social": {
 			"twitter_handle": "Ada4Soil",
@@ -39,14 +39,14 @@
 	"adapools_ext": {
 		"prometheus": {
 			"0": {
-				"name": "relay-atl",
+				"name": "relay-vegas",
 				"type": "relay",
-				"key": "relay-atl.ada4.io/connect"
+				"key": "relay-vegas.ada4.io/connect"
 			},
 			"1": {
-				"name": "relay-free",
+				"name": "relay-iowa",
 				"type": "relay",
-				"key": "relay-free.ada4.io/connect"
+				"key": "relay-iowa.ada4.io/connect"
 			},
 			"2": {
 				"name": "producer",
