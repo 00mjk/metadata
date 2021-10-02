@@ -1,7 +1,8 @@
 {
-	"name": "HodlPool",
-	"description": "High performance ₳DA staking",
+	"name": "Hodler Staking",
 	"ticker": "HODLR",
+	"description": "High performance ₳DA staking for good.",
 	"homepage": "https://www.hodlerstaking.com",
+	"nonce": "1633120467",
 	"extended": "https://git.io/JR2xj"
 }
