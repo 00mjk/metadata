@@ -13,7 +13,7 @@
 			"github_handle": ""
 		},
 		"company": {
-			"name": "My name is Jinwon Choi. More than 20 years experiened maintenance professional & electricial engineer",
+			"name": "",
 			"addr": "",
 			"city": "",
 			"country": "",
@@ -21,8 +21,8 @@
 			"vat_id": ""
 		},
 		"about": {
-			"me": "ADAgogo1 cardano stake pool",
-			"server": "One relay runs on cloud hosting, The other relay run on bare metal servers in my home.",
+			"me": "",
+			"server": "Cloud hosting and bare metal server in my home",
 			"company": ""
 		}
 	},
