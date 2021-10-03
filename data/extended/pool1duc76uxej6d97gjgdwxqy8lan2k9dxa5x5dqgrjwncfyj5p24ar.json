@@ -1,11 +1,11 @@
 {
 	"info": {
-		"url_png_icon_64x64": "",
-		"url_png_logo": "",
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/staca-co/staca-mainnet/de3b7a07a5c7a80320d24778300243870b612fd8/images/staca_png_icon_64x64.png",
+		"url_png_logo": "https://raw.githubusercontent.com/staca-co/staca-mainnet/de3b7a07a5c7a80320d24778300243870b612fd8/images/staca_png_icon_599x599.png",
 		"location": "Madrid, Spain",
 		"social": {
 			"twitter_handle": "",
-			"telegram_handle": "estacapool",
+			"telegram_handle": "staca",
 			"facebook_handle": "",
 			"youtube_handle": "",
 			"twitch_handle": "",
@@ -13,10 +13,10 @@
 			"github_handle": ""
 		},
 		"company": {
-			"name": "",
+			"name": "Staca-Inc",
 			"addr": "",
 			"city": "",
-			"country": "",
+			"country": "Spain",
 			"company_id": "",
 			"vat_id": ""
 		},
