@@ -1,7 +1,7 @@
 {
-	"name": "EstacaPool",
-	"description": "Stake pool hispano dirigido por 3 profesionales de IT. 0% fees y monitoring 24/7",
-	"ticker": "ESTC",
-	"homepage": "https://www.estacapool.com",
-	"extended": "https://raw.githubusercontent.com/estacapool/estaca-mainnet/main/extendedMetaData.json"
+	"name": "staca.co",
+	"description": "Pool centrado en la comunidad hispana, dirigido por 3 profesionales en datos y tecnología. 0% comisiones y monitorización 24/7. Nuestro objetivo es ayudar a la comunidad hispanohablante a entender Blockchain, su potencial y los proyectos existentes.",
+	"ticker": "STACA",
+	"homepage": "https://staca.co",
+	"extended": "https://raw.githubusercontent.com/staca-co/staca-mainnet/main/extendedMetaData.json"
 }

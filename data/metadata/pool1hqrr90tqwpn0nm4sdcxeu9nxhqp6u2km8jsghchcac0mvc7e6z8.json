@@ -2,5 +2,6 @@
 	"name": "MEYI POOL",
 	"description": "Lets win together for better society",
 	"ticker": "MEYI",
-	"homepage": "https://meyicloud.com"
+	"homepage": "https://meyicloud.com",
+	"verify": "b1196e6e3b0067a5a32bf0d92d8a48dc"
 }
