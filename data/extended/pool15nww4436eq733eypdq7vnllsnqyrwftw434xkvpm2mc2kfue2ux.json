@@ -1,0 +1,33 @@
+{
+	"info": {
+		"url_png_icon_64x64": "",
+		"url_png_logo": "",
+		"location": "",
+		"social": {
+			"twitter_handle": "@seedpools",
+			"telegram_handle": "https://t.me/seedpoolschat",
+			"facebook_handle": "https://www.facebook.com/seedpools.org",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Seed Pools",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Seed is a proud supporter of Mustard Seed Non-Profit organization",
+			"server": "DE / FR / UK",
+			"company": ""
+		},
+		"my-pool-ids": {
+			"0": "",
+			"1": ""
+		}
+	}
+}

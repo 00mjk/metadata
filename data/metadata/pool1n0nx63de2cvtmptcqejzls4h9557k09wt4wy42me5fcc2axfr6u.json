@@ -2,6 +2,5 @@
 	"name": "GlasgowAdaPool",
 	"description": "Glasgow's first cardano staking pool",
 	"ticker": "GAP",
-	"homepage": "https://glasgowadapool.com",
-	"extended": "https://glasgowadapool.com/extendedData.json"
+	"homepage": "https://glasgowadapool.com"
 }
