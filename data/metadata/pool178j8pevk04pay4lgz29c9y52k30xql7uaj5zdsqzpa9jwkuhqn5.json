@@ -1,6 +1,7 @@
 {
 	"name": "CastleCardano",
-	"description": "Castle Cardano is an educational staking pool whose mission is to enlighten the world. We want people to know: What is crypto, why blockchain will be the future, and why Cardano will be a leader",
+	"description": "We make learning Cardano, Blockchain & Crypto easy, so you can be a part of the historic revolution!",
 	"ticker": "CASTE",
-	"homepage": "https://castlecardano.com"
+	"homepage": "https://castlecardano.com",
+	"extended": "https://git.io/Jcrvn"
 }
