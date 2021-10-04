@@ -23,7 +23,7 @@
 		},
 		"about": {
 			"me": "I am a passionate software engineer and work for the ETH Zurich University. I believe in Cardano and its potential and I am proud to be part of this community.",
-			"server": "The staking pool is built with 2x RaspberryPi 4 [8GB RAM | 4 cores | 250GB SSD M.2 | Argon] and the bandwidth is 1GB up / down. Daily monitoring and optimization of the server ensures reliable access.",
+			"server": "The staking pool is built with 2x MicroServer [16GB RAM | 4 Cores | 1000GB HDD] and the bandwidth is 1GB up / down. Daily monitoring and optimization of the server ensures reliable access.",
 			"company": ""
 		}
 	},
