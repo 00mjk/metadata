@@ -6,18 +6,18 @@
 		"social": {
 			"twitter_handle": "AlfaCardanoPool",
 			"telegram_handle": "alfacardanopool",
-			"facebook_handle": "alfacardanopool",
+			"facebook_handle": "",
 			"youtube_handle": "",
 			"twitch_handle": "",
-			"discord_handle": "Alfa Pool (ALFA)#5628",
+			"discord_handle": "https://discord.gg/afeyYp8Vd4",
 			"github_handle": "alfacardanopool"
 		},
 		"company": {
-			"name": "Alfa Pool"
+			"name": "₳lfa Cardano Pool • https://linktr.ee/alfapool"
 		},
 		"about": {
-			"server": "Baremetal core plus cloud relays",
-			"company": "Alfa Pool is supporting decentralization for a better ecosystem and donating to Greek charity organisations"
+			"server": "Baremetal core with baremetal backup located in Greece plus many cloud relays",
+			"company": "Alfa Pool • Professional operated high performance pool, 99,99% uptime! • Support ADA decentralization"
 		}
 	},
 	"my-pool-ids": {
