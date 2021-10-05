@@ -1,51 +1,13 @@
 {
-	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
 	"info": {
 		"url_png_icon_64x64": "https://raw.githubusercontent.com/momo-ada-pool/pulic-information/master/MOMO_ADA_POOL_64-64.png",
 		"url_png_logo": "https://raw.githubusercontent.com/momo-ada-pool/pulic-information/master/MOMO_ADA_POOL_200-200.png",
-		"location": "",
 		"social": {
-			"twitter_handle": "momoadapool",
-			"telegram_handle": "",
-			"facebook_handle": "",
-			"youtube_handle": "",
-			"twitch_handle": "",
-			"discord_handle": "",
-			"github_handle": ""
+			"twitter_handle": "momoadapool"
 		},
 		"about": {
 			"me": "普段はエンジニアをしていながらステークプール運営をしている【MOMO ADA POOL】です。透明性のあるステークプール運営を行います！ I'm 【MOMO ADA POOL】, a stake pool operator while usually being an engineer. I will manage the stake pool with transparency！",
 			"server": "VPS / 16GB RAM / 8core CPU"
-		}
-	},
-	"my-pool-ids": {
-		"0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
-		"1": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
-	},
-	"when-satured-then-recommend": {
-		"0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
-		"1": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
-	},
-	"telegram-admin-handle": {
-		"0": "your_tg_handle"
-	},
-	"adapools_ext": {
-		"prometheus": {
-			"0": {
-				"name": "relay 1 eu",
-				"type": "relay",
-				"key": "example_get_own_on_adapools.org/connect"
-			},
-			"1": {
-				"name": "relay 2 usa",
-				"type": "relay",
-				"key": "example_get_own_on_adapools.org/connect"
-			},
-			"2": {
-				"name": "block producer home",
-				"type": "bp",
-				"key": "example_get_own_on_adapools.org/connect"
-			}
 		}
 	}
 }
