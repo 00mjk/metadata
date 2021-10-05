@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "",
+		"url_png_logo": "",
+		"location": "Patagonia, Argentina",
+		"social": {
+			"twitter_handle": "patagoniapool",
+			"telegram_handle": "patagoniastakepool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "wbxwun9dYf",
+			"github_handle": "patagonia-stake-pool"
+		},
+		"about": {
+			"me": "",
+			"server": "Cloud servers hosted in a green datacenter in Frankfurt.",
+			"company": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "46772701ede42bf7edfcfb01bbcb73e14a4a5337e39b12f153c8bac5"
+	},
+	"when-satured-then-recommend": {
+		"0": "",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": "fp_pat"
+	}
+}

@@ -3,5 +3,5 @@
 	"description": "Single Pool Operator from Argentina committed to helping decentralize the network and educate Cardano holders on the responsibilities they've acquired with their tokens. Find the best English and Spanish content in our website.",
 	"ticker": "PAT",
 	"homepage": "https://es.patagoniastakepool.org",
-	"extended": "https://github.com/meta/extendedMeta.json"
+	"extended": "https://raw.githubusercontent.com/patagonia-stake-pool/meta/main/extendedMetadata.json"
 }

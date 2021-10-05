@@ -1,0 +1,7 @@
+{
+	"name": "Your ADA Moon",
+	"description": "A safe, secure, highly-available stake pool.  Your ADA will Moon here!",
+	"ticker": "YOON",
+	"homepage": "https://youradamoonpool.us",
+	"extended": "https://raw.githubusercontent.com/arichard5/moon/main/adamoon.extended-metadata.json"
+}
