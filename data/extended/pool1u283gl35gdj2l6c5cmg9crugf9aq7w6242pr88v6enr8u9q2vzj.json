@@ -17,8 +17,8 @@
 			"vat_id": "0"
 		},
 		"about": {
-			"me": "We are Electrical and Computer Sciences engineers with 20+ years of experience in the IT industry. We have been through several technology evolution cycles since the 1990s and understand how to scale our systems and anticipate new requirements. Passion for advancing and democratizing technology is what drives us. Rocinante is one of the very few Cardano nodes in Latin America, so believe we have an important role in the decentralization effort. Please consider this when you decide where to stake.",
-			"server": "We use a mix of 1 cloud server for backup and multiple raspberry pie 4 servers for minimal power consumption and carbon footprint. Our raspberry pie servers run in Costa Rica which guarantees that on top of minimal power usage, 99%  of the energy used is renewable energy.",
+			"me": "We are Electrical and Computer Sciences engineers with 20+ years of experience in the IT industry. We have been through several technology evolution cycles since the 1990s and understand how to scale our systems and anticipate new requirements. Passion for advancing and democratizing technology is what drives us. Rocinante, running in Costa Rica, is one of the very few Cardano nodes in Latin America, so believe we have an important role in the decentralization effort. Please consider this when you decide where to stake.",
+			"server": "Bare metal servers running in Costa Rica, a country that produces 99% of its electricity using renewable energy sources.",
 			"company": "Adakailabs, evangelizing blockchain technology and Cardano in Costa Rica and the rest of Latin America"
 		}
 	},
