@@ -7,18 +7,12 @@
 			"twitter_handle": "Ada4Soil",
 			"telegram_handle": "ADA4 SOIL",
 			"facebook_handle": "ADA4SOIL",
-			"youtube_handle": "",
-			"twitch_handle": "",
-			"discord_handle": "",
 			"github_handle": "9RESE"
 		},
 		"company": {
 			"name": "9 RESE' LLC",
-			"addr": "",
 			"city": "Albuquerque",
-			"country": "US",
-			"company_id": "",
-			"vat_id": ""
+			"country": "US"
 		},
 		"about": {
 			"me": "SOIL is a mission driven SPO operated by IT & RegenrativAg Professionals. SOIL is helping build a Cardano community of regenerative farmers, ranchers, stewards, and consumers. We believe that Cardano will be used to help build a resilient & nutritious food chain that rewards producers and consumers while regenerating ecosystems. 25% of SOIL’s profits are given to the Savory Institute & 5% to Veritree.",
@@ -35,24 +29,5 @@
 	},
 	"telegram-admin-handle": {
 		"0": "TCleckner"
-	},
-	"adapools_ext": {
-		"prometheus": {
-			"0": {
-				"name": "relay-vegas",
-				"type": "relay",
-				"key": "relay-vegas.ada4.io/connect"
-			},
-			"1": {
-				"name": "relay-iowa",
-				"type": "relay",
-				"key": "relay-iowa.ada4.io/connect"
-			},
-			"2": {
-				"name": "producer",
-				"type": "bp",
-				"key": "producer.ada4.io/connect"
-			}
-		}
 	}
 }
