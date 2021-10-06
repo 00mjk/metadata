@@ -1,6 +1,7 @@
 {
 	"name": "Cardano Hit Pool",
-	"description": "Let's HIT the road for cardano world together",
+	"description": "Hello, delegators! please consider delegating to Hit stake pool with 0% margin for your maximum rewards. Join us in our telegram chat and meet the twitter. Let's HIT the road for cardano world together",
 	"ticker": "HIT",
-	"homepage": "https://bit.ly/3EbTe2D"
+	"homepage": "https://bit.ly/3EbTe2D",
+	"extended": "https://git.io/JVj3x"
 }

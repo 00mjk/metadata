@@ -3,6 +3,10 @@
 		"url_png_icon_64x64": "https://zeropercentstaking.com/ExtendedMeta64px.png",
 		"url_png_logo": "https://zeropercentstaking.com/ExtendedMeta1000px.png",
 		"location": "Manchester, England",
+		"social": {
+			"twitter_handle": "zeropercentstaking",
+			"facebook_handle": "zpctpool"
+		},
 		"about": {
 			"me": "Why ZPCT? - ZPCT pool is a strong believer of the Cardano philosophy, showing support by providing it’s cherished delegators with maximum rewards on their staked ADA. ZPCT does this by taking the lowest possible operator fees - offering zero percent (0%) variable fees. - Always & Forever! *** Who’s behind ZPCT pool? - ZPCT is maintained to the highest standard by Adam Matthews - a freelance IT consultant and passionate technologist, proudly sporting 20 years’ experience building dependable & secure corporate IT systems. *** Thank you for staking with ZPCT, you charming devil you!",
 			"server": "ZPCT pool cruises along on high-spec, over-provisioned bare metal systems paired with redundant failover cloud nodes. All of which provide the highest possible performance and uptime."

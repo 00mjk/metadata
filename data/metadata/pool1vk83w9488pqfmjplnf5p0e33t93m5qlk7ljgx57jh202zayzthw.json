@@ -2,5 +2,6 @@
 	"name": "Daffy The Duckling Pool",
 	"description": "Amazing Stake Pool by the Daffy Team",
 	"ticker": "DAFFY",
-	"homepage": "https://www.daffytheducklingpool.com"
+	"homepage": "https://www.daffytheducklingpool.com",
+	"extended": "https://www.daffytheducklingpool.com/extended-metadata.json"
 }
