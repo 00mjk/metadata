@@ -2,5 +2,6 @@
 	"name": "OSAKA-Pool",
 	"description": "大阪より実績のあるコンピュータエンジニアが集まり健全な運営をお約束します。We promise good operations by computer engineers in Osaka, Japan.",
 	"ticker": "OSAKA",
-	"homepage": "https://osaka-pool.com"
+	"homepage": "https://osaka-pool.com",
+	"extended": "https://osaka-pool.com/extendedMeta.json"
 }
