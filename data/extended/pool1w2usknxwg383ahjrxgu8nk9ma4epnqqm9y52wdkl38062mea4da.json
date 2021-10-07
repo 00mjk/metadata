@@ -1,0 +1,21 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://git.io/JVj0T",
+		"url_png_logo": "https://git.io/JVj0x",
+		"location": "Nuremberg, Germany",
+		"social": {
+			"twitter_handle": "CardanoHit",
+			"telegram_handle": "cardanohitpool"
+		},
+		"about": {
+			"me": "Single Pool Operator",
+			"server": "Cloud sever located in Germany"
+		}
+	},
+	"my-pool-ids": {
+		"0": "72b90b4cce444f1ede43323879d8bbed7219801b2928a736df89dfa5"
+	},
+	"when-satured-then-recommend": {
+		"0": "small pools - support decentralization"
+	}
+}
