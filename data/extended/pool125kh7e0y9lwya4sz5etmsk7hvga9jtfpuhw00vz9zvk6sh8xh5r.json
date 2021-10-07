@@ -2,7 +2,6 @@
 	"info": {
 		"url_png_icon_64x64": "https://raw.githubusercontent.com/choco-stake-pool/pool-info/main/CHOCO-Stake-Pool-64-64.png",
 		"url_png_logo": "https://raw.githubusercontent.com/choco-stake-pool/pool-info/main/CHOCO-Stake-Pool-280-182.png",
-		"location": "",
 		"social": {
 			"twitter_handle": "choco_stake"
 		},
@@ -13,17 +12,6 @@
 			"me": "普段はエンジニアとして職を全うし、その知識や経験を活かしてCardanoの発展への協力と委任者への還元を目指しています。 プールマージン0.0%, コスト340, ステーキングはCHOCO Stake Poolへお任せください！",
 			"server": "VM terminal featuring a 6 core CPU, 16GB of RAM and a 320GB SSD.",
 			"company": "Japan"
-		}
-	},
-	"my-pool-ids": {
-		"0": "552d7f65e42fdc4ed602a657b85bd7623a592d21e5dcf7b045132da8"
-	},
-	"adapools_ext": {
-		"prometheus": {
-			"0": {
-				"name": "relay 1 jp",
-				"type": "relay"
-			}
 		}
 	}
 }
