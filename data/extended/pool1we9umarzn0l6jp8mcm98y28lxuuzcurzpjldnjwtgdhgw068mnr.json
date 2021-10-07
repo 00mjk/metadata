@@ -1,0 +1,30 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://adriapool.net/wp-content/uploads/2021/10/adriapoolLogo.png",
+		"url_png_logo": "https://adriapool.net/wp-content/uploads/2021/10/a9284e2b8e4048139a34dc3b3a37050c-2.png",
+		"location": "Istra, Croatia",
+		"social": {
+			"twitter_handle": "AdriaStakePool",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {},
+		"about": {
+			"me": "...",
+			"server": "",
+			"company": "..."
+		}
+	},
+	"my-pool-ids": {
+		"0": "pool1we9umarzn0l6jp8mcm98y28lxuuzcurzpjldnjwtgdhgw068mnr"
+	},
+	"when-satured-then-recommend": {},
+	"telegram-admin-handle": {
+		"0": "your_tg_handle"
+	}
+}

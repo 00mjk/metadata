@@ -2,5 +2,6 @@
 	"name": "Adria StakePool",
 	"description": "Adria Cardano StakePool for South East Europe",
 	"ticker": "ADRIA",
-	"homepage": "https://adriapool.net"
+	"homepage": "https://adriapool.net",
+	"extended": "https://adriapool.net/poolExtendedMetaData.json"
 }

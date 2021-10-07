@@ -2,5 +2,6 @@
 	"name": "VOGUE-Pool",
 	"description": "日々モニター管理を行っています。よりよい成果が出せますよう努めてまいります。We check the pool-server every day. We will do our best to produce better results.",
 	"ticker": "VOGUE",
-	"homepage": "https://vogue-pool.com"
+	"homepage": "https://vogue-pool.com",
+	"extended": "https://vogue-pool.com/extendedMeta.json"
 }

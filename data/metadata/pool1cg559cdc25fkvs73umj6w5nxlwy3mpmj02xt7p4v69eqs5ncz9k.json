@@ -1,6 +1,7 @@
 {
 	"name": "Woof Pool",
-	"description": "Mission driven pool dedicated to the well-being of abandoned animals",
+	"description": "Earn rewards while supporting animal well-being charities!",
 	"ticker": "WOOF",
-	"homepage": "https://woofpool.github.io/"
+	"homepage": "https://woofpool.github.io/",
+	"extended": "https://raw.githubusercontent.com/woofpool/woofpool.github.io/main/extendedMetadata.json"
 }

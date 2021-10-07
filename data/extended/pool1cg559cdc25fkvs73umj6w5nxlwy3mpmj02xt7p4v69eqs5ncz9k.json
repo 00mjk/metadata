@@ -1,0 +1,35 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://github.com/woofpool/woofpool.github.io/raw/main/images/WoofIcon.png",
+		"url_png_logo": "https://github.com/woofpool/woofpool.github.io/raw/main/images/WoofLogo.png",
+		"location": "USA",
+		"social": {
+			"twitter_handle": "extramileit2003",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Cardano plutus pioneer/DApp developer on a quest to make the world better with blockchain technologies.",
+			"server": "One block producer and two relays running on VPS",
+			"company": ""
+		},
+		"my-pool-ids": {
+			"0": "c22942e1b855136643d1e6e5a75266fb891d87727a8cbf06acd17208"
+		},
+		"when-satured-then-recommend": {
+			"0": "00333b89543da962cc92e7ffa45848f42a98f7276780670728ce5256"
+		}
+	}
+}
