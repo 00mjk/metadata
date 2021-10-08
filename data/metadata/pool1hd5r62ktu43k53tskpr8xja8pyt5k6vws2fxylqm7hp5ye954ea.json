@@ -1,6 +1,7 @@
 {
-	"name": "CHEDDAR POOL",
-	"description": "Stack cheddar on Cheddar Pool! We run our own secured, generator backed, energy efficient servers.",
+	"name": "Stack Cheddar",
+	"description": "Stack up on rewards and help build the Cardano network with us! We run our own secured, generator backed, energy efficient servers.",
 	"ticker": "CHDR",
-	"homepage": "https://cheddarpool.net"
+	"homepage": "https://cheddarpool.net",
+	"extended": "https://cheddarpool.net/poolMetaExtended.json"
 }

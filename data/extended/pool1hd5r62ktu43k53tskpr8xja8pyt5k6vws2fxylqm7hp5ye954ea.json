@@ -1,0 +1,40 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://cheddarpool.net/cheese-flat.png",
+		"url_png_logo": "https://cheddarpool.net/cheese-flat.png",
+		"location": "Florida, US",
+		"social": {
+			"twitter_handle": "cheddarpool",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "bb683d2acbe5636a4570b046734ba709174b698e8292627c1bf5c342",
+		"1": ""
+	},
+	"when-satured-then-recommend": {
+		"0": "",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://davidshin.kr/static/icon--64x64.png",
+		"url_png_logo": "https://davidshin.kr/static/icon--190x190.png",
+		"location": "Seoul, South Korea",
+		"social": {
+			"youtube_handle": "UC1XpvffTrDAbPfnNiTJELNQ",
+			"discord_handle": "816902839481139210"
+		},
+		"about": {
+			"me": "유튜브에서 경제와 크립토관련 영상을 서비스하고 있습니다",
+			"server": "고사양 클라우드서버를 이용하여 안전하게 풀을 운영하고 있습니다"
+		}
+	}
+}
