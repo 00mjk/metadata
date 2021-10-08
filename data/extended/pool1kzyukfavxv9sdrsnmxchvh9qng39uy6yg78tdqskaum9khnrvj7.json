@@ -1,0 +1,33 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://pool.babyalienclub.com/img/bac_icon.png",
+		"url_png_logo": "https://pool.babyalienclub.com/img/bac_logo.png",
+		"location": "USA, San Francisco",
+		"social": {
+			"twitter_handle": "https://twitter.com/BabyAlienClub",
+			"telegram_handle": "https://t.me/joinchat/o3fbzFWLREsxMTIx",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "https://discord.com/invite/4QfY4KvWaq",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Baby Alien Club",
+			"addr": "",
+			"city": "",
+			"country": "BR",
+			"company_id": "BAC",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "6 vCPU Cores, 16 GB RAM, 400GB SSD",
+			"company": "BabyAlienClub"
+		}
+	},
+	"my-pool-ids": {
+		"0": "pool1qgm942xc95w8f6qsx2vd35ghsqsyy3v88p6cdmahx5wmwjscahf",
+		"1": "02365aa8d82d1c74e8103298d8d1178020424587387586efb7351db7"
+	}
+}
