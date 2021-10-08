@@ -1,7 +1,10 @@
 {
 	"info": {
 		"url_png_icon_64x64": "https://raw.githubusercontent.com/arichard5/moon/main/pngwing.com.png",
-		"location": "Northwest USA"
+		"location": "Northwest USA",
+		"social": {
+			"telegram_handle": "Your ADA Moon"
+		}
 	},
 	"my-pool-ids": {
 		"0": "f981975f99456e2275bed68576ba12cae91a9dce3ec599274908cdd7"
