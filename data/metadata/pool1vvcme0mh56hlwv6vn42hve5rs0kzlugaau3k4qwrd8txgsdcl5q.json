@@ -2,5 +2,6 @@
 	"name": "Next Step Crypto",
 	"description": "ADA Stake Pool for the CryptoHODLer",
 	"ticker": "NEXT",
-	"homepage": "https://git.io/JV1zQ"
+	"homepage": "https://git.io/JV1zQ",
+	"ADAPools": "84c52e42d2e27ffbcbc4997c0f195bc1"
 }

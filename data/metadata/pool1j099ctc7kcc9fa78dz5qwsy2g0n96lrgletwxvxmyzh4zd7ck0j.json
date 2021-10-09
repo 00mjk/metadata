@@ -1,6 +1,6 @@
 {
 	"name": "Stake with Pride",
-	"description": "PRIDE celebrates diversity by donating to LGBTQIA+ causes and leading the push to celebrate #CardanoPride annually. Also a mission driven pool. 0% fee. After saturation of 5% is reached, may change fee to 2%.",
+	"description": "PRIDE celebrates diversity by donating to LGBTQIA+ causes and leading the push to celebrate #CardanoPride annually. Also a mission driven pool. 0% fee. Changing to 1% fee in epoch 297.",
 	"ticker": "PRIDE",
 	"homepage": "https://twitter.com/StakeWithPride",
 	"extended": "https://stakewithpride.github.io/ex-meta.json"
