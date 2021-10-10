@@ -1,9 +1,9 @@
 {
 	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
 	"info": {
-		"url_png_icon_64x64": "",
-		"url_png_logo": "",
-		"location": "Korea",
+		"url_png_icon_64x64": "http(s) url to pool icon; png format; not animated; max 40kb",
+		"url_png_logo": "http(s) url to pool logo; png format; not animated; max 50kb",
+		"location": "London, England",
 		"social": {
 			"twitter_handle": "Guardian@SPO_GUARD",
 			"telegram_handle": "https://t.me/GuardianStakePool",
@@ -16,19 +16,19 @@
 		"company": {
 			"name": "",
 			"addr": "",
-			"city": "",
-			"country": "",
+			"city": "London",
+			"country": "England",
 			"company_id": "",
 			"vat_id": ""
 		},
 		"about": {
 			"me": "...",
-			"server": "",
+			"server": "8vCPUs, 16GB Memory. ",
 			"company": "..."
 		}
 	},
 	"my-pool-ids": {
-		"0": "",
+		"0": "a3d6170ca667f00ceaf2352bd5b8c4c8f5956c550ae1fdeb6f0d156e",
 		"1": ""
 	},
 	"when-satured-then-recommend": {
@@ -36,25 +36,6 @@
 		"1": ""
 	},
 	"telegram-admin-handle": {
-		"0": ""
-	},
-	"adapools_ext": {
-		"prometheus": {
-			"0": {
-				"name": "",
-				"type": "",
-				"key": ""
-			},
-			"1": {
-				"name": "",
-				"type": "",
-				"key": ""
-			},
-			"2": {
-				"name": "",
-				"type": "",
-				"key": ""
-			}
-		}
+		"0": "your_tg_handle"
 	}
 }
