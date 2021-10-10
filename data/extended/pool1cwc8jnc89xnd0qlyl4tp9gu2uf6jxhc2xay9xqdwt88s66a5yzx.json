@@ -1,7 +1,38 @@
 {
-	"name": "PPDAC LTD",
-	"description": "PPDAC will bring ADA to Kenya. It was given by the Buddha Baby to the Cosmic Mind on behalf of the last Cherokee in New York City, so that they may smkile and laugh.",
-	"ticker": "PPDAC",
-	"homepage": "https://ppdac.ltd/ada",
-	"extended": "https://ppdac.ltd/extended.json"
+	"info": {
+		"url_png_icon_64x64": "https://ppdac.ltd/ppdac-logo-64px.png",
+		"url_png_logo": "https://ppdac.ltd/ppdac-logo-semi-wide.png",
+		"location": "Manhattan, NY; Pune, IN; Nairobi, KE",
+		"social": {
+			"twitter_handle": "PPDAC_LTD",
+			"telegram_handle": "PPDACLTD",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "Louis - PPDAC#0001",
+			"github_handle": "ppdac"
+		},
+		"company": {
+			"name": "PPDAC LTD",
+			"addr": "259 W 109TH ST",
+			"city": "NEW YORK",
+			"country": "USA",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "I have cousins who get in trouble with the police when I send them Western Union. I'm bringing ADA to Kenya.",
+			"server": "Microsoft Azure rack with private subnet, instant access to relays.",
+			"company": "PPDAC LTD"
+		}
+	},
+	"my-pool-ids": {
+		"0": "c3b0794f0729a6d783e4fd5612a38ae275235f0a37485301ae59cf0d"
+	},
+	"when-satured-then-recommend": {
+		"0": "c3b0794f0729a6d783e4fd5612a38ae275235f0a37485301ae59cf0d"
+	},
+	"telegram-admin-handle": {
+		"0": "PPDACLTD"
+	}
 }
