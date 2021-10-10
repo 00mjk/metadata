@@ -1,7 +1,7 @@
 {
 	"name": "RETIRING IN EPOCH 309, (re)delegate to AAA",
 	"ticker": "AAA2",
-	"description": "RETIRING IN EPOCH 309. Please (re)delegate to AAA. Variable fee will be gradually incremented as pool gets closer to retiremen epoch. NOTE: Due to a known SMASH server bug this pending-reirement pool will sometimes be absent in Daedalus wallet pool list.",
+	"description": "RETIRING IN EPOCH 309. Please (re)delegate to AAA. Variable fee will be gradually incremented as pool gets closer to retirement epoch. NOTE: Due to a known SMASH server bug this pending-reirement pool will sometimes be absent in Daedalus wallet pool list.",
 	"homepage": "https://stakelovelace.io/aaa/",
 	"extended": "https://raw.githubusercontent.com/stakelovelace/pub/main/aaa2_extended.json"
 }

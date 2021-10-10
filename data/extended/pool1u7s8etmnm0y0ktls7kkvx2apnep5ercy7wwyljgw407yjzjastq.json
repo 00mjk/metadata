@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "http://fiftystarinvestments.com/img/fsi64x64.png",
+		"url_png_logo": "http://fiftystarinvestments.com/img/fsi.png",
+		"location": "United States, America",
+		"social": {
+			"twitter_handle": "grahamde8313",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Fifty Star Investments Inc.",
+			"addr": "",
+			"city": "Salem",
+			"country": "United States",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Derek Graham",
+			"server": "Desktop hosted at my home in Salem along with 3 distinct relays (rare).",
+			"company": "Fifty Star Investments Inc."
+		},
+		"rss": ""
+	},
+	"telegram-admin-handle": [
+		""
+	],
+	"my-pool-ids": [
+		"pool1u7s8etmnm0y0ktls7kkvx2apnep5ercy7wwyljgw407yjzjastq"
+	],
+	"when-satured-then-recommend": [
+		"pool1u7s8etmnm0y0ktls7kkvx2apnep5ercy7wwyljgw407yjzjastq"
+	]
+}

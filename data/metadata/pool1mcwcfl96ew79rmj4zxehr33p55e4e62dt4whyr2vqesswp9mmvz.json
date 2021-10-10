@@ -1,6 +1,6 @@
 {
 	"name": "MIYABI KYOTO",
-	"description": "京都の伝統産業を支える「京都みやび基金」の公式ステークプールです。MYB is the official stake pool of Kyoto-Miyabi Fund, which supports traditional industries in Kyoto (Japan).",
+	"description": "京都の伝統産業を支える「京都みやび基金」のステークプールです。MYB is the stake pool of Kyoto-Miyabi Fund, which supports traditional industries in Kyoto (Japan).",
 	"ticker": "MYB",
 	"homepage": "https://miyabi-kyoto.org/",
 	"extended": "https://raw.githubusercontent.com/Miyabi-Kyoto/cardano_json/main/extendedMeta.json"
