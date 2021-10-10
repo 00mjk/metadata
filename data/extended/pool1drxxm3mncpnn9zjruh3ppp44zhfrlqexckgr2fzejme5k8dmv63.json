@@ -1,0 +1,33 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://i.ibb.co/sVxrdkN/loconutz64.png",
+		"url_png_logo": "https://i.ibb.co/ygYxVnv/2h0kfp-Dz-400x400.jpg",
+		"location": "Decentralised",
+		"social": {
+			"twitter_handle": "LocoNutzNFT",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "ZvWJ7VweQR",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "LocoNutz NFT Staking Pool run by LordForAll",
+			"server": "",
+			"company": ""
+		},
+		"my-pool-ids": {
+			"0": "68cc6dc773c067328a43e5e21086b515d23f8326c59035245996f34b",
+			"1": ""
+		}
+	}
+}

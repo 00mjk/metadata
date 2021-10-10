@@ -2,5 +2,6 @@
 	"name": "HSt ADA Pool",
 	"description": "Supporting the decentralisation of the Cardano network",
 	"ticker": "HST",
-	"homepage": "https://adapool.hst-soft.de"
+	"homepage": "https://adapool.hst-soft.de",
+	"extended": "https://adapool.hst-soft.de/meta/extended.json"
 }

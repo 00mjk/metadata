@@ -1,0 +1,25 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://DougDo.github.io/AdaPies/AdaPies.png",
+		"url_png_logo": "https://DougDo.github.io/AdaPies/AdaPies.png",
+		"location": "CyberPlace, CyberWorld",
+		"social": {
+			"twitter_handle": "AdaPies",
+			"telegram_handle": "Doug Do",
+			"discord_handle": "",
+			"github_handle": "DougDo"
+		},
+		"about": {
+			"me": "Having fun with pies",
+			"server": "Just love pies",
+			"company": "🌟 AdaPies ⚡"
+		},
+		"my-pool-ids": {
+			"0": "Some hex"
+		},
+		"when-satured-then-recommend": {
+			"0": "Some hex",
+			"1": "Some hex"
+		}
+	}
+}
