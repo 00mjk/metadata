@@ -10,9 +10,8 @@
 			"name": "White Rose Staking"
 		},
 		"about": {
-			"me": "ROSE by White Rose Staking ADA Staking Pool Not your keys - Not your coins",
-			"server": "Multi cloud environment with 3x Ubuntu 20.04 LTS servers + 1 backup relay and 1 raspberry pi under construction",
-			"company": "White Rose Staking"
+			"me": "ROSE by White Rose Staking ! Not your keys - Not your coins",
+			"server": "Azure Environment + Self-hosted Servers with UPS."
 		}
 	}
 }
