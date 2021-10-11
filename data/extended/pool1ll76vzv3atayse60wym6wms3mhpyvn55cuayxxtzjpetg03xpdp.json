@@ -3,8 +3,12 @@
 		"location": "Germany",
 		"social": {
 			"twitter_handle": "RoseStaking",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
 			"discord_handle": "RoseStaking",
-			"github_handle": "ROSE-Pool-Operator"
+			"github_handle": ""
 		},
 		"company": {
 			"name": "White Rose Staking"

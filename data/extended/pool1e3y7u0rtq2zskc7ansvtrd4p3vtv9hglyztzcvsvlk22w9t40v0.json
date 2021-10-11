@@ -36,24 +36,5 @@
 	},
 	"when-satured-then-recommend": {
 		"0": "cc49ee3c6b02850b63dd9c18b1b6a18b16c2dd1f20962c320cfd94a7"
-	},
-	"adapools_ext": {
-		"prometheus": {
-			"0": {
-				"name": "Block Producer [IT]",
-				"type": "bp",
-				"key": "5f221014623956289304636d3a33bb36"
-			},
-			"1": {
-				"name": "Relay 1 [IT]",
-				"type": "relay",
-				"key": "4f7a94d712a5a3850814b8e3b638f43f"
-			},
-			"2": {
-				"name": "Relay 2 [IT]",
-				"type": "relay",
-				"key": "46934a749fcfeae41594008ebec20d16"
-			}
-		}
 	}
 }
