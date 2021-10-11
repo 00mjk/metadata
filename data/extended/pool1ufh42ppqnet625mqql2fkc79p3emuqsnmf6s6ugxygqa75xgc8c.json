@@ -1,0 +1,26 @@
+{
+	"info": {
+		"url_png_icon_64x64": "http(s) url to pool icon; png format; not animated; max 40kb",
+		"url_png_logo": "http(s) url to pool logo; png format; not animated; max 50kb",
+		"location": "Auckland, New Zealand",
+		"social": {
+			"twitter_handle": "NemoPool"
+		},
+		"company": {
+			"name": "Nemo Pool",
+			"addr": "",
+			"city": "Auckland",
+			"country": "New Zealand",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "High Performace Cloud infrastructure to guarantee reliability and uptime",
+			"company": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "e26f5504209e57a5536007d49b63c50c73be0213da750d71062201df"
+	}
+}

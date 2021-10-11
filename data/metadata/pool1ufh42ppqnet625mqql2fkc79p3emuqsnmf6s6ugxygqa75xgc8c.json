@@ -2,5 +2,6 @@
 	"name": "NEMO POOL",
 	"description": "Ada Staking Service",
 	"ticker": "NEMO",
-	"homepage": "https://nemopool.co.nz "
+	"homepage": "https://nemopool.co.nz",
+	"extended": "https://raw.githubusercontent.com/nemopool/nemopool/main/extended.json"
 }
