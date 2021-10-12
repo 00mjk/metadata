@@ -22,9 +22,9 @@
 			"vat_id": ""
 		},
 		"about": {
-			"me": "...",
+			"me": "We are advocate for blockchain technologies world-wide. We became enamored with blockchain in 2017 and Cardano in 2021 as a Stake Pool Operator. Long term, we see many applications that blockchain technologies and Cardano can bring to aviation and mediacal community. Furthermore, not only would we like to raise awareness of MS to the general population, but I aim to raise awareness of blockchain technologies and Cardano to the medical community.",
 			"server": "Our servers located in Europe 1000MB up/down.",
-			"company": "..."
+			"company": "ADA IMPULSE CLUB"
 		}
 	},
 	"my-pool-ids": {
@@ -34,7 +34,7 @@
 		"0": "06be20d0da5810fae2f0376dc0a01a31d459c0ca6da8e3ddf58a67d9"
 	},
 	"telegram-admin-handle": {
-		"0": "your_tg_handle"
+		"0": "adaimpulse"
 	},
 	"adapools_ext": {
 		"prometheus": {
