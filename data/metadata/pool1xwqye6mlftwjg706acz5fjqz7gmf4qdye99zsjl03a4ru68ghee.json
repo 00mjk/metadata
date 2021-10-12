@@ -3,5 +3,6 @@
 	"ticker": "ANET",
 	"description": "Energy-optimized Bare Metal Infrastructure | Adoption-focused written / visual guides | MD, USA",
 	"homepage": "https://adanet.io",
-	"nonce": "1633679937"
+	"nonce": "1633987800",
+	"extended": "https://adanet.io/adanetmeta-ext.json"
 }

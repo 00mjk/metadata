@@ -1,0 +1,20 @@
+{
+	"info": {
+		"about": {
+			"me": "Single Pool Operator",
+			"server": "Cloud servers located in Germany and Finland. All servers at least CPU:4core|RAM:16G|SSD:160G"
+		},
+		"location": "Valencia, Spain",
+		"my-pool-ids": {
+			"0": "pending"
+		},
+		"social": {
+			"github_handle": "tilitribe",
+			"twitter_handle": "tilitribe"
+		},
+		"url_png_icon_64x64": "https://tilitribe.com/stakepool/tili_logo.png",
+		"when-satured-then-recommend": {
+			"0": "small pools - support decentralization"
+		}
+	}
+}

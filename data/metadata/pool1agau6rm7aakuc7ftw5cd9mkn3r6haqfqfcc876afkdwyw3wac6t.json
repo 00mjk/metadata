@@ -1,6 +1,7 @@
 {
-	"name": "SisiKoin 1st Pool (BANTEN)",
-	"description": "Indonesian Stake Pool, Zero Margin, Minimum Fixed Cost",
+	"name": "Banten Stake Pool",
+	"description": "Indonesian Stake Pool Operator with Zero Margin, Minimum Fixed Cost",
 	"ticker": "BANTN",
-	"homepage": "https://adapool.sisikoin.com"
+	"homepage": "https://adapool.sisikoin.com",
+	"extended": "https://raw.githubusercontent.com/joco-ding/adapool/main/metadata-extended.json"
 }

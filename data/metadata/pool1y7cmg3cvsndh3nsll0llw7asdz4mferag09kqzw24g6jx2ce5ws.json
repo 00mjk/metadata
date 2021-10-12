@@ -1,6 +1,7 @@
 {
 	"name": "CloudStruct Cardano Staking",
-	"description": "A production-grade Cardano staking pool run by a group of DevOps experts",
+	"description": "Highly-available, secure cloud-based pool with multiple relays, managed by cloud infrastructure specialists - Supporting online privacy and liberty. Donating to the Electronic Frontier Foundation.",
 	"ticker": "CSCS",
-	"homepage": "https://cloudstruct.net/cardano/"
+	"homepage": "https://cardano.cloudstruct.net",
+	"extended": "https://cscs-pool-metadata.s3.amazonaws.com/extended-20211008-232118.json"
 }
