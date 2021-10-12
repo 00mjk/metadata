@@ -23,7 +23,7 @@
 		"about": {
 			"me": "",
 			"server": "We run high performance servers with multiple layers of security and redundancy allocated in 3 continents to make sure that every transaction which runs through our stakepool to be as fast as possible to be delivered. The block producing node and 3 relays each utilize 6 vCPU Cores, 16 GB RAM and 400 GB SSD.",
-			"company": "PROOF is a professionally run Cardano stake pool committed to provide a secure and reliable staking service while maintaining fair fees and a transparent operation. If you have a question, email us at support@proofstakepool.com"
+			"company": "PROOF is a professionally run Cardano stake pool committed to provide a secure and reliable staking service while maintaining fair fees and a transparent operation."
 		}
 	}
 }
