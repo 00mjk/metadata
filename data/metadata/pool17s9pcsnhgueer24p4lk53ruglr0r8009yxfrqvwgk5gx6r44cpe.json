@@ -1,7 +1,7 @@
 {
 	"name": "Proof Stake Pool",
-	"description": "Proof Stake Pool focuses on reliability and true decentralization backed by multiple low latency geo-located relays to increase high availability",
+	"description": "Your highly performant, secure and resilient Cardano (ADA) staking service.",
 	"ticker": "PROOF",
-	"homepage": "https://www.proofstakepool.com",
+	"homepage": "https://linktr.ee/proofstakepool",
 	"extended": "https://raw.githubusercontent.com/ProofStakePool/Proof-StakePool/main/poolMetaData_extended.json"
 }
