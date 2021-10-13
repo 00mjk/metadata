@@ -1,0 +1,16 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://xystence.com/xst_logo.png",
+		"location": "Stockholm, Sweden",
+		"social": {
+			"twitter_handle": "XystencePool"
+		},
+		"about": {
+			"me": "Single pool operator working against child abuse",
+			"server": "Three bare metal servers. 16GB Ram. 240GB SSD."
+		}
+	},
+	"my-pool-ids": {
+		"0": "72100e82150b95fab37f7d9e155b6c083c1de629fea1b760f894aec6"
+	}
+}

@@ -2,5 +2,6 @@
 	"name": "Xystence - ADA against child abuse",
 	"ticker": "XST",
 	"homepage": "http://xystence.com",
-	"description": "We stand together against child abuse."
+	"description": "We stand together against child abuse.",
+	"extended": "https://xystence.com/XystenceExt.json"
 }
