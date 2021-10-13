@@ -1,7 +1,7 @@
 {
-	"ticker": "ANIM1",
-	"name": "animation.com Cardano Pool 1",
+	"ticker": "ANIM",
+	"name": "animation.com Cardano Pool",
 	"description": "The ANIM stake pool helps us with our mission of developing the animation.com website.",
 	"homepage": "https://animation.com/cardanostakepool",
-	"extended": "https://animation.com/pool/extra1.json"
+	"extended": "https://animation.com/pool/extra.json"
 }
