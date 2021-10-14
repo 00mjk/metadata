@@ -1,7 +1,7 @@
 {
 	"info": {
-		"url_png_icon_64x64": "http(s) url to pool icon; not animated; max 40kb",
-		"url_png_logo": "http(s) url to pool logo; not animated; max 50kb",
+		"url_png_icon_64x64": "https://adacashpool.com/logo64.png",
+		"url_png_logo": "https://adacashpool.com/logo512.png",
 		"location": "Tiblis, Georgia",
 		"social": {
 			"twitter_handle": "ADACashPool",

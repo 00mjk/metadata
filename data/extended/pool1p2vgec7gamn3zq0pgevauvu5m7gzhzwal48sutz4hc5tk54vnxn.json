@@ -1,0 +1,35 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://xyobalancer.com/wp-content/uploads/2021/10/GEM_icon_blue_box-64-64.png",
+		"url_png_logo": "https://xyobalancer.com/wp-content/uploads/2021/10/GEM_icon_blue_box-min.png",
+		"location": "Auburn, United States",
+		"social": {
+			"twitter_handle": "https://twitter.com/perpetual_prpi",
+			"telegram_handle": "",
+			"facebook_handle": "https://www.facebook.com/Perpetual.prpi",
+			"youtube_handle": "https://www.youtube.com/channel/UCUE0Vx5QFctLiPhsK29UQ8Q",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Perpetual Industries Inc.",
+			"addr": "2193 Rotunda Drive",
+			"city": "Auburn",
+			"country": "United States",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "We are a green energy company that mines crypto",
+			"server": "Raspberry Pi Hosted at our HQ in Auburn",
+			"company": "Perpetual Industries Inc."
+		}
+	},
+	"my-pool-ids": {
+		"0": "0a988ce3c8eee71101e14659de3394df902b89ddfd4f0e2c55be28bb"
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	}
+}
