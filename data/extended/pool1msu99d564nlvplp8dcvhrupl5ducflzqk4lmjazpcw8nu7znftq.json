@@ -1,0 +1,23 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://ezpz-sandbox.mxapps.io/stakepool/icon",
+		"url_png_logo": "https://ezpz-sandbox.mxapps.io/stakepool/logo",
+		"location": "Maarssen, The Netherlands",
+		"social": {
+			"discord_handle": "180816076492374026",
+			"reddit_handle": "EazyPeazyPool",
+			"twitter_handle": "EazyPeazyPool"
+		},
+		"company": {
+			"name": "Eazy Peazy"
+		},
+		"about": {
+			"me": "3 IT guy's and their love for low-code",
+			"server": "All servers have 24/7 monitoring and run in the cloud",
+			"company": "We are 3 software developers, friends & colleagues, we have a love for making things eazy for all users and empowering people that have creative idea's but don't have the technical skills to execute"
+		},
+		"my-pool-ids": {
+			"0": "pool1msu99d564nlvplp8dcvhrupl5ducflzqk4lmjazpcw8nu7znftq"
+		}
+	}
+}
