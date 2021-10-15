@@ -2,5 +2,6 @@
 	"name": "MUGEN-Pool",
 	"description": "毎日欠かさずモニター管理しているので、委任したまま放置して頂いてもＯＫ。We manage the monitor every day, so you can leave it as it is. We have set up a server in Hokkaido and are operating steadily every day in Osaka.",
 	"ticker": "MUGEN",
-	"homepage": "https://mugen-pool.com"
+	"homepage": "https://mugen-pool.com",
+	"extended": "https://mugen-pool.com/extendedMeta.json"
 }

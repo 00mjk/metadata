@@ -1,8 +1,7 @@
 {
-	"name": "FLICK",
+	"name": "Flickto ISPO Pool 1 (100% FLICK)",
 	"ticker": "FLICK",
-	"description": "The stake pool of the Flickto project. ISO and other exciting launch activities are coming soon...",
-	"homepage": "https://flickto.io",
-	"nonce": "1631816305",
+	"description": "100% of Stake rewards go to project funding. FLICK claimable monthly. The Flickto ISPO launches 25/10/21 but delegating early will earn early bird bonus rewards and enter delegators into our 1st NFT airdrop. See https://flickto.io/ispo for more details",
+	"homepage": "https://www.flickto.io",
 	"extended": "https://raw.githubusercontent.com/flickto/pool/main/meta1-e.json"
 }
