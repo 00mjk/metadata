@@ -1,7 +1,7 @@
 {
-	"name": "Muse Stake Pool",
-	"description": "Muse provides high quality staking services to our delegates. Through competitive fees, continuous uptime, and transparent communication we provide users with the best staking experience. Operated by Maestroman89",
-	"ticker": "MUSE",
-	"homepage": "https://www.musestakepool.io",
-	"extended": "https://cardanostakehouse.com/229da352-3173-4718-a34d-326.json"
+	"name": "NEWM Stake Pool",
+	"description": "NEWM provides high-quality staking services: Through continuous uptime and transparent communication, we give users the ultimate staking experience and dependable rewards. All generated fees will fund projectNEWM’s fair music ecosystem.",
+	"ticker": "NEWM",
+	"homepage": "https://projectNEWM.io",
+	"extended": "https://cardanostakehouse.com/65374c78-4a64-4797-8988-c11.json"
 }

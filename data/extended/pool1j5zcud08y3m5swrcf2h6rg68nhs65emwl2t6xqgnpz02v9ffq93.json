@@ -1,0 +1,38 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://github.com/orelvis15/pool/blob/main/logo/logo64.png",
+		"url_png_logo": "https://github.com/orelvis15/pool/blob/main/logo/logo.png",
+		"location": "Santiago, Chile",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "https://t.me/orepool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "https://github.com/orelvis15"
+		},
+		"company": {
+			"name": "Single pool operator",
+			"addr": "",
+			"city": "Santiago",
+			"country": "Chile",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Orelvis Lago",
+			"server": "GCP",
+			"company": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "95058e35e724774838784aafa1a3479de1aa676efa97a30113089ea6"
+	},
+	"when-satured-then-recommend": {
+		"0": "95058e35e724774838784aafa1a3479de1aa676efa97a30113089ea6"
+	},
+	"telegram-admin-handle": {
+		"0": "1328419688"
+	}
+}

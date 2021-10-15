@@ -1,12 +1,12 @@
 {
 	"info": {
-		"url_png_icon_64x64": "https://cardanostakehouse.com/muse/muse_64x64.png",
-		"url_png_logo": "https://cardanostakehouse.com/muse/muse_large.png",
+		"url_png_icon_64x64": "https://cardanostakehouse.com/newm/newm_icon_64.png",
+		"url_png_logo": "https://cardanostakehouse.com/newm/newm_icon.png",
 		"location": "",
 		"social": {
-			"twitter_handle": "TRyanJones_MUSE",
-			"telegram_handle": "MUSEPool",
-			"youtube_handle": "musestakepool",
+			"twitter_handle": "projectNEWM",
+			"telegram_handle": "NEWMPool",
+			"youtube_handle": "",
 			"discord_handle": "",
 			"github_handle": ""
 		},

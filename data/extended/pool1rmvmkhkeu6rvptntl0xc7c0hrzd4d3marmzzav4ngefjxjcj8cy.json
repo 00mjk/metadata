@@ -1,0 +1,21 @@
+{
+	"info": {
+		"location": "USA",
+		"social": {
+			"twitter_handle": "dot5pool"
+		},
+		"company": {
+			"city": "",
+			"country": "USA"
+		},
+		"about": {
+			"me": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "1ed9bb5ed9e686c0ae6bfbcd8f61f7189b56c77d1ec42eb2b3465323"
+	},
+	"when-satured-then-recommend": {
+		"0": ""
+	}
+}
