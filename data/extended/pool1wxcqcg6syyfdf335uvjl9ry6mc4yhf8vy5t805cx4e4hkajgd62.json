@@ -7,21 +7,21 @@
 			"twitter_handle": "NorbPool",
 			"telegram_handle": "NorbPool",
 			"facebook_handle": "",
-			"youtube_handle": "channel/UClmmn900OmURaLDMpd7uBOg",
+			"youtube_handle": "c/NorbStakePool",
 			"twitch_handle": "",
 			"discord_handle": "XGU3jQEUSb",
 			"github_handle": "nova4005"
 		},
 		"company": {
-			"name": "",
+			"name": "Garrett Seymour",
 			"addr": "",
-			"city": "",
-			"country": "",
+			"city": "Gainesville",
+			"country": "USA",
 			"company_id": "",
 			"vat_id": ""
 		},
 		"about": {
-			"me": "Single Pool Operator from Atlanta, Georgia, USA.",
+			"me": "Single Pool Operator from Gainesville, Georgia, USA.",
 			"server": "Servers are hosted on multiple providers and are geographically distributed to help decentralization.",
 			"company": ""
 		}
