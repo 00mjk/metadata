@@ -2,5 +2,6 @@
 	"name": "DETO Pool",
 	"description": "DETO是 Cardano (ADA) 华人爱好者社区,专注于权益池运营(SPO). DETO is a small group of Chinese enthusiasts in Cardano (ADA) world. We focus on Stake Pool Operation (SPO), and applying the accumulation into the development work.",
 	"ticker": "DETO",
-	"homepage": "https://deto.org"
+	"homepage": "https://deto.org",
+	"extended": "https://deto.org/detoinfo/extended.json"
 }

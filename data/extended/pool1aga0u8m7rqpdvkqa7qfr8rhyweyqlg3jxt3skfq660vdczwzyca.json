@@ -1,0 +1,33 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.deto.org/detoinfo/logo_64.png",
+		"url_png_logo": "https://www.deto.org/detoinfo/logo_web.png",
+		"location": "Toronto, Canada",
+		"social": {
+			"twitter_handle": "adapooldeto",
+			"telegram_handle": "deto_ada",
+			"facebook_handle": "",
+			"youtube_handle": "https://www.youtube.com/channel/UC0lo_7pnig9EJOjYXWeZgpw/about",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "https://github.com/yaofeiliang"
+		},
+		"company": {
+			"name": "Deto",
+			"addr": "",
+			"city": "Toronto",
+			"country": "CA",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Single pool operater. Chinese enthusiasts in Cardano (ADA) world",
+			"server": "Clound Server",
+			"company": ""
+		},
+		"my-pool-ids": {
+			"0": "ea3afe1f7e1802d6581df012338ee476480fa23232e30b241ad3d8dc",
+			"1": ""
+		}
+	}
+}
