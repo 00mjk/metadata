@@ -1,0 +1,16 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://a4a.s3.eu-north-1.amazonaws.com/g.png",
+		"location": "Planet Earth",
+		"social": {
+			"twitter_handle": "0AAAA_pool",
+			"telegram_handle": "pool0AAAA"
+		},
+		"about": {
+			"me": "Most secure and reliable pool in Cardano universe, dedicated servers only."
+		},
+		"telegram-admin-handle": {
+			"0": "pool0AAAA"
+		}
+	}
+}

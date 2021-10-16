@@ -1,0 +1,16 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://kaeru-metadata.stakepool.cloud/kaeicon.png",
+		"url_png_logo": "https://kaeru-metadata.stakepool.cloud/kaelogo.png",
+		"location": "London, England",
+		"social": {
+			"twitter_handle": "TheKaeruKingdom"
+		},
+		"about": {
+			"company": "Welcome to the Kaeru Kingdom! Home of ancient frog Warrior NFTs on the Cardano Blockchain. Delegate for a chance to win monthly NFT giveaways 🐸"
+		},
+		"my-pool-ids": {
+			"0": ""
+		}
+	}
+}
