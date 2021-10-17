@@ -1,8 +1,8 @@
 {
 	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
 	"info": {
-		"url_png_icon_64x64": "https://raw.githubusercontent.com/flickto/pool/main/logo.png",
-		"url_png_logo": "https://raw.githubusercontent.com/flickto/pool/main/logo.png",
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/flickto/pool/main/flickto.png",
+		"url_png_logo": "https://raw.githubusercontent.com/flickto/pool/main/flickto.png",
 		"location": "United Kingdom",
 		"social": {
 			"twitter_handle": "FlicktoMedia",
@@ -13,9 +13,8 @@
 			"github_handle": "flickto"
 		},
 		"about": {
-			"me": "...",
-			"server": "...",
-			"company": "..."
+			"server": "All our pools are hosted on bare metal servers using Proxmox & LXC for containerisation. They are distributed in Germany, Finland and the United Kingdom",
+			"company": "Fickto is a launchpad for media projects. Flickto will fund content creators to produce new Films, TV and Internet Streaming shows that currently have no access to funding or finance. FLICK token holders will be eligible to receive a portion of the distribution profits if the media project is successful."
 		}
 	},
 	"my-pool-ids": {
@@ -23,24 +22,5 @@
 	},
 	"telegram-admin-handle": {
 		"0": "https://t.me/Flickto"
-	},
-	"adapools_ext": {
-		"prometheus": {
-			"0": {
-				"name": "relay 1 eu",
-				"type": "relay",
-				"key": "example_get_own_on_adapools.org/connect"
-			},
-			"1": {
-				"name": "relay 2 usa",
-				"type": "relay",
-				"key": "example_get_own_on_adapools.org/connect"
-			},
-			"2": {
-				"name": "block producer home",
-				"type": "bp",
-				"key": "example_get_own_on_adapools.org/connect"
-			}
-		}
 	}
 }
