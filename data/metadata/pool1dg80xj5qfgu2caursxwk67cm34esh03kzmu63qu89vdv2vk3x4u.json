@@ -1,6 +1,7 @@
 {
 	"name": "Atlantis Staking Pool",
-	"description": "English: We are Atlantis Staking Pool and we want to help build a future where you can control your financial destiny. Español: Somos Atlantis Staking Pool y queremos ayudar a construir un futuro en el que pueda controlar su destino financiero.",
+	"description": "English: We are Atlantis Staking Pool and we want to help build a future where you can control your financial destiny. Espa単ol: Somos Atlantis Staking Pool y queremos ayudar a construir un futuro en el que pueda controlar su destino financiero.",
 	"ticker": "ATLIS",
-	"homepage": "https://atlantisstaking.com/"
+	"homepage": "https://atlantisstaking.com/",
+	"extended": "https://atlantisstaking.com/adapool_extended.json"
 }

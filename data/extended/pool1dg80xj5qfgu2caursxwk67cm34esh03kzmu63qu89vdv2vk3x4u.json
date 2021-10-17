@@ -1,0 +1,40 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.atlantisstaking.com/images/64x64.png",
+		"url_png_logo": "https://www.atlantisstaking.com/images/logo.png",
+		"location": "Miami, USA",
+		"social": {
+			"twitter_handle": "@AtlantisADAPool",
+			"telegram_handle": "https://t.me/joinchat/DzIHEzdxt8c1Yzlh",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Atlantis Staking Pool",
+			"addr": "",
+			"city": "",
+			"country": "Miami, USA",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "We are Atlantis Staking Pool and we want to help build a future where you can control your financial destiny.",
+			"server": "We deploy our infrastructure in AWS Cloud. The Producer node and Relay 1 is located in US, and the Relay 2 is located in London. Our servers has the following specs (16 GB RAM, 80 GB SSD, 4 CPU cores)",
+			"company": "Atlantis Staking Pool"
+		}
+	},
+	"my-pool-ids": {
+		"0": "6a0ef34a804a38ac7783819d6d7b1b8d730bbe3616f9a883872b1ac5",
+		"1": ""
+	},
+	"when-satured-then-recommend": {
+		"0": "6a0ef34a804a38ac7783819d6d7b1b8d730bbe3616f9a883872b1ac5",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": "https://t.me/joinchat/DzIHEzdxt8c1Yzlh"
+	}
+}
