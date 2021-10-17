@@ -21,8 +21,8 @@
 			"vat_id": ""
 		},
 		"about": {
-			"me": "Cardano plutus pioneer/DApp developer on a quest to make the world better with blockchain technologies.",
-			"server": "One block producer and two relays running on VPS",
+			"me": "WOOF pool is run by a veteran IT professional, who works full-time on Cardano initiatives. This pool will maintain low costs to maximize rewards to delegators and donate the profit margin to support animal shelters & animal rights.",
+			"server": "The pool setup includes one block-producer node and two relay nodes. Each node run on separate VPS host with 8 CPUs, 30 GB RAM, and 800 GB SSD storage.",
 			"company": ""
 		},
 		"my-pool-ids": {
