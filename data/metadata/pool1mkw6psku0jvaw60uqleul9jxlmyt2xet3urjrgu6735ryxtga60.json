@@ -2,5 +2,6 @@
 	"name": "CryptYoLo",
 	"description": "ADA staking pool and more",
 	"ticker": "CRYL",
-	"homepage": "https://www.cryptyolo.com"
+	"homepage": "https://www.cryptyolo.com",
+	"extended": "https://www.cryptyolo.com/poolMetaDataExtended.json"
 }

@@ -1,7 +1,7 @@
 {
-	"name": "harmlesscoin.com Stake Pool",
+	"name": "harmlesscoin.com",
 	"ticker": "HARM",
 	"description": "for a harmless world",
 	"homepage": "https://www.harmlesscoin.com",
-	"nonce": "1625833698"
+	"extended": "https://www.harmlesscoin.com/json/ext_poolMetaData.json"
 }

@@ -1,0 +1,19 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.cryptyolo.com/images/cryl_logo_64x64.png",
+		"url_png_logo": "https://www.cryptyolo.com/images/cryl_logo_100x100.png",
+		"location": "Frankfurt, Germany",
+		"social": {
+			"twitter_handle": "CryptyoloC",
+			"telegram_handle": "cryptyolo",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "dd9da0c2dc7c99d769fc07f3cf9646fec8b51b2b8f0721a39af46832"
+	}
+}

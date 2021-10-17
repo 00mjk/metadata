@@ -1,0 +1,22 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://www.harmlesscoin.com/json/logo_64.png",
+		"url_png_logo": "https://www.harmlesscoin.com/json/logo_512.png",
+		"location": "Amsterdam, The Netherlands",
+		"social": {
+			"twitter_handle": "harmlesscoin",
+			"telegram_handle": "harmlesscoin"
+		},
+		"about": {
+			"server": "stake pool for a harmless world",
+			"company": "harmlesscoin.com"
+		}
+	},
+	"my-pool-ids": {
+		"0": "8ae61dd5202bc4903d95f75b50eecaa2e8d60ef1e36f81d1ccf6f65e"
+	},
+	"telegram-admin-handle": {
+		"0": "encryptednl"
+	}
+}

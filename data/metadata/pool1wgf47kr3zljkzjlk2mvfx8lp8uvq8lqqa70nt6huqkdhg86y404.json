@@ -1,6 +1,7 @@
 {
 	"name": "Shard Stake Pool",
-	"description": "Shard Stake Pool is a Cardano staking pool run by Australian ICT and Finance professionals",
+	"description": "Shard Stake Pool is a professional Cardano staking pool run by Australian DevOps and Finance specialists. Stability, Security and Performance",
 	"ticker": "SHARD",
-	"homepage": "shardstakepool.com"
+	"homepage": "https://shardstakepool.com",
+	"extended": "https://shardstakepool.com/extendedMetadata.json"
 }

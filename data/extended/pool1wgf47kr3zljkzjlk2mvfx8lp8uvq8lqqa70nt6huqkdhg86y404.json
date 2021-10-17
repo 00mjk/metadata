@@ -1,0 +1,25 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://shardstakepool.com/shardstakepool64x64.png",
+		"url_png_logo": "https://shardstakepool.com/shardlogo400px.png",
+		"location": "Australia",
+		"social": {
+			"twitter_handle": "ShardStakePool",
+			"telegram_handle": "shardstakepool"
+		},
+		"about": {
+			"me": "Run by Finance and ICT DevOps professionals with a focus on optimising node infrastructure for maximum performance, minimal power usage and operating costs and sharing the findings with the community",
+			"server": "Three independant nodes hosted across fault tolerant geographically separated data centres. We plan to add further bare metal relays powered by solar in the near future.",
+			"company": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "pool1wgf47kr3zljkzjlk2mvfx8lp8uvq8lqqa70nt6huqkdhg86y404"
+	},
+	"when-satured-then-recommend": {
+		"0": "pool1v28xlhk6juevh3ss09vpe78zu7cx6mejr8k8en94scd6v8rrshh"
+	},
+	"telegram-admin-handle": {
+		"0": "shardstakepool"
+	}
+}
