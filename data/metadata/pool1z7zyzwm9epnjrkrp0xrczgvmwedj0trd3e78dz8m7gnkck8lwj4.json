@@ -1,7 +1,8 @@
 {
 	"name": "Blocks and Clouds",
 	"ticker": "OPAL",
-	"description": "Cardano Stakepool Service",
+	"description": "Reward Focused Service",
 	"homepage": "https://blocksandclouds.com",
-	"nonce": "1621057748"
+	"nonce": "1634145595",
+	"extended": "https://opal-metadata.stakepool.cloud/extended.json"
 }

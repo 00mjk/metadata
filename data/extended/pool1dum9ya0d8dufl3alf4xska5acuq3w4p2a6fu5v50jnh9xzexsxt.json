@@ -4,8 +4,9 @@
 		"url_png_logo": "https://everestada.com/evermeta/Ever-Pool.png",
 		"social": {
 			"twitter_handle": "Everest_ADA",
-			"telegram_handle": "EverestPoolGroup",
-			"facebook_handle": "EverestCardano"
+			"telegram_handle": "",
+			"facebook_handle": "EverestCardano",
+			"discord_handle": "https://everestada.com/discord"
 		},
 		"company": {},
 		"about": {
@@ -17,6 +18,5 @@
 	],
 	"my-pool-ids": [
 		"6f365275ed3b789fc7bf4d4d0b769dc70117542aee93ca328f94ee53"
-	],
-	"when-satured-then-recommend": []
+	]
 }

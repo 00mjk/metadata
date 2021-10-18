@@ -1,0 +1,18 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://opal-metadata.stakepool.cloud/opalicon.png",
+		"url_png_logo": "https://opal-metadata.stakepool.cloud/opallogo.png",
+		"location": "California",
+		"social": {
+			"twitter_handle": "blocksandclouds"
+		},
+		"company": {
+			"name": "Blocks and Clouds",
+			"addr": "California",
+			"country": "USA"
+		}
+	},
+	"telegram-admin-handle": {
+		"0": "blocksandclouds"
+	}
+}

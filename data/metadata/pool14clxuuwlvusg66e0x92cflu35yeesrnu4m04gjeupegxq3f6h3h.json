@@ -1,6 +1,7 @@
 {
 	"name": "The Three Bears",
-	"description": "Empowering others with ADA one paw at a time",
+	"description": "Empowering others with ADA one paw at a time.  The Three Bears is a proud supporter of Wounded Warriors Canada, Breakfast Club of Canada, JDRF, WWF and the Canadian Cancer Society.",
 	"ticker": "3BBB",
-	"homepage": "https://thethreebears.net"
+	"homepage": "https://thethreebears.net",
+	"extended": "https://3bbb.thethreebears.net/3BBBExtended"
 }
