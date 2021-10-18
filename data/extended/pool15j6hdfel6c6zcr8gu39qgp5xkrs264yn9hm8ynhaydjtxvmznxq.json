@@ -7,10 +7,8 @@
 		"social": {
 			"twitter_handle": "ADA_Skepsis",
 			"telegram_handle": "cardano_skepsis",
-			"telegram_admin_handle": "christoPalas",
-			"telegram-admin-handle": "christoPalas",
 			"facebook_handle": "",
-			"youtube_handle": "",
+			"youtube_handle": "Crypto Skepsis",
 			"twitch_handle": "",
 			"discord_handle": "",
 			"github_handle": "chrispalaskas"
@@ -32,5 +30,8 @@
 	},
 	"my-pool-ids": {
 		"0": "a4b576a73fd6342c0ce8e44a040686b0e0ad54932df6724efd2364b3"
+	},
+	"telegram-admin-handle": {
+		"0": "christoPalas"
 	}
 }
