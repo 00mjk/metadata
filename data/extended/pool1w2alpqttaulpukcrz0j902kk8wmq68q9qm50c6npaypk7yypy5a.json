@@ -1,0 +1,41 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://pool.kibatsu.club/icon-adapool.png",
+		"url_png_logo": "https://pool.kibatsu.club/logo-ada-pool.png",
+		"location": "Tokyo, Japan",
+		"social": {
+			"twitter_handle": "KibatsuClub",
+			"telegram_handle": "",
+			"facebook_handle": "KibatsuClub",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "奇抜倶楽部 | KibatsuClub",
+			"addr": "Chiyoda-Ku",
+			"city": "Tokyo",
+			"country": "Japan",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "奇抜とは、世間一般では風変わりで、人の意表をつくこととして広く周知されていますが、ひときわ優れていることといった意味も持ち合わせています。わたし達は、当ステークプールの活動を通じて、みなさまへ鮮度の高い情報を配信しつつ、堅牢なステークプール運営に努めてまいります。",
+			"server": "BlockProduceNode 1, RelayNode 2",
+			"company": "KibatsuClub"
+		}
+	},
+	"my-pool-ids": {
+		"0": "72bbf0816bef3e1e5b0313e457aad63bb60d1c0506e8fc6a61e9036f",
+		"1": ""
+	},
+	"when-satured-then-recommend": {
+		"0": "",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	}
+}

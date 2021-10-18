@@ -1,0 +1,21 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://samurai-pool.net/bushido_logo.png",
+		"location": "USA",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "",
+			"github_handle": ""
+		},
+		"about": {
+			"me": "Single Pool Operator",
+			"server": "Secure - Powerful - Highly Available & Reliable servers managed by experienced highly skilled engineers."
+		},
+		"my-pool-ids": {
+			"0": "bad8067c7b2b9ebdbd76a413c8f67e6fefb3baecf8649c8f50fb3d8f"
+		},
+		"when-satured-then-recommend": {
+			"0": "small pools - support decentralization"
+		}
+	}
+}

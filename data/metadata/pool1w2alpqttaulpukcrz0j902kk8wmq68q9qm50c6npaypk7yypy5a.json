@@ -2,5 +2,6 @@
 	"name": "The Kibatsu Club Stake Pool",
 	"description": "This pool is operated by Kibatsu Club.",
 	"ticker": "KIBA",
-	"homepage": "https://www.kibatsu.club"
+	"homepage": "https://www.kibatsu.club",
+	"extended": "https://pool.kibatsu.club/extendedMetaData.json"
 }
