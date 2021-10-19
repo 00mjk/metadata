@@ -9,8 +9,8 @@
 			"facebook_handle": "",
 			"youtube_handle": "",
 			"twitch_handle": "",
-			"discord_handle": "",
-			"github_handle": ""
+			"discord_handle": "extramileit#8486",
+			"github_handle": "woofpool"
 		},
 		"company": {
 			"name": "",
@@ -21,8 +21,8 @@
 			"vat_id": ""
 		},
 		"about": {
-			"me": "WOOF pool is run by a veteran IT professional, who works full-time on Cardano initiatives. This pool will maintain low costs to maximize rewards to delegators and donate the profit margin to support animal shelters & animal rights.",
-			"server": "The pool setup includes one block-producer node and two relay nodes. Each node run on separate VPS host with 8 CPUs, 30 GB RAM, and 800 GB SSD storage.",
+			"me": "WOOF pool is run by an IT professional working full-time on Cardano development. Pool maintains low costs to maximize rewards to delegators and donates the profit margin to support animal shelters.",
+			"server": "The pool setup includes one block-producer node and two relay nodes. Each node runs on separate VPS host with 8 CPUs, 30 GB RAM, and 800 GB SSD storage.",
 			"company": ""
 		},
 		"my-pool-ids": {
