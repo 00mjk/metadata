@@ -9,6 +9,8 @@
 		},
 		"about": {
 			"company": "Animation.com"
-		}
+		},
+		"url_png_logo": "https://animation.com/pool/animation_logo.png",
+		"url_png_icon_64x64": "https://animation.com/pool/animation_logo_64.png"
 	}
 }
