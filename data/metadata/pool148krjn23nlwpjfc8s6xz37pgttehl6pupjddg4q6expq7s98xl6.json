@@ -1,6 +1,7 @@
 {
 	"name": "The Groovy Nerds Pool",
-	"description": "Just a bunch of nerds who love crypto",
+	"description": "Stake pool for the advancement of STEM (Science, Technology, Engineering, Math)in children",
 	"ticker": "GNERD",
-	"homepage": "https://thegroovynerd.com"
+	"homepage": "https://thegroovynerd.com",
+	"extended": "https://raw.githubusercontent.com/groovynerd420/NerdPool/main/extended.json"
 }
