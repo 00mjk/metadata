@@ -2,5 +2,6 @@
 	"name": "NKLEO Pool",
 	"description": "NKLEO la primera Stake Pool Colombiana, ayudando en la descentralización de la Red Blockchain Cardano.",
 	"ticker": "NKLEO",
-	"homepage": "https://nkleo.com"
+	"homepage": "https://nkleo.com",
+	"extended": "https://raw.githubusercontent.com/abracu/nKleo/main/extendmeta.json"
 }

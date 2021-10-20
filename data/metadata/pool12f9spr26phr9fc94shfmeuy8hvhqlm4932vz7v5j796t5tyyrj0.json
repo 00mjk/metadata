@@ -1,7 +1,7 @@
 {
-	"name": "Benson Crypto Pool",
-	"description": "Official stake pool of Sean Benson (Benson Crypto). Join this pool for the best returns powered by the safest and most secure servers to ensure maximum uptime.",
-	"ticker": "BNSN",
-	"homepage": "https://www.youtube.com/channel/UCHqubNRiGzQbmKAG9MEbCnw",
+	"name": "NEW YORK",
+	"description": "NEW YORK stake pool. Join this pool for the best returns powered by the safest and most secure servers to ensure maximum uptime.",
+	"ticker": "NYORK",
+	"homepage": "https://www.nycgo.com/",
 	"extended": "https://raw.githubusercontent.com/gibonada/Sean/master/extended.json"
 }
