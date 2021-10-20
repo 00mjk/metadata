@@ -1,0 +1,43 @@
+{
+	"itn": {
+		"owner": "ed25519_pk1s7alss8978ty273x4jqxst2hdxdtgqtz3l02ynfks4vphk6dht8qeqr2gs",
+		"witness": "ed25519_sig1l2q6agg5gt3lahmcu7c4h0jv9kn35grlprcjzxkywrm7qllgflw8k657k998vv5tk454kmlzmaf7757aqwrjrekxt4558r4d2nt26rgdwc586"
+	},
+	"info": {
+		"url_png_icon_64x64": "https://centimani.io/assets/img/Centimani_Blue_rvb_Symbol_64x64.png",
+		"url_png_logo": "https://centimani.io/assets/img/Centimani_Blue_rvb_Logo_512x512.png",
+		"location": "Luxembourg, Europe",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"telegram-admin-handle": [
+		""
+	],
+	"my-pool-ids": [
+		"5977a2ca8bbb156c964b2def041bfd456a2f64615415cb6023e3aee0"
+	],
+	"when-satured-then-recommend": [
+		"5977a2ca8bbb156c964b2def041bfd456a2f64615415cb6023e3aee0"
+	]
+}

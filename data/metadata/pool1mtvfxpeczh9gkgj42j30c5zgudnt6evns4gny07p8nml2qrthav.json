@@ -1,7 +1,7 @@
 {
 	"name": "Dad Stakes",
-	"description": "Grow the future, help the fatherless, 0% fees",
+	"description": "Grow the future, help the fatherless, 1% fees",
 	"ticker": "DAD",
 	"homepage": "https://www.dadstakes.com",
-	"extended": "https://www.dadstakes.com/meta/dad0_meta_ext.json"
+	"extended": "https://www.dadstakes.com/meta/dad1_meta_ext.json"
 }

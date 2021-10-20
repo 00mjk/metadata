@@ -1,6 +1,6 @@
 {
 	"name": "MOBC StakePoolServer",
-	"ticker": "MOBC0",
+	"ticker": "MOBC",
 	"description": "情報プロセスの安心化を目指すプールサーバー",
 	"homepage": "https://mobcsp.work",
 	"extended": "https://mobcsp.work/extendedMeta.json"
