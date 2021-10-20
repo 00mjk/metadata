@@ -1,0 +1,35 @@
+{
+	"info": {
+		"url_png_icon_64x64": "",
+		"url_png_logo": "",
+		"location": "Ottawa, Canada",
+		"social": {
+			"twitter_handle": "3BBB_The3Bears",
+			"telegram_handle": "TheThreeBears",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "TheThreeBears#9040",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "The Three Bears",
+			"addr": "",
+			"city": "Ottawa",
+			"country": "Canada",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "As crypto enthusiasts we are both interested in the decentralization of currencies, particularly Cardano but also want to leverage this rapidly evolving eco system to enable others to improve their financial position and annually contribute to the following programs: Wounded Warriors Canada, Breakfast Club of Canada, Canadian Cancer Society, Juvenile Diabetes Research Foundation and the World Wildlife Fund.  ",
+			"server": "To ensure a robust stable node environment, our servers are hosted in a data center with 24/7/365 support.  ",
+			"company": "Our company is based in Canada"
+		}
+	},
+	"my-pool-ids": {
+		"0": "ae3e6e71df67208d6b2f315584ff91a133980e7caedf544b3c0e5060"
+	},
+	"telegram-admin-handle": {
+		"0": "TheThreeBears"
+	}
+}
