@@ -1,0 +1,15 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://user-images.githubusercontent.com/42287547/137223183-77a03504-ec02-4862-ada1-8c6a758c91bd.png",
+		"url_png_logo": "https://user-images.githubusercontent.com/42287547/137223146-6918edc9-d17d-4788-9829-e367961a3d43.png",
+		"location": "Bogotá, Colombia",
+		"social": {
+			"telegram_handle": "https://t.me/joinchat/Vt75gsvUoTw2ZDBh"
+		},
+		"about": {
+			"me": "http://jaguares.org/",
+			"server": "A stack of four Raspberry Pi 4 8GB RAM with great connection and stable electricity.",
+			"company": "Jaguares DAO"
+		}
+	}
+}

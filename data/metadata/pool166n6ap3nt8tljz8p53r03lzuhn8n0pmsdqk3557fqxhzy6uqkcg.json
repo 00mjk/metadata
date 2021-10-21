@@ -2,5 +2,6 @@
 	"name": "Trinity Pool",
 	"description": "This pool supports independent artists creating cool projects and NFT giveaways!",
 	"ticker": "TRIN",
-	"homepage": "https://nftrinity.io"
+	"homepage": "https://nftrinity.io",
+	"extended": "https://raw.githubusercontent.com/crowsfinest/trinity-stake-pool.github.io/main/extended.json"
 }
