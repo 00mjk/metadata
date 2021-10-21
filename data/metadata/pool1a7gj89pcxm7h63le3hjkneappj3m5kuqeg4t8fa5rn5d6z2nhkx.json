@@ -2,5 +2,6 @@
 	"name": "stakepool for kanayama",
 	"description": "stakepool for kanayama",
 	"ticker": "KNY11",
-	"homepage": "https://kanayama11.xyz/"
+	"homepage": "https://kanayama11.xyz/",
+	"extended": "https://kanayama11.xyz/extendedMeta3.json"
 }

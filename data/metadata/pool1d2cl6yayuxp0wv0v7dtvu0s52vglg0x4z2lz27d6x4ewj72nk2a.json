@@ -3,5 +3,5 @@
 	"ticker": "WHALE",
 	"description": "whalewallet.io is a lightweight user-friendly and secure wallet.",
 	"homepage": "https://whalewallet.io",
-	"extended": "https://cardanians.io/_storage/pool-tools-extended.json"
+	"extended": "https://cardanians.io/_storage/pool-whale-extended.json"
 }

@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "http://18.119.65.114/icon.png",
+		"url_png_logo": "http://18.119.65.114/logo.png",
+		"location": "USA",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": ""
+		},
+		"rss": "http(s) url to valid RSS feed"
+	},
+	"telegram-admin-handle": [
+		""
+	],
+	"my-pool-ids": [
+		"8b964766617311484e783504c3658c190f4c06382cc0f37cdfc58bff"
+	],
+	"when-satured-then-recommend": [
+		"8b964766617311484e783504c3658c190f4c06382cc0f37cdfc58bff"
+	]
+}
