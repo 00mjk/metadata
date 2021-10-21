@@ -9,7 +9,7 @@
 		},
 		"about": {
 			"me": "A Single Pool Operator - A Vision, A Reality, The Future",
-			"server": "Cloud based server on AWS consisting of 1 Block Producer and 2 Relay Nodes"
+			"server": "Virtual based server consisting of 1 Block Producer and 2 Relay Nodes"
 		},
 		"my-pool-ids": {
 			"0": "b9147445047312aa139a331390bba715eebb58f1b66c96e660e48986",
