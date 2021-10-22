@@ -1,8 +1,8 @@
 {
 	"name": "Nuclear Stake",
 	"ticker": "NUKE",
-	"description": "Nuclear Stake is the Cardano stake pool that provides competitive rewards to delegators and support to the specific objective of prohibiting and eliminating nuclear weapons.",
+	"description": "Nuclear Stake is the Cardano stake pool that provides competitive rewards to delegators",
 	"homepage": "https://nuclearstake.com",
-	"nonce": "1628912463",
-	"extended": "https://nuke-metadata.stakepool.cloud/extended.json"
+	"nonce": "1634756184",
+	"extended": "https://nuclearstake.com/assets/metadata/extended.json"
 }

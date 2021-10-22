@@ -1,16 +1,16 @@
 {
 	"info": {
-		"url_png_icon_64x64": "https://nuke-metadata.stakepool.cloud/nukeicon.png",
-		"url_png_logo": "https://nuke-metadata.stakepool.cloud/nukelogo.png",
+		"url_png_icon_64x64": "https://nuclearstake.com/assets/metadata/nukeicon.png",
+		"url_png_logo": "https://nuclearstake.com/assets/metadata/nukelogo.png",
 		"location": "Metaverse",
 		"social": {
 			"twitter_handle": "nuclearstake",
-			"telegram_handle": "nuclearstake",
-			"facebook_handle": "nuclearstake",
+			"telegram_handle": "https://t.me/joinchat/wxNDw62sIl0zNDdh",
+			"discord_handle": "https://discord.com/invite/Q5cgSemGNM",
 			"instagram_handle": "nuclearstake",
-			"youtube_handle": "nuclearstake",
-			"discord_handle": "nuclearstake",
-			"github_handle": "nuclearstake"
+			"facebook_handle": "nuclearstake",
+			"reddit_handle": "https://www.reddit.com/r/nuclearstake/",
+			"linkedin_handle": "nuclearstake"
 		},
 		"company": {
 			"name": "Nuclear Stake",
