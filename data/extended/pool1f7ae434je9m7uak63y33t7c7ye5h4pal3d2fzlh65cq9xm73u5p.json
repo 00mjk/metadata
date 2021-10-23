@@ -9,10 +9,10 @@
 			"0": "pool1f7ae434je9m7uak63y33t7c7ye5h4pal3d2fzlh65cq9xm73u5p"
 		},
 		"social": {
-			"github_handle": "tilitribe",
-			"twitter_handle": "tilitribe"
+			"github_handle": "tiligallery",
+			"twitter_handle": "tiligallery"
 		},
-		"url_png_icon_64x64": "https://tilitribe.com/stakepool/tili_logo.png",
+		"url_png_icon_64x64": "https://tili.gallery/stakepool/tili_logo.png",
 		"when-satured-then-recommend": {
 			"0": "small pools - support decentralization"
 		}
