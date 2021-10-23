@@ -1,7 +1,7 @@
 {
-	"name": "Pixel Pool",
-	"description": "Decentralised independent pool. Maintained by an experienced Computer Science graduate.",
-	"ticker": "PIXEL",
-	"homepage": "https://pixelpool.io/",
-	"extended": "https://pixelpool.io/assets/pool/poolMetaDataExtended.json"
+	"name": "Solar Punkz",
+	"description": "Solar Punkz believe in a decentralized future achieved with sustainable solutions. SPK will always be a single pool operator donating profits to environmental projects. Join to support the Solar Punkz mission.",
+	"ticker": "SPK",
+	"homepage": "https://solarpunkz.io/",
+	"extended": "https://solarpunkz.io/assets/pool/poolMetaDataExtended.json"
 }

@@ -1,6 +1,6 @@
 {
 	"name": "ADAMarkets",
-	"description": "Learn the latest news of your favorite investment topic of Cardano (e.g. DeFi, AI, games, NFTs) with AMKT1 of ADAMarkets, see https://twitter.com/AdaMarkets/lists",
-	"ticker": "AMKT1",
+	"description": "BAG, your stake pool of ADAMarkets. Twitter @ADAMarkets.",
+	"ticker": "BAG",
 	"homepage": "https://ada.markets"
 }
