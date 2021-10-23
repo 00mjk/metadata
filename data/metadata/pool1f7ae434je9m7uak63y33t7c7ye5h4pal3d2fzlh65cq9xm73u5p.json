@@ -1,7 +1,7 @@
 {
-	"description": "Earn rewards by supporting the development of TiliTribe, an NFT platform for visual artists and art collectors.",
-	"extended": "https://tilitribe.com/stakepool/ext_metadata.json",
-	"homepage": "https://tilitribe.com",
-	"name": "TiliTribe Pool",
+	"description": "Earn rewards by supporting Tili.Gallery, a CNFT platform for visual artists and art collectors.",
+	"extended": "https://tili.gallery/stakepool/ext_metadata.json",
+	"homepage": "https://tili.gallery",
+	"name": "Tili Pool",
 	"ticker": "TILI"
 }
