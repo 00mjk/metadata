@@ -12,7 +12,7 @@
 			"github_handle": "flickto"
 		},
 		"about": {
-			"server": "All our pools are hosted on bare metal servers using Proxmox & LXC for containerisation. They are distributed in Germany, Finland and the United Kingdom",
+			"server": "All our BP nodes are hosted on bare metal servers using Proxmox & LXC for containerisation. Relay nodes are distributed in Germany, Finland and the United Kingdom. We also run AWS relays in Canada and Japan.",
 			"company": "Fickto is a launchpad for media projects. Flickto will fund content creators to produce new Films, TV and Internet Streaming shows that currently have no access to funding or finance. FLICK token holders will be eligible to receive a portion of the distribution profits if the media project is successful."
 		}
 	},
