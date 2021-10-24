@@ -27,10 +27,11 @@
 		}
 	},
 	"my-pool-ids": {
-		"0": "261789e4d39000aa333495d4dbe850708a7fe7a996011a6be98060db"
+		"0": "261789e4d39000aa333495d4dbe850708a7fe7a996011a6be98060db",
+		"1": "15343989c5a8cc6dd36eb10c96b9399512dbbede7d3480434eb8ceb2"
 	},
 	"when-satured-then-recommend": {
-		"0": "6c518b4861bb88b1395ceb116342cecbcfb8736282655f9a61c4c368"
+		"0": "15343989c5a8cc6dd36eb10c96b9399512dbbede7d3480434eb8ceb2"
 	},
 	"telegram-admin-handle": {
 		"0": "ravanave"
