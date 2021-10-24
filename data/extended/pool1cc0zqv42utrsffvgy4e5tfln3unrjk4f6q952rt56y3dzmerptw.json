@@ -1,0 +1,31 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://github.com/adosiawolf/m/blob/master/spacecoins_icon_64x64.png",
+		"url_png_logo": "https://github.com/adosiawolf/m/blob/master/spacecoins_logo.png",
+		"location": "deep space",
+		"social": {
+			"twitter_handle": "spacecoins_ADA",
+			"telegram_handle": "cardanospacecoins",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "spacecoins",
+			"country": "space"
+		},
+		"about": {
+			"company": "YOUR is an official spacecoins stake pool  - stake to earn FREE spacecoins - whatever you do, YOUR DIDIT!"
+		}
+	},
+	"my-pool-ids": {
+		"0": "c61e2032aae2c704a588257345a7f38f26395aa9d00b450d74d122d1",
+		"1": "782253118f1397ec130f4ab38d782b4ec1126ac74bd6f4b06d6b7a01"
+	},
+	"telegram-admin-handle": {
+		"0": "adosiawolf",
+		"1": "TheRealAdamDean"
+	}
+}
