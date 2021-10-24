@@ -1,0 +1,7 @@
+{
+	"name": "MAL(5%, 2nd) Maladex - Research Driven Cardano DEX",
+	"description": "The official pool of Maladex. Support Cardano devs with 5% variable fee and receive $MAL platform tokens at the same time.",
+	"ticker": "MAL2",
+	"homepage": "https://maladex.com",
+	"extended": "https://pool.maladex.com/mal-2/extendedPoolMetaData.json"
+}

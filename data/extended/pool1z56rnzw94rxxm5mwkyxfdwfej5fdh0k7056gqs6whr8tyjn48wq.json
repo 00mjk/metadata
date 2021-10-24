@@ -1,0 +1,38 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://pool.maladex.com/mal-2/64x64_mal_in_pool.png",
+		"url_png_logo": "https://pool.maladex.com/mal-2/256x256_mal_in_pool.png",
+		"location": "London",
+		"social": {
+			"twitter_handle": "CardanoMaladex",
+			"telegram_handle": "ravanave",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "glewellin#0825",
+			"github_handle": "Maladex"
+		},
+		"company": {
+			"name": "Mallabs Ltd",
+			"addr": "",
+			"city": "London",
+			"country": "UK",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "MAL is the official pool of Maladex. By delegating you support Cardano devs and earn $ADA and $MAL platform tokens at the same time.",
+			"server": "The only Cardano servers operated by Mal - our friendly little demon. 24/7/365 SRE. Bespoke cloud setup, backup, snapshots, private relays.",
+			"company": "Maladex Ltd"
+		}
+	},
+	"my-pool-ids": {
+		"0": "261789e4d39000aa333495d4dbe850708a7fe7a996011a6be98060db"
+	},
+	"when-satured-then-recommend": {
+		"0": "6c518b4861bb88b1395ceb116342cecbcfb8736282655f9a61c4c368"
+	},
+	"telegram-admin-handle": {
+		"0": "ravanave"
+	}
+}

@@ -1,17 +1,16 @@
 {
 	"info": {
-		"url_png_icon_64x64": "https://solarpunkz.io/assets/pool/pool_logo_small.png",
-		"url_png_logo": "https://solarpunkz.io/assets/pool/pool_logo_small.png",
+		"url_png_icon_64x64": "https://pixelpool.io/assets/pool/pool_logo_small.png",
+		"url_png_logo": "https://pixelpool.io/assets/pool/pool_logo_small.png",
 		"location": "Decentralised",
 		"social": {
-			"twitter_handle": "SolarPunkz_",
-			"github_handle": "SolarPunkz"
+			"twitter_handle": "Jack7E",
+			"github_handle": "Pixel-pool"
 		},
 		"company": {
-			"name": "SolarPunkz"
+			"name": "PixelPool"
 		},
 		"about": {
-			"me": "Home of the Solar Punkz",
 			"server": "Enterprise-grade configuration, prioritising  decentralisation and security"
 		}
 	},
