@@ -1,7 +1,7 @@
 {
 	"info": {
-		"url_png_icon_64x64": "fs.alleycatmining.com/AlleycatADA64.png",
-		"url_png_logo": "fs.alleycatmining.com/AlleycatBanner.png",
+		"url_png_icon_64x64": "http://fs.alleycatmining.com/AlleycatADA64.png",
+		"url_png_logo": "http://fs.alleycatmining.com/AlleycatBanner.png",
 		"location": "USA, North America",
 		"social": {
 			"twitter_handle": "@AlleycatMining",
