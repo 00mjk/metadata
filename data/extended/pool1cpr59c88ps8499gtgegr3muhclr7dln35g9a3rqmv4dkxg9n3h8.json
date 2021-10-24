@@ -9,15 +9,8 @@
 			"facebook_handle": "",
 			"youtube_handle": "",
 			"twitch_handle": "",
-			"discord_handle": "",
+			"discord_handle": "https://discord.gg/jkkHgSDNNT",
 			"github_handle": "lacepool"
-		},
-		"company": {
-			"name": "Robin Böning",
-			"addr": "Belforter Str. 26",
-			"city": "Berlin",
-			"country": "Germany",
-			"vat_id": "DE323278624"
 		},
 		"about": {
 			"me": "Hi, I am Robin – a professional and passionate software developer with a strong background in system administration, for around 2 decades. I love building software that delights.",
