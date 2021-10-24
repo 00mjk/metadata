@@ -1,0 +1,29 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://d1naig3u6ocved.cloudfront.net/c0f5e364-1c4e-4de1-b6ff-bdb5f1719d84/images/pool/url_png_icon_64x64.png",
+		"url_png_logo": "https://d1naig3u6ocved.cloudfront.net/c0f5e364-1c4e-4de1-b6ff-bdb5f1719d84/images/pool/url_png_icon_64x64.png",
+		"location": "United States",
+		"social": {
+			"twitter_handle": "Tokhun_io",
+			"telegram_handle": "Tokhun_io",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "http://discord.tokhun.io",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Tokhun LLC",
+			"country": "Unites States of America"
+		},
+		"about": {
+			"company": "Community Driven. Cardano Powered. Premier cNFT & Native Asset minting platform. Mint. Sell. Trade. Explore."
+		}
+	},
+	"my-pool-ids": {
+		"0": "af9519e909a139ab786282eb87e2bc903fa1ec8120e8cd0a3a506a47"
+	},
+	"telegram-admin-handle": {
+		"0": "@valentin_bsn"
+	}
+}
