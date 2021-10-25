@@ -2,6 +2,6 @@
 	"name": "ORE POOL",
 	"description": "A single operator pool to support and grow to cardano blockchain :)",
 	"ticker": "ORE",
-	"homepage": "https://orelvis15.github.io/orepool/",
+	"homepage": "https://orelvis15.github.io/pool/",
 	"extended": "https://raw.githubusercontent.com/orelvis15/pool/main/metaextra.json"
 }

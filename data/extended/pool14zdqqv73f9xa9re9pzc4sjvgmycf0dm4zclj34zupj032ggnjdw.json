@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://pool.maladex.com/maxmal/64x64_maxmal.png",
+		"url_png_logo": "https://pool.maladex.com/maxmal/256x256_maxmal.png",
+		"location": "London",
+		"social": {
+			"twitter_handle": "CardanoMaladex",
+			"telegram_handle": "ravanave",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "glewellin#0825",
+			"github_handle": "Maladex"
+		},
+		"company": {
+			"name": "Mallabs Ltd",
+			"addr": "",
+			"city": "London",
+			"country": "UK",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "MAXMAL is the official pool of Maladex with 100% variable fee and maximum MAL token airdrops.",
+			"server": "The only Cardano servers operated by Mal - our friendly little demon. 24/7/365 SRE. Bespoke cloud setup, backup, snapshots, private relays.",
+			"company": "Mallabs Ltd"
+		}
+	},
+	"my-pool-ids": {
+		"0": "261789e4d39000aa333495d4dbe850708a7fe7a996011a6be98060db",
+		"1": "15343989c5a8cc6dd36eb10c96b9399512dbbede7d3480434eb8ceb2"
+	},
+	"when-satured-then-recommend": {
+		"0": "261789e4d39000aa333495d4dbe850708a7fe7a996011a6be98060db"
+	},
+	"telegram-admin-handle": {
+		"0": "ravanave"
+	}
+}
