@@ -1,0 +1,7 @@
+{
+	"name": "REX Stake Pool",
+	"description": "self-hosted, decentralized & dedicated servers with 24/7 monitoring",
+	"ticker": "REX",
+	"homepage": "https://rexstakepool.com",
+	"extended": "https://rexstakepool.com/poolMetaExtended.json"
+}
