@@ -1,6 +1,7 @@
 {
 	"info": {
 		"location": "Ashburn, VA",
+		"url_png_logo": "https://cardano.cloudstruct.net/images/logo.png",
 		"social": {
 			"twitter_handle": "CSCS_pool",
 			"telegram_handle": "CSCS_pool",
@@ -8,12 +9,11 @@
 		},
 		"company": {
 			"name": "CloudStruct Cardano Staking",
-			"city": "Ocean",
-			"state": "New Jersey",
 			"country": "United States of America"
 		},
 		"about": {
-			"server": "AWS hosted relays in multiple availability zones with 2 CPU cores and 16GB memory, 10GBit network"
+			"me": "Professional cloud infrastructure specialists with decades combined experience in telecommunications, big data, and distributed systems",
+			"server": "2 CPU cores and 16GB memory, 10GBit network hosted in AWS with automated failover and recovery"
 		}
 	},
 	"my-pool-ids": {
@@ -21,5 +21,25 @@
 	},
 	"telegram-admin-handle": {
 		"0": "CSCS_pool"
+	},
+	"votes": {
+		"https://cips.cardano.org/cips/cip7/": {
+			"vote": "Yes"
+		},
+		"https://cips.cardano.org/cips/cip8/": {
+			"vote": "Yes"
+		},
+		"https://cips.cardano.org/cips/cip12/": {
+			"vote": "Yes"
+		},
+		"https://cips.cardano.org/cips/cip22/": {
+			"vote": "Yes"
+		},
+		"https://cips.cardano.org/cips/cip23/": {
+			"vote": "Yes"
+		},
+		"https://cips.cardano.org/cips/cip24/": {
+			"vote": "Yes"
+		}
 	}
 }
