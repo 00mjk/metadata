@@ -1,8 +1,8 @@
 {
 	"name": "ECO Pool",
 	"ticker": "ECO",
-	"description": "Stake with ECO and make the world a better place! We donate 30% of our pool fees to charities battling climate change and environmental challenges. We run on 100% renewable energy!",
-	"homepage": "http://ecopool.io",
-	"nonce": "1614639681",
-	"extended": "http://ecopool.io/ecopoolmetaext.json"
+	"description": "Reliable returns for you and the planet, run on 100% renewable energy! We donate 30% of our pool rewards to charities battling climate change and environmental challenges.",
+	"homepage": "https://ecopool.io",
+	"nonce": "1635287957",
+	"extended": "https://ecopool.io/ecopoolmetaext.json"
 }
