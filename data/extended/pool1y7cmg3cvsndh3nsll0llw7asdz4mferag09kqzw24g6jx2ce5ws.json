@@ -13,7 +13,8 @@
 		},
 		"about": {
 			"me": "Professional cloud infrastructure specialists with decades combined experience in telecommunications, big data, and distributed systems",
-			"server": "2 CPU cores and 16GB memory, 10GBit network hosted in AWS with automated failover and recovery"
+			"server": "2 CPU cores and 16GB memory, 10GBit network hosted in AWS with automated failover and recovery, multiple relays in separate regions",
+			"company": "DevOps as a Service consulting, providing expertise on best practices as well as emerging technology patterns"
 		}
 	},
 	"my-pool-ids": {
