@@ -1,0 +1,13 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://aichi-stakepool.com/Tokai_icon_transparent.png",
+		"url_png_logo": "https://aichi-stakepool.com/Aichi_Tokai_Stake_Pool_logo.png",
+		"social": {
+			"twitter_handle": "_beyondstandard"
+		},
+		"about": {
+			"me": "「安全・安心なステークプール」を常に心がけています。Twitterでの情報発信や、各種動画の翻訳などを行いながら、Cardanoへ貢献をしています。ぜひ、Twitterやウェブページもご覧ください。We are always striving for 'Safe and Secure stake pools'. And we contribute to Cardano by sending out information via Twitter and translating various videos. Please check out our Twitter page and webpage.",
+			"server": "4CoreCPU and 16GB Memory"
+		}
+	}
+}

@@ -2,5 +2,6 @@
 	"name": "Tokai Stake Pool",
 	"description": "委任者様に安心して頂けるプールを目指します！ With low fee, please stake with us, a Japanese stake pool run by JPN-ENG bilingual SPOs, who want to dedicate themselves to Cardano. We promise to be your most reliable stake pool!!",
 	"ticker": "TOKAI",
-	"homepage": "https://aichi-stakepool.com"
+	"homepage": "https://aichi-stakepool.com",
+	"extended": "https://aichi-stakepool.com/extendedMeta2.json"
 }
