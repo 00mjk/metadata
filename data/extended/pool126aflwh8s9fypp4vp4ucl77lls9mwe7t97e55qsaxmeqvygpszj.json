@@ -1,0 +1,39 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://guard-pool.com/wp-content/uploads/2021/10/logoForAdapools64x64.png",
+		"url_png_logo": "https://guard-pool.com/wp-content/uploads/2021/10/logoForAdapools.png",
+		"location": "Torino, Italy",
+		"social": {
+			"twitter_handle": "GuardPoolInfo",
+			"telegram_handle": "guard_pool_official",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "...",
+			"server": "Linux Ubuntu Hosted in Frankfurt Germany",
+			"company": "..."
+		}
+	},
+	"my-pool-ids": {
+		"0": "56ba9fbae781524086ac0d798ffbdffc0bb767cb2fb34a021d36f206"
+	},
+	"when-satured-then-recommend": {
+		"0": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	}
+}

@@ -2,5 +2,6 @@
 	"name": "Guard Pool",
 	"description": "Security and reliability first.",
 	"ticker": "GUARD",
-	"homepage": "https://guard-pool.com"
+	"homepage": "https://guard-pool.com",
+	"extended": "https://guard-pool.com/wp-content/uploads/2021/10/extended.json"
 }

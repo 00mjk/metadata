@@ -1,6 +1,6 @@
 {
 	"name": "Apex Cardano Pool",
-	"description": "Apex Cardano Pool - 24/7 online, minimum fees: 340 Fixed Cost and 0% Margin",
+	"description": "Apex Cardano Pool - 24/7 online, low fees: 340 Fixed Cost and 2% Variable Fee (50% of Variable Fee donated for charity)",
 	"ticker": "APEX",
 	"homepage": "https://apexpool.info/",
 	"extended": "https://apexpool.info/extended.json"
