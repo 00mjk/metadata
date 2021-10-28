@@ -4,9 +4,9 @@
 		" url_png_logo ": "https://raw.githubusercontent.com/Caslu18/m/main/logo46KB%20(1).png",
 		" ubicación ": " Cuenca, ECUADOR ",
 		" social ": {
-			" twitter_handle ": "EVA-POOL",
-			" facebook_handle ": "Evapool-Pooleva",
-			" telegram_handle ": "EVA POOL de Ecuador para toda Latinoamérica y el mundo"
+			" twitter_handle ": "EVA_POOL",
+			" facebook_handle ": "Evapool_Pooleva",
+			" telegram_handle ": "EVA_POOL_de_Ecuador_para_toda_Latinoamérica_y_el_mundo"
 		},
 		" empresa ": {
 			" nombre ": " ",
@@ -29,6 +29,6 @@
 		" 1 ": ""
 	},
 	" telegram-admin-handle ": {
-		" 0 ": "EVA POOL de Ecuador para toda Latinoamérica y el mundo"
+		" 0 ": "EVA_POOL_de_Ecuador_para_toda_Latinoamérica_y_el_mundo"
 	}
 }
