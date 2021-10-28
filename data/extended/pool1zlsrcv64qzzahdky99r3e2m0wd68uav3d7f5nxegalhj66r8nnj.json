@@ -5,7 +5,7 @@
 		"location": "Country, Continent",
 		"social": {
 			"twitter_handle": "",
-			"telegram_handle": "https://t.me/fuspada",
+			"telegram_handle": "fuspada",
 			"facebook_handle": "",
 			"youtube_handle": "",
 			"twitch_handle": "",
@@ -28,7 +28,7 @@
 		"rss": "http(s) url to valid RSS feed"
 	},
 	"telegram-admin-handle": [
-		"https://t.me/FuspAdmin"
+		"FuspAdmin"
 	],
 	"my-pool-ids": [
 		"17e03c33550085dbb6c429471cab6f73747e75916f93499b28efef2d"
