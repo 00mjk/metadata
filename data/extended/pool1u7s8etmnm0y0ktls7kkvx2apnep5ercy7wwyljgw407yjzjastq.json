@@ -5,12 +5,12 @@
 		"location": "United States, America",
 		"social": {
 			"twitter_handle": "grahamde8313",
-			"telegram_handle": "",
+			"telegram_handle": "grahamde8313",
 			"facebook_handle": "",
 			"youtube_handle": "",
 			"twitch_handle": "",
-			"discord_handle": "",
-			"github_handle": ""
+			"discord_handle": "grahamde8313#3891",
+			"github_handle": "grahamde8313"
 		},
 		"company": {
 			"name": "Fifty Star Investments Inc.",
@@ -22,18 +22,18 @@
 		},
 		"about": {
 			"me": "Derek Graham",
-			"server": "Desktop hosted at my home in Salem along with 3 distinct relays (rare).",
+			"server": "This node consists of 5 computers in my personal home laboratory: block producer, cold node, and 3 relays.",
 			"company": "Fifty Star Investments Inc."
 		},
 		"rss": ""
 	},
 	"telegram-admin-handle": [
-		""
+		"grahamde8313"
 	],
 	"my-pool-ids": [
 		"pool1u7s8etmnm0y0ktls7kkvx2apnep5ercy7wwyljgw407yjzjastq"
 	],
 	"when-satured-then-recommend": [
-		"pool1u7s8etmnm0y0ktls7kkvx2apnep5ercy7wwyljgw407yjzjastq"
+		"pool1qqenhz258k5k9nyjull6gkzg7s4f3ae8v7qxwpegeef9v0nsy3e"
 	]
 }

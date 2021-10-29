@@ -1,0 +1,17 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.cardanode.io/64x.png",
+		"url_png_logo": "https://www.cardanode.io/ext-logo.png",
+		"location": "Canada, Alberta"
+	},
+	"about": {
+		"server": "High-availability dedicated hosting with live backups."
+	},
+	"my-pool-ids": {
+		"0": "0775f0139af22e1ebf2c3278598816946e750029b70eace3c5135c3e",
+		"1": "971212db48d9390662faa0fa725950f3b9ac1a898227f5fcf1096399"
+	},
+	"when-satured-then-recommend": {
+		"0": "971212db48d9390662faa0fa725950f3b9ac1a898227f5fcf1096399"
+	}
+}

@@ -2,5 +2,6 @@
 	"name": "Cardanode: 0.00% Fee & 100% Rewards Guaranteed",
 	"description": "Maximize rewards with 0.00% fee and our 100% rewards guarantee. Our servers are monitored 24/7 with redundant connections and live backups. We're a dedicated team that's here to stay.",
 	"ticker": "CNODE",
-	"homepage": "https://www.cardanode.io"
+	"homepage": "https://www.cardanode.io",
+	"extended": "https://www.cardanode.io/ext_metadataCNODE.json"
 }
