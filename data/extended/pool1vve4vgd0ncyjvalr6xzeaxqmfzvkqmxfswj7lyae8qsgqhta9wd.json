@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://iili.io/5RRetI.png",
+		"url_png_logo": "https://iili.io/5RRgFs.png",
+		"location": "Sewanee & Chattanooga, Tennessee",
+		"social": {
+			"twitter_handle": "koipondxyz",
+			"telegram_handle": "koipondxyz",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "hudson101#4229",
+			"github_handle": "hud-sonq"
+		},
+		"company": {
+			"name": "Company Name",
+			"addr": "Street, Number",
+			"city": "London",
+			"country": "England",
+			"company_id": "123456789",
+			"vat_id": "GB123456789"
+		},
+		"about": {
+			"me": "My name is Hudson and I have been an ambassador for Cardano ever since the pandemic hit our country. When I was younger I visited Japan with my Father, and when I was there I came to realize that society there is much more progressive and business oriented than the one that I come from. This pond will be a tribute to the beauty and success of the country, and I cannot wait to go back one day and see the progress it has made with Cardano.",
+			"server": "Cloud based, soon to be hybrid: each node has 16gb of ram, 6 CPU cores, and 320GB ssd storage.",
+			"company": "koipond.xyz"
+		}
+	},
+	"my-pool-ids": {
+		"0": "63335621af9e092677e3d1859e981b4899606cc983a5ef93b9382080"
+	},
+	"when-satured-then-recommend": {
+		"0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
+		"1": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
+	},
+	"telegram-admin-handle": {
+		"0": "koipondxyz"
+	}
+}
