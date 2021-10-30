@@ -2,5 +2,6 @@
 	"name": "WILDR Staking Pool",
 	"description": "Let's Get Wild Again",
 	"ticker": "WILDR",
-	"homepage": "https://github.com/getwildr"
+	"homepage": "https://getwildr.github.io",
+	"extended": "https://getwildr.github.io/meta/extended.json"
 }

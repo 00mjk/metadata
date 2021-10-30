@@ -1,0 +1,25 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://getwildr.github.io/assets/logo64.png",
+		"url_png_logo": "https://getwildr.github.io/assets/logo.png",
+		"location": "Paris, France",
+		"social": {
+			"telegram_handle": "getwildr",
+			"github_handle": "getwildr"
+		},
+		"about": {
+			"me": "WILDR Ops, Cardano curious, Tech lover",
+			"server": "AWS hosted, 1x relay, 1x prod, 1x monitoring",
+			"company": "WILDR ltd"
+		}
+	},
+	"my-pool-ids": {
+		"0": "57a5c4cfe6b567abe4f5049270845b340b094c1fbf3f3e0a167f30f7"
+	},
+	"when-satured-then-recommend": {
+		"0": "57a5c4cfe6b567abe4f5049270845b340b094c1fbf3f3e0a167f30f7"
+	},
+	"telegram-admin-handle": {
+		"0": "getwildr"
+	}
+}
