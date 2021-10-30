@@ -2,5 +2,6 @@
 	"name": "Solid Stake Pool",
 	"description": "Solid Staking Pool",
 	"ticker": "SSP",
-	"homepage": "https://solid-stakepool.com"
+	"homepage": "https://binarydog.wixsite.com/solidstakepool",
+	"extended": "https://solid-stakepool.com/extended.json"
 }
