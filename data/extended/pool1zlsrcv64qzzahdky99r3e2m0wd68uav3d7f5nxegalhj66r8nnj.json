@@ -21,8 +21,8 @@
 			"vat_id": ""
 		},
 		"about": {
-			"me": "",
-			"server": "",
+			"me": "All Nodes are hosted and run in ISP data center 24/7/365 monitoring and alerting system",
+			"server": "24 x Xeon CPU @ 3.33GHz, RAM 48GB, 10 Gigabit Ethernet, Full Backup, 99.93 % Availability Relay and Core Node",
 			"company": ""
 		},
 		"rss": "http(s) url to valid RSS feed"
