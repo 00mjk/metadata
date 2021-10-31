@@ -1,0 +1,24 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://tux-pool.com/images/logo64x64.png",
+		"url_png_logo": "https://tux-pool.com/images/logo.png",
+		"location": "The Netherlands",
+		"social": {
+			"twitter_handle": "OTG_WCat",
+			"telegram_handle": "Boaike",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"about": {
+			"me": "",
+			"server": "2x Raspberry Pi 4 relays, 1x Raspberry Pi 4 Block Producer",
+			"company": ""
+		},
+		"my-pool-ids": {
+			"0": "2f7f25d5e3a92417e216d8805260473b2339be5c529b645d095ef8da"
+		},
+		"when-satured-then-recommend": {
+			"0": "c825168836c5bf850dec38567eb4771c2e03eea28658ff291df768ae"
+		}
+	}
+}
