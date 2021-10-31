@@ -1,7 +1,7 @@
 {
-	"name": "FSI 1",
-	"description": "Fifty Star Investments Pool 1",
-	"ticker": "FSI_1",
+	"name": "FSI",
+	"description": "Fifty Star Investments",
+	"ticker": "FSI",
 	"homepage": "http://fiftystarinvestments.com",
 	"extended": "http://www.fiftystarinvestments.com/poolMetaDataExtended.json"
 }
