@@ -2,5 +2,6 @@
 	"name": "CardanoKeysPool",
 	"description": "CardanoKeysStakePool",
 	"ticker": "CKEYS",
-	"homepage": "https://discord.gg/jgVVFwgGuQ"
+	"homepage": "https://discord.gg/jgVVFwgGuQ",
+	"extended": "https://stakepool-config-public.ams3.digitaloceanspaces.com/extended-metadata.json"
 }

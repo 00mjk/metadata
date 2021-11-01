@@ -1,0 +1,27 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://stakepool-config-public.ams3.digitaloceanspaces.com/ckeys64.png",
+		"url_png_logo": "https://stakepool-config-public.ams3.digitaloceanspaces.com/ckeys.png",
+		"location": "Amsterdam, Netherlands",
+		"social": {
+			"twitter_handle": "https://twitter.com/CardanoKeys",
+			"discord_handle": "https://discord.gg/w2SmEWawuK"
+		},
+		"company": {
+			"name": "CardanoKeys",
+			"city": "Amsterdam",
+			"country": "Netherlands"
+		},
+		"about": {
+			"me": "CardanoKeys team, single SPOs, we got Cardano and our community at heart",
+			"server": "We run with state of the art technologies including Kubernetes to maxamize uptime and reliablity",
+			"company": "CardanoKeys is a NFT project building a community around its keys, supporting Cardano applications and other creators. Creating a small economy with the aim of injecting utility value in non-fungible tokens."
+		},
+		"my-pool-ids": {
+			"0": "4647f86d5a076723b985362a71ef667e7c867236a40255b087febdf7"
+		},
+		"when-satured-then-recommend": {
+			"0": "4647f86d5a076723b985362a71ef667e7c867236a40255b087febdf7"
+		}
+	}
+}
