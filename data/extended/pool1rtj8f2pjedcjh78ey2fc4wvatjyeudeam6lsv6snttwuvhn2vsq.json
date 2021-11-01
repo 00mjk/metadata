@@ -1,8 +1,8 @@
 {
 	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
 	"info": {
-		"url_png_icon_64x64": "https://raw.githubusercontent.com/flickto/pool/main/logo.png",
-		"url_png_logo": "https://raw.githubusercontent.com/flickto/pool/main/logo.png",
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/flickto/pool/main/slogo.png",
+		"url_png_logo": "https://raw.githubusercontent.com/flickto/pool/main/slogo.png",
 		"location": "United Kingdom",
 		"social": {
 			"twitter_handle": "FlicktoMedia",
