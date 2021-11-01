@@ -1,7 +1,7 @@
 {
 	"info": {
-		"url_png_icon_64x64": "http://acidpools.com/wp-content/uploads/2020/12/smiley64-64.png",
-		"url_png_logo": "http://acidpools.com/wp-content/uploads/2020/12/smiley300-300.png",
+		"url_png_icon_64x64": "https://acidpools.com/wp-content/uploads/2020/12/smiley64-64.png",
+		"url_png_logo": "https://acidpools.com/wp-content/uploads/2020/12/smiley300-300.png",
 		"location": "France",
 		"social": {
 			"twitter_handle": "AcidStakePool",
@@ -13,8 +13,8 @@
 			"github_handle": ""
 		},
 		"about": {
-			"me": "I am a tech enthusiast with unconditional love for Cardano",
-			"server": "Cloud and Bare metal servers",
+			"me": "I am a tech enthusiast with unconditional love for the Cardano project",
+			"server": "Cloud servers hosted in Germany - 2 relays and 1 producer - 6 Cores - 12 gb RAM",
 			"company": ""
 		}
 	},

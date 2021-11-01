@@ -2,6 +2,6 @@
 	"name": "Solid Stakepool",
 	"description": "Solid Stakepool",
 	"ticker": "SSP",
-	"homepage": "http://www.solid-stakepool.com/",
-	"extended": "https://solid-stakepool.com/extended.json"
+	"homepage": "https://www.solid-stakepool.com/",
+	"extended": "https://resource.solid-stakepool.com/extended.json"
 }

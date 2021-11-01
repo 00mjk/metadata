@@ -1,10 +1,13 @@
 {
 	"info": {
-		"url_png_icon_64x64": "https://solid-stakepool.com/img/logo_64x64.png",
-		"url_png_logo": "https://solid-stakepool.com/img/logo.png",
+		"url_png_icon_64x64": "https://resource.solid-stakepool.com/img/logo_64x64.png",
+		"url_png_logo": "https://resource.solid-stakepool.com/img/logo.png",
 		"location": "Tokyo, Japan",
 		"social": {
 			"twitter_handle": "b1naryd0g"
 		}
+	},
+	"claim-pool-string": {
+		"0": "6b2e61f0ec959ca6b3fd59934b8b64e8"
 	}
 }
