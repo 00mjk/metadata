@@ -1,21 +1,33 @@
 {
 	"info": {
 		"url_png_icon_64x64": "https://zunderpool.io/wp-content/uploads/2021/04/logo_size.jpg",
-		"url_png_logo": "https://zunderpool.io/wp-content/uploads/2021/05/logo_size.jpgb",
-		"location": "London, England",
+		"url_png_logo": "https://zunderpool.io/wp-content/uploads/2021/04/logo_size.jpg",
+		"location": "Munich, Germany",
 		"social": {
 			"twitter_handle": "ZunderPoolADA",
-			"telegram_handle": "ZunderPoolADA"
+			"telegram_handle": "ZunderPoolADA",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
 		},
 		"company": {
-			"name": "Der Zünder Gruppe",
-			"addr": "1 Cardano Place",
+			"name": "Zünder Pool",
+			"addr": "",
 			"city": "Munich",
-			"country": "Deutschland"
+			"country": "DE",
+			"company_id": "",
+			"vat_id": ""
 		},
 		"about": {
-			"me": "I'm an IT professional and a big fan of ADA, and looking forward to great things",
-			"server": "Servers in Europe, Asia, and America."
+			"me": "Single pool operator. Helping to make cardano the most decentralized cryptocurrency and spread the knowledge of its' value and noble mission",
+			"server": "Tier 3 high performance servers located in Asia, Europe, and America",
+			"company": ""
+		},
+		"my-pool-ids": {
+			"0": "a0b7055f7e18129061bb5585667ac27a9da93ec2b5c8c9bf156a70b9",
+			"1": ""
 		}
 	}
 }

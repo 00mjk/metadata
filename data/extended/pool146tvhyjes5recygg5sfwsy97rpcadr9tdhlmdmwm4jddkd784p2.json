@@ -2,29 +2,29 @@
 	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
 	"info": {
 		"url_png_icon_64x64": "http(s) url to pool icon; not animated; max 40kb",
-		"url_png_logo": "http(s) url to pool logo; not animated; max 50kb",
+		"url_png_logo": "https://github.com/ejane24/LVMNT/blob/main/LiveMint.png?raw=true",
 		"location": "Truro, England",
 		"social": {
-			"twitter_handle": "Crowdano",
-			"telegram_handle": "crowdano_pool",
+			"twitter_handle": "livemintnft",
+			"telegram_handle": "",
 			"facebook_handle": "",
 			"youtube_handle": "",
 			"twitch_handle": "",
-			"discord_handle": "",
+			"discord_handle": "mendrinos#8716",
 			"github_handle": "ejane24"
 		},
 		"company": {
-			"name": "Crowdano Crowdfunding",
+			"name": "Livemint NFT",
 			"addr": "",
 			"city": "Truro",
 			"country": "England",
-			"company_id": "",
-			"vat_id": ""
+			"company_id": "13649137",
+			"vat_id": "392249182"
 		},
 		"about": {
-			"me": "Ed",
+			"me": "Mendrinos is the CEO and Developer of Livemint NFT.",
 			"server": "Three servers hosted with 100% renewable energy!",
-			"company": "Crowdano Crowdfunding"
+			"company": "Livemint NFT LTD aims to be the leading NFT minting platform on Cardano"
 		},
 		"rss": ""
 	},
