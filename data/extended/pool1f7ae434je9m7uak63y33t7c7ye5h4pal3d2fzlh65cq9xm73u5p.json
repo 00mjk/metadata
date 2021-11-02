@@ -6,13 +6,13 @@
 		},
 		"location": "Valencia, Spain",
 		"my-pool-ids": {
-			"0": "pool1f7ae434je9m7uak63y33t7c7ye5h4pal3d2fzlh65cq9xm73u5p"
+			"0": "4fbb9ac6b2c977ee76da892315fb1e26697a87bf8b54917efaa60053"
 		},
 		"social": {
 			"github_handle": "tiligallery",
 			"twitter_handle": "tiligallery"
 		},
-		"url_png_icon_64x64": "https://tili.gallery/stakepool/tili_logo.png",
+		"url_png_icon_64x64": "https://tilipool.com/tili_logo.png",
 		"when-satured-then-recommend": {
 			"0": "small pools - support decentralization"
 		}

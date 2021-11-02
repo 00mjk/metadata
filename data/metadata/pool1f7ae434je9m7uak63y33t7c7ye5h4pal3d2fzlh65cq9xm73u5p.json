@@ -1,7 +1,7 @@
 {
-	"description": "Earn rewards by supporting Tili.Gallery, a CNFT platform for visual artists and art collectors.",
-	"extended": "https://tili.gallery/stakepool/ext_metadata.json",
-	"homepage": "https://tili.gallery",
+	"description": "Earn rewards by supporting the development of Tili.Gallery, a CNFT platform for visual artists and art collectors.",
+	"extended": "https://tilipool.com/ext_metadata.json",
+	"homepage": "https://tilipool.com",
 	"name": "Tili Pool",
 	"ticker": "TILI"
 }

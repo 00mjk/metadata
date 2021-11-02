@@ -1,7 +1,7 @@
 {
 	"name": "Flickto ISPO Pool 1 (100% FLICK)",
 	"ticker": "FLICK",
-	"description": "100% of Stake rewards go to project funding. The Flickto ISPO launches 01/11/21 but delegating early will earn early bird bonus rewards and enter delegators into our 1st NFT airdrop. See https://flickto.io/ for more details",
+	"description": "100% of Stake rewards go to project funding. Flickto is a Cardano powered community media launchpad, funding the next generation of Media Projects while rewarding users for engaging with the platform. Whitepaper: https://www.flickto.io/whitepaper.",
 	"homepage": "https://www.flickto.io",
 	"extended": "https://raw.githubusercontent.com/flickto/pool/main/meta1-e.json"
 }
