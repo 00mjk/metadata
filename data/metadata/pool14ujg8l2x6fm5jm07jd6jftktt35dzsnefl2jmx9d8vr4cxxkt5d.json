@@ -3,5 +3,6 @@
 	"ticker": "7PL",
 	"description": "CARDANO en español. Muchos Blokes.",
 	"homepage": "https://7pool.io/",
-	"nonce": "1614999724"
+	"nonce": "1614999724",
+	"adapools": "63ae13b28e48316fd52b50834883e10f"
 }
