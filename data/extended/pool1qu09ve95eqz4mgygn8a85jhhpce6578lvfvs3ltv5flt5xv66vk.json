@@ -8,7 +8,7 @@
 		},
 		"about": {
 			"me": "Single Pool Operator",
-			"server": "Block Producer: 7th Generation Intel i5, 4 CPU, 16GB RAM, SSD 250GB. Relay: 7th Generation Intel i5, 4 CPU, 16GB RAM, SSD 250GB. 300 Mbps Fiber Optic. Cat 8 Ethernet LAN Cable"
+			"server": "Block Producer: Intel I5 7th Generation, 4 CPU, 16GB RAM, SSD 250GB. Relay1: Intel I5 7th Generation, 4 CPU, 16GB RAM, SSD 250GB. Relay2: Intel Xeon E3-1270 V5,4 CPU, 16GB DDR4, 120GB SSD, 300 Mbps Fiber Optic. Cat 8 Ethernet LAN Cable"
 		},
 		"my-pool-ids": {
 			"0": "071e5664b4c8055da08899fa7a4af70e33aa78ff625908fd6ca27eba"
