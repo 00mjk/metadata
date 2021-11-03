@@ -1,11 +1,10 @@
 {
 	"info": {
-		"url_png_icon_64x64": "https://www.threenext.com/wp-content/uploads/2021/11/cardano.ico",
+		"url_png_icon_64x64": "https://www.threenext.com/wp-content/uploads/2021/11/cardano-icon.png",
 		"url_png_logo": "https://www.threenext.com/wp-content/uploads/2021/11/cardano.png",
 		"location": "Tokyo, Japan",
 		"social": {
 			"twitter_handle": "xrpripple7",
-			"discord_handle": "yoshis2#2960",
 			"github_handle": "yoshis2"
 		},
 		"company": {
