@@ -1,0 +1,24 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.threenext.com/wp-content/uploads/2021/11/cardano.ico",
+		"url_png_logo": "https://www.threenext.com/wp-content/uploads/2021/11/cardano.png",
+		"location": "Tokyo, Japan",
+		"social": {
+			"twitter_handle": "xrpripple7",
+			"discord_handle": "yoshis2#2960",
+			"github_handle": "yoshis2"
+		},
+		"company": {
+			"name": "threenext",
+			"city": "Tokyo",
+			"country": "Japan"
+		},
+		"about": {
+			"me": "I'm a systems engineer, good at server-side programming and server setup.私はシステムエンジニアでサーバーサイドプログラミングとサーバー構築は得意です。",
+			"server": "It is run on a VPS server operated by NTT Group, a reliable company in Japan.日本の信頼できる企業NTTグループの会社が運営しているVPSサーバーで運営しています。"
+		}
+	},
+	"my-pool-ids": {
+		"0": "5dcfd4cc44f16591ba487e008dc49530a81486eb4d908201cfbac478"
+	}
+}

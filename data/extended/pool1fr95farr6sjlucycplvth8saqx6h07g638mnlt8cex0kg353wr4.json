@@ -1,0 +1,39 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/redsuns78/maxhit/main/Logo.png",
+		"url_png_logo": "https://raw.githubusercontent.com/redsuns78/maxhit/main/Logo.png",
+		"location": "Yongin, Korea",
+		"social": {
+			"twitter_handle": "https://twitter.com/bistequr55",
+			"telegram_handle": "https://t.me/MAXHPOOL",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "https://github.com/redsuns78/maxhit"
+		},
+		"company": {
+			"name": "MAXIMUM HIT",
+			"addr": "Giheung-Gu, Yongin City, Korea",
+			"city": "Yongin",
+			"country": "South Korea",
+			"company_id": "telgram",
+			"vat_id": "telgram"
+		},
+		"about": {
+			"me": "Hyungchan Cho",
+			"server": "Cloud Servers are running and being monitored 24/7",
+			"company": "MAXIMUM HIT"
+		}
+	},
+	"my-pool-ids": {
+		"0": "48cb44f463d425fe60980fd8bb9e1d01b577f91a89f73facf8c99f64"
+	},
+	"when-satured-then-recommend": {
+		"0": "48cb44f463d425fe60980fd8bb9e1d01b577f91a89f73facf8c99f64"
+	},
+	"telegram-admin-handle": {
+		"0": "https://t.me/MAXHPOOL"
+	}
+}

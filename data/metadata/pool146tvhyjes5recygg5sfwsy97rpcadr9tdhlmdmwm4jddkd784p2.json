@@ -1,7 +1,7 @@
 {
-	"name": "Crowdano CROWDfunding Pool",
-	"description": "Crowdano Crowdfunding Pool. 20% of profits donated to charity, 10% goes towards Crowdano development.",
-	"ticker": "CROWD",
-	"homepage": "https://crowdano.io",
-	"extended": "https://git.io/JYOtJ"
+	"name": "Livemint NFT Pool",
+	"description": "Livemint NFT aims to be a leading NFT minting service on Cardano.",
+	"ticker": "LVMNT",
+	"homepage": "https://livemintnft.com",
+	"extended": "https://git.io/JPDC7"
 }

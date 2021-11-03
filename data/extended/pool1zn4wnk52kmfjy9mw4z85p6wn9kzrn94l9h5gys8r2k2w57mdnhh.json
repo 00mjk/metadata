@@ -1,13 +1,14 @@
 {
 	"info": {
-		"location": "Iowa, USA",
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/EtherealStakePool/Cardano/main/icon.png",
+		"url_png_logo": "https://raw.githubusercontent.com/EtherealStakePool/Cardano/main/logo.png",
 		"social": {
 			"twitter_handle": "EnvyStakePool",
 			"telegram_handle": "EnvyStakePool"
 		},
 		"company": {
 			"name": "Envy Stake Pool",
-			"city": "Iowa, USA",
+			"city": "USA, USA",
 			"country": "USA"
 		},
 		"about": {
