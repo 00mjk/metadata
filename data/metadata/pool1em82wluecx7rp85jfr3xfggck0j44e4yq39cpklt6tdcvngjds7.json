@@ -1,7 +1,6 @@
 {
 	"name": "WINGS",
-	"ticker": "WINGS",
 	"description": "WING Stake pool low fee stable secure.",
-	"homepage": "https://wingstake.com",
-	"nonce": "1635950691"
+	"ticker": "WINGS",
+	"homepage": "https://wingstake.com"
 }

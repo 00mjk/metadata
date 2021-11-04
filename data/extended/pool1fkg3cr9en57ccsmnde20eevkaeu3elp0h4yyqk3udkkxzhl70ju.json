@@ -1,0 +1,20 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/adamoneypool/PoolData/main/200x200pic.png?raw=true",
+		"url_png_logo": "https://raw.githubusercontent.com/adamoneypool/PoolData/main/200x200pic.png?raw=true",
+		"location": "New York, USA",
+		"social": {
+			"twitter_handle": "adamoney_",
+			"github_handle": "adamoneypool"
+		},
+		"about": {
+			"me": "...",
+			"server": "ADA Money, Cardano staking service, support Ada Money to development breathtaking applications on the Cardano ecosystem.",
+			"company": "QAUNTUM Finance"
+		}
+	},
+	"my-pool-ids": {
+		"0": "4d911c0cb99d3d8c43736e54fce596ee791cfc2fbd48405a3c6dac61",
+		"1": "4d911c0cb99d3d8c43736e54fce596ee791cfc2fbd48405a3c6dac61"
+	}
+}

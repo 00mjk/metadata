@@ -1,6 +1,7 @@
 {
-	"name": "ADAMoney",
+	"name": "ADA Money",
 	"description": "ADA Money, Cardano staking service, support Ada Money to development breathtaking applications on the Cardano ecosystem.",
 	"ticker": "ADMON",
-	"homepage": "https://www.adamoney.net"
+	"homepage": "https://www.adamoney.net",
+	"extended": "https://git.io/JPQov"
 }
