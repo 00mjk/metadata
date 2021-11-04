@@ -1,7 +1,7 @@
 {
-	"name": "MyADAnode staking pool",
-	"description": "This pool is managed by the myadanode.com team",
-	"ticker": "MADA1",
+	"name": "The Pirate Stacking Pool",
+	"description": "Yarrrh! Let's sail the seven crypto seas together and share the loot.",
+	"ticker": "PIRAT",
 	"homepage": "https://www.myadanode.com",
-	"extended": "https://www.myadanode.com/metadata/mada1.extended-metadata.json"
+	"extended": "https://www.myadanode.com/metadata/pirat2.extended-metadata.json"
 }

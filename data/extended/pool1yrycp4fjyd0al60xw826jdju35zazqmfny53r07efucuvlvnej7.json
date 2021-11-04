@@ -1,8 +1,8 @@
 {
 	"info": {
-		"url_png_icon_64x64": "http(s) url to pool icon",
+		"url_png_icon_64x64": "https://www.myadanode.com/metadata/JollyRoger64.png",
 		"url_png_logo": "http(s) url to pool logo",
-		"location": "Australia, Australia",
+		"location": "Pacific, Australia",
 		"social": {
 			"twitter_handle": "",
 			"telegram_handle": "",

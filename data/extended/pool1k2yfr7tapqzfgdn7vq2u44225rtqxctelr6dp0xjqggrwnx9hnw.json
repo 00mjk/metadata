@@ -1,0 +1,38 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://eregroup.org/erepool/images/ERE64.png",
+		"url_png_logo": "https://eregroup.org/erepool/images/ERE50.png",
+		"location": "Vienna, Austria",
+		"social": {
+			"twitter_handle": "teamerepool",
+			"telegram_handle": "EREPOOL",
+			"facebook_handle": "",
+			"youtube_handle": "channel/UCYq1tDEI9ax8NaxRFKi6lGw",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "EREPool"
+		},
+		"company": {
+			"name": "EREGROUP",
+			"addr": "",
+			"city": "Vienna",
+			"country": "Austria",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "b28891f97d080494367e6015cad54aa0d6036179f8f4d0bcd2021037"
+	},
+	"when-satured-then-recommend": {
+		"0": ""
+	},
+	"telegram-admin-handle": {
+		"0": "EREPOOL"
+	}
+}
