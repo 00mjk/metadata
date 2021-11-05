@@ -13,8 +13,8 @@
 			"country": "Japan"
 		},
 		"about": {
-			"me": "<p>I'm a systems engineer, good at server-side programming and server setup.</p><p>私はシステムエンジニアでサーバーサイドプログラミングとサーバー構築は得意です。</p>",
-			"server": "<p>It is run on a VPS server operated by NTT Group, a reliable company in Japan.</p><p>日本の信頼できる企業NTTグループの会社が運営しているVPSサーバーで運営しています。</p>"
+			"me": "私はシステムエンジニアでサーバーサイドプログラミングとサーバー構築は得意です。\n\nI'm a system engineer and I'm good at server-side programming and server building.",
+			"server": "日本の信頼できる企業NTTグループの会社が運営しているサーバーで運営しるので安定した環境でステーキング可能です。\n\nThe servers are operated by NTT Group, a reliable company in Japan, so you can enjoy a stable staking environment."
 		}
 	},
 	"my-pool-ids": {
