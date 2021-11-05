@@ -13,8 +13,8 @@
 			"country": "Japan"
 		},
 		"about": {
-			"me": "私はシステムエンジニアでサーバーサイドプログラミングとサーバー構築は得意です。\n\nI'm a system engineer and I'm good at server-side programming and server building.",
-			"server": "日本の信頼できる企業NTTグループの会社が運営しているサーバーで運営しるので安定した環境でステーキング可能です。\n\nThe servers are operated by NTT Group, a reliable company in Japan, so you can enjoy a stable staking environment."
+			"me": "私はシステムエンジニアでサーバーサイドプログラミングとサーバー構築は得意です。もしエラーが発生しても復旧まで最短で対応させていただきます。 - I am a system engineer and I am good at server-side programming and server building. If an error occurs, I will respond in the shortest time possible to restore the system.",
+			"server": "日本の大手NTTグループの会社のサーバーで運営しるので安定した環境でステーキング可能です。CPU 6Core メモリ16GB SSD 300GBの性能です。 - The servers are operated by NTT Group, a reliable company in Japan, so you can enjoy a stable staking environment.CPU 6Core Memory 16GB SSD 300GB performance."
 		}
 	},
 	"my-pool-ids": {
