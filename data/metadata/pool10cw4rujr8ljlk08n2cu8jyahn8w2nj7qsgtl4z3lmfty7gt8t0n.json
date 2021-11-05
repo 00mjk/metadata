@@ -2,5 +2,6 @@
 	"name": "A+ | A PLUS Cardano Pool",
 	"description": "Global ADA Staking Pool: A+ in Quality | A+ in Security | A+ in Communication | A+ in Earnings",
 	"ticker": "APLS",
-	"homepage": "https://www.apluscardanopool.com"
+	"homepage": "https://www.apluscardanopool.com",
+	"extended": "https://www.apluscardanopool.com/extended.json"
 }

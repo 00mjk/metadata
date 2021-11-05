@@ -1,17 +1,17 @@
 {
 	"info": {
-		"url_png_icon_64x64": "https://legopool.io/lego-64x64.png",
-		"url_png_logo": "https://legopool.io/lego-150x150.png",
-		"location": "Stuttgart, Germany",
+		"url_png_icon_64x64": "https://adaheadz.io/headz-64x64.png",
+		"url_png_logo": "https://adaheadz.io/headz-150x150.png",
+		"location": "Germany",
 		"social": {
-			"twitter_handle": "legostakepool"
+			"twitter_handle": "ADAHEADZ"
 		},
 		"company": {
-			"name": "LEGOPOOL"
+			"name": "ADAHEADZ"
 		},
 		"about": {
 			"me": "",
-			"server": "LEGO POOL is a highly performant, resilient and secure stake pool for the Cardano network that has been up and running since the Cardano Shelley testnet in 2020."
+			"server": "HEADZ Pool is a highly performant, resilient, and secure stake pool for the ADAHEADZ Community."
 		}
 	},
 	"my-pool-ids": {

@@ -1,6 +1,6 @@
 {
 	"name": "EXPO Pool",
-	"description": "日本のcardanoとSPO普及に貢献するためのプールです。収益の一部がエキスポやミートアップへ提供されます。このプールはジャパンギルドにサポートを受けています。",
+	"description": "This pool supports the popular activities of Cardano and SPO. Expand the Cardano ecosystem by making suggestions to catalyst and getting funding.",
 	"ticker": "EXPO",
 	"homepage": "https://expo-dow.com",
 	"extended": "https://raw.githubusercontent.com/Dow-shi/cardano-stake-pool/main/extendedmeta.json"

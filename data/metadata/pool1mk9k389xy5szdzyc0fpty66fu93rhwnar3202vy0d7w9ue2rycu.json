@@ -1,7 +1,7 @@
 {
-	"name": "LEGO Pool",
-	"description": "LEGOlize the Cardano Ecosystem.",
-	"ticker": "LEGO",
-	"homepage": "https://legopool.io/",
-	"extended": "https://legopool.io/pool-config.json"
+	"name": "ADAHEADZ Stake Pool",
+	"description": "Hold your HEAD and Stake to HEADZ. Earn Rewards an creat your own ADAHEADZ NFT",
+	"ticker": "HEADZ",
+	"homepage": "https://adaheadz.io/",
+	"extended": "https://adaheadz.io/pool-config.json"
 }

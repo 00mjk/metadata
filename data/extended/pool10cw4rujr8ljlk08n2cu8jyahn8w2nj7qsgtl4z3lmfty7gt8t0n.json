@@ -1,0 +1,36 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.apluscardanopool.com/images/logo-adapools.png",
+		"url_png_logo": "https://www.apluscardanopool.com/images/logo-aplus-best-cardano-staking-pool-ADA-stake.png",
+		"location": "",
+		"social": {
+			"twitter_handle": "aplusadapool",
+			"telegram_handle": "apluscardanopool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "some IT workers and also CARDANO lovers operate this pool committed to have A+ grade in Quality, A+ grade in Security, A+ grade in Communication and A+ in Earnings",
+			"server": "Block geenrator server: 6CPU Cores, 16gb RAM, NVMe HD. Relays servers: 6CPU Cores, 16gb RAM, NVMe HD ",
+			"company": ""
+		},
+		"my-pool-ids": {
+			"0": "7e1d51f2433fe5fb3cf356387913b799dca9cbc08217fa8a3fda564f",
+			"1": ""
+		},
+		"telegram-admin-handle": {
+			"0": "apluscardanopool"
+		}
+	}
+}
