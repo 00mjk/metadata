@@ -13,8 +13,8 @@
 			"country": "Japan"
 		},
 		"about": {
-			"me": "I'm a systems engineer, good at server-side programming and server setup.私はシステムエンジニアでサーバーサイドプログラミングとサーバー構築は得意です。",
-			"server": "It is run on a VPS server operated by NTT Group, a reliable company in Japan.日本の信頼できる企業NTTグループの会社が運営しているVPSサーバーで運営しています。"
+			"me": "<p>I'm a systems engineer, good at server-side programming and server setup.</p><p>私はシステムエンジニアでサーバーサイドプログラミングとサーバー構築は得意です。</p>",
+			"server": "<p>It is run on a VPS server operated by NTT Group, a reliable company in Japan.</p><p>日本の信頼できる企業NTTグループの会社が運営しているVPSサーバーで運営しています。</p>"
 		}
 	},
 	"my-pool-ids": {
