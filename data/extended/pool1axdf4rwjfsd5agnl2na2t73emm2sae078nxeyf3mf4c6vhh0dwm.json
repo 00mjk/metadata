@@ -1,0 +1,40 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.pbg.capital/spo/icon.png",
+		"url_png_logo": "https://www.pbg.capital/spo/logo.png",
+		"location": "Mexico City, Mexico",
+		"social": {
+			"twitter_handle": "pbg_stakepool",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "PBG Capital",
+			"addr": "Street, Number",
+			"city": "Mexico City",
+			"country": "Mexico",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "...",
+			"server": "AWS EC2 Instances.",
+			"company": "..."
+		}
+	},
+	"my-pool-ids": {
+		"0": "",
+		"1": ""
+	},
+	"when-satured-then-recommend": {
+		"0": "",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": "your_tg_handle"
+	}
+}

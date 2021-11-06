@@ -2,5 +2,6 @@
 	"name": "PetzPool",
 	"description": "CryptoPetz Egg Shard Laboratory",
 	"ticker": "PETZ",
-	"homepage": "https://cryptopetz.io/"
+	"homepage": "https://cryptopetz.io/",
+	"extended": "https://petzmetadata.blob.core.windows.net/data/extended.json"
 }

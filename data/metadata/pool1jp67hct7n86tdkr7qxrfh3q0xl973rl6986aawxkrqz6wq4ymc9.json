@@ -1,6 +1,7 @@
 {
 	"name": "ACME Staking",
-	"description": "Save more. Earn more. Get more. Stake with us to maximize your rewards.",
+	"description": "Maximize your rewards!",
 	"ticker": "ACME",
-	"homepage": "https://acmestaking.com"
+	"homepage": "https://acmestaking.com",
+	"extended": "https://acmestaking.com/poolExtendedMetadata.json"
 }

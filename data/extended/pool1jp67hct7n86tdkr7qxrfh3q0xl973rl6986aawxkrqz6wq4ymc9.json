@@ -1,0 +1,24 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://acmestaking.com/acmelogo-64x64.png",
+		"url_png_logo": "https://acmestaking.com/acmelogo-large.png",
+		"location": "Canada",
+		"social": {
+			"twitter_handle": "acmestaking",
+			"telegram_handle": "ACMEStakingchat",
+			"discord_handle": "HyuQvf3sAb",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"github_handle": ""
+		},
+		"about": {
+			"me": "We are a team of developers actively researching and developing projects for deployment on the Cardano network.",
+			"server": "Our pool operates on a combination of cloud based and bare metal servers managed by a professional team.",
+			"company": "We offer a reliable staking solution with a focus on ensuring our delegators receive a fair return on their stakes through additional ADA rewards."
+		}
+	},
+	"my-pool-ids": {
+		"0": "9075ebe17e99f4b6d87e01869bc40f37cbe88ffa29f5deb8d61805a7"
+	}
+}
