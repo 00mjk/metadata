@@ -1,0 +1,38 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://dodopool.io/logo/Dodo_icon_64x64.png",
+		"url_png_logo": "https://dodopool.io/logo/Dodo_icon_150x150.png",
+		"location": "Geneva, Lausanne, Zürich, Switzerland",
+		"social": {
+			"twitter_handle": "TheDodoPool",
+			"telegram_handle": "TheDodoPool",
+			"facebook_handle": "SPODodoPool",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "dJXjmRQZgH",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Dodo",
+			"addr": "",
+			"city": "Geneva",
+			"country": "Switzerland",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Cybersecurity profesionnals who have a passion for art",
+			"server": "Google Cloud",
+			"company": "The Dodo Pool"
+		}
+	},
+	"my-pool-ids": {
+		"0": "6858fc0ed225ad40157e358cff1d08ccc306b6ab00bdc96301fbedef"
+	},
+	"when-satured-then-recommend": {
+		"0": "a50d1fd3cda9b9452cb149474a601d24332a870a6fe32b60add3a98b"
+	},
+	"telegram-admin-handle": {
+		"0": "fnoyer"
+	}
+}
