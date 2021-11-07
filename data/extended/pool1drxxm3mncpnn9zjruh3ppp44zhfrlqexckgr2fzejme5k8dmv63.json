@@ -1,15 +1,15 @@
 {
 	"info": {
-		"url_png_icon_64x64": "https://i.ibb.co/C60JKp9/loco64b.png",
-		"url_png_logo": "https://i.ibb.co/hRryTMY/loco64d.png",
+		"url_png_icon_64x64": "https://i.ibb.co/khndsgG/coco64.png",
+		"url_png_logo": "https://i.ibb.co/khndsgG/coco64.png",
 		"location": "Decentralised",
 		"social": {
-			"twitter_handle": "LocoNutzNFT",
+			"twitter_handle": "",
 			"telegram_handle": "",
 			"facebook_handle": "",
-			"youtube_handle": "watch?v=oGDURZQNEHM",
+			"youtube_handle": "",
 			"twitch_handle": "",
-			"discord_handle": "6XG5pGaB",
+			"discord_handle": "",
 			"github_handle": ""
 		},
 		"company": {
@@ -21,7 +21,7 @@
 			"vat_id": ""
 		},
 		"about": {
-			"me": "LocoNutz NFT Staking Pool - Stake ADA, WIN NFTs",
+			"me": "cNFT Staking Pool - Stake ADA, WIN NFTs, simple",
 			"server": "",
 			"company": ""
 		},
