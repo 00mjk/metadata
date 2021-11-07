@@ -1,0 +1,42 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://git.io/JPKUN",
+		"url_png_logo": "https://git.io/JPKUN",
+		"location": "CANADA MONTREAL",
+		"social": {
+			"twitter_handle": "gvolcy",
+			"telegram_handle": "https://t.me/volcyhttp",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "666584327156400129",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Greg [VOLCY] ADA STAKEPOOL",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": "."
+		}
+	},
+	"my-pool-ids": {
+		"0": "e3f8a83cefed03fe4ebdc4f50f3cdd880a7c2fd0b2ce7ff9da9cdce2"
+	},
+	"when-satured-then-recommend": {
+		"0": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	},
+	"itn": {
+		"owner": "ed25519_pk1w30svwtq083dxvtk8ypz29jyer6h9jyrsajtwqr62shcaj55x5uqpyn8tk",
+		"witness": "ed25519_sig1qnw2hmkapaks9vhm8rk3g6pmuxnhk9tgnykgazt8k0cacwv9us2qzrugk90f46wcyzu04aduka9gzjgzxzq4qwxs3q6h7pwj2pklkzgqulkpd"
+	}
+}
