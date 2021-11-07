@@ -1,7 +1,7 @@
 {
-	"name": "LocoNutz NFT Stake Pool",
-	"description": "LocoNutz NFT Pool - Stake ADA, WIN NFTs",
-	"ticker": "LOCO",
-	"homepage": "https://loco-pool.io",
+	"name": "cNFT Stake Pool",
+	"description": "cNFT Pool - Stake ADA, WIN NFTs, simple",
+	"ticker": "CNFT",
+	"homepage": "https://cnftpool.com",
 	"extended": "https://git.io/JoW0i"
 }
