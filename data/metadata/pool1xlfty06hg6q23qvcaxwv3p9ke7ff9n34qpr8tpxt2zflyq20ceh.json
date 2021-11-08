@@ -1,6 +1,6 @@
 {
 	"name": "Sake Pool🍶",
-	"description": "High quality and low margin StakePool operated by engineer. Return 20% of SPO rewards to delegators.／委任者の方への利益還元をポリシーとしているプールです。委任報酬以外に、私どもの年間報酬の20%以上を別途還元します。",
+	"description": "エンジニアが運営する高配当型プールです。ステーキング報酬に加え、年３〜５回の配当を出します(毎回計1,000₳以上を分配)/Operated by engineers. In addition to staking rewards, the pool is unique in that it offers profit sharing several times a year",
 	"ticker": "SAKE",
 	"homepage": "https://sakepool.com",
 	"extended": "https://raw.githubusercontent.com/sake-pool/sake-pool/main/extendedMeta.json"
