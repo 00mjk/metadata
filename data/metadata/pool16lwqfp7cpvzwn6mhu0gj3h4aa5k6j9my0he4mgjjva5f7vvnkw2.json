@@ -1,7 +1,8 @@
 {
-	"name": "anew",
+	"name": "A New Pool for A New Africa",
 	"ticker": "ANEW",
-	"description": "Africa: Non-Discrimination, Education and Women Empowerment",
-	"homepage": "https://www.anew.sadaka.io",
-	"nonce": "1614500625"
+	"description": "Thanks to our delegators, Wealth derived from Digital Assets given back to Local African Communities",
+	"homepage": "https://www.anewpool.io",
+	"nonce": "1614500625",
+	"extended": "https://raw.githubusercontent.com/sadaka-io/extended-metadata/main/meta.json"
 }

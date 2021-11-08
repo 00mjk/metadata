@@ -1,0 +1,35 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://github.com/sadaka-io/extended-metadata/blob/c5316e32a5fc632235a1b2281bd7063853fb4ed6/ANEW%20Africa%20Logo%2064x64.png",
+		"url_png_logo": "https://github.com/sadaka-io/extended-metadata/blob/c5316e32a5fc632235a1b2281bd7063853fb4ed6/ANEW%20Africa%20Logo%20700x700.png",
+		"location": "Sydney, Australia",
+		"social": {
+			"twitter_handle": "ANEW_Pool",
+			"instagram_handle": "anew_pool",
+			"facebook_handle": "AnewPool",
+			"youtube_handle": "",
+			"linkedin_handle": "anew-pool-anew-152869224",
+			"discord_handle": "",
+			"github_handle": "sadaka-io"
+		},
+		"company": {
+			"name": "ANEW",
+			"addr": "",
+			"city": "Sydney",
+			"country": "Australia",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "ANEW is run by 3 friends with ties to Africa.",
+			"server": "Our infrastructure is higly available and monitored 24x7",
+			"company": "ANEW is a Cardano stake pool driving decentralisation and maximising our delegator's rewards.The pool's mission is Women Empowerment and Education in Africa. 50% of our operating revenue is given back to local communities"
+		}
+	},
+	"my-pool-ids": {
+		"0": "d7dc0487d80b04e9eb77e3d128debded2da917647df35da25267689f"
+	},
+	"when-satured-then-recommend": {},
+	"telegram-admin-handle": {}
+}
