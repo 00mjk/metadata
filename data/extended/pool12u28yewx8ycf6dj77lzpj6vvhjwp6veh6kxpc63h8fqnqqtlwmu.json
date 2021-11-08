@@ -1,11 +1,23 @@
 {
 	"info": {
-		"url_png_icon_64x64": "https://adapool.devnoops.io/img/noops.png",
-		"url_png_logo": "https://adapool.devnoops.io/img/noops.png",
+		"url_png_icon_64x64": "https://noopspool.com/img/noops.png",
+		"url_png_logo": "https://noopspool.com/img/noops.png",
 		"location": "Paris, FRANCE",
 		"social": {
 			"twitter_handle": "ADevnoops",
+			"discord_handle": "https://discord.gg/cdZ46KWPKS",
 			"telegram_handle": "DevNoops"
+		},
+		"company": {
+			"name": "NOOPS",
+			"city": "Paris",
+			"country": "FR"
+		},
+		"about": {
+			"me": "Single pool operater. We are committed to make Cardano the most eco-friendly blockchain"
+		},
+		"my-pool-ids": {
+			"0": "57147265c639309d365ef7c419698cbc9c1d3337d58c1c6a373a4130"
 		}
 	}
 }
