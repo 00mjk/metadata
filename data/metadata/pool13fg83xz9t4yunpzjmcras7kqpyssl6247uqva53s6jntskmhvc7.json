@@ -1,8 +1,7 @@
 {
-	"name": "Zetetic Stake Pool 2",
-	"ticker": "ZETIC",
-	"description": "Second pool to Zetetic, same low margin and high availability",
-	"homepage": "https://zeteticstakepool.com",
-	"nonce": "1612936373",
-	"extended": "https://zeteticstakepool.com/zetetic2/poolmeta-extended.json"
+	"name": "Lightning Stake Pool",
+	"ticker": "LHTNG",
+	"description": "A great pool operated by my dad but funded and marketed by me, his 13-year old son",
+	"homepage": "https://lightningstakepool.com",
+	"nonce": "1636435959"
 }

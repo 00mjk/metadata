@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://storage.googleapis.com/qadao/qadao-64x64.png",
+		"url_png_logo": "https://storage.googleapis.com/qadao/qadao.png",
+		"location": "United Kingdom",
+		"social": {
+			"twitter_handle": "qa_dao",
+			"telegram_handle": "@swhitenstall",
+			"facebook_handle": "",
+			"youtube_handle": "UCSqcMeG4ympeqoQRI_zczzA",
+			"twitch_handle": "",
+			"discord_handle": "stephen.rowan",
+			"github_handle": "stephen-rowan"
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"telegram-admin-handle": [
+		""
+	],
+	"my-pool-ids": [
+		"e8fb1e898f1d3d9e219b784a080793d65153abf9dd0ab35a698cdcee"
+	],
+	"when-satured-then-recommend": [
+		"e8fb1e898f1d3d9e219b784a080793d65153abf9dd0ab35a698cdcee"
+	]
+}
