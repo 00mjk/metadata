@@ -1,7 +1,6 @@
 {
-	"name": "GIV Pool",
-	"description": "Decentralize the planet",
+	"name": "GIV Pool Collaborative",
+	"description": "Governance. Identity. Value.",
 	"ticker": "GIV",
-	"homepage": "https://www.givada.io",
-	"extended": "https://raw.githubusercontent.com/givadaio/metadata/main/extended.json"
+	"homepage": "https://www.givada.io"
 }
