@@ -1,6 +1,6 @@
 {
 	"name": "IndependentADAPool",
-	"description": "An independent ADA stake pool for a healthy network!",
+	"description": "An independent ADA pool!",
 	"ticker": "IADAP",
-	"homepage": "none"
+	"homepage": "https://github.com/Sculan"
 }

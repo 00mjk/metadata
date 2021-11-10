@@ -1,11 +1,11 @@
 {
 	"info": {
-		"url_png_icon_64x64": "https://cardano.fans/images/logo64_64.png",
-		"url_png_logo": "https://cardano.fans/images/logo.png",
+		"url_png_icon_64x64": "https://cardano.fans/static/logo64_64.png",
+		"url_png_logo": "https://cardano.fans/static/logo.png",
 		"location": "Berlin, Germany",
 		"social": {
 			"twitter_handle": "matiwinnetou",
-			"telegram_handle": "freedom_cardano",
+			"telegram_handle": "cardano_fans",
 			"facebook_handle": "",
 			"youtube_handle": "",
 			"twitch_handle": "",

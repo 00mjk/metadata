@@ -3,5 +3,5 @@
 	"description": "We believe in access to financial system for everybody",
 	"ticker": "CRFA",
 	"homepage": "https://cardano.fans",
-	"extended": "https://cardano.fans/crfa.extended.metadata.json"
+	"extended": "https://cardano.fans/static/crfa.extended.metadata.json"
 }
