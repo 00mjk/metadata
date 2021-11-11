@@ -1,6 +1,7 @@
 {
-	"name": "Ara",
-	"description": "Ara | The Altar of Cardano",
+	"name": "Ara StakePool",
+	"description": "Stake your ADA and earn 2,5-5% APY on a reliable & efficient stake pool with 3 high performance servers in Western Europe Datacenters. We commit to give a percentage of our own rewards to a charity association of your choice.",
 	"ticker": "ARA",
-	"homepage": "https://ara-stakepool.com"
+	"homepage": "https://ara-stakepool.com",
+	"extended": "https://ara-stakepool.com/pool-metadata-extended.json"
 }

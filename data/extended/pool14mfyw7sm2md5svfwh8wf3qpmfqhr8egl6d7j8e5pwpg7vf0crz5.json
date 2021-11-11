@@ -1,0 +1,30 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://ara-stakepool.com/images/ara-black.png",
+		"url_png_logo": "https://ara-stakepool.com/images/ara-64x64.png",
+		"location": "Lille, France",
+		"social": {
+			"twitter_handle": "arastakepool",
+			"telegram_handle": "arastakepool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"about": {
+			"me": "High School best friends, we met 15 years ago and crossed paths again through this project which is allowing us to express ourselves once again. We have the same first name but we’re currently working in two different industries which our project benefits from : Investment Banking & Tech Industry",
+			"server": "3 Bare metal servers with 8 cores CPU + 16Gb ram + 250Gb SSD: 2 Relays + 1 Block producer from Western Europe datacenters using clean energy. All servers have 24/7 monitoring"
+		}
+	},
+	"my-pool-ids": {
+		"0": "aed2477a1b56db48312eb9dc98803b482e33e51fd37d23e6817051e6"
+	},
+	"when-satured-then-recommend": {
+		"0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
+		"1": "d93d0cb0cbc55a964b4ad01fc9001cb4d69ea98fe708d069cd398f76"
+	},
+	"telegram-admin-handle": {
+		"0": "gallexis"
+	}
+}
