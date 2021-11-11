@@ -7,5 +7,6 @@
 		"https://cips.cardano.org/cips/cip23/": {
 			"vote": "Yes"
 		}
-	}
+	},
+	"adapools": "85f67c3b4092fadf99c23b2c22f359e7"
 }
