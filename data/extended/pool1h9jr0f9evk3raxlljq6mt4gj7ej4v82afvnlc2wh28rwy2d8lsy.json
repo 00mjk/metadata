@@ -1,0 +1,15 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://ada.markets/img/64.png",
+		"url_png_logo": "https://ada.markets/img/full.png",
+		"location": "Europe",
+		"social": {
+			"twitter_handle": "ADAMarkets",
+			"telegram_handle": "ADAMarkets"
+		},
+		"about": {
+			"me": "Single pool operator",
+			"server": "Google servers powered by green energy"
+		}
+	}
+}

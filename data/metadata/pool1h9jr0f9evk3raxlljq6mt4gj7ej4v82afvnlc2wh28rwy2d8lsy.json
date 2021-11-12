@@ -1,6 +1,7 @@
 {
 	"name": "ADAMarkets",
-	"description": "BAG, your stake pool of ADAMarkets. Twitter @ADAMarkets.",
+	"description": "BAG, your stake pool of ADAMarkets",
 	"ticker": "BAG",
-	"homepage": "https://ada.markets"
+	"homepage": "https://ada.markets",
+	"extended": "https://ada.markets/extended.json"
 }
