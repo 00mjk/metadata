@@ -1,0 +1,36 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/crowsfinest/trinity-stake-pool/main/smallest1.png",
+		"url_png_logo": "https://raw.githubusercontent.com/crowsfinest/trinity-stake-pool/main/smallest.png",
+		"location": "",
+		"social": {
+			"twitter_handle": "NF_Trinity",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "NFTrinity",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "NFTrinity is a team of three artists who love the Cardano NFT space. Trinity Pool supports our work and helps us assist other artists to enter the world of NFTs.",
+			"server": "1 block producer and 3 relay nodes, monitored and maintained at all times, nodes are geographically separated for reliability. ",
+			"company": ""
+		},
+		"my-pool-ids": {
+			"0": "pool166n6ap3nt8tljz8p53r03lzuhn8n0pmsdqk3557fqxhzy6uqkcg",
+			"1": ""
+		},
+		"telegram-admin-handle": {
+			"0": ""
+		}
+	}
+}
