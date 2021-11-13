@@ -4,7 +4,8 @@
 		"url_png_logo": "https://siam.mof.one/siam.png",
 		"location": "Bangkok, Thailand",
 		"social": {
-			"github_handle": "MoF-Dev"
+			"github_handle": "MoF-Dev",
+			"twitter_handle": "siam_pool"
 		},
 		"about": {
 			"me": "Hi.",
