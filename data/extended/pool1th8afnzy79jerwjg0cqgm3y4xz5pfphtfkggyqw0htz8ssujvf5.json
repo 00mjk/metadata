@@ -13,8 +13,8 @@
 			"country": "Japan"
 		},
 		"about": {
-			"me": "私はシステムエンジニアでサーバーサイドプログラミングとサーバー構築は得意です。もしエラーが発生しても復旧まで最短で対応させていただきます。 - I am a system engineer and I am good at server-side programming and server building. If an error occurs, I will respond in the shortest time possible to restore the system.",
-			"server": "日本の大手NTTグループの会社のサーバーで運営しるので安定した環境でステーキング可能です。CPU 6Core メモリ16GB SSD 300GBの性能です。 - The servers are operated by NTT Group, a reliable company in Japan, so you can enjoy a stable staking environment.CPU 6Core Memory 16GB SSD 300GB performance."
+			"me": "I am a system engineer with 20 years of experience. I am good at server-side programming and server construction. Even if an error occurs, I will respond and restore the system in the shortest possible time. - 私は20年の経験を持つシステムエンジニアです。サーバーサイドプログラミングやサーバー構築が得意です。万が一エラーが発生しても、最短で対応し、復旧させます。",
+			"server": "The servers are operated by NTT Group, a reliable company in Japan, so you can enjoy a stable stakes environment. 6Core CPU Memory 16GB SSD 300GB performance.In addition, all sensitive keys are stored and processed in dedicated offline computers, ensuring the security of the pool. - サーバーは、国内で信頼性の高いNTTグループが運営しているので、安定したステークス環境を楽しむことができます。6Core CPU Memory 16GB SSD 300GB performance.また、すべての機密キーはオフラインの専用コンピュータに保管・処理され、プールのセキュリティを確保しています。"
 		}
 	},
 	"my-pool-ids": {
