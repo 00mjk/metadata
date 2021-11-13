@@ -1,0 +1,14 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://adaworld-metadata.stakepool.cloud/awicon.png",
+		"url_png_logo": "https://adaworld-metadata.stakepool.cloud/awlogo.png",
+		"location": "Canada",
+		"social": {
+			"twitter_handle": "adaworldpool",
+			"telegram_handle": "adaworldpool"
+		},
+		"my-pool-ids": {
+			"0": "39897b8fe60ea0cbc46119d393ae0739373f1bab437d58be8b3d2a7c"
+		}
+	}
+}

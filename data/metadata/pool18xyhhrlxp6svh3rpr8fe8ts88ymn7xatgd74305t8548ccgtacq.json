@@ -3,5 +3,6 @@
 	"ticker": "WORLD",
 	"description": "Secure. Resilient. Global.",
 	"homepage": "https://adaworld.io",
-	"nonce": "1609304339"
+	"nonce": "1636812899",
+	"extended": "https://adaworld-metadata.stakepool.cloud/extended.json"
 }
