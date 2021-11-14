@@ -1,0 +1,24 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.threenext.com/wp-content/uploads/2021/11/cardano-ico.png",
+		"url_png_logo": "https://www.threenext.com/wp-content/uploads/2021/11/cardano-banner.png",
+		"location": "Tokyo, Japan",
+		"social": {
+			"twitter_handle": "xrpripple7",
+			"github_handle": "yoshis2"
+		},
+		"company": {
+			"name": "threenext",
+			"city": "Tokyo",
+			"country": "Japan"
+		},
+		"about": {
+			"me": "I am a system engineer with 20 years of experience. I am good at server-side programming and server construction. Even if an error occurs, I will respond and restore the system in the shortest possible time. - 私は20年の経験を持つシステムエンジニアです。サーバーサイドプログラミングやサーバー構築が得意です。万が一エラーが発生しても、最短で対応し、復旧させます。",
+			"server": "The servers are operated by NTT Group, a reliable company in Japan, so you can enjoy a stable stakes environment. 6Core CPU Memory 16GB SSD 300GB performance.In addition, all sensitive keys are stored and processed in dedicated offline computers, ensuring the security of the pool. - サーバーは、国内で信頼性の高いNTTグループが運営しているので、安定したステークス環境を楽しむことができます。6Core CPU Memory 16GB SSD 300GB performance.また、すべての機密キーはオフラインの専用コンピュータに保管・処理され、プールのセキュリティを確保しています。"
+		}
+	},
+	"my-pool-ids": {
+		"0": "5dcfd4cc44f16591ba487e008dc49530a81486eb4d908201cfbac478"
+	},
+	"verify": "83083bb41a69277648317078b53a04e7"
+}
