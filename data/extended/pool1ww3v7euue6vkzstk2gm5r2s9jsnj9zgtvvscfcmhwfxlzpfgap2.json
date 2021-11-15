@@ -1,8 +1,8 @@
 {
 	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
 	"info": {
-		"url_png_icon_64x64": "https://github.com/kowloon-central/files/raw/main/kowln64.png; png format; not animated; max 40kb",
-		"url_png_logo": "https://github.com/kowloon-central/files/raw/main/logo.png; png format; not animated; max 50kb",
+		"url_png_icon_64x64": "https://github.com/kowloon-central/f/raw/main/k.png; png format; not animated; max 40kb",
+		"url_png_logo": "https://github.com/kowloon-central/f/raw/main/l.png; png format; not animated; max 50kb",
 		"location": "Hong Kong, China",
 		"social": {
 			"twitter_handle": "patricklauwc",
@@ -15,7 +15,7 @@
 		},
 		"company": {},
 		"about": {
-			"me": "Stake Pool Operator [KOWLN]. Based in Kowloon, Hong Kong. Web 3.0 is here, and Cardano is at the forefront of this evolution. Spread the word!",
+			"me": "Stake Pool Operator [KOWLN]. Based in Kowloon, Hong Kong. Web 3.0 is here, and Cardano is at the forefront of this evolution. Spread the word!!!",
 			"server": "All nodes on baremetal, no virtualization. 2 Relays, 1 BP. 3.2Hz, 16Gb Ram. Hot-standby UPS. Constantly upgrading to meet with demand.",
 			"company": "..."
 		}
