@@ -2,9 +2,9 @@
 	"info": {
 		"url_png_icon_64x64": "",
 		"url_png_logo": "",
-		"location": "Texas",
+		"location": "",
 		"social": {
-			"twitter_handle": "https://twitter.com/ServeStakePool",
+			"twitter_handle": "",
 			"telegram_handle": "",
 			"facebook_handle": "",
 			"youtube_handle": "",
@@ -13,21 +13,21 @@
 			"github_handle": ""
 		},
 		"company": {
-			"name": "Serve Global",
+			"name": "",
 			"addr": "",
 			"city": "",
-			"country": "USA",
+			"country": "",
 			"company_id": "",
 			"vat_id": ""
 		},
 		"about": {
 			"me": "",
-			"server": "Redundant Reliable Infrastructure hosted on AWS using t3.xlarge instances",
-			"company": "Reliable, mission-driven stake pool focused on funding and supporting disadvantaged communities by offering education, training, grants & micro-loans"
+			"server": "",
+			"company": ""
 		}
 	},
 	"my-pool-ids": {
-		"0": ""
+		"0": "cc3c7d7b25f4534291fee3a6fac09f737db20d95283dacc6400d7b4b"
 	},
 	"when-satured-then-recommend": {
 		"0": "",
@@ -36,5 +36,5 @@
 	"telegram-admin-handle": {
 		"0": ""
 	},
-	"validation_hash": ""
+	"validation_hash": "xxx"
 }
