@@ -16,13 +16,13 @@
 			"name": "Coudrebros",
 			"addr": "",
 			"city": "Prague",
-			"country": "CZ",
+			"country": "Czech Republic, EU",
 			"company_id": "",
 			"vat_id": ""
 		},
 		"about": {
-			"me": "Cardano single pool operated by two brothers.",
-			"server": "6 core CPU, 16 GB RAM, 1 TB SSD, 100 Mbit Ethernet, Ubuntu based OS, UPS backup",
+			"me": "CBROS is a small mission driven cardano pool based on powerful bare metal servers. 50 % of pool rewards goes to charitable donations - mainly to Médecins Sans Frontières - Doctors Without Borders. Every delegator is most welcomed! We have NFT rewards for all delegators that will delegate more than 10 ADA for more than 3 epochs.",
+			"server": "BP node (Prague, Czech Rep., EU): 6 core CPU, 24 GB RAM, 1 TB SSD, 100 Mbit Ethernet, Ubuntu based OS, UPS Backup ----- Relay node 1 (Chicago, IL, USA): 8 core CPU, 32 GB RAM, 4.3 TB HDD, 150 Mbit Ethernet, Ubuntu based OS, UPS Backup, Generator Backup ----- Relay node 2 (Moravia, Czech Rep., EU): 6 core CPU, 32 GB RAM, 2 TB HDD, 100 Mbit Ethernet, Ubuntu based OS, UPS Backup",
 			"company": ""
 		},
 		"my-pool-ids": {
