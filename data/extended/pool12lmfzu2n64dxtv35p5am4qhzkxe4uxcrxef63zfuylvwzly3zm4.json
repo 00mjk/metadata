@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://storage.googleapis.com/tarot-pool/tarot-64x64.png",
+		"url_png_logo": "https://storage.googleapis.com/tarot-pool/tarot.png",
+		"location": "",
+		"social": {
+			"twitter_handle": "SecretDecks",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "SecretDecks"
+		},
+		"company": {
+			"name": "SecretDecks",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"telegram-admin-handle": [
+		""
+	],
+	"my-pool-ids": [
+		"57f6917153d55a65b2340d3bba82e2b1b35e1b033653a8893c27d8e1"
+	],
+	"when-satured-then-recommend": [
+		"57f6917153d55a65b2340d3bba82e2b1b35e1b033653a8893c27d8e1"
+	]
+}

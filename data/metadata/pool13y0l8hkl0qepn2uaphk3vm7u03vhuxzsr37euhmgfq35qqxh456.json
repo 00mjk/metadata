@@ -1,6 +1,6 @@
 {
-	"name": "cardanofun2",
-	"description": "Cardanoアンバサダー（moderator （コミュニティ管理者）氏名：内野 雄太）により現在2つ運営（FUN）テストネットから実績のある方にノード管理を委託し、私自身もウォレットサポート等にも努める事で、皆様の暖かいご支援も頂き、適度なADA委任量も維持。多くの報酬を還元させて頂きました。",
-	"ticker": "FUN2",
-	"homepage": ""
+	"name": "Aada Finance 2 - Stake ADA earn AADA",
+	"description": "During the ISPO 100% of the stake rewards will go to Aada development. For each staked ADA for full epoch, you get 0.005 AADA. Read more at https://aada.finance/ispo",
+	"ticker": "ISPO2",
+	"homepage": "https://aada.finance"
 }

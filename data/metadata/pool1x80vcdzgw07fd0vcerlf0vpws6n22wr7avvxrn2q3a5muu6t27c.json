@@ -1,6 +1,7 @@
 {
 	"name": "Arch Pool",
-	"description": "Arch pool #1",
+	"description": "0% fees",
 	"ticker": "ARCH",
-	"homepage": "https://www.archpool.net"
+	"homepage": "https://archpool.net",
+	"extended": "https://archpool.net/extended.json"
 }
