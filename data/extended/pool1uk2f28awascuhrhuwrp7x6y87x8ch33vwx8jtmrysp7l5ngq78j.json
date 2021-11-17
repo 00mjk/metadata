@@ -2,7 +2,7 @@
 	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
 	"info": {
 		"url_png_icon_64x64": "https://raw.githubusercontent.com/fib0618/pool/master/logo_64x64.png",
-		"url_png_logo": "https://raw.githubusercontent.com/fib0618/pool/master/web_logo.jpg",
+		"url_png_logo": "https://raw.githubusercontent.com/fib0618/pool/master/logo.png",
 		"location": "Peth, Australia",
 		"social": {
 			"twitter_handle": "power_cardano",
@@ -20,7 +20,12 @@
 		"rss": "http(s) url to valid RSS feed"
 	},
 	"my-pool-ids": {
-		"0": "e594951faeec31cb8efc70c3e36887f18f8bc62c718f25ec64807dfa"
+		"0": "e594951faeec31cb8efc70c3e36887f18f8bc62c718f25ec64807dfa",
+		"1": "d93d0cb0cbc55a964b4ad01fc9001cb4d69ea98fe708d069cd398f76"
+	},
+	"when-satured-then-recommend": {
+		"0": "e594951faeec31cb8efc70c3e36887f18f8bc62c718f25ec64807dfa",
+		"1": "d93d0cb0cbc55a964b4ad01fc9001cb4d69ea98fe708d069cd398f76"
 	},
 	"telegram-admin-handle": {
 		"0": "power_cardano"
