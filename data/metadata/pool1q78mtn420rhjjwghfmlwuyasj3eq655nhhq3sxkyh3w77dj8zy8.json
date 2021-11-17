@@ -1,6 +1,7 @@
 {
 	"name": "Zero Staking Pool",
-	"description": "Minimum Fees. Maximum Rewards.",
 	"ticker": "ZERO",
-	"homepage": "https://twitter.com/pool_zero"
+	"description": "Minimum Fees. Maximum Rewards.",
+	"homepage": "https://twitter.com/pool_zero",
+	"extended": "https://raw.githubusercontent.com/Zero-Staking-Pool/Zero/master/extended.json"
 }
