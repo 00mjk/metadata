@@ -1,8 +1,8 @@
 {
-	"name": "Zetetic Stake Pool 4",
+	"name": "Zetetic Stake Pool 2",
 	"ticker": "ZETIC",
-	"description": "Fourth pool to Zetetic, same low margin and high availability",
+	"description": "Second pool to Zetetic, same low margin and high availability",
 	"homepage": "https://zeteticstakepool.com",
-	"nonce": "1613759014",
-	"extended": "https://zeteticstakepool.com/zetetic4/poolmeta-extended.json"
+	"nonce": "1612936373",
+	"extended": "https://zeteticstakepool.com/zetetic2/poolmeta-extended.json"
 }

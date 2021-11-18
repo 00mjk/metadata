@@ -1,29 +1,17 @@
 {
 	"info": {
-		"url_png_icon_64x64": "https://raw.githubusercontent.com/hungba23/tadatek/master/tadatek.png",
-		"url_png_logo": "https://raw.githubusercontent.com/hungba23/tadatek/master/tadatek.png",
-		"location": "Vietnam",
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/stakepoolonline/cardanostakehouse.com/main/empdl60.png",
+		"url_png_logo": "https://raw.githubusercontent.com/stakepoolonline/cardanostakehouse.com/main/empdl192.png",
 		"social": {
-			"twitter_handle": "TADATek",
-			"telegram_handle": "TADATek",
-			"facebook_handle": "TADATek",
-			"youtube_handle": "UC9J88LtC7d-JpVilGwTcpVQ",
-			"twitch_handle": "",
-			"discord_handle": "SWxDn2BZ",
-			"github_handle": "TADATek"
+			"twitter_handle": "empowa_io",
+			"telegram_handle": "s/empowa_io",
+			"youtube_handle": "channel/UCfmTyDzMbYfdwUZZC1h9jbw"
 		},
-		"about": {
-			"me": "TADATek is an open-source, non-custodial DeFi liquidity protocol for lending, borrowing and earning on crypto and fiat.",
-			"server": "Running Cardano nodes on Dedicate Server(s), Dual Xeon Platform, 1Gbit backbone, 10Gbit upgrade possible, ..."
-		}
+		"company": {},
+		"about": {}
 	},
-	"my-pool-ids": {
-		"0": "5a0af5c80ed8456b182c81e63fc6278a0b3e6e0189de3143730e9aa9"
-	},
-	"when-satured-then-recommend": {
-		"0": "5a0af5c80ed8456b182c81e63fc6278a0b3e6e0189de3143730e9aa9"
-	},
-	"telegram-admin-handle": {
-		"0": "tadapool"
-	}
+	"telegram-admin-handle": [],
+	"my-pool-ids": [
+		"5a0af5c80ed8456b182c81e63fc6278a0b3e6e0189de3143730e9aa9"
+	]
 }
