@@ -1,6 +1,6 @@
 {
 	"name": "CODER Stake Pool",
-	"description": "Cardano stake pool run by a software dev, donating rewards to charities that help people into coding.",
+	"description": "Cardano stake pool run by a software dev.",
 	"ticker": "CODER",
 	"homepage": "https://cardano.dantup.com",
 	"extended": "https://cardano.dantup.com/pool-metadata-extended.json"

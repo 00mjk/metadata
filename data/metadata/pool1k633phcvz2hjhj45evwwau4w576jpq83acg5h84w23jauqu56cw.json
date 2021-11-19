@@ -1,0 +1,8 @@
+{
+	"name": "#4 Nordic Pool",
+	"description": "Official SundaeSwap ISPO Pool. WHEN the ISPO starts, all Nordic Pools will generate Sundae Tokens PLUS your regular ADA Rewards. For questions and updates on the ISPO, join our telegram Group",
+	"ticker": "NORTH",
+	"homepage": "https://nordicpool.org",
+	"nonce": "1596738555",
+	"extended": "https://nordicpool.org/json/eastextended.json"
+}
