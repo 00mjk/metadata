@@ -1,6 +1,7 @@
 {
 	"name": "Ada Awareness",
-	"description": "Bringing the power of crypto and saving lives together",
+	"description": "The first step towards change is Awareness",
 	"ticker": "ADAWN",
-	"homepage": "https://git.io/JXaV6"
+	"homepage": "https://git.io/JXaV6",
+	"extended": "https://raw.githubusercontent.com/aaware/extendedMetaData.json/m/extendedMetaData.json"
 }

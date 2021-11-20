@@ -1,0 +1,40 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://github.com/aaware/icon/blob/1d1b79c7a5052220fb2b60f056ca82b3e8d9de8d/poolicon.png",
+		"url_png_logo": "https://github.com/aaware/icon/blob/1d1b79c7a5052220fb2b60f056ca82b3e8d9de8d/poolicon.png",
+		"location": "Florida, United States",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Ada Awareness",
+			"addr": "",
+			"city": "Miami",
+			"country": "United States",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "...",
+			"server": "",
+			"company": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "pool1sazguw4atrleu3yt9aa5m7lyqnalk7vvcht62qsduu6dvppztwa",
+		"1": "87448e3abd58ff9e448b2f7b4dfbe404fbfb798cc5d7a5020de734d6"
+	},
+	"when-satured-then-recommend": {
+		"0": "",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	}
+}

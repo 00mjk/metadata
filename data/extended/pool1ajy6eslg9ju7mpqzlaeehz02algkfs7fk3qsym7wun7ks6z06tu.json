@@ -1,7 +1,37 @@
 {
-	"name": "Kablammo!",
-	"ticker": "KABL",
-	"description": "#stakewithkablammo!",
-	"homepage": "https://www.kablammo.com/",
-	"extended": "https://git.io/J1VQH"
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/kablammodotcom/kablammo_pool_metadata/master/poolMetaData.json",
+	"info": {
+		"url_png_icon_64x64": "http://www.kablammo.com/kablammo_64_x_64.png",
+		"url_png_logo": "",
+		"location": "USA/IRELAND",
+		"social": {
+			"twitter_handle": "kablammodotcom",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "kablammodotcom",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Kablammo.com",
+			"addr": "",
+			"city": "",
+			"country": "USA/IRELAND",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Reliable, efficient Cardano Stake Pool with cool branding",
+			"server": "Secure af",
+			"company": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "ec89acc3e82cb9ed8402ff739b89eaefd164c3c9b441026fcee4fd68",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	}
 }
