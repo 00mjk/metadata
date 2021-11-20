@@ -1,7 +1,6 @@
 {
 	"name": "Masterstake",
+	"description": "MASTR pool #1 | SundaeSwap ISO",
 	"ticker": "MASTR",
-	"description": "A stakepool operated by Chris-Graffagnino",
-	"homepage": "https://masterstake.com",
-	"extended": "https://data.pooltool.io/md/8bff9d89-20fa-48a8-b6bf-d4ff2c0aac82"
+	"homepage": "https://www.masterstake.com"
 }

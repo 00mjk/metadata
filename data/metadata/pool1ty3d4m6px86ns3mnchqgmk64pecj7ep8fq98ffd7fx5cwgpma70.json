@@ -2,5 +2,6 @@
 	"name": "PuppyPool",
 	"description": "High Uptime | Dedicated Bare-Metal Hardware | Multi-layer Security | Switzerland - Based | Featuring adorable puppies!",
 	"ticker": "PUPPY",
-	"homepage": "https://puppypool.ch"
+	"homepage": "https://puppypool.ch",
+	"extended": "https://goenena.github.io/puppypool/extended-poolmeta.json"
 }
