@@ -1,0 +1,59 @@
+{
+	"info": {
+		"url_png_icon_64x64": "",
+		"url_png_logo": "",
+		"location": "Madrid, Spain",
+		"social": {
+			"twitter_handle": "https://twitter.com/InnovatioGroup",
+			"facebook_handle": "https://www.facebook.com/InnovatioFounder",
+			"youtube_handle": "https://www.youtube.com/channel/UCS9e9Ae-0wxbxcumTK0K62g",
+			"discord_handle": "https://discord.gg/tcrdaytKDg",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Innovatio",
+			"addr": "",
+			"city": "",
+			"country": "Estonia",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "",
+		"1": ""
+	},
+	"when-satured-then-recommend": {
+		"0": "",
+		"1": ""
+	},
+	"discord-admin-handle": {
+		"0": "AyaxLB#3333",
+		"1": "disco94#9729",
+		"2": "martinsb2010#7334"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "",
+				"type": "",
+				"key": ""
+			},
+			"1": {
+				"name": "",
+				"type": "",
+				"key": ""
+			},
+			"2": {
+				"name": "",
+				"type": "",
+				"key": ""
+			}
+		}
+	}
+}

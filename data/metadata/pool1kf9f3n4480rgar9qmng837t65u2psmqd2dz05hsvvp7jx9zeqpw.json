@@ -1,6 +1,7 @@
 {
 	"name": "STORMNW",
-	"description": "High-availability infrastructure, reliable network, low fees, Discord and Telegram Support, +99,5% uptime, run by STORMNW (BR)",
+	"description": "High-availability infrastructure, reliable network, low fees, Telegram Support, +99,5% uptime, Brazilian",
 	"ticker": "STONW",
-	"homepage": "https://t.me/stormnw_pool"
+	"homepage": "https://t.me/stormnw_pool",
+	"extended": "https://raw.githubusercontent.com/jblj/stonw/main/extended.json"
 }
