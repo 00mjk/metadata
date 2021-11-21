@@ -1,8 +1,8 @@
 {
 	"info": {
-		"url_png_icon_64x64": "https://git.io/JYQUG",
-		"url_png_logo": "https://git.io/JYQeK",
-		"location": "Munich, Germany",
+		"url_png_icon_64x64": "https://git.io/J1QuL",
+		"url_png_logo": "https://git.io/J1QEa",
+		"location": "St Kilda Australia",
 		"social": {
 			"twitter_handle": "mma_stake_pool",
 			"telegram_handle": "mma_stake_pool",
@@ -13,9 +13,9 @@
 			"github_handle": ""
 		},
 		"about": {
-			"me": "Student at TUM Munich in electrical engineering. Starting a PhD in blockchain technologies in 2021",
+			"me": "PhD Student in Blockchain Technology, industry experience in IT-consulting and Telecommunications",
 			"server": "Microsoft Azure servers, high reliability",
-			"mission": "Supporting MMA and BJJ gyms, part of Mission Driven Pools alliance"
+			"mission": "Clean seas"
 		},
 		"my-pool-ids": {
 			"0": "f1ae552b032c2d87a416f4067eaf4636b3fe5e80230a1f63aa33f6bc"
