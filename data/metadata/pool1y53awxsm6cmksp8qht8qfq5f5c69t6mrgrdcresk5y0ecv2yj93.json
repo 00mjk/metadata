@@ -1,8 +1,7 @@
 {
 	"name": "RAMEN by Kiwipool Staking",
 	"ticker": "RAMEN",
-	"description": "RAMEN. Baremetal with Cloud Backup. Low Fees. Est 2019. Together, WE are Kiwipool Staking",
+	"description": "#SundaeSwap ISO Stakepool | Est 2019 | ITN #OG | Together, WE are Kiwipool Staking",
 	"homepage": "https://www.kiwipool.org",
-	"nonce": "1601978978",
-	"extended": "https://raw.githubusercontent.com/kiwipool/stn/e/ramene.json"
+	"extended": "https://raw.githubusercontent.com/kiwipool/stake/main/ramen_e_1a.json"
 }

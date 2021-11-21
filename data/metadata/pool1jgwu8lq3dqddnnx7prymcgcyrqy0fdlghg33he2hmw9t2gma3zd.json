@@ -1,8 +1,7 @@
 {
 	"name": "KIWI1 by Kiwipool Staking",
 	"ticker": "KIWI",
-	"description": "KIWI1. Baremetal with Cloud Backup. Low Fees. Est 2019. Together, WE are Kiwipool Staking",
+	"description": "#SundaeSwap ISO Stakepool | Est 2019 | ITN #OG | Together, WE are Kiwipool Staking",
 	"homepage": "https://www.kiwipool.org",
-	"nonce": "1611907484",
-	"extended": "https://raw.githubusercontent.com/kiwipool/stn/e/kiwi1a.json"
+	"extended": "https://raw.githubusercontent.com/kiwipool/stake/main/kiwi1_e_1a.json"
 }
