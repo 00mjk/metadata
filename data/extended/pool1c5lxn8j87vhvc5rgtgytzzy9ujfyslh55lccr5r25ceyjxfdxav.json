@@ -1,19 +1,19 @@
 {
 	"info": {
-		"url_png_icon_64x64": "https://user-images.githubusercontent.com/88293307/128631830-3d3fa59f-2b34-436f-88f4-9156df44d60d.png",
-		"url_png_logo": "https://user-images.githubusercontent.com/88293307/128631912-9442ac17-71b8-4cd6-b18d-2f5a9a06de3c.png",
-		"location": "The Moon",
+		"url_png_icon_64x64": "",
+		"url_png_logo": "",
+		"location": "",
 		"social": {
-			"twitter_handle": "wsbstakepool",
+			"twitter_handle": "",
 			"telegram_handle": "",
 			"facebook_handle": "",
-			"youtube_handle": "channel/UC_NxtbbjpnDQL4L35mWXuYA",
+			"youtube_handle": "",
 			"twitch_handle": "",
-			"discord_handle": "h997VwmA9G",
-			"github_handle": "wallstreetbetspool"
+			"discord_handle": "",
+			"github_handle": ""
 		},
 		"my-pool-ids": {
-			"0": "c53e699e47f32ecc50685a08b10885e492487ef4a7f181d06aa63249",
+			"0": "",
 			"1": ""
 		}
 	}

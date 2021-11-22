@@ -1,7 +1,7 @@
 {
-	"name": "MMAStakePool",
-	"description": "MMA fans and practitioners! Stake with MMApool to support small mixed-martial-arts and Brazilian-Jiu-Jitsu Gyms.",
-	"ticker": "MMA",
-	"homepage": "https://mma-stakepool.github.io/",
+	"name": "SeasideStaking",
+	"description": "Stake by the sea from St Kilda Australia. Reliable, secure, peaceful",
+	"ticker": "SEA",
+	"homepage": "https://seaside-staking.github.io/",
 	"extended": "https://git.io/JYych"
 }
