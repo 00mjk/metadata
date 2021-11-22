@@ -1,0 +1,24 @@
+{
+	"itn": {
+		"owner": "",
+		"witness": ""
+	},
+	"adapools": {
+		"url_png_icon_64x64": "https://www.thecrypto.land/64x64_logo.png",
+		"url_png_logo": "https://www.thecrypto.land/pool-logo.png",
+		"location": "Sydney, Australia",
+		"social": {
+			"twitter_handle": "Adam_Stokesy",
+			"telegram_handle": "Adam Stokes",
+			"facebook_handle": "adam.stokes.142687",
+			"youtube_handle": "c/AdamStokes24",
+			"twitch_handle": "",
+			"discord_handle": ""
+		},
+		"about": {
+			"me": "The ADAM Stakepool aims to be a valued and competitive member of the Cardano staking community by teaching its members, minting blocks, and sharing information through The Crypto Land webpage. Join the name and crypto personality you can trust - ADAM.",
+			"server": "Our stakepool consists of multiple nodes, relays, a block producing node and back-up block producer. Each node has 4 CPUs, 16GB of RAM, 8GB SWAP, 100% SSD storage, and 99.99% server uptime. Our nodes can easily be upgraded to higher specs as the protocol demands.",
+			"company": "The ADAM Stakepool was established in November 2021, while its founder (Adam Stokes) has been a prominent crypto commentator for more than five years. Adam created the ADAM Stakepool to support the Cardano ecosystem while providing its users the best possible rewards available."
+		}
+	}
+}
