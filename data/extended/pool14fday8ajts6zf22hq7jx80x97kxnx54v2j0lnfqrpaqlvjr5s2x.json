@@ -5,10 +5,10 @@
 		"url_png_logo": "http(s) url to pool logo; png format; not animated; max 50kb",
 		"location": "Seoul, Korea",
 		"social": {
-			"twitter_handle": "",
-			"telegram_handle": "",
+			"twitter_handle": "@spo_han",
+			"telegram_handle": "@eece0101",
 			"facebook_handle": "",
-			"youtube_handle": "",
+			"youtube_handle": "https://www.youtube.com/channel/UCnIPePdI2wR9qc6I3GP9xfw",
 			"twitch_handle": "",
 			"discord_handle": "",
 			"github_handle": ""
@@ -22,13 +22,13 @@
 			"vat_id": ""
 		},
 		"about": {
-			"me": "...",
-			"server": "",
+			"me": "HAN",
+			"server": "6vCPUs, 16GB MEM on virual server in cloud data center",
 			"company": "..."
 		}
 	},
 	"my-pool-ids": {
-		"0": "",
+		"0": "aa5bd21fb25c3424a95707a463bcc5f58d3352ac549ff9a4030f41f6",
 		"1": ""
 	},
 	"when-satured-then-recommend": {

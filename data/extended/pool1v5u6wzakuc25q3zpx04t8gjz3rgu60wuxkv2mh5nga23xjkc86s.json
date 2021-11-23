@@ -1,0 +1,41 @@
+{
+	"how-to-implement": "",
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/mokshstakepool/moksh/main/moksh64x64.png",
+		"url_png_logo": "https://raw.githubusercontent.com/mokshstakepool/moksh/main/moksh64x64.png",
+		"location": "USA",
+		"social": {
+			"twitter_handle": "@MokshPool",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Moksh Pool",
+			"addr": "Street, Number",
+			"city": "",
+			"country": "",
+			"company_id": "...",
+			"vat_id": "..."
+		},
+		"about": {
+			"me": "...",
+			"server": "...",
+			"company": "..."
+		}
+	},
+	"my-pool-ids": {
+		"0": "pool1v5u6wzakuc25q3zpx04t8gjz3rgu60wuxkv2mh5nga23xjkc86s",
+		"1": ""
+	},
+	"when-satured-then-recommend": {
+		"0": "",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": "your_tg_handle"
+	}
+}

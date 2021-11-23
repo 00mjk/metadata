@@ -2,5 +2,6 @@
 	"name": "Moksh Stake Pool",
 	"description": "Liberate from the centralized world with a high pledge, mission-driven pool",
 	"ticker": "MOKSH",
-	"homepage": "https://mokshpool.org"
+	"homepage": "https://mokshpool.org",
+	"extended": "https://git.io/J1py1"
 }
