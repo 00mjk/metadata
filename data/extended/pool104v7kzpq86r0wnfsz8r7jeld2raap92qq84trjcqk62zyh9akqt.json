@@ -4,13 +4,13 @@
 		"url_png_logo": "https://adaseal.eu/logo/logo.png",
 		"location": "Prague, Czechia",
 		"social": {
-			"twitter_handle": "",
+			"twitter_handle": "seal_pool",
 			"telegram_handle": "SEAL_Pool",
-			"facebook_handle": "",
+			"facebook_handle": "adaseal.pool",
 			"youtube_handle": "",
 			"twitch_handle": "",
 			"discord_handle": "",
-			"github_handle": ""
+			"github_handle": "seal-pool"
 		},
 		"my-pool-ids": {
 			"0": "7d59eb08203e86f74d3011c7e967ed50fbd0954001eab1cb00b69422"
