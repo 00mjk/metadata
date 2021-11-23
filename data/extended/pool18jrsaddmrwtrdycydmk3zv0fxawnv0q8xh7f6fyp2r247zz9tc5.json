@@ -1,0 +1,36 @@
+{
+	"info": {
+		"url_png_icon_64x64": "",
+		"url_png_logo": "",
+		"location": "",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "https://t.me/ManjitSunner",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "https://discord.gg/ZW2WKYrh",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "We are a independent Cardano Stake Pool Operator (SPO) .",
+			"server": "Proxmox Server self hosted with a backup remote site.",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "pool18jrsaddmrwtrdycydmk3zv0fxawnv0q8xh7f6fyp2r247zz9tc5"
+	},
+	"telegram-admin-handle": {
+		"0": ""
+	}
+}

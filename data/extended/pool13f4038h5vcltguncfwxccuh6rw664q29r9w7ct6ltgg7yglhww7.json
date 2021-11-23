@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.theparallelrevolution.com/images/favicon64.png",
+		"url_png_logo": "https://www.theparallelrevolution.com/images/logo.png",
+		"location": "Michigan, USA",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "https://t.me/tprevolution",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "The Parallel Revolution",
+			"addr": "4067 Highview Ct",
+			"city": "Waterford",
+			"country": "USA",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Our Mission: To help other organizations leverage Cryptocurrencies to enable new revenue streams and new means of transacting business.",
+			"server": "This is our primary staking pool with multiple relays, cloud-hosted servers for guaranteed uptime.",
+			"company": "We are passionate about Non-Profits. Having run and contributed to many ourselves, we believe in your cause – and we are prepared to support you in every way. We are passionate about Cryptocurrencies, the decoupling they offer from any government or agenda-managed control of fiat currencies, and the freedom they offer. However, after participating in Bitcoin, Etherium, and others for years, we believe the scientific approach, with ground-up foundational design incorporating lessons learned and best practices, is the right approach - and Cardano is the network that is doing it. We back their efforts to democratize currencies, and free us from the yoke of human agenda-based controls. Our business model offers services to get normal people and businesses into the Crypto age, with real-world solutions we have had decades providing in other areas."
+		},
+		"rss": ""
+	},
+	"telegram-admin-handle": [
+		""
+	],
+	"my-pool-ids": [
+		"8a6af89ef4663eb472784b8d8c72fa1bb5aa8145195dec2f5f5a11e2"
+	],
+	"when-satured-then-recommend": [
+		"8a6af89ef4663eb472784b8d8c72fa1bb5aa8145195dec2f5f5a11e2"
+	]
+}
