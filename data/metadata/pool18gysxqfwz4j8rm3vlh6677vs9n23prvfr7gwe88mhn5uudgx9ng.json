@@ -2,5 +2,6 @@
 	"name": "ADA Pool Europe",
 	"description": "Cardano staking pool operator based in Europe",
 	"ticker": "EUR",
-	"homepage": "https://adapool-europe.com/"
+	"homepage": "https://adapool-europe.com/",
+	"extended": "https://raw.githubusercontent.com/rmikael/ada/main/y.json"
 }

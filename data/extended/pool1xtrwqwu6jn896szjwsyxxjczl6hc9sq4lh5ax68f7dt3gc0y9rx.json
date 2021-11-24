@@ -1,0 +1,41 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://storage.googleapis.com/nerd-pool/nerd-64x64.png",
+		"url_png_logo": "https://storage.googleapis.com/nerd-pool/nerd.png",
+		"location": "Annapolis, MD",
+		"social": {
+			"twitter_handle": "yachtwallace",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "WallaceInc",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Wallace inc",
+			"addr": "",
+			"city": "Annapolis, MD",
+			"country": "USA",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "HyperNerd is committed to supporting the Cardano community and providing staking services to our delegators by offering low-latency, with the highest returns, and constant 24/7 uptime.... so we never miss a block! We are so committed to the community, we are going to launch an annual in person party for our delegators and continue to promote great content to the Cardano Network and community.",
+			"server": "",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"telegram-admin-handle": [
+		""
+	],
+	"my-pool-ids": [
+		"e3f78291c937e8a2f5662765c1442804dc89db4ef7f3296e4852b986",
+		"32c6e03b9a94ce5d40527408634b02feaf82c015fde9d368e9f35714"
+	],
+	"when-satured-then-recommend": [
+		"e3f78291c937e8a2f5662765c1442804dc89db4ef7f3296e4852b986",
+		"32c6e03b9a94ce5d40527408634b02feaf82c015fde9d368e9f35714"
+	]
+}

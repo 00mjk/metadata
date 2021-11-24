@@ -2,5 +2,6 @@
 	"name": "Low-cost, Steady and Lucrative Stake Pool",
 	"description": "都内のITベンチャーにてテックリードをしている本職エンジニアが運営するプールです。エンジニアリングのプロとして堅実かつ利益に繋がる運用をお約束します。マージン0.00%で運営中！",
 	"ticker": "LSL",
-	"homepage": "https://lsl-stake-pool.blogspot.com/"
+	"homepage": "https://lsl-stake-pool.blogspot.com/",
+	"extended": "https://lsl-stake-pool.s3.ap-northeast-1.amazonaws.com/extendedMeta.json"
 }

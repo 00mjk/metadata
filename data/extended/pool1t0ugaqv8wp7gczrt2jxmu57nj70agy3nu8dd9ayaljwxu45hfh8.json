@@ -1,0 +1,18 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://lsl-stake-pool.s3.ap-northeast-1.amazonaws.com/lsl_stake_pool_icon.png",
+		"url_png_logo": "https://lsl-stake-pool.s3.ap-northeast-1.amazonaws.com/lsl_stake_pool_icon.png",
+		"social": {
+			"twitter_handle": "marsha_lsl_spo",
+			"telegram_handle": "",
+			"youtube_handle": "",
+			"facebook_handle": "",
+			"discord_handle": "Marsha [LSL]#5667",
+			"github_handle": ""
+		},
+		"about": {
+			"server": "",
+			"company": ""
+		}
+	}
+}
