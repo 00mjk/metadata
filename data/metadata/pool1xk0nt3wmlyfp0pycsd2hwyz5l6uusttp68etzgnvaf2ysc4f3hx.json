@@ -1,6 +1,7 @@
 {
-	"name": "P₳ND₳ P₳ND₳ POOL",
-	"description": "Professionally managed pool, environmentally friendly hosting.  Managed by queer team.",
+	"name": "Panda Panda Pool",
+	"description": "P₳ND₳ P₳ND₳ POOL: Professionally managed pool, environmentally friendly hosting. Managed by queer team.",
 	"ticker": "PPP",
-	"homepage": "http://pandapandapool.vvde.ch/"
+	"homepage": "https://pandapandapool.net/",
+	"extended": "http://pandapandapool.vvde.ch/extendedPoolMetaData.json"
 }

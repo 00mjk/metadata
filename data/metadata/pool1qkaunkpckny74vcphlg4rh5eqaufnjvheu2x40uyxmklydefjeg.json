@@ -1,8 +1,8 @@
 {
 	"name": "Coconut Pool",
-	"description": "COCO, Encouraging Mass Participation in Decentralized Finance - Stake COCO!",
 	"ticker": "COCO",
+	"description": "Earn more ADA by staking COCO!",
 	"homepage": "https://coconutpool.com",
-	"pledge_address": "addr1q8rau35g9ph6s363h0m72qth5xk9g9dwwwlj3y7xmj64xkxxm2qegt89y9awnh2xa3rg4cd4jh4d5cqpeghgdmjdh2qqeygtrr",
+	"nonce": "1637782258",
 	"extended": "https://data.pooltool.io/md/3e95f0e1-5331-4f71-8425-34c17f63cf2b"
 }

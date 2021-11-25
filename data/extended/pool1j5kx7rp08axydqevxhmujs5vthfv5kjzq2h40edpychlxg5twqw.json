@@ -1,0 +1,22 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://syntagma.capital/images/adapools-64.png",
+		"url_png_logo": "https://syntagma.capital/images/syntagma-logo-adapool.png",
+		"location": "London, England",
+		"social": {
+			"twitter_handle": "https://twitter.com/syntagmacapital",
+			"telegram_handle": "https://t.me/syntagmacapital"
+		},
+		"about": {
+			"me": "A scalable Cardano pool created by IT savy people",
+			"server": "Cloud servers",
+			"company": "Soon"
+		}
+	},
+	"my-pool-ids": {
+		"0": "952c6f0c2f3f4c46832c35f7c9428c5dd2ca5a4202af57e5a1262ff3"
+	},
+	"telegram-admin-handle": {
+		"0": "AlexMihai80"
+	}
+}

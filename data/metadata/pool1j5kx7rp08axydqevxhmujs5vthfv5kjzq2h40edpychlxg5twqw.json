@@ -2,6 +2,6 @@
 	"name": "Syntagma",
 	"description": "SYN is a secure scalable pool with part of profits going to supporting education for disadvantaged children in Romania",
 	"ticker": "SYN",
-	"homepage": "https: //syntagma.capital",
-	"extended": "https: //syntagma.capital/ext_metadata.json"
+	"homepage": "https://syntagma.capital",
+	"extended": "https://syntagma.capital/meta_info.json"
 }
