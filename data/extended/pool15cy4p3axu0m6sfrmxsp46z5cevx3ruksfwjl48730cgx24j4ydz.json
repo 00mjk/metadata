@@ -10,7 +10,7 @@
 			"facebook_handle": "",
 			"youtube_handle": "",
 			"twitch_handle": "",
-			"discord_handle": "2zxk5m74",
+			"discord_handle": "kYwMxc2pGz",
 			"github_handle": ""
 		},
 		"company": {
@@ -22,8 +22,8 @@
 			"vat_id": ""
 		},
 		"about": {
-			"me": "M.Sc Cybernetics and Robotics, B.Sc Industiral Automation and Computer Scinence",
-			"server": "Intel NUC",
+			"me": "M.Sc Cybernetics and Robotics, B.Sc Industrial Automation and Computer Scinence, seven years of experiance with Linux server maintenance",
+			"server": "TECH pool is running on a Intel NUC (4 core, 16 GB RAM), a low-power computer drawing less than 65W of power - approximately the same power consumtion as a non-LED light bulb. TECH pool utilizes one relay, located in Oslo/Norway, the relay is rented trough a Norwegian VPS provider (www.proisp.no). By running both stake pool and relay in Norway we assure that (i) the whole TECH pool infrastructure is powered by 100% renable energy like hydro or wind and (ii) we aid the decetralization of the Cardano blockchain by avoiding popular VPS service like Amazon AWS or DigitalOcean. This infrastructure has proven reliable as the pool has been online ready to mint blocks 24/7 since its deployment in 15th of March 2021.",
 			"company": ""
 		}
 	},
