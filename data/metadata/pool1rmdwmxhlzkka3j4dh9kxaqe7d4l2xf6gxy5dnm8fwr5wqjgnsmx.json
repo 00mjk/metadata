@@ -1,7 +1,7 @@
 {
-	"name": "HOTEL BACKUP",
-	"description": "An overflow to our main pool HOTEL, offical stakepool of Hotel Ginebra Barcelona. For now, please delegate to our main pool HOTEL",
-	"ticker": "HOTEL",
-	"homepage": "https://www.cardanohubs.com",
-	"extended": "https://raw.githubusercontent.com/staking-cash/stn/e/hub1a.json"
+	"name": "NFThubs Pool",
+	"description": "HUBS is the ADA stakepool of NFThubs, the CNFT platform where ART and CHARiTY stand shoulder to shoulder",
+	"ticker": "HUBS",
+	"homepage": "https://nfthubs.io",
+	"extended": "https://git.io/JMtRO"
 }

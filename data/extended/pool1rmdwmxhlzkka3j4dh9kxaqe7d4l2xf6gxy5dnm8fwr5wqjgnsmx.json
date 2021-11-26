@@ -4,14 +4,14 @@
 		"witness": ""
 	},
 	"info": {
-		"url_png_icon_64x64": "https://raw.githubusercontent.com/staking-cash/stn/e/hotelcardano-64x64.png",
-		"url_png_logo": "https://raw.githubusercontent.com/staking-cash/stn/e/hotelcardano.png",
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/staking-cash/stn/e/hubs_64x64.png",
+		"url_png_logo": "https://raw.githubusercontent.com/staking-cash/stn/e/hubs.png",
 		"location": "Spain",
 		"social": {
 			"twitter_handle": "@bigezdaddy2017",
 			"telegram_handle": "",
 			"facebook_handle": "",
-			"youtube_handle": "channel/UCNqWAGZywKRgW2IJcEa33Og",
+			"youtube_handle": "",
 			"twitch_handle": "",
 			"discord_handle": "",
 			"github_handle": ""
@@ -25,9 +25,9 @@
 			"vat_id": ""
 		},
 		"about": {
-			"me": "HOTEL, The offical Cardano Stakepool of Alfred Moesker owner of Hotel Ginebra - the first business in the world to accept ADA!. Pool operations have been outsourced to a highly skilled & experienced #Stakepool operator who honed his skills in the #ITN",
-			"server": "Diverse Geographic Locations with multiple relays operating in the cloud.  Cloud and Baremetal Failover options for the ultimate in Redundancy",
-			"company": "The one and only Staking-Cash"
+			"me": "",
+			"server": "",
+			"company": ""
 		},
 		"rss": ""
 	},

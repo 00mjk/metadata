@@ -1,0 +1,38 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://roampool.com/icon_64x64.png",
+		"url_png_logo": "https://roampool.com/logo.png",
+		"location": "San Francisco, California",
+		"social": {
+			"twitter_handle": "roampool",
+			"telegram_handle": "roampool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Roam Pool",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "We are roamers of the world...",
+			"server": "Beefy machine hosted in San Francisco Bay Area.",
+			"company": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "07c3280a92a3010a1713e3cb22bfa82624a33061ad20c7b359e7252d"
+	},
+	"when-satured-then-recommend": {
+		"0": "07c3280a92a3010a1713e3cb22bfa82624a33061ad20c7b359e7252d"
+	},
+	"telegram-admin-handle": {
+		"0": "roampool"
+	}
+}
