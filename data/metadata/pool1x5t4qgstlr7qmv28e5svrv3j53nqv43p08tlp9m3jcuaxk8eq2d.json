@@ -1,7 +1,7 @@
 {
-	"name": "WAP - Support The Future Of Dating",
-	"description": "The WAP Stake Pool is designed to directly support a new dating experience on Cardano. Join today and get more WAP tomorrow :)",
-	"ticker": "WAP",
-	"homepage": "https://twitter.com/JasonBiondo",
-	"extended": "https://wapstakepool.s3.amazonaws.com/extmeta.json"
+	"name": "LCW - Let's Build A More Prosperous Future",
+	"description": "Join to earn staking rewards while supporting the Life-Changing Wealth YouTube Channel.",
+	"ticker": "LCW",
+	"homepage": "https://lifechangingwealth.com/",
+	"extended": "https://lcwpool.s3.amazonaws.com/extmeta.json"
 }
