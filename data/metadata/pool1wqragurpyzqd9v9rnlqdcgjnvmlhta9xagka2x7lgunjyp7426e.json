@@ -1,0 +1,7 @@
+{
+	"name": "Socially Distant Stake Pool",
+	"description": "The Stake Pool for the Socially Distant Community",
+	"ticker": "SDADA",
+	"homepage": "https://sociallydistant.site/stake",
+	"extended": "https://sociallydistant.site/extended-sdmetadata.json"
+}

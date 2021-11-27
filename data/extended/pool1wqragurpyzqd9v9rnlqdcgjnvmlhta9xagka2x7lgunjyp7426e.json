@@ -1,0 +1,13 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.sociallydistant.site/wp-content/uploads/2021/10/server-icon.png",
+		"url_png_logo": "https://www.sociallydistant.site/wp-content/uploads/2021/10/server-icon.png",
+		"social": {
+			"twitter_handle": "SDStakePool"
+		},
+		"about": {
+			"me": "My name is Barrett and I am a full stack developer with a pashion for Server Administration and Game Server Development.",
+			"server": "Nodes are hosted in a low power Virtual Environment with at least 2 vCPUs, 8GB RAM, and 100MB upload/download."
+		}
+	}
+}
