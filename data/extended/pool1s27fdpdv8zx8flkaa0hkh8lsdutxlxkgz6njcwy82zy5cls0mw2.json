@@ -1,30 +1,30 @@
 {
 	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
 	"info": {
-		"url_png_icon_64x64": "https://vgmd.com.br/logo-64.png",
-		"url_png_logo": "https://vgmd.com.br/logo777.png",
+		"url_png_icon_64x64": "https://greencripto.in/logo64.png",
+		"url_png_logo": "https://greencripto.in/logo777.png",
 		"location": "Sao Paulo, Brazil",
 		"social": {
-			"twitter_handle": "vgmdpool",
-			"telegram_handle": "vgmdpool",
-			"facebook_handle": "vgmdpool",
+			"twitter_handle": "greencriptobr",
+			"telegram_handle": "greencriptobr",
+			"facebook_handle": "greencripto",
 			"youtube_handle": "/channel/UCs2mWsOKwpkLbD-2Ioa3vfw",
 			"twitch_handle": "",
 			"discord_handle": "",
 			"github_handle": ""
 		},
 		"company": {
-			"name": "VGMD",
+			"name": "CRIP",
 			"addr": "",
 			"city": "",
-			"country": "Brazil",
+			"country": "Brasil",
 			"company_id": "",
 			"vat_id": ""
 		},
 		"about": {
-			"me": "Stake with us and help the Amazon! We are the only pool hosted physically on the Amazon rain-forest. Aid forest protection and help needy living along the Amazon River by 10% of profit destined to local projects. Check our website.",
-			"server": "Brazilian Amazon Forest hosted servers feeded by clean energy",
-			"company": "VGMD Company"
+			"me": "A Green Cripto é uma empresa focada em tecnologia blockchain. Nosso grupo reune uma farm de mineração com placas de vídeo, loja de informática e uma pool de Cardano. Faça stake com GREEN CRIPTO e siga nossas redes pra saber tudo sobre mining e tecnologia!",
+			"server": "Servidores reais, localizados no norte e sul do Brasil, movidos a energia solar",
+			"company": "Green Cripto"
 		},
 		"rss": ""
 	},
@@ -42,14 +42,14 @@
 	"adapools_ext": {
 		"prometheus": {
 			"0": {
-				"name": "Relay South",
-				"type": "relay",
-				"key": "relay.vgmd.com.br"
+				"name": "",
+				"type": "",
+				"key": ""
 			},
 			"1": {
-				"name": "Relay North",
-				"type": "relay",
-				"key": "relay-rainforest.vgmd.com.br"
+				"name": "",
+				"type": "",
+				"key": ""
 			}
 		}
 	}
