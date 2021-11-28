@@ -4,12 +4,12 @@
 		"url_png_logo": "https://ada.markets/img/full.png",
 		"location": "Europe",
 		"social": {
-			"twitter_handle": "ADAMarkets",
-			"telegram_handle": "ADAMarkets"
+			"twitter_handle": "ADAmarkets",
+			"telegram_handle": "ADAmarkets"
 		},
 		"about": {
 			"me": "Single pool operator",
-			"server": "Google servers powered by green energy"
+			"server": "Servers powered by green energy"
 		}
 	}
 }
