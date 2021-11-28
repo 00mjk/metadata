@@ -1,9 +1,20 @@
 {
 	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/rmikael/ada/main/logo_64x64.png",
+		"url_png_logo": "https://raw.githubusercontent.com/rmikael/ada/main/logo.png",
+		"location": "Paris, France",
 		"social": {
 			"twitter_handle": "EuropePool",
 			"telegram_handle": "adapooleurope",
 			"github_handle": "AdaPoolEuropeCharles/cardano_pool"
+		},
+		"about": {
+			"me": "Charles 😊 and Mika 😉, a partnership of two French entrepreneurs motivated to democratize the use of crypto-currencies.",
+			"server": "99.95% Uptime | Dedicated Hardware | Automatic Backups | Multi-layer Security | 24/7 Monitoring | Server Redundancy",
+			"company": "Charles and Mika"
 		}
+	},
+	"my-pool-ids": {
+		"0": "3a0903012e156471ee2cfdf5af79902cd5108d891f90ec9cfbbce9ce"
 	}
 }
