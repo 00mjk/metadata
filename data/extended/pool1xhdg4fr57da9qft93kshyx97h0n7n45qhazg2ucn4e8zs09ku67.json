@@ -8,14 +8,14 @@
 		"0": "35da8aa474f37a5025658da17218bebbe7e9d680bf44857313ae4e28"
 	},
 	"votes": {
-		"https://spovotes.com/votes/change-min-fixed-fee-to-variable/": {
+		"https://cips.cardano.org/cips/cip8/": {
 			"vote": "Yes"
 		},
-		"https://spovotes.com/votes/reduce-min-fee/": {
-			"vote": "No"
+		"https://cips.cardano.org/cips/cip13/": {
+			"vote": "Yes"
 		},
-		"https://spovotes.com/votes/remove-min-fee/": {
-			"vote": "No"
+		"https://cips.cardano.org/cips/cip23/": {
+			"vote": "Yes"
 		}
 	}
 }

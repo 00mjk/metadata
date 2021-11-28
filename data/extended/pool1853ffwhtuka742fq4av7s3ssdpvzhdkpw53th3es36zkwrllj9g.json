@@ -29,12 +29,16 @@
 		"rss": ""
 	},
 	"my-pool-ids": {
-		"0": "e6ac159ee8063742eadcb48be45f29d9a67b4158439070032f42d10c"
+		"0": "3d2294baebe5bbeaa920af59e8461068582bb6c17522bbc7308e8567",
+		"1": "e6ac159ee8063742eadcb48be45f29d9a67b4158439070032f42d10c"
 	},
 	"when-satured-then-recommend": {
-		"0": "e6ac159ee8063742eadcb48be45f29d9a67b4158439070032f42d10c"
+		"0": "3d2294baebe5bbeaa920af59e8461068582bb6c17522bbc7308e8567"
 	},
 	"telegram-admin-handle": {
 		"": ""
+	},
+	"verify": {
+		"0": "b144ee93c320d403ffe041eb47b596f2"
 	}
 }
