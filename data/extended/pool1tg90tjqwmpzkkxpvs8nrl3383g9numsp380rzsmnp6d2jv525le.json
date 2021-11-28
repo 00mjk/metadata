@@ -1,19 +1,19 @@
 {
 	"info": {
 		"url_png_icon_64x64": "https://raw.githubusercontent.com/hungba23/tadatek/master/tadatek.png",
-		"url_png_logo": "https://raw.githubusercontent.com/hungba23/tadatek/master/tadatek.png",
+		"url_png_logo": "https://raw.githubusercontent.com/hungba23/tadatek/master/tadatek-slogan.png",
 		"location": "Vietnam",
 		"social": {
 			"twitter_handle": "TADATek",
 			"telegram_handle": "TADATek",
 			"facebook_handle": "TADATek",
-			"youtube_handle": "UC9J88LtC7d-JpVilGwTcpVQ",
+			"youtube_handle": "channel/UC9J88LtC7d-JpVilGwTcpVQ",
 			"twitch_handle": "",
-			"discord_handle": "SWxDn2BZ",
+			"discord_handle": "5tfD663u",
 			"github_handle": "TADATek"
 		},
 		"about": {
-			"me": "TADATek is an open-source, non-custodial DeFi liquidity protocol for lending, borrowing and earning on crypto and fiat.",
+			"me": "TADATek is a decentralized infrastructure for Cardano Ecosystem. Our mission is to trasit people into a real decentralized blockchain on Cardano.",
 			"server": "Running Cardano nodes on Dedicate Server(s), Dual Xeon Platform, 1Gbit backbone, 10Gbit upgrade possible, ..."
 		}
 	},
