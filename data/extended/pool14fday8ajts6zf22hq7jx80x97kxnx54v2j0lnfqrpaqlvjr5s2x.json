@@ -1,14 +1,14 @@
 {
 	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
 	"info": {
-		"url_png_icon_64x64": "https://user-images.githubusercontent.com/89987014/143874158-14db8151-a838-470c-b0cb-46779a02daef.png",
-		"url_png_logo": "https://user-images.githubusercontent.com/89987014/143873340-ec525043-0188-4d2c-876c-1a961c7345f4.png",
+		"url_png_icon_64x64": "https://user-images.githubusercontent.com/89987014/143879835-31c745c8-48b5-425f-b0c2-61cf03d28933.png",
+		"url_png_logo": "https://user-images.githubusercontent.com/89987014/143879795-0b7310c4-2772-4550-a714-fb6622cbc43a.png",
 		"location": "Seoul, Korea",
 		"social": {
-			"twitter_handle": "@spo_han",
-			"telegram_handle": "@eece0101",
+			"twitter_handle": "spo_han",
+			"telegram_handle": "eece0101",
 			"facebook_handle": "",
-			"youtube_handle": "https://www.youtube.com/channel/UCnIPePdI2wR9qc6I3GP9xfw",
+			"youtube_handle": "UCnIPePdI2wR9qc6I3GP9xfw",
 			"twitch_handle": "",
 			"discord_handle": "",
 			"github_handle": ""
