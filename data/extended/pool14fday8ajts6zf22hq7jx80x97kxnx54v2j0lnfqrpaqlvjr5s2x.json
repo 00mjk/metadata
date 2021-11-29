@@ -1,8 +1,8 @@
 {
 	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
 	"info": {
-		"url_png_icon_64x64": "http(s) url to pool icon; png format; not animated; max 40kb",
-		"url_png_logo": "http(s) url to pool logo; png format; not animated; max 50kb",
+		"url_png_icon_64x64": "https://user-images.githubusercontent.com/89987014/143870997-cca98ca0-3262-4def-8bda-4e33cfe1d867.jpg",
+		"url_png_logo": "https://user-images.githubusercontent.com/89987014/143870963-da50e4c8-c5fc-4a93-8250-a8cb2d96bc2e.jpg",
 		"location": "Seoul, Korea",
 		"social": {
 			"twitter_handle": "@spo_han",
@@ -22,7 +22,7 @@
 			"vat_id": ""
 		},
 		"about": {
-			"me": "HAN",
+			"me": "Hi, I'm HAN. Thank you for delegate with HAN Stake Pool.",
 			"server": "6vCPUs, 16GB MEM on virual server in cloud data center",
 			"company": "..."
 		}
