@@ -1,0 +1,16 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://elmpi.net/img/elmpi-icon-c-64.png",
+		"url_png_logo": "https://elmpi.net/img/elmpi-icon-c-180.png",
+		"location": "Tokyo, Japan",
+		"social": {
+			"twitter_handle": "elmpipool"
+		},
+		"about": {
+			"server": "Raspberry Pi 4B 8GB, Embedded Linux, Mobile network"
+		}
+	},
+	"my-pool-ids": {
+		"0": "7d49f7486660c27f0fded15ba46ba8e3c8d3427aba360936034d7d9d"
+	}
+}
