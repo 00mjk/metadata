@@ -14,7 +14,7 @@
 		},
 		"about": {
 			"me": "Run by young couple out of St Kilda Australia, industry experience in IT-consulting and Telecommunications",
-			"server": "Microsoft Azure servers, high reliability",
+			"server": "Microsoft Azure servers for high reliability and home raspberry pi for geo-decentralization",
 			"mission": "Clean seas"
 		},
 		"my-pool-ids": {
@@ -24,7 +24,7 @@
 			"0": "ca599df54182962bb2c1420ad2cbdc10e3df7c4c2afac18e810e7035"
 		},
 		"telegram-admin-handle": {
-			"0": "mma_stake_pool"
+			"0": "hans_the_crypto"
 		},
 		"adapools_ext": {
 			"prometheus": {
