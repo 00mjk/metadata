@@ -1,5 +1,4 @@
 {
-	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
 	"info": {
 		"url_png_icon_64x64": "https://raw.githubusercontent.com/SPO-HAN/Cardano-Stake-Pool/main/64.png",
 		"url_png_logo": "https://raw.githubusercontent.com/SPO-HAN/Cardano-Stake-Pool/main/245.png",
