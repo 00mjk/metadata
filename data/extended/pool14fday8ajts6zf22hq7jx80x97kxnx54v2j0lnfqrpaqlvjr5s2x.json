@@ -1,14 +1,14 @@
 {
 	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
 	"info": {
-		"url_png_icon_64x64": "https://user-images.githubusercontent.com/89987014/143879835-31c745c8-48b5-425f-b0c2-61cf03d28933.png",
-		"url_png_logo": "https://user-images.githubusercontent.com/89987014/143879795-0b7310c4-2772-4550-a714-fb6622cbc43a.png",
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/SPO-HAN/Cardano-Stake-Pool/main/64.png",
+		"url_png_logo": "https://raw.githubusercontent.com/SPO-HAN/Cardano-Stake-Pool/main/245.png",
 		"location": "Seoul, Korea",
 		"social": {
 			"twitter_handle": "spo_han",
 			"telegram_handle": "eece0101",
 			"facebook_handle": "",
-			"youtube_handle": "UCnIPePdI2wR9qc6I3GP9xfw",
+			"youtube_handle": "nIPePdI2wR9qc6I3GP9xfw",
 			"twitch_handle": "",
 			"discord_handle": "",
 			"github_handle": ""
