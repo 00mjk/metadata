@@ -1,0 +1,8 @@
+{
+	"name": "Inactive pool. Dont delegate.",
+	"description": "This pool is inactive. It will activate only if our other pools get satureted because of Sundae ISO demand. For questions and updates on the ISO, join our telegram Group",
+	"ticker": "NORTH",
+	"homepage": "https://nordicpool.org",
+	"nonce": "1596738555",
+	"extended": "https://nordicpool.org/json/sundaeextended.json"
+}

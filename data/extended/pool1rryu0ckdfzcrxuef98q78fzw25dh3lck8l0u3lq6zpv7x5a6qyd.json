@@ -1,0 +1,16 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://cardano01.corehounds.com/icon64.png",
+		"url_png_logo": "https://cardano01.corehounds.com/logo512.png",
+		"location": "Germany, Europe",
+		"social": {},
+		"company": {
+			"name": "Corehounds, s.r.o."
+		},
+		"about": {}
+	},
+	"telegram-admin-handle": [],
+	"my-pool-ids": [
+		"18c9c7e2cd48b033732929c1e3a44e551b78ff163fdfc8fc1a1059e3"
+	]
+}
