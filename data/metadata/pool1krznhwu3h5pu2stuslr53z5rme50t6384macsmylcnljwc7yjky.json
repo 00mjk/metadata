@@ -3,5 +3,5 @@
 	"description": "a reliable and independent pool",
 	"ticker": "LEAF",
 	"homepage": "https://leaf-pool.com/",
-	"extended": "https://leaf-pool.com/metadata_extended.json"
+	"extended": "https://raw.githubusercontent.com/leaf-pool/md/master/metadata_extended.json"
 }
