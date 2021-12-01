@@ -9,7 +9,7 @@
 		},
 		"about": {
 			"me": "Single pool operator",
-			"server": "AMKT1 runs on Google servers, since it offers secure, reliable, and high-speed execution. AMKT1 has a core node (4 vCPU) and 2 relays located in the Europe. The digital footprint is offset with clean energy, making the compute impact net zero "
+			"server": "The BAG runs on Google servers, which offers secure, reliable, and high-speed execution. The BAG has a core node (4 vCPU) and 2 relays. The digital footprint is offset with clean energy."
 		}
 	}
 }
