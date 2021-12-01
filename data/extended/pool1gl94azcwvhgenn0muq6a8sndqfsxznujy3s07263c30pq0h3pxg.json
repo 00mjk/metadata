@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://thecatalyst.school/metadata/learn-64x64.png",
+		"url_png_logo": "https://thecatalyst.school/metadata/learn.png",
+		"location": "Country, Continent",
+		"social": {
+			"twitter_handle": "School_Catalyst",
+			"telegram_handle": "TheCatalystSchool",
+			"facebook_handle": "",
+			"youtube_handle": "UCIPvRvMoxhmHLUuPPcsMmmg",
+			"twitch_handle": "",
+			"discord_handle": "nqxRY59TSp",
+			"github_handle": "The-Catalyst-School"
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": ""
+		},
+		"rss": "http(s) url to valid RSS feed"
+	},
+	"telegram-admin-handle": [
+		"victorcorcino"
+	],
+	"my-pool-ids": [
+		"47cb5e8b0e65d199cdfbe035d3c26d0260614f922460ff2b51c45e10"
+	],
+	"when-satured-then-recommend": [
+		"47cb5e8b0e65d199cdfbe035d3c26d0260614f922460ff2b51c45e10"
+	]
+}

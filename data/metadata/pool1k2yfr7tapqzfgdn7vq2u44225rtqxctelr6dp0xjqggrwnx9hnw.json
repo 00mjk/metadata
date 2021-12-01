@@ -1,8 +1,8 @@
 {
-	"name": "EREPOOL BY EREGROUP AUSTRIA",
+	"name": "Block Producer (0% fee - 100% rewards) Austria",
 	"ticker": "ERE",
 	"description": "Cardano Pool Operater from Austria with Multi Language Support 7/24/365. Join our pool and stake ADA with us",
-	"homepage": "https://www.erepool.net/",
-	"nonce": "1636023551",
-	"extended": "https://eregroup.org/erepool/ere_extended.json"
+	"homepage": "https://blockproducer.io/",
+	"nonce": "1638370707",
+	"extended": "https://blockproducer.io/meta/bpextended.json"
 }

@@ -1,7 +1,7 @@
 {
 	"info": {
-		"url_png_icon_64x64": "https://eregroup.org/erepool/images/ERE64.png",
-		"url_png_logo": "https://eregroup.org/erepool/images/ERE50.png",
+		"url_png_icon_64x64": "https://blockproducer.io/images/BP64.png",
+		"url_png_logo": "https://blockproducer.io/images/BP50.png",
 		"location": "Vienna, Austria",
 		"social": {
 			"twitter_handle": "teamerepool",
@@ -13,7 +13,7 @@
 			"github_handle": "EREPool"
 		},
 		"company": {
-			"name": "EREGROUP",
+			"name": "Block Producer",
 			"addr": "",
 			"city": "Vienna",
 			"country": "Austria",

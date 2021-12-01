@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://storage.googleapis.com/spocra-pool/spcra-64x64.png",
+		"url_png_logo": "https://storage.googleapis.com/spocra-pool/spcra.png",
+		"location": "Country, Continent",
+		"social": {
+			"twitter_handle": "SPOCRA_Official",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "UCqdb3jo1IXZZ_7xDvKK1Y8A",
+			"twitch_handle": "",
+			"discord_handle": "jaGQfn2",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Stake Pool Operator Collective Representation Assembly",
+			"addr": "30 N Gould St Ste R, Sheridan, WY 82801",
+			"city": "Sheridan, WY",
+			"country": "United States",
+			"company_id": "2021-001027997",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "SPOCRA is a trade association providing a unified channel of communication and education to the Cardano Stake Pool Operators.",
+			"server": "",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"telegram-admin-handle": [
+		""
+	],
+	"my-pool-ids": [
+		"83797e10178db38667ca3a2e620806ca128279653eb452028c314bba"
+	],
+	"when-satured-then-recommend": [
+		"83797e10178db38667ca3a2e620806ca128279653eb452028c314bba"
+	]
+}
