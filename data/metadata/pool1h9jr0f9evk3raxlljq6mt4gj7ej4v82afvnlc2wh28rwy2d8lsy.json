@@ -1,7 +1,7 @@
 {
-	"name": "ADAmarkets",
-	"description": "AMKT1, stake pool of ADAmarkets",
-	"ticker": "AMKT1",
+	"name": "The BAG",
+	"description": "BAG, a stake pool of ADAmarkets",
+	"ticker": "BAG",
 	"homepage": "https://ada.markets",
 	"extended": "https://ada.markets/extended.json"
 }
