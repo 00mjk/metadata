@@ -1,0 +1,21 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://sharethelovelace.xyz/logo.png",
+		"location": "Perth, Australia",
+		"social": {
+			"twitter_handle": "sharethlovelace",
+			"telegram_handle": "",
+			"github_handle": ""
+		},
+		"about": {
+			"me": "Single Pool Operator",
+			"server": "Australian Block Producer 6CPU 16GB 180GB NVME | Top Tier Cloud Hosted & Geographically distributed Relays (USA,Germany,Australia)"
+		},
+		"my-pool-ids": {
+			"0": "033c7a00ae33e9a0fa6802b388ccfa5ca9633d712231c41c468c2d39"
+		},
+		"when-satured-then-recommend": {
+			"0": "small pools - support decentralization"
+		}
+	}
+}

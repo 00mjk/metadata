@@ -1,16 +1,16 @@
 {
 	"info": {
-		"url_png_icon_64x64": "https://ccwallet.io/icons/favicon-64x64.png",
-		"url_png_logo": "https://ccwallet.io/icons/favicon-256x256.png",
-		"location": "Worldwide",
+		"url_png_icon_64x64": "https://www.titanstaking.io/img/logo-64.png",
+		"url_png_logo": "https://www.titanstaking.io/img/logo-256.png",
+		"location": "worldwide",
 		"social": {
-			"twitter_handle": "ccwalletio",
-			"telegram_handle": "ccwalletio",
+			"twitter_handle": "titanstaking",
+			"telegram_handle": "titanstakingio",
 			"facebook_handle": "",
 			"youtube_handle": "",
 			"twitch_handle": "",
-			"discord_handle": "862344179526795265",
-			"github_handle": "ccwalletio"
+			"discord_handle": "",
+			"github_handle": ""
 		},
 		"company": {
 			"name": "Tastenkunst GmbH",
@@ -21,17 +21,17 @@
 			"vat_id": ""
 		},
 		"about": {
-			"me": "ccwallet.io - the alternative Cardano light wallet in your browser. Request features on GitHub! Join our channels: Telegram: https://t.me/ccwalletio - Twitter: https://twitter.com/ccwalletio",
+			"me": "For a TITAN strong Cardano network. 💪 Join us! Telegram: https://t.me/titanstakingio - Twitter: https://twitter.com/titanstaking",
 			"server": "Amazon AWS EC2 instances. Flexible specs for optimal performance.",
 			"company": ""
 		},
 		"rss": ""
 	},
 	"my-pool-ids": {
-		"0": "28489654d3fcce6affdde39f37c2d68dda5f42fc9f9feb8dd46d614a"
+		"0": "000000f66e28b0f18aef20555f4c4954234e3270dfbbdcc13f54e799",
+		"1": "28489654d3fcce6affdde39f37c2d68dda5f42fc9f9feb8dd46d614a"
 	},
 	"when-satured-then-recommend": {
-		"0": "0001a003afb844ce6d9409fc49e049db654a78dc77f1151cb6cd548f",
 		"1": "000000f66e28b0f18aef20555f4c4954234e3270dfbbdcc13f54e799"
 	},
 	"telegram-admin-handle": {

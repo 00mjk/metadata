@@ -2,5 +2,6 @@
 	"name": "ShareTheLovelace",
 	"description": "West Australian Pool commited to helping humans best friend",
 	"ticker": "STLL",
-	"homepage": "https://sharethelovelace.xyz"
+	"homepage": "https://sharethelovelace.xyz",
+	"extended": "https://sharethelovelace.xyz/ext_metadata.json"
 }

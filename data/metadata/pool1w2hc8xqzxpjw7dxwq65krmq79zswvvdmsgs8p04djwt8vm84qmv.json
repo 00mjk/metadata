@@ -1,6 +1,7 @@
 {
 	"name": "Wired",
-	"description": "Small team of SRE professionals, focusing on reliability, uptime & never missing a block. Dedicated to supporting community and financial education for the next generation.",
+	"description": "Small team of SRE professionals with a meticulous focus on reliability, uptime & never missing a block. Join us to help support worthy causes.",
 	"ticker": "WIRED",
-	"homepage": "https://www.wiredfoundation.org"
+	"homepage": "https://www.wiredfoundation.org",
+	"extended": "https://www.wiredfoundation.org/pool-ext.json"
 }

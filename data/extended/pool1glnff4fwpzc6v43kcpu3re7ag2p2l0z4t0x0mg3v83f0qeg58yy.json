@@ -1,44 +1,40 @@
 {
 	"info": {
-		"url_png_icon_64x64": "https://raw.githubusercontent.com/stakepoolonline/MELD-Stake-Pools/main/meld_ispo_Y.png",
-		"url_png_logo": "https://raw.githubusercontent.com/stakepoolonline/MELD-Stake-Pools/main/meld_ispo_Y.png",
-		"location": "Singapore",
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/stakepoolonline/stakepool.at/main/apple-icon-60x60.png",
+		"url_png_logo": "https://raw.githubusercontent.com/stakepoolonline/stakepool.at/main/ms-icon-150x150.png",
+		"location": "Austria, Europe",
 		"social": {
-			"twitter_handle": "MELD_labs",
-			"telegram_handle": "MELD_Global",
-			"facebook_handle": "defiprotocol",
-			"youtube_handle": "UCD6zDpq1cI68jJUS_lidwAA",
+			"twitter_handle": "ATADA_Stakepool",
+			"telegram_handle": "atada_stakepool_austria",
+			"facebook_handle": "ATADA.StakePool.Austria",
+			"youtube_handle": "",
 			"twitch_handle": "",
-			"discord_handle": "b5GsPjE8",
-			"github_handle": "MELD-labs"
+			"discord_handle": "",
+			"github_handle": "gitmachtl"
 		},
 		"company": {
-			"name": "MELD LABS PTE. LTD.",
-			"addr": "20 CECIL STREET #05-03, PLUS, Singapore, 049705",
-			"city": "Singapore",
-			"country": "Singapore",
-			"company_id": "202114817C",
-			"vat_id": "202114817C"
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
 		},
 		"about": {
-			"me": "MELD is an open-source, non-custodial DeFi liquidity protocol for lending, borrowing and earning on crypto and fiat.",
-			"server": "Running Cardano nodes on proven Cloud services.",
-			"company": "MELD LABS PTE. LTD."
-		}
-	},
-	"my-pool-ids": {
-		"0": "ed6b2d4bb0ac257bc4182e8671eef06c8d2e4d7c11871ad5f213a52c",
-		"1": "49211551021fac1c4b1f210b1818be9ed44acce3eca278bf04c8a810",
-		"2": "8af58708b7b8ce6da8a1c16a22228b346cbc833c3a1ca9e23fb8bab0",
-		"3": "88e3ef3a81d92abddf8c73f0928151ec21f1488b80f8eeabcb6cd3f0"
-	},
-	"when-satured-then-recommend": {
-		"0": "ed6b2d4bb0ac257bc4182e8671eef06c8d2e4d7c11871ad5f213a52c",
-		"1": "49211551021fac1c4b1f210b1818be9ed44acce3eca278bf04c8a810",
-		"2": "8af58708b7b8ce6da8a1c16a22228b346cbc833c3a1ca9e23fb8bab0",
-		"3": "88e3ef3a81d92abddf8c73f0928151ec21f1488b80f8eeabcb6cd3f0"
+			"me": "ATADA is a Stakepool-Operator-Supporter Pool and located in the beautiful DACH Area Austria/Germany/Switzerland. Please come and join us by delegating to ATADA! :-)",
+			"server": "Dedicate Server(s), Dual Xeon Platform, 1Gbit backbone, 10Gbit upgrade possible, ...",
+			"company": ""
+		},
+		"rss": ""
 	},
 	"telegram-admin-handle": {
-		"0": "StuartDeFi"
+		"0": "atada_stakepool"
+	},
+	"my-pool-ids": {
+		"0": "2ba96bc27be2bdde3ec11b9f696cf21fad39e49097be9b0193e6b572",
+		"1": "00000036d515e12e18cd3c88c74f09a67984c2c279a5296aa96efe89"
+	},
+	"when-satured-then-recommend": {
+		"0": "00000036d515e12e18cd3c88c74f09a67984c2c279a5296aa96efe89"
 	}
 }

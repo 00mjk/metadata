@@ -1,0 +1,11 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.wiredfoundation.org/icon.png"
+	},
+	"my-pool-ids": [
+		"72af8398023064ef34ce06a961ec1e28a0e631bb822070bead939676"
+	],
+	"when-satured-then-recommend": [
+		"72af8398023064ef34ce06a961ec1e28a0e631bb822070bead939676"
+	]
+}
