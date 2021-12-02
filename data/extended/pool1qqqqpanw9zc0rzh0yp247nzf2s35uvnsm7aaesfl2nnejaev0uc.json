@@ -2,7 +2,7 @@
 	"info": {
 		"url_png_icon_64x64": "https://www.titanstaking.io/img/logo-64.png",
 		"url_png_logo": "https://www.titanstaking.io/img/logo-256.png",
-		"location": "Leipzig, Germany",
+		"location": "worldwide",
 		"social": {
 			"twitter_handle": "titanstaking",
 			"telegram_handle": "titanstakingio",
@@ -13,24 +13,27 @@
 			"github_handle": ""
 		},
 		"company": {
-			"name": "",
-			"addr": "",
-			"city": "",
-			"country": "",
+			"name": "Tastenkunst GmbH",
+			"addr": "Grassistrasse 12",
+			"city": "Leipzig",
+			"country": "Germany",
 			"company_id": "",
 			"vat_id": ""
 		},
 		"about": {
-			"me": "For a TITAN strong Cardano network. Based in Germany. 💪 Join us! Telegram: https://t.me/titanstakingio",
+			"me": "For a TITAN strong Cardano network. 💪 Join us! Telegram: https://t.me/titanstakingio - Twitter: https://twitter.com/titanstaking",
 			"server": "Amazon AWS EC2 instances. Flexible specs for optimal performance.",
-			"company": "65f5265e7a288c5782e354b2b5ae0c0b"
+			"company": ""
 		},
 		"rss": ""
 	},
 	"my-pool-ids": {
-		"0": "000000f66e28b0f18aef20555f4c4954234e3270dfbbdcc13f54e799"
+		"0": "000000f66e28b0f18aef20555f4c4954234e3270dfbbdcc13f54e799",
+		"1": "28489654d3fcce6affdde39f37c2d68dda5f42fc9f9feb8dd46d614a"
 	},
-	"when-satured-then-recommend": {},
+	"when-satured-then-recommend": {
+		"1": "28489654d3fcce6affdde39f37c2d68dda5f42fc9f9feb8dd46d614a"
+	},
 	"telegram-admin-handle": {
 		"0": "marcelbaumberg"
 	}
