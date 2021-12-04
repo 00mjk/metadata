@@ -1,0 +1,41 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://kriptolando.net/pool/verda-stelo-64x64.png",
+		"url_png_logo": "https://kriptolando.net/pool/verda-stelo-64x64.png",
+		"location": "Zaragoza, Spain",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Kriptolando",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": "9"
+		},
+		"about": {
+			"me": "",
+			"server": "Ryzen 7 with 32Gb RAM, optic fiber 300mbps",
+			"company": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "",
+		"1": ""
+	},
+	"when-satured-then-recommend": {
+		"0": "",
+		"1": ""
+	},
+	"telegram-admin-handle": {
+		"0": "your_tg_handle"
+	}
+}
