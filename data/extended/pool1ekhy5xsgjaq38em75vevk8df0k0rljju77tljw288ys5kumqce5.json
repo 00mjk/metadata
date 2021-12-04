@@ -11,28 +11,11 @@
 			"twitter_handle": "sobitada",
 			"discord_handle": "https://discord.gg/4b7WPas",
 			"telegram_handle": "sobitada",
-			"github_handle": "outofbits"
+			"github_handle": "blockblu-io"
 		}
 	},
 	"telegram-admin-handle": {
 		"0": "khaller"
-	},
-	"votes": {
-		"https://cips.cardano.org/cips/cip23/": {
-			"vote": "No",
-			"comment": "The fixed minimum fee of 340 ADA makes it hard for newcomers and small pools to bootstrap their operation. The reduction or removal of this minimum fixed fee would benefit them. However, it should not be replaced with a new minimum margin fee, because the margin fee should be up to the market. If a pool wants to operate on small margin/no profit, it is their freedom of choice."
-		},
-		"https://spovotes.com/votes/remove-min-fee/": {
-			"vote": "Yes",
-			"comment": "The reduction or removal of the minimum fixed fee of 340 ADA would allow newcomers and small pools to bootstrap their operation more easily. This would potentially create a more competitive environment benefiting Cardano."
-		},
-		"https://spovotes.com/votes/reduce-min-fee/": {
-			"vote": "Yes",
-			"comment": "The reduction or removal of the minimum fixed fee of 340 ADA would allow newcomers and small pools to bootstrap their operation more easily. This would potentially create a more competitive environment benefiting Cardano."
-		},
-		"https://cips.cardano.org/cips/cip13/": {
-			"vote": "Yes"
-		}
 	},
 	"adapools-verification": "74c67db7eb23048a1a4cdf1c22645fb6"
 }
