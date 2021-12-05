@@ -9,15 +9,14 @@
 		},
 		"about": {
 			"me": "",
-			"server": "1 Relay (4vCPUs, 8GB, NVMe SSD) and 1x Block Producer (4vCPUs, 8GB, NVMe SSD)"
+			"server": "1x Relay (6vCPUs, 16GB, NVMe SSD) and 1x Block Producer (6vCPUs, 16GB, NVMe SSD)"
 		}
 	},
 	"my-pool-ids": {
 		"0": "pool1z8z759nqgd2lu5yzw2pxhkaq9tq3s43t2t4kk3umme6cc50zj3d"
 	},
 	"telegram-admin-handle": {
-		"0": "rebeltom",
-		"1": "rebelkuba"
+		"0": "rebelpunkcrypto"
 	},
 	"adapools_ext": {
 		"prometheus": {
