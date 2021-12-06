@@ -10,12 +10,11 @@
 		},
 		"company": {
 			"name": "Ravendexlabs",
-			"addr": "Street, Number",
 			"city": "Dublin",
 			"country": "England"
 		},
 		"about": {
-			"me": "official pool of Ravendex",
+			"me": "Official pool of Ravendex",
 			"server": "Cardano Stake servers operated by Rave - our friendly little bird."
 		}
 	},
