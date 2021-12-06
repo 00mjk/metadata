@@ -2,7 +2,7 @@
 	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
 	"info": {
 		"url_png_icon_64x64": "https://kriptolando.net/pool/verda-stelo-64x64.png",
-		"url_png_logo": "https://kriptolando.net/pool/verda-stelo-64x64.png",
+		"url_png_logo": "https://kriptolando.net/pool/cohete-64x64.png",
 		"location": "Zaragoza, Spain",
 		"social": {
 			"twitter_handle": "",
@@ -28,7 +28,7 @@
 		}
 	},
 	"my-pool-ids": {
-		"0": "",
+		"0": "41b9165ae775d044362adc8d0fd1776f8275018531109b3210e95fb2",
 		"1": ""
 	},
 	"when-satured-then-recommend": {
