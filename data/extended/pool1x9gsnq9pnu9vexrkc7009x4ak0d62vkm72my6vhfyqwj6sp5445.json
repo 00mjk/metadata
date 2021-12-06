@@ -1,8 +1,22 @@
 {
 	"info": {
-		"location": "London, England",
+		"url_png_icon_64x64": "https://ravendex.io/ravendex-logo.png",
+		"url_png_logo": "https://ravendex.io/ravendex-main-logo.png",
+		"location": "Dublin",
+		"social": {
+			"twitter_handle": "@ravendexlabs",
+			"telegram_handle": "@ravendexlabs",
+			"github_handle": "ravendexlabs"
+		},
+		"company": {
+			"name": "Ravendexlabs",
+			"addr": "Street, Number",
+			"city": "Dublin",
+			"country": "England"
+		},
 		"about": {
-			"me": "Ravendex Pool"
+			"me": "official pool of Ravendex",
+			"server": "Cardano Stake servers operated by Rave - our friendly little bird."
 		}
 	},
 	"my-pool-ids": {
