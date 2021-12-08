@@ -2,7 +2,7 @@
 	"info": {
 		"url_png_icon_64x64": "https://www.kysenpool.io/cardano/kysenpool.png",
 		"url_png_logo": "https://www.kysenpool.io/cardano/kysenpool-logo.png",
-		"location": "California, United States",
+		"location": "Singapore",
 		"social": {
 			"twitter_handle": "KysenPool",
 			"telegram_handle": "KysenPool",
@@ -12,10 +12,10 @@
 			"discord_handle": ""
 		},
 		"company": {
-			"name": "Kysen Technologies",
+			"name": "KysenPool.io ",
 			"addr": "",
 			"city": "",
-			"country": "USA",
+			"country": "Singapore",
 			"company_id": "",
 			"vat_id": ""
 		},
