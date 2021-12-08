@@ -1,6 +1,6 @@
 {
 	"name": "Reservoir Node",
-	"description": "Two locations. 100% solar energy. Minswap FISO partner.",
+	"description": "Two locations. 100% solar energy.",
 	"ticker": "RSV",
 	"homepage": "https://reservoir.network",
 	"extended": "https://reservoir.network/rsv-extended.json"

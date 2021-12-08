@@ -2,6 +2,6 @@
 	"name": "Genius Yield 2",
 	"description": "Genius Yield stake pool 2",
 	"ticker": "GENS2",
-	"homepage": "www.geniusyield.co",
+	"homepage": "https://www.geniusyield.co",
 	"extended": "https://raw.githubusercontent.com/geniusyield/GeniusStakePool/main/adapool.json"
 }
