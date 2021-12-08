@@ -5,7 +5,7 @@
 		"location": "San Francisco, California",
 		"social": {
 			"twitter_handle": "roampool",
-			"telegram_handle": "roampool",
+			"telegram_handle": "roam_pool_channel",
 			"facebook_handle": "",
 			"youtube_handle": "",
 			"twitch_handle": "",
@@ -21,8 +21,8 @@
 			"vat_id": ""
 		},
 		"about": {
-			"me": "We are roamers of the world...",
-			"server": "Beefy machine hosted in San Francisco Bay Area.",
+			"me": "We are the free spirited roamers of the world...",
+			"server": "Dedicated servers hosted in San Francisco Bay Area.",
 			"company": ""
 		}
 	},
