@@ -1,0 +1,25 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.daffytheducklingpool.com/pool/daffy_logo_64.png",
+		"url_png_logo": "https://www.daffytheducklingpool.com/pool/daffy_logo_512.png",
+		"location": "Hanoi, Vietnam",
+		"social": {
+			"twitter_handle": "daffycardano",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "UCEw6aDcP2U6zuXG_TdCia5A",
+			"twitch_handle": "",
+			"discord_handle": ""
+		},
+		"about": {
+			"me": "We are the Daffy Team, a group of software developers and crypto enthusiasts from Vietnam and France. Our journey in the Cardano Community began in March 2021. So far, we'v been enjoying the journey and want to contribute to our community. Therefore, we decided to partner and become a Stake Pool Opertor, with the aim to create a great rewards pool and contribute to the Cardano network's secure and decentralization.",
+			"server": "1 block producer & 2 relays with > 99,99% uptime."
+		}
+	},
+	"my-pool-ids": {
+		"0": "658f1716a738409dc83f9a6817e6315963ba03f6f7e48353d2ba9ea1"
+	},
+	"when-satured-then-recommend": {
+		"0": "658f1716a738409dc83f9a6817e6315963ba03f6f7e48353d2ba9ea1"
+	}
+}
