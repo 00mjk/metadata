@@ -1,8 +1,8 @@
 {
-	"name": "Nuclear Stake",
-	"ticker": "NUKE",
-	"description": "Nuclear Stake is the Cardano stake pool that provides competitive rewards to delegators",
-	"homepage": "https://nuclearstake.com",
-	"nonce": "1634756184",
-	"extended": "https://nuclearstake.com/assets/metadata/extended.json"
+	"name": "Nuclear Stake ISPO 1 (100% $NUKE)",
+	"ticker": "NUKE1",
+	"description": "During the ISPO 100% of the stake rewards will go to Nuclear Stake development. For each staked $ADA per full epoch, you get 0.0925 $NUKE. Read more at https://nuclearstake.io",
+	"homepage": "https://nuclearstake.io",
+	"nonce": "1639069340",
+	"extended": "https://nuclearstake.io/metadata/extended.json"
 }
