@@ -1,0 +1,18 @@
+{
+	"info": {
+		"location": "New York, USA",
+		"company": {
+			"city": "New Your",
+			"country": "USA"
+		},
+		"about": {
+			"me": ""
+		}
+	},
+	"my-pool-ids": {
+		"0": "dcf8e21e88051ccfd55a6baf510a9fe8c9d5b06cbea0e3b7ec013adc"
+	},
+	"when-satured-then-recommend": {
+		"0": ""
+	}
+}
