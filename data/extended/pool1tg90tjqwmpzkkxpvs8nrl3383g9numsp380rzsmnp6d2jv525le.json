@@ -9,19 +9,21 @@
 			"facebook_handle": "TADATek",
 			"youtube_handle": "channel/UC9J88LtC7d-JpVilGwTcpVQ",
 			"twitch_handle": "",
-			"discord_handle": "5tfD663u",
+			"discord_handle": "VR2sBGTNDU",
 			"github_handle": "TADATek"
 		},
 		"about": {
-			"me": "TADATek is a decentralized infrastructure for Cardano Ecosystem. Our mission is to trasit people into a real decentralized blockchain on Cardano.",
+			"me": "TADATek is a decentralized infrastructure for Cardano Ecosystem. Our mission is to transit people into a real decentralized blockchain on Cardano. ISPO will start at Epoch 310. Get TADA Token with early rate 40 ADA staking can receive 1 TADA Token with 0% Margin fee. It's amazing ISPO Program",
 			"server": "Running Cardano nodes on Dedicate Server(s), Dual Xeon Platform, 1Gbit backbone, 10Gbit upgrade possible, ..."
 		}
 	},
 	"my-pool-ids": {
-		"0": "5a0af5c80ed8456b182c81e63fc6278a0b3e6e0189de3143730e9aa9"
+		"0": "5a0af5c80ed8456b182c81e63fc6278a0b3e6e0189de3143730e9aa9",
+		"1": "95d357c010305a647b5d9aa3d53901df8be006735954c190b265966e"
 	},
 	"when-satured-then-recommend": {
-		"0": "5a0af5c80ed8456b182c81e63fc6278a0b3e6e0189de3143730e9aa9"
+		"0": "5a0af5c80ed8456b182c81e63fc6278a0b3e6e0189de3143730e9aa9",
+		"1": "95d357c010305a647b5d9aa3d53901df8be006735954c190b265966e"
 	},
 	"telegram-admin-handle": {
 		"0": "tadapool"
