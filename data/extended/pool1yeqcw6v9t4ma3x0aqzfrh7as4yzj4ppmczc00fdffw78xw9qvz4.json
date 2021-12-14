@@ -1,0 +1,21 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/JackSalamone/MBX/b6f633e1f67ab3ddb73602605eaa89b8f5d98d39/64.png",
+		"url_png_logo": "https://raw.githubusercontent.com/JackSalamone/MBX/main/logo1.png",
+		"location": "Portland, Maine",
+		"social": {
+			"youtube_handle": "Black Bear Crypto"
+		},
+		"company": {
+			"name": "Maine Blockchain LLC",
+			"addr": "PO Box 323, 14 Bar Mills Road",
+			"city": "Hollis",
+			"country": "Maine"
+		},
+		"about": {
+			"me": "Jack",
+			"server": "Founder & CEO",
+			"company": "Maine Blockchain LLC"
+		}
+	}
+}

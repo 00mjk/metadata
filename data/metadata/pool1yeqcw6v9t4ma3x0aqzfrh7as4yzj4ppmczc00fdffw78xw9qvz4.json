@@ -2,5 +2,6 @@
 	"name": "MaineBlockchain",
 	"description": "MaineBlockchain ADA stakepool",
 	"ticker": "MBX",
-	"homepage": "https://MaineBlockchain.com"
+	"homepage": "https://MaineBlockchain.com",
+	"extended": "https://raw.githubusercontent.com/JackSalamone/MBX/main/extended"
 }
