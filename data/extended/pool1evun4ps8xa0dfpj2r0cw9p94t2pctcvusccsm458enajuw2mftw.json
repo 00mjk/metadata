@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://d1jtmz275p72i8.cloudfront.net/fit-in/64x64/sls_1639323728673e-quainted.png",
+		"url_png_logo": "https://d1jtmz275p72i8.cloudfront.net/fit-in/500x500/sls_1639323728673e-quainted.png",
+		"location": "Philippines, Asia",
+		"social": {
+			"twitter_handle": "@e_quainted",
+			"telegram_handle": "equaintedBot",
+			"facebook_handle": "e-quainted",
+			"youtube_handle": "e-quainted",
+			"twitch_handle": "e-quainted",
+			"discord_handle": "e-quainted",
+			"github_handle": "e-quainted"
+		},
+		"company": {
+			"name": "e-quainted",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "77ad53217421ca7d222d6883ed279154",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "e-quainted.com",
+			"company": "e-quainted"
+		},
+		"rss": ""
+	},
+	"telegram-admin-handle": [
+		"https://t.me/equaintedBot"
+	],
+	"my-pool-ids": [
+		"cb393a8607375ed4864a1bf0e284b55a8385e19c86310dd687ccfb2e"
+	],
+	"when-satured-then-recommend": [
+		"cb393a8607375ed4864a1bf0e284b55a8385e19c86310dd687ccfb2e"
+	]
+}

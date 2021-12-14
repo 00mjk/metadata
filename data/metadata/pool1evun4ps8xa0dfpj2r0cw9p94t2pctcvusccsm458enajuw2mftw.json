@@ -1,0 +1,7 @@
+{
+	"name": "eqPool",
+	"description": "e-quainted.com Token Return Pool",
+	"ticker": "EQN",
+	"homepage": "https://e-quainted.com/",
+	"extended": "https://e-quainted.com/eqPool.extended.json"
+}

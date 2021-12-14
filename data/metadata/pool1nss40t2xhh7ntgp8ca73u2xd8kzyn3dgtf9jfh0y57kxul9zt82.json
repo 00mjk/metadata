@@ -1,7 +1,7 @@
 {
 	"name": "Beer Money",
 	"ticker": "BEER",
-	"description": "The Beer Money Stake Pool has permanant low fees and is hosted in a hybrid environment of AWS & bare metal servers to maximize server up-times and minimize network intruptions. We have full block producing capabilities outside of AWS to help promote true decentralization. Together we can build a better world and support local beverage establishments across the world!",
+	"description": "The Beer Money Stake Pool has permanant low fees and is hosted in a hybrid environment of AWS & bare metal servers to maximize server up-times and minimize network intruptions. We have full block producing capabilities outside of AWS to help promote true decentralization. Together we can build a better world!",
 	"homepage": "https://beerpool.io",
 	"nonce": "1601332689",
 	"extended": "https://beerpool.io/poolmeta-extended.json"
