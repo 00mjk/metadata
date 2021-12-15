@@ -3,5 +3,5 @@
 	"description": "四川妹子，技术大神和Cardano社区核心成员运营的矿池。专业，安全，中文支持，推特更新，电报群答疑，奥利给。",
 	"ticker": "CHINA",
 	"homepage": "https://chinablockchain.io",
-	"extended": "https://chinablockchain.io/metadata/china.extended-metadata.json"
+	"extended": "https://storage.googleapis.com/china-pool/china.extended.json"
 }

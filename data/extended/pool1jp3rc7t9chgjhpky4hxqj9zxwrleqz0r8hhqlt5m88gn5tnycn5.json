@@ -1,11 +1,11 @@
 {
 	"info": {
-		"url_png_icon_64x64": "https://chinablockchain.io/metadata/cn-64x64.png",
-		"url_png_logo": "https://chinablockchain.io/metadata/cn.png",
+		"url_png_icon_64x64": "https://storage.googleapis.com/china-pool/cn-64x64.png",
+		"url_png_logo": "https://storage.googleapis.com/china-pool/cn.png",
 		"location": "CN",
 		"social": {
-			"twitter_handle": "",
-			"telegram_handle": "",
+			"twitter_handle": "Cardano_CHINA",
+			"telegram_handle": "CHINAStakePool",
 			"facebook_handle": "",
 			"youtube_handle": "",
 			"twitch_handle": "",

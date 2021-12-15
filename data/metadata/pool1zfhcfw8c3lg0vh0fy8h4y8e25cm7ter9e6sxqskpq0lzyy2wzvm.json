@@ -1,0 +1,7 @@
+{
+	"name": "Genius Yield 3",
+	"description": "Genius Yield stake pool 3",
+	"ticker": "GENS3",
+	"homepage": "https://www.geniusyield.co",
+	"extended": "https://raw.githubusercontent.com/geniusyield/GeniusStakePool/main/adapool.json"
+}
