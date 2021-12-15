@@ -1,7 +1,7 @@
 {
 	"name": "BLACK Rocket",
-	"description": "BLACK Rocket pool, Single Stake Pool Operator, low fees (0.5%) at least till 2024, reliable and secure configuration with 3 relay nodes worldwide",
+	"description": "BLACK Rocket pool, Single Stake Pool Operator, low fees (0.5%) at least till 2024, reliable and secure configuration with 2 relay nodes",
 	"ticker": "BLACK",
-	"homepage": "https://adarocket.me",
-	"extended": "https://adarocket.me/pools/black/extended.json"
+	"homepage": "https://blackrocket.space",
+	"extended": "https://blackrocket.space/poolinfo/extended.json"
 }
