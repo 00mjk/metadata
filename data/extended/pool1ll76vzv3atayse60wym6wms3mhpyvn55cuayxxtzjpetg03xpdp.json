@@ -1,5 +1,7 @@
 {
 	"info": {
+		"url_png_icon_64x64": "https://github.com/RosePoolStaking/stakepool/raw/main/rose_logo_64.png",
+		"url_png_logo": "https://github.com/RosePoolStaking/stakepool/raw/main/rose_logo.png",
 		"location": "Germany",
 		"social": {
 			"twitter_handle": "RoseStaking",
@@ -7,15 +9,15 @@
 			"facebook_handle": "",
 			"youtube_handle": "",
 			"twitch_handle": "",
-			"discord_handle": "RoseStaking",
-			"github_handle": ""
+			"discord_handle": "",
+			"github_handle": "RosePoolStaking"
 		},
 		"company": {
 			"name": "White Rose Staking"
 		},
 		"about": {
-			"me": "ROSE by White Rose Staking ! Not your keys - Not your coins",
-			"server": "Azure Environment + Self-hosted Servers with UPS."
+			"me": "ROSE by White Rose Staking ! Not your keys - Not your coins. We believe in decentralization and want to support the Cardano network with our pool.",
+			"server": "Self-hosted/baremetal server setup with UPS + 1 Cloud Relay. Active Backups and 24/7 monitoring on all our nodes."
 		}
 	}
 }
