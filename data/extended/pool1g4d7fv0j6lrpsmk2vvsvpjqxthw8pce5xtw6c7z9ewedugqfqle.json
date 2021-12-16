@@ -13,13 +13,11 @@
 		},
 		"company": {
 			"name": "Dionysus Pool",
-			"addr": "Bleicherweg 30, 8002 ZH",
 			"city": "Zurich",
 			"country": "Switzerland"
 		},
 		"about": {
-			"us": "We provide World-First Managed Rewards Distribution Service. Stake with Dionysus & aim for extra rewards!",
-			"Infrastructure": "Bare Metal Server - Redundant Servers Structure with high availability and loadbalancing. \n Servers: \n 2x A+ Server 1014S-WTRT \n 2x 1x AMD Rome 7452, 32C, 2.35GHz \n 8x 64GB DDR4-3200 RAM (512GB) \n 1x 480GB SATA SSD \n 1x 10GBase-T (RJ45) dual-port NIC \n \n  Storage (Raid 6): \n 12x 7TB Intel SSD DC S4500 Series"
+			"Server": "Bare Metal Server - Redundant Servers Structure with high availability and loadbalancing. \n Servers: \n 2x A+ Server 1014S-WTRT \n 2x 1x AMD Rome 7452, 32C, 2.35GHz \n 8x 64GB DDR4-3200 RAM (512GB) \n 1x 480GB SATA SSD \n 1x 10GBase-T (RJ45) dual-port NIC \n \n  Storage (Raid 6): \n 12x 7TB Intel SSD DC S4500 Series"
 		}
 	}
 }
