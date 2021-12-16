@@ -1,7 +1,7 @@
 {
 	"info": {
-		"url_png_icon_64x64": "https://cardanistas.files.wordpress.com/2021/05/logo_64x64.png",
-		"url_png_logo": "https://cardanistas.files.wordpress.com/2021/05/logo_cardanistas_circulo.png",
+		"url_png_icon_64x64": "https://i.pinimg.com/280x280_RS/af/3e/a3/af3ea37477d203228ec6200112967bae.jpg",
+		"url_png_logo": "https://i.pinimg.com/originals/0e/49/ee/0e49ee4977c19730722407da6c81dfe0.jpg",
 		"location": "Brazil",
 		"social": {
 			"twitter_handle": "cardanistas",
@@ -16,7 +16,7 @@
 			"country": "Brazil"
 		},
 		"about": {
-			"server": "We’re currently utilizing VPS services to sustain a low-cost operation, a total of 4 servers hosted in Brazil, USA and Germany for better connectivity, each server having 2vCPU + 4GB RAM + 60GB HD. // Atualmente, estamos utilizando serviços VPS para sustentar uma operação de baixo custo, um total de 4 servidores hospedados no Brasil, EUA e Alemanha, para melhor conectividade, cada servidor com 2vCPU + 8GB RAM + 60GB HD.",
+			"server": "We’re currently utilizing VPS services to sustain a low-cost operation, a total of 4 servers hosted in Brazil, USA and Germany for better connectivity, each server having 2vCPU + 16GB RAM + 60GB HD. // Atualmente, estamos utilizando serviços VPS para sustentar uma operação de baixo custo, um total de 4 servidores hospedados no Brasil, EUA e Alemanha, para melhor conectividade, cada servidor com 2vCPU + 16GB RAM + 60GB HD.",
 			"company": "A stakepool, based in Brazil, that supports education and diversity on Cardano Community. // Uma stakepool, com sede no Brasil, que apoia a educação e a diversidade na Comunidade Cardano."
 		}
 	},
@@ -32,7 +32,7 @@
 	},
 	"telegram-admin-handle": {
 		"0": "aticomismana",
-		"1": "treseisnove",
+		"1": "mariacarmo369",
 		"2": "boscox"
 	}
 }
