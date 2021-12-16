@@ -1,7 +1,6 @@
 {
 	"info": {
 		"url_png_icon_64x64": "https://git.io/JD2Hk",
-		"url_png_logo": "https://git.io/JDgOS",
 		"location": "Zurich, Switzerland",
 		"social": {
 			"twitter_handle": "dionysuspool",
@@ -13,7 +12,6 @@
 		},
 		"company": {
 			"name": "Dionysus Pool",
-			"addr": "Bleicherweg 30, 8002 ZH",
 			"city": "Zurich",
 			"country": "Switzerland"
 		},
