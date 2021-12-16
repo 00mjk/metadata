@@ -1,8 +1,8 @@
 {
-	"name": "Nuclear Stake ISPO 1 (100% $NUKE)",
-	"ticker": "NUKE1",
-	"description": "During the ISPO 100% of the stake rewards will go to Nuclear Stake development. For each staked $ADA per full epoch, you get 0.0925 $NUKE. Read more at https://nuclearstake.io",
+	"name": "Nuclear Stake",
+	"ticker": "NUKE",
+	"description": "Nuclear Stake is the Cardano stake pool that provides competitive rewards to delegators",
 	"homepage": "https://nuclearstake.io",
-	"nonce": "1639069340",
+	"nonce": "1639626311",
 	"extended": "https://nuclearstake.io/metadata/extended.json"
 }
