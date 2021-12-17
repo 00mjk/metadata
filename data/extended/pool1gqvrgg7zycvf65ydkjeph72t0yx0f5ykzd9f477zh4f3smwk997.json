@@ -4,8 +4,8 @@
 		"witness": "ed25519_sig18yvg26js9mayutavwrs9eatfprwd4hrdenj8y7s2sfv62sv6pkej39mq6zv0tgyfzmqn3ke5p48ytlnv9fng89rqcscyas9fd6cegpqe0ksl3"
 	},
 	"info": {
-		"url_png_icon_64x64": "https://www.sandstone.io/sandstone-64x64.png",
-		"url_png_logo": "https://www.sandstone.io/sandstone-64x64.png",
+		"url_png_icon_64x64": "https://www.sandstone.io/images/sandstone-64x64.png",
+		"url_png_logo": "https://www.sandstone.io/images/sandstone-64x64.png",
 		"location": "Perth, Western Australia",
 		"social": {
 			"twitter_handle": "sandstonepool",
@@ -14,10 +14,10 @@
 			"youtube_handle": "",
 			"twitch_handle": "",
 			"discord_handle": "",
-			"github_handle": "michaeljfazio"
+			"github_handle": "sandstonepool"
 		},
 		"about": {
-			"me": "Software Architect with over fourteen years of professional experience designing, implementing, and delivering complex distributed systems.",
+			"me": "Operated by a professional team of engineers with extensive experience designing, implementing, and delivering complex distributed systems.",
 			"server": "Cloud hosted on Amazon Web Services. Deployed across three availability zones. Architected for high-availability, zero downtime, and maximum performance.",
 			"company": "Sandstone is a professional Stake Pool running on the Cardano blockchain. We offer secure staking with a high-level of assurance that our servers remain online and minting blocks at all times."
 		}
