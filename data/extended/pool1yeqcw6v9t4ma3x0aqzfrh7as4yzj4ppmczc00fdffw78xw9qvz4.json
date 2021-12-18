@@ -10,11 +10,11 @@
 			"name": "Maine Blockchain LLC",
 			"addr": "PO Box 323 - 14 Bar Mills Road",
 			"city": "Hollis Center",
-			"country": "Maine"
+			"country": "Maine, USA"
 		},
 		"about": {
-			"me": "Jack Salamone",
-			"company": "Maine Blockchain LLC"
+			"me": "Jack Salamone, Founder & CEO",
+			"company": "Maine Blockchain LLC is a registered business in the state of Maine, USA. We are experienced in blockchain technology, server adminstration, and smart contracts. Our committment to you includes a dedication to stake pool quality and uptime. Visit our website at MaineBlockchain.com to learn more about our financial products and philosophy."
 		}
 	}
 }
