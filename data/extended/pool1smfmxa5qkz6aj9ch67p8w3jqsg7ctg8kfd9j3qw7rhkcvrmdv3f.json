@@ -1,0 +1,17 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://happyraspberrypool.com/assets/images/happy_favicon.png",
+		"url_png_logo": "https://happyraspberrypool.com/assets/images/HappyRaspberry.png",
+		"location": "Prague, Czech Republic",
+		"social": {
+			"twitter_handle": "HappyADApool"
+		},
+		"company": {
+			"name": "Happy Raspberry ❤️"
+		},
+		"about": {
+			"me": "Passionate IT enthusiast, looking forward to all the opportunities for Technologies to improve peoples lives, like Cardano.",
+			"server": "Raspbeery Pi's, 99,9% uptime, on-premise, whole household is powered by 100% renewable energy produced locally in Czech Republic, Carbon Positive, planting trees."
+		}
+	}
+}
