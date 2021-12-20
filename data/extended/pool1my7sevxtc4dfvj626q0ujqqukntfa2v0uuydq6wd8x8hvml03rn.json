@@ -14,8 +14,8 @@
 			"github_handle": ""
 		},
 		"about": {
-			"me": "I am an Electronics and Communications engineer from Australia. This Staking service was built for my daughter with the hope that one day she will be able to be a Stake Pool operator and carry the legacy of the Power Stake Pool. As a family, we are strong believers and supporters of the Cardano philosophy, and my daughter was named Ada in honor of Ada Lovelace and the Cardano Blockchain. Thank you for staking with us. We are committed to keeping the Variable fee as long as possible. ",
-			"server": "A mix of High performance Cloud and Bare metal computers to provide highest possible uptime. 3x relays, 2x BP node, 3x Redundancy nodes "
+			"me": "I am an Electronics and Communications engineer from Australia. This Staking service was built for my daughter with the hope that one day she will be able to be a Stake Pool operator and carry the legacy of the Power Stake Pool. As a family, we are strong believers and supporters of the Cardano philosophy, and my daughter was named Ada in honor of Ada Lovelace and the Cardano Blockchain. Thank you for staking with us. We are committed to keeping the Variable fee as low as possible. ",
+			"server": "A mix of High performance Cloud and Bare metal computers to provide highest possible uptime. 10x relays, 2x BP node, 2x Redundancy nodes "
 		},
 		"rss": "http(s) url to valid RSS feed"
 	},
