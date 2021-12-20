@@ -9,7 +9,7 @@
 			"facebook_handle": "psychedelicadapool ",
 			"youtube_handle": "channel/UCRVtkRVKIQ3voNPpcUfvUAQ",
 			"twitch_handle": "",
-			"discord_handle": "",
+			"discord_handle": "https://discord.gg/5XZJavFMqr",
 			"github_handle": ""
 		},
 		"company": {
@@ -21,8 +21,8 @@
 			"vat_id": ""
 		},
 		"about": {
-			"me": "PsyADA | Psychedelic Cardano Stake Pool | Pool supporting psychedelic research & plant medicine projects",
-			"server": "BP 6CPUs, 16GB Ram, SSD | 3 Relays - Germany & Czech Republic",
+			"me": "PsyADA | Psychedelic Cardano Stake Pool | Pool supporting psychedelic research & plant medicine projects, also planting trees",
+			"server": "3 cloud servers (small providers), 16GB RAM, dedicated CPUs, SSD, Backup BP and Relay",
 			"company": ""
 		},
 		"rss": "http(s) url to valid RSS feed"
