@@ -2,5 +2,6 @@
 	"name": "Boolepool",
 	"description": "Boolepool",
 	"ticker": "BSWAP",
-	"homepage": "https://booleswap.io"
+	"homepage": "https://booleswap.io",
+	"extended": "https://booleswap.pool-info.org/booleswap-metadata-extended.json"
 }

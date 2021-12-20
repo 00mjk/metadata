@@ -1,0 +1,17 @@
+{
+	"info": {
+		"location": "Dublin",
+		"company": {
+			"name": "Booleswap",
+			"city": "Dublin",
+			"country": "England"
+		},
+		"about": {
+			"me": "Official pool of Booleswap",
+			"server": "Cardano Stake servers operated by Booleswap."
+		}
+	},
+	"my-pool-ids": {
+		"0": "53a4d2a67a0a9a3904c5308a26ea6e1674de3ee486bc1a410f099215"
+	}
+}
