@@ -1,19 +1,19 @@
 {
 	"info": {
-		"url_png_icon_64x64": "https://raw.githubusercontent.com/crowsfinest/trinity-stake-pool/main/smallest1.png",
-		"url_png_logo": "https://raw.githubusercontent.com/crowsfinest/trinity-stake-pool/main/smallest.png",
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/crowsfinest/trinity-stake-pool/main/Capture1.png",
+		"url_png_logo": "https://raw.githubusercontent.com/crowsfinest/trinity-stake-pool/main/Capture1.png",
 		"location": "",
 		"social": {
-			"twitter_handle": "NF_Trinity",
-			"telegram_handle": "joinchat/mZNJyyl77lVlZTIx",
+			"twitter_handle": "Pernispool",
+			"telegram_handle": "",
 			"facebook_handle": "",
 			"youtube_handle": "",
 			"twitch_handle": "",
-			"discord_handle": "xQrRcz4TT9",
+			"discord_handle": "",
 			"github_handle": ""
 		},
 		"company": {
-			"name": "NFTrinity",
+			"name": "Pernis Pool",
 			"addr": "",
 			"city": "",
 			"country": "",
@@ -21,7 +21,7 @@
 			"vat_id": ""
 		},
 		"about": {
-			"me": "NFTrinity is a team of three artists who love the Cardano NFT space. Trinity Pool supports our work and helps us assist other artists to enter the world of NFTs.",
+			"me": "Stake with the power of Pernis and be amazed.",
 			"server": "1 block producer and 3 relay nodes, monitored and maintained at all times, nodes are geographically separated for reliability. ",
 			"company": ""
 		},
