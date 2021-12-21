@@ -1,0 +1,39 @@
+{
+	"info": {
+		"url_png_icon_64x64": "http://meta.cardanoontheride.com/logo.jpg",
+		"url_png_logo": "http://meta.cardanoontheride.com/logo.jpg",
+		"location": "Spain",
+		"social": {
+			"twitter_handle": "funontheride",
+			"telegram_handle": "cardanoontheride",
+			"facebook_handle": "funontheride",
+			"youtube_handle": "FunOntheRide",
+			"twitch_handle": "funontheride",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Cardano On the Ride",
+			"addr": "",
+			"city": "",
+			"country": "Spain",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": ""
+		},
+		"rss": "http(s) url to valid RSS feed"
+	},
+	"telegram-admin-handle": [
+		""
+	],
+	"my-pool-ids": [
+		"996affa4d66f85e88052a1294a907fcac7b422865649d2ac28fde3c7"
+	],
+	"when-satured-then-recommend": [
+		"996affa4d66f85e88052a1294a907fcac7b422865649d2ac28fde3c7"
+	]
+}

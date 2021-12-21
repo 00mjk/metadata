@@ -1,6 +1,7 @@
 {
 	"name": "Staker Cove",
-	"description": "Maximum passive income. Secure cloud servers, Always low fees.",
+	"description": "Join us in the blockchain revolution!",
 	"ticker": "SCOVE",
-	"homepage": "https://www.cardano.stakercove.io"
+	"homepage": "https://www.cardano.stakercove.io",
+	"extended": "https://www.stakercove.io/extendedpoolMetaData.json"
 }

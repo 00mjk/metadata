@@ -1,0 +1,23 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://stakercove.io/poolicon.png",
+		"url_png_logo": "https://stakercove.io/poollogo.png",
+		"location": "United States of America",
+		"social": {
+			"twitter_handle": "@StakerCove",
+			"telegram_handle": "@StakerCove",
+			"facebook_handle": "https://www.facebook.com/StakerCove",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Staker Cove"
+		},
+		"about": {
+			"server": "Secure Dedicated Linux cloud servers",
+			"company": "https://stakercove.io/cardano"
+		}
+	}
+}
