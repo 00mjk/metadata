@@ -1,7 +1,7 @@
 {
-	"name": "Trinity Pool",
-	"description": "This pool supports independent artists creating cool projects and NFT giveaways!",
-	"ticker": "TRIN",
-	"homepage": "https://nftrinity.io",
+	"name": "Pernis Pool",
+	"description": "Stake with the power of Pernis and be amazed.",
+	"ticker": "PERN",
+	"homepage": "https://pernispool.io",
 	"extended": "https://raw.githubusercontent.com/crowsfinest/trinity-stake-pool/main/extended.json"
 }

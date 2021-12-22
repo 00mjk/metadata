@@ -1,0 +1,8 @@
+{
+	"name": "Gecko Stake Pool",
+	"ticker": "GECKO",
+	"description": "Gecko Stake Pool",
+	"homepage": "https://gecko-pool.com",
+	"nonce": "1640075193",
+	"extended": "https://gecko-pool.com/pool/extendedpoolmeta.json"
+}

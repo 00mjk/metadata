@@ -1,7 +1,7 @@
 {
-	"name": "RPAW2 ",
-	"description": "Keeping Cardano 100% Decentralized!",
-	"ticker": "RPAW2",
-	"homepage": "http://www.rpawstakepools.com",
-	"extended": "https://raw.githubusercontent.com/NovaLater/cardano/main/extendedMetaData.json"
+	"name": "Sassy Wear",
+	"description": "The official stake pool of Sassy Wear",
+	"ticker": "SASSY",
+	"homepage": "https://www.sassywear.io",
+	"extended": "https://bit.ly/3dofv11"
 }
