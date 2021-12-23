@@ -1,6 +1,7 @@
 {
 	"name": "OKNW Cardano Pool",
-	"description": "カルダノネットワーク分散化と安定化に沖縄県から貢献いたします。安定したプール運営を心がけます！",
+	"description": "おきなわ県からカルダノに貢献したいと思って立ち上げたプール「OKNW Stake Pool」です。カルダノネットワークの分散化に貢献できるよう頑張ります！",
 	"ticker": "OKNW",
-	"homepage": "https://twitter.com/oknw_pool"
+	"homepage": "https://twitter.com/oknw_pool",
+	"extended": "https://git.io/JyUMt"
 }

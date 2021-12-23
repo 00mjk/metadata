@@ -1,0 +1,13 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/oknw-pool/info/master/oknw-pool-64.png",
+		"url_png_logo": "https://raw.githubusercontent.com/oknw-pool/info/master/oknw-pool-260.png",
+		"social": {
+			"twitter_handle": "oknw_pool"
+		},
+		"about": {
+			"me": "おきなわ県からカルダノに貢献したいと思って立ち上げたプール「OKNW Stake Pool」です。カルダノネットワークの分散化に貢献できるよう頑張ります! This is OKNW Stake Pool, a pool I started to contribute to Cardano from Okinawa in Japan. We'll do our best to help decentralize the Cardano network!",
+			"server": "VPS 16GB"
+		}
+	}
+}
