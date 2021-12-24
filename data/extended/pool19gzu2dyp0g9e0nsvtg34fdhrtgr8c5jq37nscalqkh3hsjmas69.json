@@ -1,0 +1,33 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/HarmonicPool/poolInfos/main/fullLogo.ico",
+		"url_png_logo": "https://raw.githubusercontent.com/HarmonicPool/poolInfos/9d44ae4afcdfff0e5394a208f408147c5150a20c/HarmonicLogo_fullBg_small.png",
+		"location": "Italy",
+		"social": {
+			"twitter_handle": "HarmonicPool",
+			"telegram_handle": "HarmonicPool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "HarmonicPool"
+		},
+		"company": {
+			"name": "Harmonic",
+			"addr": "",
+			"city": "",
+			"country": "Italy",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "enhusiast SPO, always looking for integrationg innovations",
+			"server": "Dedicated servers with 16 RAM each, stable and reliable internet connection, equipped with Uninterrupted Power Supply",
+			"company": ""
+		},
+		"my-pool-ids": {
+			"0": "2a05c534817a0b97ce0c5a2354b6e35a067c52408fa70c77e0b5e378",
+			"1": ""
+		}
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://github.com/Skeeter69/boapool/blob/8b239445be4f9aa10211741a67356094c2f01f4d/boa.png/?raw=true",
+		"url_png_logo": "https://github.com/Skeeter69/boapool/blob/8b239445be4f9aa10211741a67356094c2f01f4d/boafil.jpg/?raw=true",
+		"location": "Bremen, Germany",
+		"social": {
+			"telegram_handle": "boapool",
+			"github_handle": "Skeeter69"
+		},
+		"about": {
+			"me": "https://docs.armada-alliance.com/learn/intermediate-guide/pi-pool-tutorial",
+			"server": "Fully running on 64-bit ARMed Raspberry Pi's with 240GB Intenso High Performance M.2 SATA storage.",
+			"company": "Armada Alliance"
+		},
+		"my-pool-ids": {
+			"0": "9cbaa13cc5fdaae9c2b517c8596d184620375b5b77191f50bb46abcd"
+		},
+		"when-satured-then-recommend": {
+			"0": "4f5e469a40547208cf9876b36ae9b23874c302ab8ab263a952bbae6a"
+		}
+	}
+}

@@ -2,5 +2,6 @@
 	"name": "Harmonic",
 	"description": "a pool actively putting all the effort in supporting decentralization by providing high-quality services to interact with the blockchain",
 	"ticker": "ARMN",
-	"homepage": "https://harmonicpool.on.fleek.co"
+	"homepage": "https://harmonicpool.on.fleek.co",
+	"extended": "https://raw.githubusercontent.com/HarmonicPool/poolInfos/main/extendedMetaData.json"
 }
