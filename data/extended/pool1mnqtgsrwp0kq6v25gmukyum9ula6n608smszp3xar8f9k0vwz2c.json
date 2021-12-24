@@ -2,7 +2,10 @@
 	"info": {
 		"url_png_icon_64x64": "https://gecko-pool.com/pool/logo.png",
 		"url_png_logo": "https://gecko-pool.com/pool/logo64x64.png",
-		"location": "Karlsruhe, Germany"
+		"location": "Karlsruhe, Germany",
+		"social": {
+			"twitter_handle": "gecko_pool"
+		}
 	},
 	"adapools-verify": "b4e952ccaacc44227ccaf0c6b6843b7a"
 }
