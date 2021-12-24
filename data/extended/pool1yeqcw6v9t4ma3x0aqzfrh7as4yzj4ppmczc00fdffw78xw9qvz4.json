@@ -4,7 +4,9 @@
 		"url_png_logo": "https://raw.githubusercontent.com/JackSalamone/MBX/main/logo1.png",
 		"location": "Portland, Maine",
 		"social": {
-			"youtube_handle": "Black Bear Crypto"
+			"youtube_handle": "Black Bear Crypto",
+			"telegram_handle": "MBX_DeFiStrategies",
+			"github_handle": "JackSalamone"
 		},
 		"company": {
 			"name": "Maine Blockchain LLC",
