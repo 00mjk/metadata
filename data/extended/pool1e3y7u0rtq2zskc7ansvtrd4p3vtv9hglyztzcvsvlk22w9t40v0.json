@@ -13,17 +13,17 @@
 			"github_handle": "CardenPool"
 		},
 		"company": {
-			"name": "",
+			"name": "Carden Pool",
 			"addr": "",
-			"city": "",
-			"country": "",
+			"city": "Bologna",
+			"country": "Italy",
 			"company_id": "",
 			"vat_id": ""
 		},
 		"about": {
 			"me": "Single pool operators working for a real decentralization. 24/7 monitoring. #securitylovers #ciscocertified #dreamers",
-			"server": "3X Lenovo M700-Small low energy servers (i5 6600, 12GB ram, 256GB SSD + 500GB for disaster recovery), Gigabit fiber optic connection and UPS for over 2 hours of power backup. #sustainable",
-			"company": "Carden Pool is a premium staking pool to make your ADA's worth. We are two Single Pool Operators that created and actively improving this bare metal pool, with the aim to partecipate to a real network decentralization. The whole infrastructure stands out its low CO2 foot print, thanks to the meager power consumption! It’s a mission driven pool where 10% of pool operator rewards will be devolved to ForestaMI project, with the aim to reforest the city of Milan and its region."
+			"server": "4X Lenovo M700-Small low energy servers (i5 6600, 12GB ram, 256GB SSD + 500GB for disaster recovery), Gigabit fiber optic connection and UPS for over 2 hours of power backup. #sustainable",
+			"company": "Carden Pool is a premium staking pool to make your ADA's worth. We are two Single Pool Operators that created and actively improving this bare metal pool, with the aim to partecipate to a real network decentralization. The whole infrastructure stands out thanks to its meager power consumption of 55W/h! CRPL is a Carbon Neutral pool supplyed by renewable energy. It’s a mission driven pool where 10% of pool operator rewards will be devolved to ForestaMI project, with the aim to reforest the city of Milan and its region."
 		},
 		"rss": "https://cardenpool.org/feed/"
 	},
