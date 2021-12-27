@@ -1,0 +1,7 @@
+{
+	"name": "Pool For Lovelace 01",
+	"ticker": "PFL01",
+	"description": "Just a pool maintained by a cardano enthusiasts. 24/7 Monitoring.",
+	"homepage": "https://poolforlovelace.me",
+	"extended": "https://poolforlovelace.me/extended.json"
+}
