@@ -1,8 +1,8 @@
 {
 	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file",
 	"info": {
-		"url_png_icon_64x64": "http(s) url to pool icon; png format; not animated; max 40kb",
-		"url_png_logo": "http(s) url to pool logo; png format; not animated; max 50kb",
+		"url_png_icon_64x64": "https://git.io/JyPNy",
+		"url_png_logo": "https://git.io/JyPNy",
 		"location": "L,E",
 		"social": {
 			"twitter_handle": "sock_ops",
@@ -16,8 +16,8 @@
 		"company": {
 			"name": "Company Name",
 			"addr": "Street, Number",
-			"city": "L",
-			"country": "E",
+			"city": "LL",
+			"country": "EE",
 			"company_id": "123456789",
 			"vat_id": "123456789"
 		},
