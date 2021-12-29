@@ -9,8 +9,8 @@
 			"facebook_handle": "",
 			"youtube_handle": "",
 			"twitch_handle": "",
-			"discord_handle": "",
-			"github_handle": ""
+			"discord_handle": "https://discord.gg/9NzS4CcMTM",
+			"github_handle": "jsemrau"
 		},
 		"company": {
 			"name": "Red Bike Asia",
@@ -21,9 +21,9 @@
 			"vat_id": ""
 		},
 		"about": {
-			"me": " Make Mobility Decentralized ",
+			"me": " Red Bike is the official Stakepool of the finclout project ",
 			"server": "Linode VPS",
-			"company": " Red Bike Asia"
+			"company": "Ternary Capital Group, Inc"
 		}
 	},
 	"my-pool-ids": {
@@ -31,8 +31,8 @@
 		"1": ""
 	},
 	"when-satured-then-recommend": {
-		"0": "",
-		"1": ""
+		"0": "RBA1",
+		"1": "RBA2"
 	},
 	"telegram-admin-handle": {
 		"0": "finclout"
