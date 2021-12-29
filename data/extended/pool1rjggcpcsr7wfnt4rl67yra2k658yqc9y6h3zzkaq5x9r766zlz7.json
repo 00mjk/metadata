@@ -1,0 +1,30 @@
+{
+	"how-to-implement": "https://zpngstakepool.com/ZPNG1/extendedMetaData.json",
+	"info": {
+		"url_png_icon_64x64": "https://zpngstakepool.com/ZPNG1/logo_circle_64x64.png",
+		"url_png_logo": "https://zpngstakepool.com/ZPNG1/logo_square.png",
+		"location": "Tokyo, Japan",
+		"social": {
+			"twitter_handle": "zipangstakepool",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Operated by Microsoft MVP winners, banking system developers, and IT companies",
+			"server": "Running on Microsoft Azure. 6Core CPU / 16GB RAM / 400GB SSD",
+			"company": "..."
+		}
+	}
+}
