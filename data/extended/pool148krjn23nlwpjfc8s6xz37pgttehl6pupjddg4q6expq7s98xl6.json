@@ -22,7 +22,7 @@
 		},
 		"about": {
 			"me": "Father, Son, Brother, Friend. Always pursuing the advancement of STEM to our children.",
-			"server": "Each cluster is run on a pair of Cisco UCS-C blades. 2x Power, 4x Network, Debian. Each node is 8 CPU // 16G RAM // 250G SSD. Hot/Cold Key Storage",
+			"server": "Each cluster is run on a pair of Cisco UCS-C blades. 2x Power, 4x Network, Debian. Each node is 12 CPU // 16G RAM // 250G SSD. Hot/Cold Key Storage",
 			"company": "..."
 		}
 	},
