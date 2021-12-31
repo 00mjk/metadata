@@ -1,0 +1,33 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://rollway.it/icone-64/64.png?raw=true",
+		"url_png_logo": "https://rollway.it/logo.png?raw=true",
+		"location": "Veneto, Italy",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "rollway",
+			"facebook_handle": "rollway.it",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Rollway",
+			"addr": "",
+			"city": "venice",
+			"country": "IT",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Single pool operater. Try to bring the cardano World to Southtyrol",
+			"server": "Fast and sophisticated computers powered with green energy",
+			"company": ""
+		},
+		"my-pool-ids": {
+			"0": "f1e5b8134b7c78d42b83662d0c9093c688a9580ad5fb2f30cb74058f",
+			"1": ""
+		}
+	}
+}

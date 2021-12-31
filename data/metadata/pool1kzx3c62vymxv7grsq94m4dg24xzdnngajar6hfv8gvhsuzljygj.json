@@ -1,6 +1,7 @@
 {
 	"name": "SiriusStakePool",
-	"description": "全力でカルダノを愛し、普及活動をし、委任者にコミットするプールです。定期的にNFT宝くじを開催しますので奮ってご参加ください！また本業の経験を活かし、社会貢献としてエンジニアの育成や資格/就職支援も行っています。｜I love Cardano with all its might, promote it, and commit to delegators. We hold NFT lotteries on a regular basis, so please join us!",
+	"description": "全力でカルダノを愛し、普及活動をし、委任者にコミットするプールです。定期的にNFT宝くじを開催しますので奮ってご参加ください！また本業の経験を活かし、社会貢献としてエンジニアの育成や資格/就職支援も行っています。｜We hold NFT lotteries on a regular basis.",
 	"ticker": "SIR",
-	"homepage": "https://ada-sirpool.com/"
+	"homepage": "https://ada-sirpool.com/",
+	"extended": "https://git.io/Jy5ak"
 }

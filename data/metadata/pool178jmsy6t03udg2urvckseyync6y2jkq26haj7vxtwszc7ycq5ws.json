@@ -2,5 +2,6 @@
 	"name": "Rollway",
 	"description": "Rollway it's Italian Smarter Affordable Faster Cardano Staking Pool",
 	"ticker": "ROLL",
-	"homepage": "https://rollway.it"
+	"homepage": "https://rollway.it",
+	"extended": "https://rollway.it/extended.json"
 }
