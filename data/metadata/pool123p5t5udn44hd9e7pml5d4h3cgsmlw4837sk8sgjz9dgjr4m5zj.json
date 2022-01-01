@@ -1,0 +1,7 @@
+{
+	"name": "Millabs Stake Pool",
+	"description": "This pool is the Millabs Corporation primary producer pool.",
+	"ticker": "GMS",
+	"homepage": "https://www.millabs.net/cardano/spo",
+	"extended": "https://www.millabs.net/cardano/spo/millabsPool.extended.json"
+}
