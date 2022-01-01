@@ -1,6 +1,6 @@
 {
-	"name": "TAX adjustment Stake Pool",
+	"name": "TAX Adjustment Stake Pool",
 	"description": "This is a 99.99% reward pool. If you want to stop rewarding your own wagers to adjust your taxes, you can delegate to this pool. You can contribute to Cardano's blockchain while reducing your own reward to almost nothing.",
-	"ticker": "TAXSP",
+	"ticker": "TAX",
 	"homepage": "https://no-tax.biz/"
 }
