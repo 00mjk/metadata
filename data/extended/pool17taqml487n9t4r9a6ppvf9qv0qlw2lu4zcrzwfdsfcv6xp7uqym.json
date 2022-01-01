@@ -20,8 +20,8 @@
 			"vat_id": ""
 		},
 		"about": {
-			"me": "Blockchain Enthusiast | Professional IT Service Provider | Stake Pool Operator | Always looking to improve processes and help the Cardano community. I have been in the IT field for 15 years, and specialize in Server Infrastructure, Disaster Recovery and Cyber Security ",
-			"server": "Security first, on-site servers in Edmonton, Alberta. Canada. Multi-Site redundancy and replication for fast disaster recovery. 2x AMD EPYC 8 Core servers 128GB RAM Primary, 64GB RAM Secondary, NVMe SSDs, Gigabit Fibre link with Failover internet. Server-grade EATON Lithium UPS units protecting the network racks. Also running a Singapore cloud node for geo-redundancy.",
+			"me": "Blockchain Enthusiast | Professional IT Service Provider | Stake Pool Operator | Always looking to improve processes and help the Cardano community. I have been in the IT field for 15 years, and specialize in Server Infrastructure, Disaster Recovery and Cyber Security. FreeBSD supporter",
+			"server": "Baremetal servers in Edmonton, Alberta. Canada. Multi-Site redundancy for fast disaster recovery. 3x AMD EPYC 8 Core servers 128GB RAM. NVMe SSDs, Gigabit Fibre link with Failover internet. Server-grade EATON Lithium UPS units protecting the network racks. Also running a Singapore and Uruguay cloud nodes for geo-redundancy.",
 			"company": ""
 		}
 	},
