@@ -3,5 +3,6 @@
 	"ticker": "MATAK",
 	"description": "Mataka Pool 1 operated by Mataka Node.",
 	"homepage": "https://matakanode.io",
-	"nonce": "1637244273"
+	"nonce": "1637244273",
+	"verify": "662d7d9fd3005ca02ac1b4836159de61"
 }
