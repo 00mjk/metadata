@@ -4,8 +4,7 @@
 		"url_png_logo": "https://gecko-pool.com/pool/logo64x64.png",
 		"location": "Germany",
 		"social": {
-			"twitter_handle": "gecko_pool",
-			"github_handle": "GeckoPool"
+			"twitter_handle": "gecko_pool"
 		}
 	},
 	"adapools-verify": "b4e952ccaacc44227ccaf0c6b6843b7a"
