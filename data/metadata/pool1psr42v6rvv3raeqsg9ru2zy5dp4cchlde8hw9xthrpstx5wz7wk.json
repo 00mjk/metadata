@@ -2,5 +2,6 @@
 	"name": "Politikoz",
 	"description": "ZERO MARGIN and ZERO FIXED COST -  100% of Fixed Cost + Margin is redistributed to KOZ Holder and delegators through elections every 6 epochs.",
 	"ticker": "PLKOZ",
-	"homepage": "https://politikoz.io"
+	"homepage": "https://politikoz.io",
+	"extended": "https://raw.githubusercontent.com/politikoz/extended/master/e"
 }

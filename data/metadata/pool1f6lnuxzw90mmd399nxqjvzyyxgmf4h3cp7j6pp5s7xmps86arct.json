@@ -1,6 +1,7 @@
 {
 	"name": "Dyno Pool",
-	"description": "Support a decentalized network, stake with small pools",
+	"description": "Support a decentralized network, stake with small pools",
 	"ticker": "DYNO",
-	"homepage": "https://dynopool.com"
+	"homepage": "https://dynopool.com",
+	"extended": "https://git.io/JStOm"
 }

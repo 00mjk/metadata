@@ -1,0 +1,18 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://git.io/JSL5t",
+		"url_png_logo": "https://git.io/JSL5D",
+		"location": "St Louis, Missouri",
+		"social": {
+			"twitter_handle": "dyno_pool"
+		},
+		"about": {
+			"me": "Single Pool Owner Operator",
+			"server": "Dedicated Linux Ubuntu hosted in St. Louis Missouri with 200MB connection.",
+			"company": "..."
+		}
+	},
+	"my-pool-ids": {
+		"0": "4ebf3e184e2bf7b6c4a5998126088432369ade380fa5a08690f1b618"
+	}
+}
