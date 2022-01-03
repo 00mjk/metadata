@@ -1,7 +1,7 @@
 {
 	"info": {
-		"url_png_icon_64x64": "https://www.celts.io/metadata/helen.64x64.png",
-		"url_png_logo": "https://www.celts.io/metadata/helens.png",
+		"url_png_icon_64x64": "https://www.celts.io/metadata/anne.64x64.png",
+		"url_png_logo": "https://www.celts.io/metadata/anne.png",
 		"location": "Fráncfort, Europe",
 		"social": {
 			"twitter_handle": "",
@@ -14,10 +14,10 @@
 		}
 	},
 	"my-pool-ids": [
-		"771d339ddd290d6d4888eae41dc3e26ff2bb13143c4ff8d7b6c68848"
+		"05e72c6c84298697bc55e4b5a265b2cd399572c05e5571e9bb590bd5"
 	],
 	"when-satured-then-recommend": [
-		"ANNE",
+		"HELEN",
 		"CHLOE",
 		"MAEVE"
 	],

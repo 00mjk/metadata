@@ -1,7 +1,7 @@
 {
-	"name": "HELEN's stake pool",
-	"description": "HELEN's Cardano stake pool",
+	"name": "CELTS.IO",
+	"description": "HELEN at CELTS.IO",
 	"ticker": "HELEN",
-	"homepage": "https://www.helenspool.eu",
-	"extended": "https://www.helenspool.eu/extendedmetadata.json"
+	"homepage": "https://www.celts.io?pool=helen",
+	"extended": "https://www.celts.io/metadata/helen.ext.json"
 }

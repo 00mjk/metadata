@@ -1,0 +1,7 @@
+{
+	"name": "CELTS.IO",
+	"description": "MAEVE at CELTS.IO",
+	"ticker": "MAEVE",
+	"homepage": "https://www.celts.io?pool=maeve",
+	"extended": "https://www.celts.io/metadata/maeve.ext.json"
+}
