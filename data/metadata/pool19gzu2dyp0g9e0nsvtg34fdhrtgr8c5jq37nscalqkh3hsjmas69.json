@@ -1,6 +1,6 @@
 {
 	"name": "Harmonic",
-	"description": "a pool actively putting all the effort in supporting decentralization by providing high-quality services to interact with the blockchain",
+	"description": "A pool that supports decentralization through the creation of utility software, running on bare metal servers",
 	"ticker": "ARMN",
 	"homepage": "https://harmonicpool.on.fleek.co",
 	"extended": "https://raw.githubusercontent.com/HarmonicPool/poolInfos/main/extendedMetaData.json"
