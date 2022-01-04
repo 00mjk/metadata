@@ -15,15 +15,15 @@
 		},
 		"company": {
 			"name": "ADA IMPULSE",
-			"addr": "Street, Number",
-			"city": "London",
-			"country": "England",
+			"addr": "8875 Hidden River Pkwy Suite 300",
+			"city": "Tampa",
+			"country": "United States",
 			"company_id": "",
 			"vat_id": ""
 		},
 		"about": {
 			"me": "We are advocate for blockchain technologies world-wide. We became enamored with blockchain in 2017 and Cardano in 2021 as a Stake Pool Operator. Long term, we see many applications that blockchain technologies and Cardano can bring to aviation and mediacal community. Furthermore, not only would we like to raise awareness of MS to the general population, but I aim to raise awareness of blockchain technologies and Cardano to the medical community.",
-			"server": "Our servers located in Europe 1000MB up/down.",
+			"server": "Our servers located in US, Europe, Russia and have bandwith 1000MB up/down.",
 			"company": "ADA IMPULSE CLUB"
 		}
 	},
