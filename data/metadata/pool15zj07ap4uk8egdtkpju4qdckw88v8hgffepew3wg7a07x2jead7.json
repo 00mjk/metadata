@@ -1,6 +1,6 @@
 {
 	"name": "GOADA Stake Pool",
-	"description": "This is the GOADA Stack Pool: low pool margin, 24/7 availability, always running!",
+	"description": "This is the GOADA Stack Pool: An independent stake pool for the Cardano network.",
 	"ticker": "GOADA",
 	"homepage": "https://goada.net",
 	"extended": "https://goada.net/metadata.extended.json"

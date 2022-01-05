@@ -5,15 +5,12 @@
 		"location": "Spain",
 		"social": {
 			"twitter_handle": "funontheride",
-			"telegram_handle": "cardanoontheride",
 			"facebook_handle": "funontheride",
 			"youtube_handle": "FunOntheRide",
-			"twitch_handle": "funontheride",
-			"discord_handle": "",
-			"github_handle": ""
+			"twitch_handle": "funontheride"
 		},
 		"company": {
-			"name": "Cardano On the Ride",
+			"name": "Fun on the ride",
 			"addr": "",
 			"city": "",
 			"country": "Spain",
@@ -24,8 +21,7 @@
 			"me": "",
 			"server": "",
 			"company": ""
-		},
-		"rss": "http(s) url to valid RSS feed"
+		}
 	},
 	"telegram-admin-handle": [
 		""
