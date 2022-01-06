@@ -1,0 +1,29 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://poolarized.com/wp-content/uploads/2021/10/cropped-2.png",
+		"url_png_logo": "https://poolarized.com/wp-content/uploads/2021/10/cropped-2.png",
+		"location": "Lisbon, Portugal",
+		"social": {
+			"twitter_handle": "poolarized",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "zjTzc86A8B",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Poolarized",
+			"addr": "Lisbon",
+			"city": "Lisbon",
+			"country": "Portugal",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Our team is based in Portugal and we have worked together for 15 years as Systems Engineers in the most diverse sectors and we believe that the future of cryptocurrencies is in the staking protocols.",
+			"server": "Our nodes run on enterprise grade VPS hosting services with compute-optimized dedicated hyperthreads from best in class Intel processors in different Datacenters",
+			"company": "..."
+		}
+	}
+}

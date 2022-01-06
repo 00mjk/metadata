@@ -2,5 +2,6 @@
 	"name": "Poolarized",
 	"description": "Our reliable & trustworthy staking pool from Portugal",
 	"ticker": "PLZ",
-	"homepage": "https://poolarized.com"
+	"homepage": "https://poolarized.com",
+	"extended": "https://poolarized.com/poolarized-meta.json"
 }
