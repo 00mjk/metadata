@@ -1,0 +1,31 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://adareactor.com/img/ADAreactor-Logo-blue-64x64.png",
+		"url_png_logo": "https://adareactor.com/img/ADAreactor-Logo-png8.png",
+		"location": "Mariupol, Ukraine",
+		"social": {
+			"twitter_handle": "https://twitter.com/ADAreactor",
+			"telegram_handle": "https://t.me/adareactor",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "",
+			"reddit_handle": "https://www.reddit.com/user/ADAreactor",
+			"linkedin_handle": "https://www.linkedin.com/in/ada-reactor-53855622a/"
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "...",
+			"server": "AMD Ryzen 5 CPU Hosted at my Home in Mariupol 1000MB up/down.",
+			"company": "..."
+		}
+	}
+}

@@ -2,5 +2,6 @@
 	"name": "ADAreactor",
 	"description": "ADAreactor Stake Pool",
 	"ticker": "ARC",
-	"homepage": "https://adareactor.com"
+	"homepage": "https://adareactor.com",
+	"extended": "https://adareactor.com/extended.json"
 }

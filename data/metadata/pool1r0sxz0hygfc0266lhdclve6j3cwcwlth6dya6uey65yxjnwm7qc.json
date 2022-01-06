@@ -1,6 +1,6 @@
 {
 	"name": "Reservoir Node",
-	"description": "Two locations. 100% solar energy.",
+	"description": "Two locations. 100% solar energy. 25% of fixed fee donated to VERITREE.",
 	"ticker": "RSV",
 	"homepage": "https://reservoir.network",
 	"extended": "https://reservoir.network/rsv-extended.json"
