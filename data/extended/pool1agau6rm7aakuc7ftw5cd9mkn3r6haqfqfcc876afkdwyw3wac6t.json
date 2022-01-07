@@ -20,5 +20,10 @@
 	},
 	"telegram-admin-handle": {
 		"0": "jocodev"
+	},
+	"votes": {
+		"https://cips.cardano.org/cips/cip23/": {
+			"vote": "Yes"
+		}
 	}
 }
