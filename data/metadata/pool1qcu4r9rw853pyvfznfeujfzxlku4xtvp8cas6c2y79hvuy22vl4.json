@@ -1,6 +1,15 @@
 {
+	"url_png_icon_64x64": "https://twitter.com/maple_pool/photo",
 	"name": "Maple Pool",
 	"description": "Your friendly canadian pool, soory eh!",
+	"location": "Montreal, Canada",
 	"ticker": "MPOL",
-	"homepage": "https://myadapoolnamerocks.com"
+	"homepage": "https://twitter.com/maple_pool",
+	"social": {
+		"twitter_handle": "maple_pool"
+	},
+	"about": {
+		"me": "Bare metal pool hosted by experimented Network administrator and facilities engineering",
+		"server": "Bare metal pool powered by hydro power"
+	}
 }

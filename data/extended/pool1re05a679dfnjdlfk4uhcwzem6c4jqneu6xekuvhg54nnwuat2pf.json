@@ -1,0 +1,29 @@
+{
+	"info": {
+		"url_png_icon_64x64": "http://token.stakepool.cc/wp-content/uploads/2022/01/64x64.png",
+		"url_png_logo": "http://token.stakepool.cc/wp-content/uploads/2022/01/64x64.png",
+		"location": "",
+		"social": {
+			"twitter_handle": "token_stakepool",
+			"telegram_handle": "tokenstakepool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "",
+			"company": ""
+		}
+	}
+}

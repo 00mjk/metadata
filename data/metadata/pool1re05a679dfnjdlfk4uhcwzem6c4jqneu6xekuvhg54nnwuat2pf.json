@@ -2,5 +2,6 @@
 	"name": "TokenPool",
 	"description": "Cardano Token Stake Pool",
 	"ticker": "TOKEN",
-	"homepage": "https://token.stakepool.cc"
+	"homepage": "https://token.stakepool.cc",
+	"extended": "https://git.io/JSH6I"
 }
