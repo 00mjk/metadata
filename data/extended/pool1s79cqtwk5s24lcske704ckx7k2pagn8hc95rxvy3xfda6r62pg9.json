@@ -1,7 +1,7 @@
 {
 	"info": {
-		"url_png_icon_64x64": "https://alizeb.com/metadata/uk007-64x64.png",
-		"url_png_logo": "https://alizeb.com/metadata/uk007.png",
+		"url_png_icon_64x64": "https://storage.googleapis.com/uk007/uk007-64x64.png",
+		"url_png_logo": "https://storage.googleapis.com/uk007/uk007.png",
 		"location": "UK",
 		"social": {
 			"twitter_handle": "AliKhan666",

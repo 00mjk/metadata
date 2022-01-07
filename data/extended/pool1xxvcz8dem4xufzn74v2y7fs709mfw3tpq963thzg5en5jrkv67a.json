@@ -1,7 +1,7 @@
 {
 	"info": {
-		"url_png_icon_64x64": "https://www.microstaking.com/metadata/ae-64x64.png",
-		"url_png_logo": "https://www.microstaking.com/metadata/dubai.png",
+		"url_png_icon_64x64": "https://storage.googleapis.com/dubai-pool/ae-64x64.png",
+		"url_png_logo": "https://storage.googleapis.com/dubai-pool/dubai.png",
 		"location": "AE",
 		"social": {
 			"twitter_handle": "io_natasha",
