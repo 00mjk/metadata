@@ -1,0 +1,33 @@
+{
+	"adapools": {
+		"url_png_icon_64x64": "https://staking.zacsmarket.com/logo64x64.png",
+		"social": {
+			"twitter_handle": "CryptoTimTim",
+			"youtube_handle": "channel/UCw9nom5v84WxJbbvVb7OFtQ"
+		}
+	},
+	"info": {
+		"url_png_icon_64x64": "https://staking.zacsmarket.com/logo64x64.png",
+		"url_png_logo": "https://staking.zacsmarket.com/logo-300.png",
+		"location": "Germany",
+		"social": {
+			"twitter_handle": "CryptoTimTim",
+			"facebook_handle": "ZacsStaking",
+			"youtube_handle": "channel/UCw9nom5v84WxJbbvVb7OFtQ"
+		},
+		"company": {
+			"name": "Zacs Staking"
+		},
+		"about": {
+			"me": "Doing my bit to help the decentralisation of the network",
+			"server": "ZACS",
+			"company": "Zacs Staking"
+		}
+	},
+	"my-pool-ids": [
+		"06f54d63b10b67c8a1395f21b87d9da52928ee394f414e56b0405b09"
+	],
+	"when-satured-then-recommend": [
+		"06f54d63b10b67c8a1395f21b87d9da52928ee394f414e56b0405b09"
+	]
+}

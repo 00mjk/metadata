@@ -2,5 +2,6 @@
 	"name": "ZACS Staking",
 	"description": "Zacs Cardano Staking",
 	"ticker": "ZACS",
-	"homepage": "https://staking.zacsmarket.com"
+	"homepage": "https://staking.zacsmarket.com",
+	"extended": "https://staking.zacsmarket.com/poolMetaData.extended.json"
 }
