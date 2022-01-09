@@ -2,15 +2,15 @@
 	"info": {
 		"url_png_icon_64x64": "https://raw.githubusercontent.com/swinful/csp/master/FREEBSD_Logo_head_64x64.png",
 		"url_png_logo": "https://raw.githubusercontent.com/swinful/csp/master/FREEBSD_Logo_Horiz_Pos_RGB.png",
-		"location": "United States",
+		"location": "Germany",
 		"social": {
-			"twitter_handle": "",
+			"twitter_handle": "fbsdsp",
 			"telegram_handle": "",
 			"facebook_handle": "",
 			"youtube_handle": "",
 			"twitch_handle": "",
-			"discord_handle": "",
-			"github_handle": ""
+			"discord_handle": "https://discord.gg/cqmFNSbC6x",
+			"github_handle": "fbsdsp"
 		},
 		"company": {
 			"name": "The FreeBSD Stake Pool",
@@ -21,14 +21,15 @@
 			"vat_id": ""
 		},
 		"about": {
-			"me": "A SPO with an affinity towards for FreeBSD for use within the Cardano blockchain where applicable.",
-			"server": "1 x Producer, 3 x Relays. Each w/ 16GB MEM + 6 vCPU",
+			"me": "A SPO with an affinity towards FreeBSD for use within the Cardano blockchain where applicable.",
+			"server": "1 x Producer, 2 x Relays. Each with 16GB Mem, 6 vCPU, SSD Drives",
 			"company": ""
 		},
 		"rss": ""
 	},
 	"my-pool-ids": {
-		"0": "5808e8716e8b968c3043fc9bdc21db652c916ce97ffaddfe891db16c"
+		"0": "pool1tqywsutw3wtgcvzrljdacgwmv5kfzm8f0ladml5frkckccd72gg",
+		"1": "5808e8716e8b968c3043fc9bdc21db652c916ce97ffaddfe891db16c"
 	},
 	"when-satured-then-recommend": {
 		"0": ""
