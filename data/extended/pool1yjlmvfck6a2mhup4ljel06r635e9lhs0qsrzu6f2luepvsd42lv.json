@@ -2,6 +2,9 @@
 	"info": {
 		"url_png_icon_64x64": "https://poolforlovelace.me/img/pfl_icon.jpeg",
 		"url_png_logo": "https://poolforlovelace.me/img/pfl_logo.jpeg",
-		"location": "Picardie, France"
+		"location": "Picardie, France",
+		"social": {
+			"telegram_handle": "PFL01"
+		}
 	}
 }
