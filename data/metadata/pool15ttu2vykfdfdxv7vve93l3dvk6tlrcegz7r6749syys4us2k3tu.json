@@ -2,5 +2,6 @@
 	"name": "GenieStakePool",
 	"description": "Staking For Decentralized World! Make It Happen",
 	"ticker": "GENIE",
-	"homepage": "https://genieblockchain.netlify.app"
+	"homepage": "https://genieblockchain.netlify.app",
+	"extended": "https://git.io/J9cEk"
 }
