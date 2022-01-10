@@ -1,0 +1,29 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://blagger.nl/king.png",
+		"url_png_logo": "https://blagger.nl/king-large.png",
+		"location": "Roosendaal, Netherlands",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "King Pool",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "Running on clean energy",
+			"company": ""
+		}
+	}
+}

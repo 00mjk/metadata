@@ -1,0 +1,33 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/cardipool/pDocs/main/Logo-64x64.png",
+		"url_png_logo": "https://raw.githubusercontent.com/cardipool/pDocs/main/Logo-300x300.png",
+		"location": "",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "We are a passionate team with technological background that runs CarpeDiem stake pool! Our focus is to support Cardano vision and donate in organisations helping children with health issues. Our world is changing. Together, we can change it for the better. Let's seize our day and define a better future for the next generation using blockchain technology!",
+			"server": "High performance cloud servers spread worldwidely with multiple layers of security and redudancy are used",
+			"company": ""
+		},
+		"rss": ""
+	},
+	"my-pool-ids": {
+		"0": "427b1d869cf8d5645da0ad1b198711b4eb14ed0c3dfe6005c350eb9c"
+	}
+}

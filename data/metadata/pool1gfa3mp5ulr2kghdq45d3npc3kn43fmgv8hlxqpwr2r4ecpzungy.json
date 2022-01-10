@@ -1,0 +1,7 @@
+{
+	"name": "Carpe Diem Pool",
+	"ticker": "CARDI",
+	"description": "Seize the day by supporting both Cardano mission and children in need",
+	"homepage": "https://carpediempool.com",
+	"extended": "https://raw.githubusercontent.com/cardipool/pDocs/main/ext.json"
+}
