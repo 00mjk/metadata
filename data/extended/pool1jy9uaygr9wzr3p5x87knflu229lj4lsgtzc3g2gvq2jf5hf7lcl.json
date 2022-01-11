@@ -1,10 +1,10 @@
 {
 	"info": {
-		"url_png_icon_64x64": "https://blagger.nl/king.png",
-		"url_png_logo": "https://blagger.nl/king-large.png",
+		"url_png_icon_64x64": "https://kingpool.space/king.png",
+		"url_png_logo": "https://kingpool.space/king-large.png",
 		"location": "Roosendaal, Netherlands",
 		"social": {
-			"twitter_handle": "",
+			"twitter_handle": "https://twitter.com/kingpool_space",
 			"telegram_handle": "",
 			"facebook_handle": "",
 			"youtube_handle": "",
