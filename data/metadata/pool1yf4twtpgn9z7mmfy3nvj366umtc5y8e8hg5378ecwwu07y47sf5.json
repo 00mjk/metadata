@@ -2,5 +2,6 @@
 	"name": "MJB ADA #1",
 	"description": "Securely and reliably stake with a team of professionals passionate about Cardano.",
 	"ticker": "MJB1",
-	"homepage": "https://mjbada.io"
+	"homepage": "https://mjbada.io",
+	"validation": "c0b34085ea875aa83bb81a7acf3f43ce"
 }

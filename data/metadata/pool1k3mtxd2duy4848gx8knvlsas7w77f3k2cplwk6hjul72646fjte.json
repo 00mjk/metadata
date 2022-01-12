@@ -2,5 +2,6 @@
 	"name": "Duck Puddle",
 	"description": "A small pool with a duck in it.",
 	"ticker": "QUACK",
-	"homepage": "http://duckpuddle.us"
+	"homepage": "http://duckpuddle.us",
+	"extended": "https://git.io/JSDRG"
 }
