@@ -4,15 +4,15 @@
 		"url_png_logo": "https://adareactor.com/img/ADAreactor-Logo-png8.png",
 		"location": "Mariupol, Ukraine",
 		"social": {
-			"twitter_handle": "https://twitter.com/ADAreactor",
-			"telegram_handle": "https://t.me/adareactor_chat",
+			"twitter_handle": "ADAreactor",
+			"telegram_handle": "adareactor_chat",
 			"facebook_handle": "",
 			"youtube_handle": "",
 			"twitch_handle": "",
 			"discord_handle": "",
 			"github_handle": "",
-			"reddit_handle": "https://www.reddit.com/user/ADAreactor",
-			"linkedin_handle": "https://www.linkedin.com/in/ada-reactor-53855622a/"
+			"reddit_handle": "ADAreactor",
+			"linkedin_handle": "ada-reactor-53855622a/"
 		},
 		"company": {
 			"name": "",
