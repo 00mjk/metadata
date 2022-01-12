@@ -1,6 +1,6 @@
 {
 	"name": "FasoPool",
-	"description": "FasoPool is secured, reliable, baremetal, Non profit Cardano stake pool that will donate 20% of his pool rewards to the Barka Foundation.",
+	"description": "Fasopool is bare metal pool that supports Decentralization in Africa.",
 	"ticker": "FASO",
 	"homepage": "https://fasostakepool.com/",
 	"extended": "https://raw.githubusercontent.com/link78/fasopooldata/main/faso-extended.json"

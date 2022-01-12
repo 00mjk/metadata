@@ -1,7 +1,8 @@
 {
-	"name": "BTEC1",
+	"name": "BAHRTEC1",
 	"ticker": "BTEC1",
-	"description": "First German BTEC1 Pool",
+	"description": "German ADA Staking.",
 	"homepage": "https://www.bahrtec.com",
-	"nonce": "1639498512"
+	"nonce": "1641988220",
+	"extended": "https://bahrtec.com/BTEC1-Extended.json"
 }
