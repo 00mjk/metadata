@@ -1,45 +1,39 @@
 {
-	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
 	"info": {
-		"url_png_icon_64x64": "http://huths0lostakepool.com/wolverinesmall.png",
-		"url_png_logo": "http://huths0lostakepool.com/wolverine.png",
-		"location": "So Cal",
+		"url_png_icon_64x64": "http(s) url to pool icon",
+		"url_png_logo": "http(s) url to pool logo",
+		"location": "Country, Continent",
 		"social": {
 			"twitter_handle": "",
-			"telegram_handle": "@Huth_S0lo",
+			"telegram_handle": "",
 			"facebook_handle": "",
 			"youtube_handle": "",
 			"twitch_handle": "",
 			"discord_handle": "",
 			"github_handle": ""
 		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
 		"about": {
-			"me": "One of the SPO's behind Cardano Budz"
+			"me": "",
+			"server": "",
+			"company": ""
 		},
 		"rss": "http(s) url to valid RSS feed"
 	},
-	"my-pool-ids": {
-		"0": "de7f214056fa551217d6ed21203bb09e7f479b34e8f4740bcf87f6f9"
-	},
-	"when-satured-then-recommend": {
-		"0": "0a7e78413c9a62a0e68d24d79ffb20c551c5e6514947e7dcf0879916",
-		"1": "c2b8bff5160dd75149f2cae0955698550e8cf0d390025b26a9508a3e"
-	},
-	"telegram-admin-handle": {
-		"0": "Huth_S0lo"
-	},
-	"adapools_ext": {
-		"prometheus": {
-			"0": {
-				"name": "Relay 1 Ventura",
-				"type": "relay",
-				"key": "86e2f55ed6aeb648dc9477c1395a8534"
-			},
-			"1": {
-				"name": "Relay 2 Ventura",
-				"type": "relay",
-				"key": "78fb52e93270ad06b1729546137419ae"
-			}
-		}
-	}
+	"telegram-admin-handle": [
+		""
+	],
+	"my-pool-ids": [
+		"a36d7d5efc111ecb72d3a86599ba08778755e4535099056b6865289b"
+	],
+	"when-satured-then-recommend": [
+		"a36d7d5efc111ecb72d3a86599ba08778755e4535099056b6865289b"
+	]
 }
