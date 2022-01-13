@@ -2,5 +2,6 @@
 	"name": "Cardano in Africa",
 	"description": "This is the unofficial stakepool for Cardano in Africa. Our mission is to improve education and adoption in the whole continent.",
 	"ticker": "CIA",
-	"homepage": "https://cardanoin.africa"
+	"homepage": "https://cardanoin.africa",
+	"extended": "https://raw.githubusercontent.com/ichbinstudent/_/main/extended.json"
 }

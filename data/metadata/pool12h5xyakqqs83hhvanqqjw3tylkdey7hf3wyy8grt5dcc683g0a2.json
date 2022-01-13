@@ -2,5 +2,6 @@
 	"name": "Hydra",
 	"description": "Hydra is the official Cardano Pool of ADACash. A 10% Cardano Rewardtoken on the Binance Smartchain",
 	"ticker": "HYDR",
-	"homepage": "https://adacash.io"
+	"homepage": "https://adacash.io",
+	"extended": "https://raw.githubusercontent.com/ADACashOfficial/stake-pool/main/extended.json"
 }

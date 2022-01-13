@@ -1,0 +1,25 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://adacapital.io/img/android-chrome-192x192.png",
+		"url_png_logo": "https://adacapital.io/img/android-chrome-192x192.png",
+		"location": "London, England",
+		"social": {
+			"twitter_handle": "ada_capital",
+			"telegram_handle": "adacapital",
+			"youtube_handle": "channel/UCnZQvrAsqteYLpmEWb418yA",
+			"github_handle": "adacapital",
+			"medium_handle": "ada-capital"
+		},
+		"about": {
+			"me": "Mission driven, Single and Independent Cardano Stake Pool Operator, with a vision to run and grow the Earth’s most advanced, 3rd generation blockchain platform.",
+			"server": "Hub-spoke cloud native architecture to promote a higher security model and workload isolation between Cardano nodes. Managed through Infrastructure as Code and Realtime monitoring. Geo-dispersed relays to help mitigate DDos attacks, increase redundancy and propagate blocks faster.",
+			"company": "ADA Capital"
+		}
+	},
+	"my-pool-ids": {
+		"0": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395"
+	},
+	"telegram-admin-handle": {
+		"0": "adacapital"
+	}
+}

@@ -1,0 +1,33 @@
+{
+	"info": {
+		"url_png_icon_64x64": "http://duckpuddle.us/wp-content/uploads/2021/12/64x64dp40kb.png",
+		"url_png_logo": "http://duckpuddle.us/wp-content/uploads/2021/12/dp512x512.png",
+		"location": "Michigan, US",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "Duck Puddle Ada Stake Pool",
+			"addr": "duckpuddle.us",
+			"city": "",
+			"country": "US",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Completely independent. One man, a handful of Ada, a bunch of computers and a duck, in a pool. The idea here is to return anything coming out of this pool back in by way of increasing its pledge, and maintaining the servers.",
+			"server": "Solid onsite physical nodes originally built from repurposed business computers working off an unusually stable internet connection that I'm not talking about. Multiple redunancies and independence will keep these nodes running long term and away from major internet providers.",
+			"company": "Just me and the duck"
+		},
+		"my-pool-ids": {
+			"0": "b476b3354de12a7a9d063da6cfc3b0f3bde4c6cac07eeb6af2e7fcad",
+			"1": ""
+		}
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://ik.imagekit.io/kemitandsure/cia/icon_gtOT4rt-i.png?tr=w-64,h-64",
+		"url_png_logo": "https://ik.imagekit.io/kemitandsure/cia/icon_gtOT4rt-i.png",
+		"location": "Stuttgart, Germany",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "CardanoInAfrica",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "ichbinstudent"
+		},
+		"about": {
+			"me": "Passionate about Cardano and everything the project has to offer to the unbanked.",
+			"server": "All nodes run on 6 cores with 16 GB. The block producer is located in Germany and the relays sit in Germany and Great Britain."
+		}
+	}
+}

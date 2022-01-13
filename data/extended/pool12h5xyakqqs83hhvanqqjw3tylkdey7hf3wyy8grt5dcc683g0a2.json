@@ -1,0 +1,30 @@
+{
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://i.imgur.com/HT9xU20.png",
+		"url_png_logo": "https://i.imgur.com/SVwA8Ju.png",
+		"location": "Germany",
+		"social": {
+			"twitter_handle": "adacashbsc",
+			"telegram_handle": "adacashtoken",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "ADACash",
+			"addr": "Binance Smartchain",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "...",
+			"server": "Official Cardano Pool of ADACash - A 10% Cardano Rewardtoken on the Binance Smartchain",
+			"company": "ADACash"
+		}
+	}
+}

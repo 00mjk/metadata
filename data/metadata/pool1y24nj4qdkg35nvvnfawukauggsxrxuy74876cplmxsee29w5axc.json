@@ -2,5 +2,6 @@
 	"name": "ADA Capital",
 	"description": "ADA Capital - Mainnet Pool",
 	"ticker": "ADACT",
-	"homepage": "https://adacapital.io"
+	"homepage": "https://adacapital.io",
+	"extended": "https://gist.githubusercontent.com/adacapital/3741a747dd5e45627965407a0506dc91/raw/596b33b4987dcac6660d2d0d50cfea9af997984b/adact-extended.json"
 }
