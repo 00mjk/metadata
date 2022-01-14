@@ -1,11 +1,11 @@
 {
 	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
 	"info": {
-		"url_png_icon_64x64": "https://adaliens.com/wp-content/uploads/2021/07/ADAliensMetaIcon.jpg",
-		"url_png_logo": "https://adaliens.com/wp-content/uploads/2021/07/logo.png",
-		"location": "Tempe, United States",
+		"url_png_icon_64x64": "https://joinprizepool.com/img/jpp.png",
+		"url_png_logo": "https://joinprizepool.com/img/jpp.png",
+		"location": "Phoenix, Arizona",
 		"social": {
-			"twitter_handle": "projectAdalien",
+			"twitter_handle": "joinprizepool",
 			"telegram_handle": "",
 			"facebook_handle": "",
 			"youtube_handle": "",
@@ -14,23 +14,23 @@
 			"github_handle": ""
 		},
 		"company": {
-			"name": "Adaliens",
+			"name": "Join Prize Pool ||JPP||",
 			"addr": "",
-			"city": "Tempe",
+			"city": "Phoenix",
 			"country": "United States",
 			"company_id": "",
 			"vat_id": ""
 		},
 		"about": {
-			"me": "Our team consists of three earthlings, who have worked hard to bring Adaliens to our home planet. We hope to build a positive, excited community around the Adalien’s universe, united by our shared love of the Cardano project. With The Scout Team’s imminent arrival, they will be the first NFTs to be minted. As they collect data and conduct recon, more will surely follow.",
-			"server": "We are currently running 3 nodes, one is our block-producing node and it is connected to 2 relays. All 3 nodes are running 24/7 around the clock to ensure maximum uptime in the unlikely event a relay goes offline. The 2 relays' topology file is dynamically updated every 12 hours to ensure they are connected to the most up-to-date list of 19-20 peer relays throughout the decentralised network. This requires a reboot of the relay nodes, so they are staggered so as not to overlap. Every reboot takes the node approximately 10 minutes before it can sync the blockchain from the /db folder, so even within that 1-minute window, the block-producing node is at the very least connected to 1 relay. All nodes are running on Google Cloud with the servers based in the US, using 2 CPUs @ 8GB including a 50GB Ubuntu 20.04 LTS SSD drive for maximum stability. There is also monitoring alerts set up to allow us to rapidly respond to UpTime readings below 1.",
+			"me": "Join Prize Pool is creating a fun, innovative new incentive for staking your ADA on the Cardano Network.",
+			"server": "We are currently running 3 nodes, one is our block-producing node and it is connected to 2 relays. All 3 nodes are running 24/7 around the clock to ensure maximum uptime in the unlikely event a relay goes offline. The 2 relays' topology files are dynamically updated every 12 hours to ensure they are connected to the most up-to-date list of 19-20 peer relays throughout the decentralised network. This requires a reboot of the relay nodes, so they are staggered so as not to overlap. Every reboot takes the node approximately 10 minutes before it can sync the blockchain from the /db folder, so even within that 1-minute window, the block-producing node is at the very least connected to 1 relay. All nodes are running on Google Cloud with the servers based in Taiwan, using 2 CPUs @ 16GB including a 500GB Ubuntu 20.04 LTS SSD drive for maximum stability. There is also monitoring alerts set up to allow us to rapidly respond to UpTime readings below 1.",
 			"company": ""
 		},
 		"rss": ""
 	},
 	"my-pool-ids": {
-		"0": "6fac4b2a040c807b74f0a71aa3b21df35b44c67ae52fc2e862825d7a",
-		"1": "6fac4b2a040c807b74f0a71aa3b21df35b44c67ae52fc2e862825d7a"
+		"0": "4d470d31f80c01d797996b43abdfe7339ae5b408fb31cc655a80ccd7",
+		"1": "4d470d31f80c01d797996b43abdfe7339ae5b408fb31cc655a80ccd7"
 	},
 	"when-satured-then-recommend": {
 		"0": "",
@@ -42,9 +42,9 @@
 	"adapools_ext": {
 		"prometheus": {
 			"0": {
-				"name": "relay 1 eu",
-				"type": "relay",
-				"key": "example_get_own_on_adapools.org/connect"
+				"name": "block producer node",
+				"type": "bp",
+				"key": "ad59640ca561d71c592c1fb5a8bac0a3"
 			},
 			"1": {
 				"name": "relay 2 usa",
