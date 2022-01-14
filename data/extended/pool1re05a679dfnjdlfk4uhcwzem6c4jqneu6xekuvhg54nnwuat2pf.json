@@ -1,8 +1,8 @@
 {
 	"info": {
-		"url_png_icon_64x64": "http://token.stakepool.cc/wp-content/uploads/2022/01/64x64.png",
-		"url_png_logo": "http://token.stakepool.cc/wp-content/uploads/2022/01/64x64.png",
-		"location": "",
+		"url_png_icon_64x64": "http://token.stakepool.cc/wp-content/uploads/2022/01/token.png",
+		"url_png_logo": "http://token.stakepool.cc/wp-content/uploads/2022/01/token.png",
+		"location": "cardano mainnet",
 		"social": {
 			"twitter_handle": "token_stakepool",
 			"telegram_handle": "tokenstakepool",
@@ -21,8 +21,8 @@
 			"vat_id": ""
 		},
 		"about": {
-			"me": "",
-			"server": "",
+			"me": "Operator of a single stake pool. Electronics engineer with a MSc in Computer Science.",
+			"server": "Google Cloud servers in regions with the lowest CO2 emissions (Finland and Oregon). https://cloud.google.com/sustainability/region-carbon",
 			"company": ""
 		}
 	}
