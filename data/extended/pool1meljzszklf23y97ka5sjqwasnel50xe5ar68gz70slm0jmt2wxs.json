@@ -1,39 +1,22 @@
 {
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
 	"info": {
-		"url_png_icon_64x64": "http(s) url to pool icon",
-		"url_png_logo": "http(s) url to pool logo",
-		"location": "Country, Continent",
+		"url_png_icon_64x64": "https://cnfthub.io/shared_files/cbTHC.png",
+		"url_png_logo": "https://cnfthub.io/shared_files/cbTHC-medium.png",
+		"location": "Trichome City",
 		"social": {
-			"twitter_handle": "",
-			"telegram_handle": "",
-			"facebook_handle": "",
-			"youtube_handle": "",
-			"twitch_handle": "",
-			"discord_handle": "",
-			"github_handle": ""
-		},
-		"company": {
-			"name": "",
-			"addr": "",
-			"city": "",
-			"country": "",
-			"company_id": "",
-			"vat_id": ""
+			"twitter_handle": "Cardano_Budz"
 		},
 		"about": {
-			"me": "",
-			"server": "",
-			"company": ""
+			"me": "Cardano Budz Stakepool"
 		},
 		"rss": "http(s) url to valid RSS feed"
 	},
-	"telegram-admin-handle": [
-		""
-	],
-	"my-pool-ids": [
-		"a36d7d5efc111ecb72d3a86599ba08778755e4535099056b6865289b"
-	],
-	"when-satured-then-recommend": [
-		"a36d7d5efc111ecb72d3a86599ba08778755e4535099056b6865289b"
-	]
+	"my-pool-ids": {
+		"0": "de7f214056fa551217d6ed21203bb09e7f479b34e8f4740bcf87f6f9"
+	},
+	"when-satured-then-recommend": {
+		"0": "45956dccec3785e88f7b4a2be09b6f8e25add18fd00125a33cd96931",
+		"1": "000022b3f0b748a43239c5024c58f852c05593cd0a77a798f0bb3a14"
+	}
 }
