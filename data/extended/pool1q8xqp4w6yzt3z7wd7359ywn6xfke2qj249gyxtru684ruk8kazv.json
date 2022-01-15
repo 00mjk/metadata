@@ -1,0 +1,10 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/mywebula/delegateada/master/delegate-ada-logo-64x64.png",
+		"url_png_logo": "https://raw.githubusercontent.com/mywebula/delegateada/master/delegate-ada-logo.png",
+		"location": "London, England"
+	},
+	"about": {
+		"server": "Digital Ocean kubernetes cluster hosted at LON1."
+	}
+}
