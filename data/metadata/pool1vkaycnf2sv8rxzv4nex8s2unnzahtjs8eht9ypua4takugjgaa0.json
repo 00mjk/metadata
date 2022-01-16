@@ -1,6 +1,6 @@
 {
-	"name": "CELTS.IO",
-	"description": "CELTS at CELTS.IO",
+	"name": "CELTS",
+	"description": "CELTS at www.celts.io",
 	"ticker": "CELTS",
 	"homepage": "https://www.celts.io?pool=celts",
 	"extended": "https://www.celts.io/metadata/celts.ext.json"
