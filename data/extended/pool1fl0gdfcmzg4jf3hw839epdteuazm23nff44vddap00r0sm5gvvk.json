@@ -1,16 +1,16 @@
 {
-	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://YourProvider.com/avacsp.org/example-meta.json",
 	"info": {
-		"url_png_icon_64x64": "https://avacsp.com/images/AVA.png",
-		"url_png_logo": "https://avacsp.com/images/AVA_logo_white.png",
+		"url_png_icon_64x64": "https://AVAcsp.com/images/AVA.png",
+		"url_png_logo": "https://AVAcsp.com/images/AVA_logo_white.png",
 		"location": "Rochester, NY, USA",
 		"social": {
-			"twitter_handle": "",
+			"twitter_handle": "AVAcsp",
 			"telegram_handle": "",
 			"facebook_handle": "",
 			"youtube_handle": "",
 			"twitch_handle": "",
-			"discord_handle": "",
+			"discord_handle": "AVA Pool#2973",
 			"github_handle": ""
 		},
 		"company": {
@@ -23,8 +23,8 @@
 		},
 		"about": {
 			"me": "IT Administrator, 15 years experience",
-			"server": "Standard desktops/Laptops, 400x20 + 400x400, approx .",
-			"company": "Eric's ADA Mining"
+			"server": "Standard desktops/Laptops,  400x400",
+			"company": "AVA Cardano Pool"
 		}
 	},
 	"my-pool-ids": {

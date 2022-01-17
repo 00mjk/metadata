@@ -1,7 +1,7 @@
 {
-	"name": "AVA - AVAcsp.com",
-	"description": "Eco Friendly, High Availability, High Efficiency | 0% Fees through 2021! | 2022 onwards 10% profit donation to charity TBA",
+	"name": "AVAcsp.com",
+	"description": "Happy 2022! All year: 100% of pool rewards are given out; 80% to delegators, 20% to charity! The entire AVA pool infrastructure (and testnet) runs on under 100 watts, with plenty of processing power and memory",
 	"ticker": "AVA",
 	"homepage": "https://AVAcsp.com",
-	"extended": "https://avacsp.com/metadata/AVA-extended-node-info.json"
+	"extended": "https://avacsp.com/metadata/AVA-extended-pool-info.json"
 }
