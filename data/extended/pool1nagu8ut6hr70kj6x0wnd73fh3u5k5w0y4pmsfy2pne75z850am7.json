@@ -1,16 +1,22 @@
 {
 	"info": {
+		"url_png_icon_32x32": "https://storage.googleapis.com/or-cdn-eu/PERKY/img/favicon-32.png",
 		"url_png_icon_48x48": "https://storage.googleapis.com/or-cdn-eu/PERKY/img/perky_logo_small.png",
 		"url_png_icon_100x100": "https://storage.googleapis.com/or-cdn-eu/PERKY/img/perky_logo.png",
-		"url_png_icon_326x326": "https://storage.googleapis.com/or-cdn-eu/PERKY/img/perky_logo_big.png",
+		"url_png_logo": "https://storage.googleapis.com/or-cdn-eu/PERKY/img/perky_logo_big.png",
 		"location": "Tychy, Poland",
 		"social": {
-			"twitter_handle": "@MartynR18",
-			"twitter_handle_2": "@EvilBob1024"
+			"twitter_handle": {
+				"0": "@MartynR18",
+				"1": "@EvilBob1024"
+			},
+			"telegram_handle": "MartynR18 [PERKY]",
+			"discord_handle": "evilBob - [PERKY]",
+			"github_handle": ""
 		},
 		"about": {
-			"me": "Experienced dev ops, dedicated to providing value to our delegators",
-			"server": "Efficient server architecture located in secure business premises on high-speed fibre lines. Both locations are solar powered with backup grid power. In support of decentralization, none of our nodes is located @ Google or AWS. This is a good thing! | Config of servers <CPU:4core|RAM:16G|SSD:256G"
+			"me": "Experienced dev ops, dedicated tech nerds, cardano project dev",
+			"server": "Energy efficient server architecture located in secure business premises on high-speed fibre lines. Both locations are solar powered with backup grid power. In support of decentralization, none of our nodes is located @ Google or AWS. This is a good thing! | Config of servers <CPU:4core|RAM:16G|SSD:256G"
 		},
 		"my-pool-ids": {
 			"0": "9f51c3f17ab8fcfb4b467ba6df45378f296a39e4a8770491419e7d41"
