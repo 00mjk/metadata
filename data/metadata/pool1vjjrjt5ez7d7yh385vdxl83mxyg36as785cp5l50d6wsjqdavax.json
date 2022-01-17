@@ -2,5 +2,6 @@
 	"name": "MonedaCloud Stake Pool",
 	"description": "MonedaCloud IO offers a TOP-10-5 Reward Program, an additional reward to our qualified delegates means higher ROI. Our team has five decades of IT experience with expertise in programming, Web Development, Open Source technologies, and AI.",
 	"ticker": "MOC",
-	"homepage": "https://monedacloud.io"
+	"homepage": "https://monedacloud.io",
+	"extended": "https://monedacloud.io/static/json/moc-extended-meta.json"
 }

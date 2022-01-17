@@ -1,0 +1,21 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://monedacloud.io/static/img/logo-64.png",
+		"url_png_logo": "https://monedacloud.io/static/img/logo.png",
+		"location": "Miami, USA",
+		"social": {
+			"twitter_handle": "MonedaCloud",
+			"github_handle": "MonedaCloud"
+		},
+		"company": {
+			"name": "MonedaCloud IO",
+			"city": "Miami",
+			"country": "USA"
+		},
+		"about": {
+			"me": "MonedaCloud IO intents to 1) Provide reliable digital currency infrastructure to help connect the world. 2) Support investors with curated tools and informed advice to help them on their cryptocurrency journey. 3) Share our digital currency research and technical knowledge along the way to cryptocurrency communities and investors.",
+			"server": "MOC operates in USA, West and East located Relays and a 16-Core Bare-metal producer on dual 1GB dedicated load balancing internet. (Fiber and Copper)",
+			"company": "ModenaCloud IO, a Cardano and blockchain technology resource for Investors."
+		}
+	}
+}

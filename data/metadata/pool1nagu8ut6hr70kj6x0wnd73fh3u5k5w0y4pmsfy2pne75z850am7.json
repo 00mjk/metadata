@@ -1,6 +1,7 @@
 {
 	"name": "Perky Pool",
 	"ticker": "PERKY",
-	"description": "The environmentally friendly, super happy, big rewards, PERKY Pool!",
-	"homepage": "https://perkypool.net"
+	"description": "The environmentally friendly, super happy, big rewards, truly decentralised, PERKY Pool!",
+	"homepage": "https://perkypool.net",
+	"extended": "https://storage.googleapis.com/or-cdn-eu/PERKY/metaExt.json"
 }

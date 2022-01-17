@@ -1,0 +1,23 @@
+{
+	"info": {
+		"url_png_icon_48x48": "https://storage.googleapis.com/or-cdn-eu/PERKY/img/perky_logo_small.png",
+		"url_png_icon_100x100": "https://storage.googleapis.com/or-cdn-eu/PERKY/img/perky_logo.png",
+		"url_png_icon_326x326": "https://storage.googleapis.com/or-cdn-eu/PERKY/img/perky_logo_big.png",
+		"location": "Tychy, Poland",
+		"social": {
+			"twitter_handle": "@MartynR18",
+			"twitter_handle_2": "@EvilBob1024"
+		},
+		"about": {
+			"me": "Experienced dev ops, dedicated to providing value to our delegators",
+			"server": "Efficient server architecture located in secure business premises on high-speed fibre lines. Both locations are solar powered with backup grid power. In support of decentralization, none of our nodes is located @ Google or AWS. This is a good thing! | Config of servers <CPU:4core|RAM:16G|SSD:256G"
+		},
+		"my-pool-ids": {
+			"0": "9f51c3f17ab8fcfb4b467ba6df45378f296a39e4a8770491419e7d41"
+		},
+		"adapools": "171eb1e723fdf6e4a1d8a0c8feeaf9d9",
+		"when-satured-then-recommend": {
+			"0": "Smaller pools - support decentralisation!"
+		}
+	}
+}
